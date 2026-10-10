@@ -1,0 +1,35 @@
+log_id,item_ids,official_url_or_query,time_utc,access_result,new_evidence,stop_reason
+S-00,all,"direct HTTPS to sec.gov, data.sec.gov, federalregister.gov, govinfo.gov, irs.gov, ercot.com, comptroller.texas.gov, static.longi.com, courtlistener.com, atb.nlr.gov",2026-10-10T02:44Z,proxy 403 CONNECT (environment egress policy),no,environment; not retried
+S-00b,all,WebFetch federalregister.gov / govinfo.gov / courtlistener.com / media.api.sf.gov / en.wikipedia.org,2026-10-10T03:0xZ,getaddrinfo ENOTFOUND,no,fetch tool has no DNS in this environment
+S-01,FIN-04,search: Oregon Environmental Council v. IRS Notice 2025-42 vacated appeal D.C. Circuit,2026-10-10T03:05Z,search results (law-firm alerts),lead only,"appeal described as expected, not filed"
+S-02,FIN-04,search: Notice 2025-42 appeal deadline / notice of appeal,2026-10-10T03:07Z,search results,lead only,no primary confirmation; two-path stop
+S-03,FIN-04,search: courtlistener docket 1:25-cv-04400,2026-10-10T03:08Z,search results; docket page not returned,no,docket not reachable
+S-04,FIN-04,search: IRS new beginning-of-construction guidance after vacatur,2026-10-10T03:09Z,no new notice found,no,stop rule
+S-05,FIN-04,"local: PLAW-119publ21.pdf, USCOURTS opinion, n-26-15.pdf, PUCT 25.195 (pdftotext)",2026-10-10T03:00Z,read,yes (verification),complete
+S-06,B-02,local: support/Policy-and-Cost-Web-Checks.json (FR extract of Proclamation 11052),2026-10-10T03:11Z,read,yes,extract ends at clause 2(b)
+S-07,B-02,search: Proclamation 11052 Annex I/II HTSUS 8541.43 CSMS stacking,2026-10-10T03:12Z,secondary results; no annex text,lead only,annex not obtainable here
+S-08,B-02,search: USITC final determination India Indonesia Laos 2026 vote,2026-10-10T03:14Z,USITC calendar lists vote 2026-10-14,lead only,stop
+S-09,B-01,search: 隆基绿能 2025年年度报告 (cninfo),2026-10-10T03:16Z,official cninfo PDF URL located,lead only,PDF not downloadable (host blocked)
+S-10,FIN-09,direct: sec.gov / data.sec.gov companyfacts; static.cninfo.com.cn,2026-10-10T02:44Z,proxy 403,no,environment
+S-11,FIN-01/03/10,search: 7X Energy Taygete financing December 2020 tax equity lenders Business Wire,2026-10-10T03:18Z,search summary of Business Wire release,lead only,original previously denied; not verified
+S-12,FIN-01/10,search: Taygete II foreclosure senior lender West Texas Solar Project II LLC,2026-10-10T03:18Z,no lender or terms found,no,two-path stop (with prior round Comptroller C06)
+S-13,FIN-01/03,search: Emerald Grove Crane County Luminant Vistra PPA,2026-10-10T03:19Z,ownership lead only; no PPA/financing,lead only,stop
+S-14,B-03,search: ERCOT Batch Zero update October 2026 127.9 125.4,2026-10-10T03:20Z,no later official revision found,no,stop; ercot.com blocked
+S-15,B-04,search: NSRDB Fill Flag values meaning,2026-10-10T03:21Z,no definition found,no,codes left undecoded
+S-16,FIN-05,search: US delivered utility-scale module price DDP 2026,2026-10-10T03:22Z,secondary median price survey; delivery basis unknown,lead only,not spec-matched; stop
+S-17,FIN-07/08/02/06/11,"local: Finance-Scenario-Versions, 2026 API QA, finance supplement tables",2026-10-10T03:25Z,read and recounted,yes (integration),complete
+R2-00,all,connectivity re-test of official hosts after environment change,2026-10-10T03:14Z,most 200; usitc.gov/static.longi.com/businesswire.com 403 (site); potomaceconomics.com proxy 403; nsrdb.nrel.gov 502,n/a,environment
+R2-01,FIN-09,data.sec.gov companyfacts x4,2026-10-10T03:15Z,200; saved,yes,complete
+R2-02,FIN-09,sec.gov Archives FY2025 20-F/10-K x4,2026-10-10T03:16Z,200; saved; values checked against XBRL,yes,complete
+R2-03,FIN-09/B-01,static.cninfo.com.cn annual reports Trina/JA/Tongwei/LONGi,2026-10-10T03:17Z,200 (JA after one retry); saved,yes,complete
+R2-04,FIN-04,courtlistener.com RECAP search + docket page,2026-10-10T03:19Z,200; saved; no appeal entry,yes,PACER not used (account)
+R2-05,FIN-04,govinfo USCOURTS package metadata; api.govinfo.gov (DEMO_KEY),2026-10-10T03:18Z,mods.xml 200; API 429 rate limit,yes (metadata),one opinion only
+R2-06,FIN-04,irs.gov credit pages; federalregister.gov API 'beginning of construction' since 2026-06-06,2026-10-10T03:20Z,no new guidance listed; FR count 0,no,two-path stop
+R2-07,B-02,federalregister.gov API 2026-16400; govinfo PDF,2026-10-10T03:20Z,200; PDF saved; annex images read,yes,complete
+R2-08,B-02,federalregister.gov API search 'crystalline silicon photovoltaic' since 2026-08-01; USITC agency search,2026-10-10T03:22Z,Commerce finals found; no ITC final notice,yes,usitc.gov 403
+R2-09,B-03,ercot.com Batch Zero deck; Large Load Integration page; news releases; board page,2026-10-10T03:24Z,deck saved; no revision,yes (verification),stop
+R2-10,FIN-05,atb.nlr.gov 2025 utility-scale PV page,2026-10-10T03:26Z,200; saved,yes,Tableau component table not exported
+R2-11,FIN-03/10,businesswire.com 20201209005197; 7xenergy.com; firstcitizens/cit newsroom; nestleusa.com,2026-10-10T03:23Z,403 (site) / not in allowlist,no,two-path stop
+R2-12,FIN-01/03/10,"efts.sec.gov full-text search 'Taygete', 'Emerald Grove', 'West Texas Solar Project II' (2019-2026)",2026-10-10T03:24Z,0 / 139 (Vistra guarantor exhibits; unrelated) / 0,no,stop
+R3-01,FIN-02/08,www.potomaceconomics.com 2025 SOM report PDF (after author allowlisted domain),2026-10-10T03:31Z,"200; 9,250,005 bytes; SHA-256 equals prior-round receipt",yes (verification),complete
+R3-02,FIN-03/10,Business Wire release 20201209005197 - screenshot supplied by author,2026-10-10,image received; text read,yes,complete; HTML original still 403 to automated access

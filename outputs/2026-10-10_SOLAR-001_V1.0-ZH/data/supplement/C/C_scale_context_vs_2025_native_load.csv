@@ -1,0 +1,7 @@
+metric,value,unit,source
+"ERCOT 2025 native load, peak hour-ending",83679,MW,retained ERCOT Native_Load_2025 processed hourly table
+"ERCOT 2025 native load, mean",55734,MW,same
+"ERCOT 2025 native load, energy",488.23,TWh,"same (8,760 hours)"
+Large-load queue MW expected in service by 2030 (all statuses),2.3863e+05,MW,"C02 ERCOT Large Load Interconnection Status Update, TAC 2026-03-13 (retained PDF C02, p.3)"
+ratio: 2030 queue / 2025 mean load,4.2816,x,"computed; requests, not demand"
+ratio: 2030 queue / 2025 peak load,2.8517,x,"computed; requests, not demand"

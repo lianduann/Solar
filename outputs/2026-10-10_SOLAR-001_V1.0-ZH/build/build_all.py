@@ -1,0 +1,60 @@
+"""SOLAR-001 V1.0 Chinese edition - single rebuild entry point.
+
+Runs, in order: the supplementary arithmetic (build/r1_calcs.py, writes data/r1/), figure rendering, figure-data comparison with the
+upstream snapshots, the Chinese PDF build, numeric-preservation checks (English V1.0 source against V0.999; Chinese source
+against the English V1.0 source, line by line), structural/link checks of the Chinese PDF, and the embedded-font check. Every command, exit status and duration is written to
+<output-dir>/records/Build-Log.json. No upstream model, regression or simulation is rerun; the only calculations are the
+labeled R1 arithmetic.
+
+Usage:
+  python3 build/build_all.py                       # rebuild in place (package root)
+  python3 build/build_all.py --output-dir /tmp/x   # rebuild into an empty directory
+Exit status is 0 only if every step exits 0 and every check reports PASS.
+"""
+import argparse, datetime, json, subprocess, sys, time
+from pathlib import Path
+
+B = Path(__file__).resolve().parent
+PKG = B.parent
+PDF_NAME = "SOLAR-001_V1.0_Integrated-Market-Research-Report-ZH.pdf"
+SRC = PKG / "source" / "SOLAR-001_V1.0_Report-ZH.md"
+SRC_EN = PKG / "source" / "SOLAR-001_V1.0_Report-EN.md"  # the delivered English V1.0 source, unchanged
+BASELINE = PKG / "baseline" / "SOLAR-001_V0.999_Report-EN.md"  # R1 is checked against the delivered V0.999 source
+
+
+def main():
+    ap = argparse.ArgumentParser(); ap.add_argument("--output-dir", default=str(PKG)); a = ap.parse_args()
+    out = Path(a.output_dir).resolve(); (out / "records").mkdir(parents=True, exist_ok=True)
+    py = [sys.executable, "-I"]
+    steps = [
+        ("supplementary calculations: production-credit, storage-screen and market-reference arithmetic", py + [str(B / "r1_calcs.py")]),
+        ("render figures", py + [str(B / "render_figures.py"), "--out", str(out / "figures")]),
+        ("compare plotted data with upstream snapshots", py + [str(B / "check_figures.py"), "--upstream", str(B / "upstream" / "snapshots"),
+                                                               "--figures", str(out / "figures"), "--out", str(out / "records" / "Figure-Data-Check.json")]),
+        ("build PDF", py + [str(B / "build_report.py"), "--figures", str(out / "figures"), "--out", str(out / PDF_NAME)]),
+        ("numeric-preservation check, English V1.0 against V0.999", py + [str(B / "check_numbers.py"), str(BASELINE), str(SRC_EN), str(out / "records" / "Number-Preservation-Check-EN.json")]),
+        ("numeric-preservation check, Chinese against English V1.0", py + [str(B / "check_numbers_zh.py"), str(SRC_EN), str(SRC), str(out / "records" / "Number-Preservation-Check-ZH.json")]),
+        ("structure, reference and link check", py + [str(B / "check_report.py"), str(SRC), str(out / PDF_NAME), str(out / "records" / "Report-Structure-Check.json")]),
+        ("embedded-font check", py + [str(B / "check_fonts.py"), str(SRC), str(out / PDF_NAME), str(out / "records" / "Font-Check.json")]),
+    ]
+    log = {"started_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "python": sys.version.split()[0],
+           "output_dir": "." if out == PKG else str(out), "steps": []}
+    ok = True
+    for name, cmd in steps:
+        t = time.time(); r = subprocess.run(cmd, cwd=str(PKG), capture_output=True, text=True)
+        tail = [l.replace(str(PKG), ".") for l in (r.stdout + r.stderr).strip().splitlines()[-3:]]
+        passed = r.returncode == 0 and not any(l.startswith("REVIEW") or "MISMATCH" in l for l in tail)
+        log["steps"].append({"step": name, "command": " ".join(["python3"] + [c.replace(str(PKG) + "/", "").replace(str(PKG), ".") for c in cmd[2:]]),
+                             "exit_status": r.returncode, "seconds": round(time.time() - t, 1), "output_tail": tail, "ok": passed})
+        print(f"[{'ok' if passed else 'FAIL'}] {name} (exit {r.returncode})")
+        if not passed:
+            ok = False
+            if r.returncode != 0: break
+    log["result"] = "PASS" if ok else "FAIL"
+    (out / "records" / "Build-Log.json").write_text(json.dumps(log, indent=1))
+    print(log["result"], PDF_NAME if out == PKG else out / PDF_NAME)
+    sys.exit(0 if ok else 1)
+
+
+if __name__ == "__main__":
+    main()

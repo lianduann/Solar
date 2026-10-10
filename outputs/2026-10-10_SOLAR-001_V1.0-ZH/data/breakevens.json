@@ -1,0 +1,16 @@
+{
+ "fixed_breakeven_price_nominal_flat_at_0.0427": 65.969153861495,
+ "node_breakeven_capex_usd_per_kwac_at_0.0427": 577.0938549142603,
+ "node_breakeven_price_scale_at_0.0427": 1.848152505134218,
+ "fixed40_breakeven_capex_usd_per_kwac_at_0.0427": 699.3454838660931,
+ "fixed_breakeven_price_nominal_flat_at_0.0600": 74.33256067254791,
+ "node_breakeven_capex_usd_per_kwac_at_0.0600": 483.7277774342404,
+ "node_breakeven_price_scale_at_0.0600": 2.1347290346684007,
+ "fixed40_breakeven_capex_usd_per_kwac_at_0.0600": 608.6535009746815,
+ "fixed_breakeven_price_nominal_flat_at_0.0800": 84.61488287176527,
+ "node_breakeven_capex_usd_per_kwac_at_0.0800": 403.44285734644905,
+ "node_breakeven_price_scale_at_0.0800": 2.492410594016246,
+ "fixed40_breakeven_capex_usd_per_kwac_at_0.0800": 526.8495364408197,
+ "cpi_2023_to_2025_factor": 1.0565831533760854,
+ "negative_price_energy_anchor": 0.1524173293097202
+}

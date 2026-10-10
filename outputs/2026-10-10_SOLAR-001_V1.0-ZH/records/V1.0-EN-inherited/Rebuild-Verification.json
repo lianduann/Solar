@@ -1,0 +1,21 @@
+{
+ "checked_utc": "2026-10-10T07:46:53+00:00",
+ "command": "python3 build/build_all.py --output-dir <empty directory>",
+ "exit_status": 0,
+ "output_tail": [
+  "[ok] supplementary calculations: production-credit, storage-screen and market-reference arithmetic (exit 0)",
+  "[ok] render figures (exit 0)",
+  "[ok] compare plotted data with upstream snapshots (exit 0)",
+  "[ok] build PDF (exit 0)",
+  "[ok] numeric-preservation check (exit 0)",
+  "[ok] structure, reference and link check (exit 0)",
+  "PASS <empty directory>/SOLAR-001_V1.0_Integrated-Market-Research-Report-EN.pdf"
+ ],
+ "pages_delivered": 106,
+ "pages_rebuilt": 106,
+ "pages_with_text_difference": [],
+ "bookmarks_equal": true,
+ "figure_svgs_identical": 35,
+ "figure_svgs_total": 35,
+ "result": "PASS"
+}

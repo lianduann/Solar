@@ -1,0 +1,275 @@
+[
+ {
+  "year": 2023,
+  "archives": [
+   {
+    "file": "cdr.00012301.0000000000000000.20230131.235959.SPPHLZNP6905_2023-01.zip",
+    "sha256": "9aa832d95b8a8565f8dd685e958248f9806322565942dacd7290a2fdea8af304",
+    "bytes": 17447619
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230228.235959.SPPHLZNP6905_2023-02.zip",
+    "sha256": "53375da76a032c52b492678e813bf52e77dfc0cd9a5934fb5fd0408eb6774feb",
+    "bytes": 16451537
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230331.235959.SPPHLZNP6905_2023-03.zip",
+    "sha256": "a7fd4744e4aa0ac4f65a510b34b21ae5c2751c0a75d7fa9c659c609a600f5575",
+    "bytes": 18560273
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230430.235959.SPPHLZNP6905_2023-04.zip",
+    "sha256": "bdfe0b4c85834daf4d193a143313d293894b6ca38bac5b63f4dcea3d3ee7722f",
+    "bytes": 17563747
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230531.235959.SPPHLZNP6905_2023-05.zip",
+    "sha256": "baefb38305d97d32700ae60e06e03db54cd91759e9577245a87cc70056126feb",
+    "bytes": 16576661
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230630.235959.SPPHLZNP6905_2023-06.zip",
+    "sha256": "44ed96cc2b41d9a89f6705b781c821bf0d3713b3363e150e5e791f9c2ee4f839",
+    "bytes": 16960717
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230731.235959.SPPHLZNP6905_2023-07.zip",
+    "sha256": "7cc2db8b59c1f5229e223f6636ac84035b635665ba8988ba45aab15b42dfa429",
+    "bytes": 17846042
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230831.235959.SPPHLZNP6905_2023-08.zip",
+    "sha256": "dfc9624150125c0f1428714a688e2009eb23d1296365659c653542b770e882eb",
+    "bytes": 18413861
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20230930.235959.SPPHLZNP6905_2023-09.zip",
+    "sha256": "a6dc1b8ec5a653f727dce26298a5720c243fae64f729da35def3816154a9c43a",
+    "bytes": 17585536
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20231031.235959.SPPHLZNP6905_2023-10.zip",
+    "sha256": "c02668aee7a30a2e107cb890c4084c9623e0581f57a253eb5bb95257cd0396a7",
+    "bytes": 18509273
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20231130.235959.SPPHLZNP6905_2023-11.zip",
+    "sha256": "a73854709c75eb704bd3fe2b81592fbd45bc62668c7552be1c7aeea5986319b6",
+    "bytes": 17840937
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20231231.235959.SPPHLZNP6905_2023-12.zip",
+    "sha256": "2de63d1ea3bcf9178408de02878a2c6686c9613624ce80d03a30aed5fd21544e",
+    "bytes": 18435626
+   }
+  ],
+  "rows_kept": 210222,
+  "duplicate_rows_dropped": 24,
+  "duplicate_conflicting_price": 0,
+  "split_names": [
+   "LZ_WEST"
+  ],
+  "expected_intervals": 35040,
+  "dst_flag_Y_rows": 24,
+  "points": [
+   "HB_BUSAVG",
+   "HB_HUBAVG",
+   "HB_WEST",
+   "LZ_WEST__LZ",
+   "TAYGETE2_ALL"
+  ],
+  "priced_by_point": {
+   "HB_BUSAVG": 35037,
+   "HB_HUBAVG": 35037,
+   "HB_WEST": 35037,
+   "LZ_WEST__LZ": 35037,
+   "TAYGETE2_ALL": 35037
+  },
+  "common_intervals": 35037,
+  "excluded_intervals_missing_any_point": 3,
+  "energy_total_mwh": 282290.64335919963,
+  "energy_in_excluded_intervals_mwh": 47.60575263125395
+ },
+ {
+  "year": 2024,
+  "archives": [
+   {
+    "file": "cdr.00012301.0000000000000000.20240131.235959.SPPHLZNP6905_2024-01.zip",
+    "sha256": "8c5e67e3b23d5912b02932fe6265aecdacc77df42987e609d8000d1cd047c087",
+    "bytes": 18876604
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240229.235959.SPPHLZNP6905_2024-02.zip",
+    "sha256": "cb557057e546cfcd4b0bb3a50a9790b1c75c208fc17edd127e2dea54074b1ffe",
+    "bytes": 17794056
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240331.235959.SPPHLZNP6905_2024-03.zip",
+    "sha256": "db54ad3ba6e15a01aaadbab06e4113240f9557b6061b09d99d6cb2ddce199a4a",
+    "bytes": 20240290
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240430.235959.SPPHLZNP6905_2024-04.zip",
+    "sha256": "9fd0d46195cadcc3226e2553a10f979242e047bf8fff9ead9e3c6842e55ccb0f",
+    "bytes": 19368252
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240531.235959.SPPHLZNP6905_2024-05.zip",
+    "sha256": "90dcb2bae3a206b7d4984fc9b8bfe95dd999e4058c51895d2f0bf26489debb56",
+    "bytes": 19732155
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240630.235959.SPPHLZNP6905_2024-06.zip",
+    "sha256": "b425087a9b44030023172f4965b37781c9e8822f1fdf8bc3f2d73aa061c4bd72",
+    "bytes": 19224306
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240731.235959.SPPHLZNP6905_2024-07.zip",
+    "sha256": "93028f265f07d69eb242d19ca1cf7da67c350dfe65493f755f7ae0fbc2e22c8a",
+    "bytes": 19236285
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240831.235959.SPPHLZNP6905_2024-08.zip",
+    "sha256": "73211f8352a3a7fc018df1f67fbf3aec8a03aa4cce7f764ebe2132f176e2185c",
+    "bytes": 19942895
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20240930.235959.SPPHLZNP6905_2024-09.zip",
+    "sha256": "8e78209c89286aef330323683db729a018401a3fb95429700f96ad3a15a47c55",
+    "bytes": 19603103
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20241031.235959.SPPHLZNP6905_2024-10.zip",
+    "sha256": "cd3e80c2630f41587967fbe36c594e452da36361bd96e6a6328a984296f73ca3",
+    "bytes": 21139461
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20241130.235959.SPPHLZNP6905_2024-11.zip",
+    "sha256": "866e68c9cb45fb34164bd9b5b474d4e20651a922529165327e68a59d176de38e",
+    "bytes": 20140852
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20241231.235959.SPPHLZNP6905_2024-12.zip",
+    "sha256": "7208f5d7c1ba76ba1e3f33a245ae8186c16c8cb24a663db94cf14e1d05bee6e2",
+    "bytes": 21003608
+   }
+  ],
+  "rows_kept": 210810,
+  "duplicate_rows_dropped": 0,
+  "duplicate_conflicting_price": 0,
+  "split_names": [
+   "LZ_WEST"
+  ],
+  "expected_intervals": 35136,
+  "dst_flag_Y_rows": 24,
+  "points": [
+   "HB_BUSAVG",
+   "HB_HUBAVG",
+   "HB_WEST",
+   "LZ_WEST__LZ",
+   "TAYGETE2_ALL"
+  ],
+  "priced_by_point": {
+   "HB_BUSAVG": 35135,
+   "HB_HUBAVG": 35135,
+   "HB_WEST": 35135,
+   "LZ_WEST__LZ": 35135,
+   "TAYGETE2_ALL": 35135
+  },
+  "common_intervals": 35135,
+  "excluded_intervals_missing_any_point": 1,
+  "energy_total_mwh": 292108.18365073774,
+  "energy_in_excluded_intervals_mwh": 0.0
+ },
+ {
+  "year": 2025,
+  "archives": [
+   {
+    "file": "cdr.00012301.0000000000000000.20250131.235959.SPPHLZNP6905_2025-01.zip",
+    "sha256": "075c60597f2b9ddbb0c4eb0184291a6f5dd89f6cd8c376d83de9a1e513efcc33",
+    "bytes": 21384220
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250228.235959.SPPHLZNP6905_2025-02.zip",
+    "sha256": "c9fe6bb45bf9ae27b913876b068e29ac42e3076cd1301a26a86be245ca4db99c",
+    "bytes": 19629797
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250331.235959.SPPHLZNP6905_2025-03.zip",
+    "sha256": "2349857c4571baf4258d32461a360271244730d0af8e6f2d5b7d93eeea633ae2",
+    "bytes": 22169191
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250430.235959.SPPHLZNP6905_2025-04.zip",
+    "sha256": "48dfcba901d13a9edb43a14ac37eada9192e2803adb0b881122f083928b88e59",
+    "bytes": 22289173
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250531.235959.SPPHLZNP6905_2025-05.zip",
+    "sha256": "58c037f6c0974c6c35874cc088fe86092321386926e7f117b49beac4cbf44638",
+    "bytes": 22760233
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250630.235959.SPPHLZNP6905_2025-06.zip",
+    "sha256": "8fce6302c4216c95e9987512d57b2546b8c36721124834f304c8b5e160fe79b9",
+    "bytes": 21709035
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250731.235959.SPPHLZNP6905_2025-07.zip",
+    "sha256": "3b411533e0a47c1c8d9db307ddd38333acef61d42564d15ecce2cfeeba7b1574",
+    "bytes": 23052106
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250831.235959.SPPHLZNP6905_2025-08.zip",
+    "sha256": "c5ab2f8ab1dd8da89dd039063c19a1f0f0e5dc2553daf2b20560e54ad39b7279",
+    "bytes": 22878008
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20250930.235959.SPPHLZNP6905_2025-09.zip",
+    "sha256": "2c2e563860ccbb74a1443b8b259f3e2f273a04dc5d809d3b59958b71f78ced5a",
+    "bytes": 22010240
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20251031.235959.SPPHLZNP6905_2025-10.zip",
+    "sha256": "d7317ed090aaad5bde577cab766bac9e8cd605058232827ca6725332a60ad881",
+    "bytes": 23342707
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20251130.235959.SPPHLZNP6905_2025-11.zip",
+    "sha256": "90d82a75c8f4f16bbbb09e1e776251da35a85510c167f8097d508134f9412e98",
+    "bytes": 23051298
+   },
+   {
+    "file": "cdr.00012301.0000000000000000.20251231.235959.SPPHLZNP6905_2025-12.zip",
+    "sha256": "616d9da061eb47a7ab422ec05cdd82c790b29643365e02d4e620758782ae37e8",
+    "bytes": 23827769
+   }
+  ],
+  "rows_kept": 210228,
+  "duplicate_rows_dropped": 0,
+  "duplicate_conflicting_price": 0,
+  "split_names": [
+   "LZ_WEST"
+  ],
+  "expected_intervals": 35040,
+  "dst_flag_Y_rows": 24,
+  "points": [
+   "HB_BUSAVG",
+   "HB_HUBAVG",
+   "HB_WEST",
+   "LZ_WEST__LZ",
+   "TAYGETE2_ALL"
+  ],
+  "priced_by_point": {
+   "HB_BUSAVG": 35038,
+   "HB_HUBAVG": 35038,
+   "HB_WEST": 35038,
+   "LZ_WEST__LZ": 35038,
+   "TAYGETE2_ALL": 35038
+  },
+  "common_intervals": 35038,
+  "excluded_intervals_missing_any_point": 2,
+  "energy_total_mwh": 292383.9025641677,
+  "energy_in_excluded_intervals_mwh": 0.0
+ }
+]

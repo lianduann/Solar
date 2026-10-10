@@ -1,0 +1,18 @@
+{
+ "source_distinct_chars": 1156,
+ "chars_without_embedded_font": [],
+ "pdf_fonts": [
+  "CDDLSR+Serif-SC",
+  "DAZWZE+Sans-R",
+  "DKVIAW+Sans-SC-Bold",
+  "IDIONS+Source-Serif-Semi-Bold",
+  "MYBBYN+Source-Serif",
+  "UOSZVT+Sans-R-Bold",
+  "WRXEIN+Sans-SC",
+  "YNESKQ+Sans-SC-Medium",
+  "YYROGT+Serif-SC-Bold",
+  "ZUQZTJ+Report-Mono"
+ ],
+ "pdf_fonts_not_from_package": [],
+ "result": "PASS"
+}

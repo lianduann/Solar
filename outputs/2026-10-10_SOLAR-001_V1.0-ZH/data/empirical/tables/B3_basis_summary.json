@@ -1,0 +1,19 @@
+{
+ "variance_shares": {
+  "node_share": 0.8340053472997051,
+  "year_share": 0.003853628768538799,
+  "node_by_year_residual_share": 0.16214102393175608
+ },
+ "extreme_basis_concentration": {
+  "share_node_hours_abs_basis_gt50": 0.030085111119472246,
+  "top10_days_share_of_extreme_node_hours": 0.074611392555259,
+  "top1pct_days_share": 0.074611392555259
+ },
+ "n_nodes": 485,
+ "zone_counts": {
+  "LZ_WEST": 186,
+  "LZ_SOUTH": 134,
+  "LZ_NORTH": 94,
+  "LZ_HOUSTON": 71
+ }
+}

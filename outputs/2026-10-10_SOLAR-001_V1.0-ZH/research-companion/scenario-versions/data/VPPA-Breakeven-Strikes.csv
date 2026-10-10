@@ -1,0 +1,121 @@
+price_path,price_year,cpi_restated,tenor_years,dispatch,negative_hub_clause,discount_rate,breakeven_strike_nominal_flat
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,settle_through,0.0427,81.6373
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,settle_through,0.0600,91.9078
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,settle_through,0.0800,103.2070
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0427,84.7681
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0600,95.4128
+2025 prices (frozen base path),2025,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0800,107.1234
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,69.0602
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,77.7666
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,87.3444
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,81.5438
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,91.7289
+2025 prices (frozen base path),2025,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,102.9336
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,settle_through,0.0427,71.6332
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,settle_through,0.0600,80.8441
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,settle_through,0.0800,91.4327
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0427,74.4065
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0600,83.9521
+2025 prices (frozen base path),2025,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0800,94.9257
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,60.5710
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,68.3818
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,77.3589
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,71.6472
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,80.7796
+2025 prices (frozen base path),2025,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,91.2775
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,settle_through,0.0427,83.5908
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,settle_through,0.0600,93.7109
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,settle_through,0.0800,104.8919
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0427,85.7451
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0600,96.1158
+2024 prices restated to 2025 USD (CPI),2024,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0800,107.5739
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,70.4209
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,78.9675
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,88.4087
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,82.0050
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,91.9135
+2024 prices restated to 2025 USD (CPI),2024,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,102.8592
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,settle_through,0.0427,73.0565
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,settle_through,0.0600,82.1993
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,settle_through,0.0800,92.7426
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0427,74.9534
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0600,84.3223
+2024 prices restated to 2025 USD (CPI),2024,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0800,95.1264
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,61.5145
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,69.2384
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,78.1439
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,71.6947
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,80.6480
+2024 prices restated to 2025 USD (CPI),2024,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,90.9708
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,settle_through,0.0427,22.8199
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,settle_through,0.0600,45.8305
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,settle_through,0.0800,68.2631
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0427,23.2661
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0600,46.6644
+2023 prices restated to 2025 USD (CPI),2023,True,10,stop_if_node_negative,suspend_if_hub_negative,0.0800,69.4749
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,19.4164
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,39.2575
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,58.5494
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,21.7147
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,43.8405
+2023 prices restated to 2025 USD (CPI),2023,True,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,65.3476
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,settle_through,0.0427,42.7538
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,settle_through,0.0600,59.1987
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,settle_through,0.0800,76.1188
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0427,43.5389
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0600,60.2606
+2023 prices restated to 2025 USD (CPI),2023,True,15,stop_if_node_negative,suspend_if_hub_negative,0.0800,77.4655
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,36.5966
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,50.7522
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,65.2932
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,40.8761
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,56.6583
+2023 prices restated to 2025 USD (CPI),2023,True,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,72.8695
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,settle_through,0.0427,84.3544
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,settle_through,0.0600,94.3207
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,settle_through,0.0800,105.3681
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0427,86.5256
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0600,96.7387
+2024 nominal reused as real (frozen convention),2024,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0800,108.0598
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,71.0702
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,79.4866
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,88.8145
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,82.7489
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,92.5063
+2024 nominal reused as real (frozen convention),2024,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,103.3207
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,settle_through,0.0427,73.4487
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,settle_through,0.0600,82.5051
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,settle_through,0.0800,92.9736
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0427,75.3531
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0600,84.6335
+2024 nominal reused as real (frozen convention),2024,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0800,95.3610
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,61.8509
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,69.5014
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,78.3433
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,72.0752
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,80.9435
+2024 nominal reused as real (frozen convention),2024,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,91.1927
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,settle_through,0.0427,27.7908
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,settle_through,0.0600,49.7942
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,settle_through,0.0800,71.3513
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0427,28.3175
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0600,50.6917
+2023 nominal reused as real (frozen convention),2023,False,10,stop_if_node_negative,suspend_if_hub_negative,0.0800,72.6120
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,23.7257
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,42.6793
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,61.2063
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,26.5146
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,47.6514
+2023 nominal reused as real (frozen convention),2023,False,10,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,68.3067
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,settle_through,0.0427,45.2902
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,settle_through,0.0600,61.1699
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,settle_through,0.0800,77.6004
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0427,46.1147
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0600,62.2616
+2023 nominal reused as real (frozen convention),2023,False,15,stop_if_node_negative,suspend_if_hub_negative,0.0800,78.9687
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0427,38.7929
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0600,52.4545
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,settle_through,0.0800,66.5695
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0427,43.3218
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0600,58.5519
+2023 nominal reused as real (frozen convention),2023,False,15,run_if_node_plus_hedge_nonnegative,suspend_if_hub_negative,0.0800,74.2886

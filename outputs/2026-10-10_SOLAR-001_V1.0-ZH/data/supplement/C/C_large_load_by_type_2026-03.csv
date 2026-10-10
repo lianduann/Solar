@@ -1,0 +1,7 @@
+type,share,mw_stated,mw_derived_from_rounded_share,source,note
+Data Center,0.775,183469.0,183469.0,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"
+None (type not given),0.113,,26750.963870967742,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"
+Crypto,0.069,,16334.65935483871,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"
+Industrial,0.027,,6391.823225806452,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"
+Data Center/Crypto,0.011,,2604.076129032258,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"
+Hydrogen,0.006,,1420.4051612903227,C02 p.12,"only the data-center MW (183,469) is printed; others derived from rounded shares and the implied total (~236734 MW); population = projects in the status table, as of 2026-03-13"

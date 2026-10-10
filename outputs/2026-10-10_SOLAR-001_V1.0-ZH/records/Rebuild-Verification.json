@@ -1,0 +1,21 @@
+{
+ "checked_utc": "2026-10-10T08:12:58+00:00",
+ "command": "python3 build/build_all.py --output-dir /tmp/claude-0/-home-claude-solar/5bfa528e-4bda-5df2-854d-19fec36d0456/scratchpad/zh-rebuild",
+ "exit_status": 0,
+ "output_tail": [
+  "[ok] compare plotted data with upstream snapshots (exit 0)",
+  "[ok] build PDF (exit 0)",
+  "[ok] numeric-preservation check, English V1.0 against V0.999 (exit 0)",
+  "[ok] numeric-preservation check, Chinese against English V1.0 (exit 0)",
+  "[ok] structure, reference and link check (exit 0)",
+  "[ok] embedded-font check (exit 0)",
+  "PASS /tmp/claude-0/-home-claude-solar/5bfa528e-4bda-5df2-854d-19fec36d0456/scratchpad/zh-rebuild/SOLAR-001_V1.0_Integrated-Market-Research-Report-ZH.pdf"
+ ],
+ "pages_delivered": 92,
+ "pages_rebuilt": 92,
+ "pages_with_text_difference": [],
+ "bookmarks_equal": true,
+ "figure_svgs_identical": 35,
+ "figure_svgs_total": 35,
+ "result": "PASS"
+}

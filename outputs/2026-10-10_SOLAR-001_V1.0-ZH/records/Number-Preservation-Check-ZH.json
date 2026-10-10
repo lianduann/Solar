@@ -1,0 +1,43 @@
+{
+ "english": "SOLAR-001_V1.0_Report-EN.md",
+ "chinese": "SOLAR-001_V1.0_Report-ZH.md",
+ "lines_english": 1533,
+ "lines_chinese": 1533,
+ "line_kind_mismatches": [],
+ "numeric_tokens_english": 2848,
+ "lines_with_differences": [],
+ "table_cell_differences": [],
+ "allowed_differences": [
+  {
+   "line": 580,
+   "missing_in_chinese": {
+    "5": 1
+   },
+   "extra_in_chinese": {},
+   "english": "# 8. Solar Value Capture: High-Output Hours May Have Lower Prices",
+   "chinese": "# 8. 光伏价值捕获：高出力时段的价格可能更低",
+   "reason": "chapter title: the English modal verb 'May' is read as a month name; the title has no number"
+  },
+  {
+   "line": 847,
+   "missing_in_chinese": {
+    "1": 1
+   },
+   "extra_in_chinese": {},
+   "english": "**Cost scope and vintage.** The scenario CAPEX uses ATB 2025 overnight capital cost (OCC) plus grid-connection cost (GCC), 2026 values, converted from 2023 to 2",
+   "chinese": "**成本范围与年份。** 情景 CAPEX 采用 ATB 2025 的隔夜资本成本（OCC）加并网成本（GCC）的 2026 年数值，并由 2023 年美元换算为 2025 年美元。ATB 2025 指出，其 2024 年隔夜成本基于 2024 年第一季度对 100 MWdc 单轴跟踪系统的模型化报价（DOE, 202",
+   "reason": "'Q1 2024' is written 2024 年第一季度 (quarter as a Chinese numeral)"
+  },
+  {
+   "line": 1303,
+   "missing_in_chinese": {},
+   "extra_in_chinese": {
+    "2": 1
+   },
+   "english": "**P08.** Ministry of Finance / State Taxation Administration, 2026 announcement no.2, export VAT rebate adjustment: [official announcement](https://szs.mof.gov.",
+   "chinese": "**P08.** 财政部 / 国家税务总局，2026 年第2号公告，出口增值税退税调整：[官方公告](https://szs.mof.gov.cn/zhengcefabu/202601/t20260109_3981637.htm)。",
+   "reason": "'announcement no.2' is written 第2号公告; the English 'no.2' is not tokenized because of the period"
+  }
+ ],
+ "result": "PASS"
+}

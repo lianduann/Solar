@@ -1,0 +1,220 @@
+/* SOLAR-001 V1.0 Chinese edition - the V1.0 design system with Chinese type added
+   Chinese text: Noto Serif CJK SC (reading text) and Noto Sans CJK SC (headings, data, tables, captions), SIL OFL 1.1,
+   embedded as subsets (build/subset_cjk_fonts.py). Latin text and numbers keep the English edition's fonts.
+
+   Original header (V0.999-R1 report design system):
+   Type: Source Serif 4 (reading text); Liberation Sans, a Helvetica/Arial-metric sans, for headings, data, tables, captions
+   and charts. Both SIL Open Font License, embedded.
+   Colour roles (palette option 1, navy + brick): navy = structure and headings; teal = data emphasis, numbers and links;
+   brick = accent, key numbers and negative values. No yellow/amber. */
+
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-400-normal.ttf); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-ext-400-normal.ttf); font-weight: 400; font-style: normal; unicode-range: U+0100-024F, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-400-italic.ttf); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-600-normal.ttf); font-weight: 600; font-style: normal; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-600-italic.ttf); font-weight: 600; font-style: italic; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-700-normal.ttf); font-weight: 700; font-style: normal; }
+@font-face { font-family: "Source Serif"; src: url(fonts/SourceSerif4-latin-700-italic.ttf); font-weight: 700; font-style: italic; }
+
+@font-face { font-family: "Sans R"; src: url(fonts/LiberationSans-Regular.ttf); font-weight: 300 500; font-style: normal; }
+@font-face { font-family: "Sans R"; src: url(fonts/LiberationSans-Italic.ttf); font-weight: 300 500; font-style: italic; }
+@font-face { font-family: "Sans R"; src: url(fonts/LiberationSans-Bold.ttf); font-weight: 600 800; font-style: normal; }
+@font-face { font-family: "Sans R"; src: url(fonts/LiberationSans-BoldItalic.ttf); font-weight: 600 800; font-style: italic; }
+
+@font-face { font-family: "Serif SC"; src: url(fonts/NotoSerifSC-Regular-subset.ttf); font-weight: 300 500; }
+@font-face { font-family: "Serif SC"; src: url(fonts/NotoSerifSC-Bold-subset.ttf); font-weight: 600 800; }
+@font-face { font-family: "Sans SC"; src: url(fonts/NotoSansSC-Regular-subset.ttf); font-weight: 300 400; }
+@font-face { font-family: "Sans SC"; src: url(fonts/NotoSansSC-Medium-subset.ttf); font-weight: 500; }
+@font-face { font-family: "Sans SC"; src: url(fonts/NotoSansSC-Bold-subset.ttf); font-weight: 600 800; }
+
+:root {
+  --navy: #17324D; --navy-deep: #0E2338; --teal: #167D8D; --teal-l: #8CC3CB; --teal-tint: #EDF5F6;
+  --accent: #B4523A; --accent-l: #E7B9A8; --accent-tint: #FAF1EE; --ink: #1F2933; --muted: #5F6B76; --rule: #D5DBE1; --tint: #F3F5F7;
+  --sans: "Sans R", "Sans SC", sans-serif; --serif: "Source Serif", "Serif SC", serif;
+}
+
+/* ------------------------------------------------------------------ pages */
+@page {
+  size: Letter; margin: 1.05in 1.15in 0.95in 1.15in;
+  @top-left { content: string(chaptitle, first-except); font: 500 7.2pt var(--sans); color: var(--muted); vertical-align: bottom; padding-bottom: 17pt; }
+  @top-right { content: "RUNNING_TEXT"; font: 500 7.2pt var(--sans); color: var(--muted); vertical-align: bottom; padding-bottom: 17pt; }
+  @bottom-left { content: "Lucid Direction Insights"; font: 600 7.2pt var(--sans); color: var(--navy); letter-spacing: 0.04em; vertical-align: top; padding-top: 14pt; }
+  @bottom-right { content: counter(page); font: 600 8pt var(--sans); color: var(--teal); vertical-align: top; padding-top: 13pt; }
+}
+@page cover { margin: 0; @top-left { content: none; } @top-right { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@page front { @top-left { content: none; } @top-right { content: none; } }
+
+html { font-family: var(--serif); font-size: 10pt; line-height: 1.72; color: var(--ink); font-variant-numeric: lining-nums; }
+body { margin: 0; }
+p { margin: 0 0 8pt; orphans: 3; widows: 3; hyphens: auto; text-align: left; }
+a { color: inherit; text-decoration: none; }
+a.ext, a.file { color: var(--teal); }
+a.xref { color: var(--teal); }
+strong { font-weight: 600; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 7.6pt; color: #3B4A57; }
+sup { font-size: 70%; }
+
+/* ------------------------------------------------------------------ cover */
+section.cover { page: cover; position: relative; width: 8.5in; height: 11in; background: var(--navy-deep); color: white; overflow: hidden; bookmark-level: 1; bookmark-label: "封面"; }
+section.cover svg.art, section.backcover svg.art { position: absolute; left: 0; top: 0; width: 8.5in; height: 11in; }
+.cover .brand, .backcover .brand { white-space: nowrap; display: flex; align-items: center; gap: 9pt; font: 600 8.2pt var(--sans); letter-spacing: 0.22em; text-transform: uppercase; color: white; }
+.cover .brand { position: absolute; left: 0.75in; top: 0.7in; }
+.brand svg.mark { width: 17pt; height: 17pt; }
+.cover-main { position: absolute; left: 0.75in; top: 2.55in; width: 6.1in; }
+.kicker { font: 600 8.4pt var(--sans); letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent-l); margin: 0 0 16pt; }
+.kicker::before { content: ""; display: inline-block; width: 26pt; height: 2pt; background: var(--accent); vertical-align: middle; margin-right: 9pt; }
+h1.cover-title { font: 600 33pt/1.3 var(--serif); color: white; margin: 0 0 22pt; letter-spacing: -0.005em; bookmark-level: none; string-set: none; }
+.cover-sub { font: 400 14pt/1.55 var(--sans); color: #CFE6E9; margin: 0; width: 5.4in; hyphens: manual; }
+.cover-foot { position: absolute; left: 0.75in; right: 0.75in; bottom: 0.62in; display: flex; gap: 26pt; align-items: flex-end; border-top: 0.6pt solid rgba(255,255,255,0.35); padding-top: 11pt; }
+.cover-foot div { display: flex; flex-direction: column; }
+.cover-foot .k { font: 500 6.6pt var(--sans); letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent-l); margin-bottom: 3pt; }
+.cover-foot .v { font: 600 10pt var(--sans); color: white; }
+.cover-foot .org { margin-left: auto; font: 500 8.4pt var(--sans); color: #CFE6E9; }
+
+/* ------------------------------------------------------------------ back cover */
+section.backcover { page: cover; break-before: page; position: relative; width: 8.5in; height: 11in; background: var(--navy-deep); color: white; overflow: hidden; bookmark-level: 1; bookmark-label: "封底"; }
+.back-main { position: absolute; left: 0.75in; top: 1.2in; width: 5.6in; }
+.back-main .brand { margin-bottom: 52pt; }
+.back-title { hyphens: manual; font: 600 18pt/1.4 var(--serif); color: white; margin: 0 0 8pt; }
+.back-sub { hyphens: manual; font: 400 10.5pt/1.6 var(--sans); color: #CFE6E9; margin: 0 0 22pt; }
+.back-meta { font: 600 8.6pt var(--sans); letter-spacing: 0.08em; color: var(--accent-l); margin: 0 0 30pt; }
+.back-note { font: 400 9pt/1.75 var(--sans); color: #C3D2DC; border-left: 2pt solid var(--accent); padding-left: 11pt; margin: 0 0 30pt; }
+.back-org { font: 600 9pt var(--sans); color: white; letter-spacing: 0.04em; }
+
+/* ------------------------------------------------------------------ contents */
+section.contents { page: front; break-before: page; }
+h1.contents-h, h1.front-h { font: 600 22pt/1.15 var(--sans); color: var(--navy); margin: 0 0 6pt; padding-bottom: 12pt; border-bottom: 2.5pt solid var(--accent); width: 1.1in; white-space: nowrap; bookmark-level: 1; }
+h1.contents-h { bookmark-label: "目录"; }
+ul.toc { list-style: none; margin: 18pt 0 0; padding: 0; columns: 1; }
+ul.toc li a { display: block; color: inherit; text-decoration: none; }
+ul.toc li a::after { content: leader(dotted) target-counter(attr(href), page); }
+li.toc1 { font: 600 9pt/1.2 var(--sans); color: var(--navy); margin: 4.2pt 0 0.8pt; break-after: avoid; }
+li.toc1 a::after { color: var(--teal); font-weight: 600; }
+li.toc2 { font: 400 7.8pt/1.17 var(--sans); color: var(--ink); margin: 0.5pt 0 0.5pt 24pt; }
+li.toc2 a::after { color: var(--muted); font-weight: 400; }
+ul.toc .tn { display: inline-block; width: 24pt; color: var(--teal); }
+li.toc2 .tn { width: 26pt; color: var(--muted); }
+li.toc1:first-child { margin-top: 0; }
+
+/* ------------------------------------------------------------------ front matter */
+section.front { page: front; break-before: page; }
+section.front h1.front-h { width: 1.9in; bookmark-label: "关于本报告"; margin-bottom: 18pt; }
+section.front p { font-size: 9.6pt; }
+.uses { display: flex; gap: 14pt; margin: 14pt 0 14pt; break-inside: avoid; }
+.use-col { flex: 1; padding: 11pt 13pt 6pt; background: var(--teal-tint); border-top: 2.5pt solid var(--teal); }
+.use-col.no { background: var(--accent-tint); border-top-color: var(--accent); }
+.use-h { font: 600 8.4pt var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--navy); margin: 0 0 6pt; }
+.use-col ul { margin: 0; padding-left: 11pt; font: 400 8.6pt/1.6 var(--sans); }
+.use-col li { margin-bottom: 3pt; }
+.use-col.yes li::marker { color: var(--teal); }
+.use-col.no li::marker { color: var(--accent); }
+
+/* ------------------------------------------------------------------ chapters */
+section.chapter { break-before: page; }
+header.opener { position: relative; margin: 0 0 20pt; padding-top: 2pt; break-after: avoid; break-inside: avoid; }
+.chap-num { break-after: avoid; }
+.chap-num { font: 300 46pt/1 var(--sans); color: var(--teal-l); margin: 0 0 4pt; letter-spacing: -0.02em; }
+.appendix .chap-num { color: var(--accent-l); }
+header.opener h1 { margin: 0; font-weight: normal; bookmark-level: 1; bookmark-label: attr(data-label) "　" attr(data-title); }
+.chap-label { display: block; font: 600 8.6pt var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--teal); margin-bottom: 6pt; }
+.appendix .chap-label { color: var(--accent); }
+.chap-title { display: block; font: 600 20pt/1.32 var(--sans); color: var(--navy); letter-spacing: -0.01em; string-set: chaptitle content(); }
+.opener-rule { width: 54pt; height: 3pt; background: var(--accent); margin-top: 14pt; }
+
+h2 { font: 600 12pt/1.45 var(--sans); color: var(--navy); margin: 21pt 0 7pt; break-after: avoid; bookmark-level: 2; }
+h2 .sec-num { color: var(--teal); margin-right: 5pt; }
+h3 { font: 600 10.2pt/1.45 var(--sans); color: var(--navy); margin: 14pt 0 4pt; break-after: avoid; bookmark-level: none; }
+strong.runin { font-family: var(--sans); font-size: 9pt; font-weight: 600; color: var(--navy); }
+
+ul, ol { margin: 0 0 8pt; padding-left: 15pt; }
+li { margin-bottom: 4pt; }
+li::marker { color: var(--teal); font-family: var(--sans); font-weight: 600; font-size: 8.6pt; }
+
+/* executive-summary elements */
+.lead { margin: 2pt 0 14pt; padding: 12pt 15pt 5pt 15pt; background: var(--teal-tint); border-left: 3.5pt solid var(--teal); break-inside: avoid; }
+.lead p { font: 500 10pt/1.7 var(--sans); color: var(--navy); }
+ol.findings { list-style: none; padding: 0; counter-reset: f; }
+ol.findings > li { counter-increment: f; position: relative; padding-left: 27pt; margin-bottom: 8pt; break-inside: avoid; }
+ol.findings > li::before { content: counter(f, decimal-leading-zero); position: absolute; left: 0; top: 0.5pt; font: 600 9.5pt var(--sans); color: var(--teal); }
+ol.findings > li strong:first-child { font-family: var(--sans); font-size: 9.3pt; color: var(--navy); }
+.kpis { display: flex; gap: 8pt; margin: 4pt 0 16pt; break-inside: avoid; }
+.kpi { flex: 1; border-top: 3pt solid var(--navy); background: var(--tint); padding: 9pt 9pt 9pt; }
+.kpi:nth-child(2) { border-top-color: var(--teal); }
+.kpi:nth-child(3) { border-top-color: var(--accent); }
+.kpi:nth-child(4) { border-top-color: var(--teal-l); }
+.kpi-v { font: 600 17pt/1.1 var(--sans); color: var(--navy); margin-bottom: 5pt; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.kpi-l { font: 600 7.9pt/1.45 var(--sans); color: var(--ink); margin-bottom: 4pt; }
+.kpi-q { font: 400 7.2pt/1.5 var(--sans); color: var(--muted); }
+
+/* boxes */
+aside.box { margin: 10pt 0 12pt; padding: 10pt 13pt 4pt; background: var(--teal-tint); border-top: 2pt solid var(--teal); break-inside: avoid; }
+aside.box p { font: 400 8.8pt/1.7 var(--sans); }
+aside .box-h { font: 600 8.2pt var(--sans); letter-spacing: 0.06em; color: var(--navy); margin-bottom: 4pt; text-transform: none; }
+aside.box.r1 { background: var(--accent-tint); border-top-color: var(--accent); }
+aside.box.r1 .box-h { color: var(--accent); }
+aside.limits { break-before: avoid; margin: 16pt 0 6pt; padding: 2pt 0 2pt 12pt; background: none; border-left: 2pt solid var(--navy); break-inside: avoid; }
+aside.limits .box-h { font: 600 7.6pt var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--navy); margin-bottom: 5pt; }
+aside.limits ol { margin: 0; padding-left: 14pt; font: 400 8.6pt/1.7 var(--sans); color: var(--muted); }
+aside.limits li { margin-bottom: 3pt; }
+aside.limits li::marker { color: var(--navy); }
+
+/* ------------------------------------------------------------------ tables */
+.tblock { margin: 12pt 0 15pt; break-inside: avoid; }
+.tblock.mid { break-inside: auto; }
+.tblock.long { break-inside: auto; }
+p.tcap, figcaption { font: 600 9.2pt/1.5 var(--sans); color: var(--navy); margin: 0 0 6pt; break-after: avoid; hyphens: manual; }
+p.tcap .lab, figcaption .lab { color: var(--teal); margin-right: 3pt; }
+table { width: 100%; border-collapse: collapse; font: 400 8.2pt/1.5 var(--sans); font-variant-numeric: tabular-nums lining-nums; color: var(--ink); }
+thead { display: table-header-group; }
+th { font-weight: 600; color: var(--navy); text-align: left; vertical-align: bottom; padding: 5.5pt 6pt 5pt; border-top: 1.4pt solid var(--navy); border-bottom: 0.8pt solid var(--navy); background: #EAF1F4; hyphens: manual; }
+td { padding: 4.4pt 6pt; vertical-align: top; border-bottom: 0.4pt solid var(--rule); hyphens: manual; }
+tbody tr:nth-child(even) td { background: #F7F9FA; }
+tbody tr:last-child td { border-bottom: 0.9pt solid var(--navy); }
+tr { break-inside: avoid; }
+th.num, td.num { text-align: right; }
+td.num { white-space: nowrap; }
+span.nw { white-space: nowrap; }
+sup { font-size: 0.7em; line-height: 0; vertical-align: 0.45em; }
+td:first-child { font-weight: 500; color: var(--navy); }
+table.nav td:last-child { font-weight: 600; color: var(--teal); }
+table.glossary td:first-child { white-space: nowrap; }
+.tnote, .fnote { font: 400 7.9pt/1.6 var(--sans); color: var(--muted); margin-top: 5pt; }
+.tnote { break-before: avoid; break-inside: avoid; }
+.tnote p, .fnote p { margin: 0 0 3.5pt; hyphens: auto; }
+.tnote em, .fnote em { font-style: normal; }
+p.notes-h { font-weight: 600; color: var(--navy); margin: 3pt 0 1pt; }
+ol.notes { margin: 0 0 3pt; padding-left: 13pt; }
+ol.notes li { margin-bottom: 1pt; }
+ol.notes li::marker { font-size: 7pt; color: var(--muted); }
+p.pnote { font: 400 8pt/1.6 var(--sans); color: var(--muted); }
+
+/* ------------------------------------------------------------------ figures */
+figure { margin: 14pt 0 16pt; break-inside: avoid; }
+figure img { width: 100%; max-height: 5.4in; object-fit: contain; object-position: center top; display: block; margin: 2pt 0 0; }
+figure .fnote { border-top: 0.5pt solid var(--rule); padding-top: 5pt; margin-top: 4pt; }
+
+/* ------------------------------------------------------------------ appendix A: dense bibliography */
+#app-a p { font-size: 8.8pt; line-height: 1.6; margin-bottom: 5pt; }
+#app-a a.ext { word-break: break-all; }
+#app-a ul li { font-size: 8.8pt; line-height: 1.6; }
+@font-face { font-family: "Report Mono"; src: url(fonts/DejaVuSansMono.ttf); }
+code { font-family: "Report Mono", monospace; }
+table.glossary td { padding-top: 3.4pt; padding-bottom: 3.4pt; }
+
+/* Chinese edition: emphasis in Chinese text is set in the sans (CJK has no italic); Chinese has no hyphenation */
+em { font-style: normal; font-family: var(--sans); font-size: 0.95em; }
+p, li, td, th { hyphens: manual; }
+
+/* Chinese edition fit: contents on two pages, About page on one page, readable first columns, glossary on its own page */
+ul.toc { margin-top: 12pt; }
+li.toc1 { margin: 3pt 0 0.5pt; line-height: 1.12; }
+li.toc2 { line-height: 1.1; margin: 0.3pt 0 0.3pt 24pt; }
+section.front p { line-height: 1.58; margin-bottom: 6pt; }
+section.front h1.front-h { margin-bottom: 12pt; }
+section.front .uses { margin: 10pt 0; }
+section.front .use-col ul { line-height: 1.45; }
+section.front table { line-height: 1.35; }
+section.front td, section.front th { padding-top: 3.6pt; padding-bottom: 3.6pt; }
+td:first-child, th:first-child { min-width: 4.6em; }
+table.glossary { line-height: 1.32; }
+table.glossary td { padding-top: 2.4pt; padding-bottom: 2.4pt; }

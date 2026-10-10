@@ -1,0 +1,3 @@
+topic,observation,evidence_id,limit,not_supported
+competing supply modes visible in official ERCOT data,"BYOG/WLPUN generation in Batch Zero studied load is 83.0% gas, 10.7% solar, 4.1% wind, 2.1% battery by MW",C03 p.8,11 projects only; excludes base-load projects' on-site resources; no pricing or contract terms,solar share of data-center supply in ERCOT; customer priority; service premium; market share
+customer requirements,"Official sources describe process requirements (site control, financial security, curtailment capability, disclosure of backup generation >=50% of onsite demand), not buyers' renewable-supply preferences",C08 p.5-8; C04,"requirements apply to interconnection, not to PPA content","customer ranking, willingness to pay, procurement RFP terms"

@@ -1,0 +1,8 @@
+item,value,unit,note
+"pass-through k = d(total MMP)/d(module MMP), PV-only 2025Q1",1.144,USD total per USD module,"module dollar plus loadings in 'Other' (sales tax 5.8%, contingency 2.15%, EPC overhead 1%, developer profit 5%) as defined in PVSCM; model-structure result, not an observed price transmission"
+module share of total MMP,0.26111,fraction,US-assembled benchmark module cost element incl. 45X subsidy; not a Chinese-origin delivered module
+effective share = share x k,0.2987,fraction,how much of total CAPEX moves one-for-one with module price changes in the model
+sales-tax rate,0.058,fraction,PVSCM Factors
+contingency rate,0.0215,fraction,PVSCM Factors
+EPC overhead rate,0.01,fraction,PVSCM Factors
+developer profit rate (MSP),0.05,fraction,PVSCM Factors

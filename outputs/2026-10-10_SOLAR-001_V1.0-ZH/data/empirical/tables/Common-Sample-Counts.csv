@@ -1,0 +1,7 @@
+tier,subset,n_nodes
+strict,all non-benchmark,757
+strict,resource node (type RN; in 2026-09-10 official list),485
+acceptable,all non-benchmark,757
+acceptable,resource node (type RN; in 2026-09-10 official list),485
+r2_flag_ge_len_minus_4,all non-benchmark,757
+r2_flag_ge_len_minus_4,resource node (type RN; in 2026-09-10 official list),485

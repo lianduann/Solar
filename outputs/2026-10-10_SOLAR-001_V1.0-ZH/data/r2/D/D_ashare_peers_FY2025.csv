@@ -1,0 +1,28 @@
+company,metric,period,value,unit,pattern_found_in_source,verification_pattern,note,source_file
+Trina,revenue,FY2025,66974.55,RMB million,True,"66,974,548,527\.63","营业收入; FY2024 (restated) 80,314.07; change -16.61%",D20__Trina_2025_AR.pdf
+Trina,revenue,FY2024,80314.07,RMB million,True,"80,314,069,269\.50",restated basis shown in the 2025 report,D20__Trina_2025_AR.pdf
+Trina,net_profit_attributable,FY2025,-7030.54,RMB million,True,"-7,030,544,738\.22","FY2024 -3,411.94",D20__Trina_2025_AR.pdf
+Trina,net_profit_attributable,FY2024,-3411.94,RMB million,True,"-3,411,936,168\.60",,D20__Trina_2025_AR.pdf
+Trina,operating_cash_flow,FY2025,6902.28,RMB million,True,"6,902,281,166\.06","FY2024 7,943.40",D20__Trina_2025_AR.pdf
+Trina,operating_cash_flow,FY2024,7943.4,RMB million,True,"7,943,402,668\.79",,D20__Trina_2025_AR.pdf
+Trina,pv_segment_gross_margin,FY2025,4.6,percent,True,"光伏行业 64,546,159,428\.01 61,578,236,334\.08 4\.60",光伏行业 segment; 4.58 pp lower than FY2024 per report,D20__Trina_2025_AR.pdf
+Trina,module_shipments,FY2025,67.0,GW (company: 'over 67 GW'),True,2025 年全年组件出货量超 67GW,lower bound as stated,D20__Trina_2025_AR.pdf
+Trina,capex_cash,FY2025,4669.24,RMB million,True,"4,669,241,755\.22","购建固定资产、无形资产和其他长期资产支付的现金; FY2024 13,286.96; statement scope (consolidated vs parent) not separately confirmed",D20__Trina_2025_AR.pdf
+JA Solar,revenue,FY2025,49128.71,RMB million,True,"49,128,712,950\.94","FY2024 70,120.70",D21__JASolar_2025_AR.pdf
+JA Solar,revenue,FY2024,70120.7,RMB million,True,"70,120,697,029\.73",,D21__JASolar_2025_AR.pdf
+JA Solar,net_profit_attributable,FY2025,-4608.26,RMB million,True,"-460,826\.01 万元",stated in 万元,D21__JASolar_2025_AR.pdf
+JA Solar,operating_cash_flow,FY2025,4279.98,RMB million,True,"4,279,976,369\.76","FY2024 3,346.58; equals the sum of the four quarterly figures",D21__JASolar_2025_AR.pdf
+JA Solar,operating_cash_flow,FY2024,3346.58,RMB million,True,"3,346,575,961\.54",,D21__JASolar_2025_AR.pdf
+JA Solar,new_energy_segment_gross_margin,FY2025,-2.1,percent,True,"新能源行业 49,128,712,950\.94 50,161,114,115\.39 -2\.10%",module -4.03%; cell -17.88%,D21__JASolar_2025_AR.pdf
+JA Solar,cell_and_module_shipments,FY2025,69.563,GW (incl. 157 MW self-use),True,69\.563GW,overseas module share 51.29%,D21__JASolar_2025_AR.pdf
+JA Solar,capex_cash,FY2025,5044.1,RMB million,True,"5,044,100,797\.72","FY2024 11,828.86; statement scope not separately confirmed",D21__JASolar_2025_AR.pdf
+Tongwei,revenue,FY2025,84128.28,RMB million,True,"84,128,281,703\.14","FY2024 91,994.40; -8.55%; includes feed and food business",D22__Tongwei_2025_AR.pdf
+Tongwei,revenue,FY2024,91994.4,RMB million,True,"91,994,404,333\.54",,D22__Tongwei_2025_AR.pdf
+Tongwei,net_profit_attributable,FY2025,-9553.43,RMB million,True,"-9,553,425,884\.06","FY2024 -7,038.76",D22__Tongwei_2025_AR.pdf
+Tongwei,operating_cash_flow,FY2025,1379.19,RMB million,True,"1,379,185,344\.61","FY2024 1,143.74",D22__Tongwei_2025_AR.pdf
+Tongwei,pv_segment_revenue,FY2025,54138.16,RMB million,True,"光伏业务 54,138,155,120\.72 54,745,070,240\.73 -1\.12",光伏业务 segment gross margin -1.12%,D22__Tongwei_2025_AR.pdf
+Tongwei,polysilicon_chemicals_gross_margin,FY2025,-5.38,percent,True,"高纯晶硅、化工及相关业务 15,988,761,991\.96 16,848,635,024\.84 -5\.38",,D22__Tongwei_2025_AR.pdf
+Tongwei,cell_module_gross_margin,FY2025,-0.38,percent,True,"太阳能电池、组件及相关业务 39,560,181,374\.11 39,712,257,284\.84 -0\.38",,D22__Tongwei_2025_AR.pdf
+Tongwei,high_purity_silicon_sales,FY2025,384.8,thousand tonnes,True,高纯晶硅销量 38\.48 万吨,,D22__Tongwei_2025_AR.pdf
+Tongwei,cell_sales,FY2025,103.03,GW,True,电池销量 103\.03GW,overseas 16.73 GW,D22__Tongwei_2025_AR.pdf
+Tongwei,capex_cash,FY2025,13055.82,RMB million,True,"13,055,824,075\.89","FY2024 28,388.18; statement scope not separately confirmed",D22__Tongwei_2025_AR.pdf

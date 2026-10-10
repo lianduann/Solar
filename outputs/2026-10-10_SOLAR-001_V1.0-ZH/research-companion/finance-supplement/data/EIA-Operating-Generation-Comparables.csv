@@ -1,0 +1,98 @@
+year,plant_id,plant_name,county,proximity,mwac_2025,mwdc_2025,dc_ac_ratio,first_cod,last_cod,tracking,months_reported,full_year_constant_capacity,annual_net_generation_mwh,hours,leap_year,annual_capacity_factor_ac,flags,respondent_frequency
+2023,63255,2W Permian Solar Project Hybrid,Andrews,nearby,420.00000,520.00000,1.23810,2021-08,2021-08,Y,12,True,908653.00000,8760,False,0.24697,storage-hybrid site,M
+2024,63255,2W Permian Solar Project Hybrid,Andrews,nearby,420.00000,520.00000,1.23810,2021-08,2021-08,Y,12,True,911260.00000,8784,True,0.24700,storage-hybrid site,M
+2025,63255,2W Permian Solar Project Hybrid,Andrews,nearby,420.00000,520.00000,1.23810,2021-08,2021-08,Y,12,True,1007398.00000,8760,False,0.27381,storage-hybrid site,M
+2023,59206,Alamo 6,Pecos,same county,105.00000,139.10000,1.32476,2017-03,2017-03,N,12,True,246554.00000,8760,False,0.26805,clean full-year standalone PV,M
+2024,59206,Alamo 6,Pecos,same county,105.00000,139.10000,1.32476,2017-03,2017-03,N,12,True,237908.00000,8784,True,0.25795,clean full-year standalone PV,M
+2025,59206,Alamo 6,Pecos,same county,105.00000,139.10000,1.32476,2017-03,2017-03,N,12,True,226282.00000,8760,False,0.24601,clean full-year standalone PV,M
+2025,68145,Angelo Solar,Tom Green,other ERCOT (Ch313 comparable),195.00000,263.00000,1.34872,2025-01,2025-01,Y,12,False,513838.00000,8760,False,,partial year / new or expanded capacity,M
+2023,58710,Barilla Solar,Pecos,same county,30.20000,37.60000,1.24503,2015-06,2015-06,N,12,True,79129.00000,8760,False,0.29911,annual respondent (monthly values allocated by EIA),AM
+2024,58710,Barilla Solar,Pecos,same county,30.20000,37.60000,1.24503,2015-06,2015-06,N,12,True,53677.00000,8784,True,0.20234,annual respondent (monthly values allocated by EIA),AM
+2025,58710,Barilla Solar,Pecos,same county,30.20000,37.60000,1.24503,2015-06,2015-06,N,12,True,52945.00000,8760,False,0.20013,annual respondent (monthly values allocated by EIA),AM
+2023,60044,Buckthorn Westex,Pecos,same county,154.00000,202.00000,1.31169,2018-05,2018-05,Y,12,True,354320.00000,8760,False,0.26265,clean full-year standalone PV,M
+2024,60044,Buckthorn Westex,Pecos,same county,154.00000,202.00000,1.31169,2018-05,2018-05,Y,12,True,376097.00000,8784,True,0.27803,clean full-year standalone PV,M
+2025,60044,Buckthorn Westex,Pecos,same county,154.00000,202.00000,1.31169,2018-05,2018-05,Y,12,True,356578.00000,8760,False,0.26432,clean full-year standalone PV,M
+2023,60123,Castle Gap Solar Hybrid,Upton,adjacent,180.00000,234.00000,1.30000,2018-05,2018-05,Y,12,True,397193.00000,8760,False,0.25190,storage-hybrid site,M
+2024,60123,Castle Gap Solar Hybrid,Upton,adjacent,180.00000,234.00000,1.30000,2018-05,2018-05,Y,12,True,396880.00000,8784,True,0.25101,storage-hybrid site,M
+2025,60123,Castle Gap Solar Hybrid,Upton,adjacent,180.00000,234.00000,1.30000,2018-05,2018-05,Y,12,True,384511.00000,8760,False,0.24386,storage-hybrid site,M
+2023,65793,"Concho Valley Solar, LLC",Tom Green,other ERCOT (Ch313 comparable),172.80000,214.60000,1.24190,2023-05,2023-05,N,12,False,336108.00000,8760,False,,partial year / new or expanded capacity,M
+2024,65793,"Concho Valley Solar, LLC",Tom Green,other ERCOT (Ch313 comparable),172.80000,214.60000,1.24190,2023-05,2023-05,N,12,True,295151.00000,8784,True,0.19445,clean full-year standalone PV,M
+2025,65793,"Concho Valley Solar, LLC",Tom Green,other ERCOT (Ch313 comparable),172.80000,214.60000,1.24190,2023-05,2023-05,N,12,True,303594.00000,8760,False,0.20056,clean full-year standalone PV,M
+2023,63519,Crane Solar Project,Crane,adjacent,150.00000,212.60000,1.41733,2020-07,2020-07,Y,12,True,406595.00000,8760,False,0.30943,clean full-year standalone PV,M
+2024,63519,Crane Solar Project,Crane,adjacent,150.00000,212.60000,1.41733,2020-07,2020-07,Y,12,True,409900.00000,8784,True,0.31110,clean full-year standalone PV,M
+2025,63519,Crane Solar Project,Crane,adjacent,150.00000,212.60000,1.41733,2020-07,2020-07,Y,12,True,405477.00000,8760,False,0.30858,clean full-year standalone PV,M
+2023,60436,East Pecos Solar,Pecos,same county,118.50000,142.80000,1.20506,2017-04,2017-04,Y,12,True,266984.00000,8760,False,0.25720,clean full-year standalone PV,M
+2024,60436,East Pecos Solar,Pecos,same county,118.50000,142.80000,1.20506,2017-04,2017-04,Y,12,True,247424.00000,8784,True,0.23770,clean full-year standalone PV,M
+2025,60436,East Pecos Solar,Pecos,same county,118.50000,142.80000,1.20506,2017-04,2017-04,Y,12,True,219423.00000,8760,False,0.21138,clean full-year standalone PV,M
+2023,63233,Emerald Grove,Pecos,same county,108.00000,140.80000,1.30370,2023-03,2023-03,Y,12,False,283847.00000,8760,False,,partial year / new or expanded capacity,M
+2024,63233,Emerald Grove,Pecos,same county,108.00000,140.80000,1.30370,2023-03,2023-03,Y,12,True,278740.00000,8784,True,0.29382,clean full-year standalone PV,M
+2025,63233,Emerald Grove,Pecos,same county,108.00000,140.80000,1.30370,2023-03,2023-03,Y,12,True,256324.00000,8760,False,0.27093,clean full-year standalone PV,M
+2023,61920,Galloway 1 Solar Farm,Concho,other ERCOT (Ch313 comparable),250.00000,319.00000,1.27600,2021-10,2021-10,Y,12,True,566065.00000,8760,False,0.25848,clean full-year standalone PV,M
+2024,61920,Galloway 1 Solar Farm,Concho,other ERCOT (Ch313 comparable),250.00000,319.00000,1.27600,2021-10,2021-10,Y,12,True,504009.00000,8784,True,0.22951,clean full-year standalone PV,M
+2025,61920,Galloway 1 Solar Farm,Concho,other ERCOT (Ch313 comparable),250.00000,319.00000,1.27600,2021-10,2021-10,Y,12,True,551888.00000,8760,False,0.25200,clean full-year standalone PV,M
+2023,63343,Galloway 2 Solar Farm,Concho,other ERCOT (Ch313 comparable),110.00000,146.60000,1.33273,2023-10,2023-10,N,3,False,,8760,False,,partial year / new or expanded capacity,M
+2024,63343,Galloway 2 Solar Farm,Concho,other ERCOT (Ch313 comparable),110.00000,146.60000,1.33273,2023-10,2023-10,N,12,True,230360.00000,8784,True,0.23841,clean full-year standalone PV,M
+2025,63343,Galloway 2 Solar Farm,Concho,other ERCOT (Ch313 comparable),110.00000,146.60000,1.33273,2023-10,2023-10,N,12,True,246701.00000,8760,False,0.25602,clean full-year standalone PV,M
+2024,67006,Greasewood II LLC,Pecos,same county,306.00000,398.00000,1.30065,2024-10,2024-10,Y,3,False,,8784,True,,partial year / new or expanded capacity,M
+2025,67006,Greasewood II LLC,Pecos,same county,306.00000,398.00000,1.30065,2024-10,2024-10,Y,12,True,796894.00000,8760,False,0.29729,clean full-year standalone PV,M
+2023,62804,Greasewood Solar,Pecos,same county,255.00000,348.00000,1.36471,2021-02,2021-02,Y,12,True,208978.00000,8760,False,0.09355,clean full-year standalone PV,M
+2024,62804,Greasewood Solar,Pecos,same county,255.00000,348.00000,1.36471,2021-02,2021-02,Y,12,True,168806.00000,8784,True,0.07536,clean full-year standalone PV,M
+2025,62804,Greasewood Solar,Pecos,same county,255.00000,348.00000,1.36471,2021-02,2021-02,Y,12,True,408300.00000,8760,False,0.18278,clean full-year standalone PV,M
+2023,62448,Lapetus,Andrews,nearby,100.00000,133.00000,1.33000,2019-12,2019-12,Y,12,True,191707.00000,8760,False,0.21884,clean full-year standalone PV,M
+2024,62448,Lapetus,Andrews,nearby,100.00000,133.00000,1.33000,2019-12,2019-12,Y,12,True,193280.00000,8784,True,0.22004,clean full-year standalone PV,M
+2025,62448,Lapetus,Andrews,nearby,100.00000,133.00000,1.33000,2019-12,2019-12,Y,12,True,221147.00000,8760,False,0.25245,clean full-year standalone PV,M
+2023,61368,Midway Solar - TX,Pecos,same county,182.00000,235.70000,1.29505,2018-12,2018-12,Y,12,True,287431.00000,8760,False,0.18028,clean full-year standalone PV,M
+2024,61368,Midway Solar - TX,Pecos,same county,182.00000,235.70000,1.29505,2018-12,2018-12,Y,12,True,316736.00000,8784,True,0.19812,clean full-year standalone PV,M
+2025,61368,Midway Solar - TX,Pecos,same county,182.00000,235.70000,1.29505,2018-12,2018-12,Y,12,True,332466.00000,8760,False,0.20853,clean full-year standalone PV,M
+2025,61967,Norton Solar Farm,Runnels,other ERCOT (Ch313 comparable),125.00000,159.30000,1.27440,2025-10,2025-10,Y,3,False,,8760,False,,partial year / new or expanded capacity,M
+2023,62933,Oberon IA,Ector,nearby,150.00000,193.00000,1.28667,2020-07,2020-07,Y,12,True,325718.00000,8760,False,0.24788,clean full-year standalone PV,M
+2024,62933,Oberon IA,Ector,nearby,150.00000,193.00000,1.28667,2020-07,2020-07,Y,12,True,271236.00000,8784,True,0.20586,clean full-year standalone PV,M
+2025,62933,Oberon IA,Ector,nearby,150.00000,193.00000,1.28667,2020-07,2020-07,Y,12,True,302685.00000,8760,False,0.23035,clean full-year standalone PV,M
+2023,62932,Oberon IB,Ector,nearby,30.00000,37.30000,1.24333,2020-07,2020-07,Y,12,True,65091.00000,8760,False,0.24768,clean full-year standalone PV,M
+2024,62932,Oberon IB,Ector,nearby,30.00000,37.30000,1.24333,2020-07,2020-07,Y,12,True,54002.00000,8784,True,0.20493,clean full-year standalone PV,M
+2025,62932,Oberon IB,Ector,nearby,30.00000,37.30000,1.24333,2020-07,2020-07,Y,12,True,61946.00000,8760,False,0.23572,clean full-year standalone PV,M
+2023,63388,Oxy Renewable Energy - Goldsmith,Ector,nearby,16.80000,20.80000,1.23810,2020-05,2020-05,Y,12,True,42652.00000,8760,False,0.28982,annual respondent (monthly values allocated by EIA),AM
+2024,63388,Oxy Renewable Energy - Goldsmith,Ector,nearby,16.80000,20.80000,1.23810,2020-05,2020-05,Y,12,True,40537.00000,8784,True,0.27469,annual respondent (monthly values allocated by EIA),AM
+2025,63388,Oxy Renewable Energy - Goldsmith,Ector,nearby,16.80000,20.80000,1.23810,2020-05,2020-05,Y,12,True,38798.00000,8760,False,0.26363,annual respondent (monthly values allocated by EIA),AM
+2023,60682,Pearl Solar,Pecos,same county,50.00000,66.10000,1.32200,2017-10,2017-10,Y,12,True,94982.00000,8760,False,0.21685,clean full-year standalone PV,M
+2024,60682,Pearl Solar,Pecos,same county,50.00000,66.10000,1.32200,2017-10,2017-10,Y,12,True,101232.00000,8784,True,0.23049,clean full-year standalone PV,M
+2025,60682,Pearl Solar,Pecos,same county,50.00000,66.10000,1.32200,2017-10,2017-10,Y,12,True,97375.00000,8760,False,0.22232,clean full-year standalone PV,M
+2023,61906,Phoebe Solar,Winkler,nearby,250.00000,317.00000,1.26800,2019-11,2019-11,Y,12,True,527130.00000,8760,False,0.24070,clean full-year standalone PV,M
+2024,61906,Phoebe Solar,Winkler,nearby,250.00000,317.00000,1.26800,2019-11,2019-11,Y,12,True,518118.00000,8784,True,0.23594,clean full-year standalone PV,M
+2025,61906,Phoebe Solar,Winkler,nearby,250.00000,317.00000,1.26800,2019-11,2019-11,Y,12,True,557289.00000,8760,False,0.25447,clean full-year standalone PV,M
+2023,62755,Prospero Solar,Andrews,nearby,300.00000,379.00000,1.26333,2020-06,2020-06,Y,12,True,712235.00000,8760,False,0.27102,clean full-year standalone PV,M
+2024,62755,Prospero Solar,Andrews,nearby,300.00000,379.00000,1.26333,2020-06,2020-06,Y,12,True,752681.00000,8784,True,0.28563,clean full-year standalone PV,M
+2025,62755,Prospero Solar,Andrews,nearby,300.00000,379.00000,1.26333,2020-06,2020-06,Y,12,True,759356.00000,8760,False,0.28895,clean full-year standalone PV,M
+2023,64325,Prospero Solar II,Andrews,nearby,250.00000,331.00000,1.32400,2021-08,2021-08,Y,12,True,672147.00000,8760,False,0.30692,clean full-year standalone PV,M
+2024,64325,Prospero Solar II,Andrews,nearby,250.00000,331.00000,1.32400,2021-08,2021-08,Y,12,True,680602.00000,8784,True,0.30993,clean full-year standalone PV,M
+2025,64325,Prospero Solar II,Andrews,nearby,250.00000,331.00000,1.32400,2021-08,2021-08,Y,12,True,667046.00000,8760,False,0.30459,clean full-year standalone PV,M
+2023,61346,RE Maplewood,Pecos,same county,250.00000,327.00000,1.30800,2021-04,2021-10,Y,12,True,462705.00000,8760,False,0.21128,multi-generator aggregate,M
+2024,61346,RE Maplewood,Pecos,same county,250.00000,327.00000,1.30800,2021-04,2021-10,Y,12,True,561007.00000,8784,True,0.25547,multi-generator aggregate,M
+2025,61346,RE Maplewood,Pecos,same county,250.00000,327.00000,1.30800,2021-04,2021-10,Y,12,True,526415.00000,8760,False,0.24037,multi-generator aggregate,M
+2023,59994,RE Roserock,Pecos,same county,160.00000,212.10000,1.32563,2016-11,2016-11,Y,12,True,385479.00000,8760,False,0.27503,clean full-year standalone PV,M
+2024,59994,RE Roserock,Pecos,same county,160.00000,212.10000,1.32563,2016-11,2016-11,Y,12,True,365758.00000,8784,True,0.26024,clean full-year standalone PV,M
+2025,59994,RE Roserock,Pecos,same county,160.00000,212.10000,1.32563,2016-11,2016-11,Y,12,True,377963.00000,8760,False,0.26967,clean full-year standalone PV,M
+2023,62141,Rambler,Tom Green,other ERCOT (Ch313 comparable),200.00000,266.00000,1.33000,2020-06,2020-06,Y,12,True,452084.00000,8760,False,0.25804,clean full-year standalone PV,M
+2024,62141,Rambler,Tom Green,other ERCOT (Ch313 comparable),200.00000,266.00000,1.33000,2020-06,2020-06,Y,12,True,439864.00000,8784,True,0.25038,clean full-year standalone PV,M
+2025,62141,Rambler,Tom Green,other ERCOT (Ch313 comparable),200.00000,266.00000,1.33000,2020-06,2020-06,Y,12,True,376921.00000,8760,False,0.21514,clean full-year standalone PV,M
+2023,62561,"Roadrunner, LLC Hybrid",Upton,adjacent,400.00000,497.00000,1.24250,2019-11,2020-09,Y,12,True,1012669.00000,8760,False,0.28900,storage-hybrid site; multi-generator aggregate,M
+2024,62561,"Roadrunner, LLC Hybrid",Upton,adjacent,400.00000,497.00000,1.24250,2019-11,2020-09,Y,12,True,1008487.00000,8784,True,0.28702,storage-hybrid site; multi-generator aggregate,M
+2025,62561,"Roadrunner, LLC Hybrid",Upton,adjacent,400.00000,497.00000,1.24250,2019-11,2020-09,Y,12,True,1080313.00000,8760,False,0.30831,storage-hybrid site; multi-generator aggregate,M
+2023,60989,SolaireHolman Solar Project,Brewster,adjacent,50.00000,64.50000,1.29000,2017-04,2017-04,Y,12,True,113904.00000,8760,False,0.26005,clean full-year standalone PV,M
+2024,60989,SolaireHolman Solar Project,Brewster,adjacent,50.00000,64.50000,1.29000,2017-04,2017-04,Y,12,True,117983.00000,8784,True,0.26863,clean full-year standalone PV,M
+2025,60989,SolaireHolman Solar Project,Brewster,adjacent,50.00000,64.50000,1.29000,2017-04,2017-04,Y,12,True,105987.00000,8760,False,0.24198,clean full-year standalone PV,M
+2025,68537,Swift Air Solar I,Ector,nearby,145.00000,184.00000,1.26897,2025-04,2025-04,Y,9,False,,8760,False,,partial year / new or expanded capacity,M
+2025,68587,Swift Air Solar II,Ector,nearby,173.60000,188.30000,1.08468,2025-11,2025-11,Y,2,False,,8760,False,,partial year / new or expanded capacity,M
+2025,68588,Swift Air Solar III,Ector,nearby,100.00000,125.00000,1.25000,2025-11,2025-11,Y,2,False,,8760,False,,partial year / new or expanded capacity,M
+2023,62483,Taygete Energy Project LLC,Pecos,same county,255.00000,344.10000,1.34941,2021-03,2021-03,Y,12,True,541129.00000,8760,False,0.24225,clean full-year standalone PV,M
+2024,62483,Taygete Energy Project LLC,Pecos,same county,255.00000,344.10000,1.34941,2021-03,2021-03,Y,12,True,452518.00000,8784,True,0.20202,clean full-year standalone PV,M
+2025,62483,Taygete Energy Project LLC,Pecos,same county,255.00000,344.10000,1.34941,2021-03,2021-03,Y,12,True,547505.00000,8760,False,0.24510,clean full-year standalone PV,M
+2023,64075,Taygete II Energy Project,Pecos,same county,203.80000,258.40000,1.26791,2023-07,2023-07,Y,12,False,443608.00000,8760,False,,partial year / new or expanded capacity,M
+2024,64075,Taygete II Energy Project,Pecos,same county,203.80000,258.40000,1.26791,2023-07,2023-07,Y,12,True,503002.00000,8784,True,0.28098,clean full-year standalone PV,M
+2025,64075,Taygete II Energy Project,Pecos,same county,203.80000,258.40000,1.26791,2023-07,2023-07,Y,12,True,455787.00000,8760,False,0.25530,clean full-year standalone PV,M
+2023,60581,Upton County Solar,Upton,adjacent,150.00000,213.00000,1.42000,2017-12,2017-12,Y,12,True,317558.00000,8760,False,0.24167,clean full-year standalone PV,M
+2024,60581,Upton County Solar,Upton,adjacent,150.00000,213.00000,1.42000,2017-12,2017-12,Y,12,True,309513.00000,8784,True,0.23491,clean full-year standalone PV,M
+2025,60581,Upton County Solar,Upton,adjacent,150.00000,213.00000,1.42000,2017-12,2017-12,Y,12,True,299145.00000,8760,False,0.22766,clean full-year standalone PV,M
+2023,62415,West of the Pecos Solar,Reeves,adjacent,100.00000,130.00000,1.30000,2019-12,2019-12,Y,12,True,230421.00000,8760,False,0.26304,clean full-year standalone PV,M
+2024,62415,West of the Pecos Solar,Reeves,adjacent,100.00000,130.00000,1.30000,2019-12,2019-12,Y,12,True,234197.00000,8784,True,0.26662,clean full-year standalone PV,M
+2025,62415,West of the Pecos Solar,Reeves,adjacent,100.00000,130.00000,1.30000,2019-12,2019-12,Y,12,True,244751.00000,8760,False,0.27940,clean full-year standalone PV,M

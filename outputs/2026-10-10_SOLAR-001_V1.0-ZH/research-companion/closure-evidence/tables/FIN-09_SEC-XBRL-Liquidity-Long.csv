@@ -1,0 +1,145 @@
+company,cik,period,field,xbrl_tag,unit,value,accession,form,filed,filing_fy,status
+JinkoSolar Holding,1481513,FY2024,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,CNY,25053762000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,CNY,20008382000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,CNY,2684214000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,CNY,2929999000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,restricted_cash_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,restricted_cash_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,CNY,27737976000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,CNY,22938381000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,CNY,16850366000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,CNY,1081871000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,short_term_borrowings,ShortTermBorrowings,CNY,6933899000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,short_term_borrowings,ShortTermBorrowings,CNY,10655366000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,debt_current_total,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,debt_current_total,DebtCurrent,CNY,10655366000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_next_12m,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_next_12m,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_year2,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_year2,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_year3,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_year3,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_year4,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_year4,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_year5,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_year5,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2025,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+JinkoSolar Holding,1481513,FY2024,warranty_accrual_total,ProductWarrantyAccrual,CNY,989000000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,warranty_accrual_total,ProductWarrantyAccrual,CNY,1141000000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,warranty_accrual_current,StandardProductWarrantyAccrualCurrent,CNY,268445000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,warranty_accrual_current,StandardProductWarrantyAccrualCurrent,CNY,210075000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2024,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,CNY,2136192000,0001104659-26-050737,20-F,2026-04-29,2025,found
+JinkoSolar Holding,1481513,FY2025,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,CNY,1655630000,0001104659-26-050737,20-F,2026-04-29,2025,found
+Canadian Solar,1375877,FY2024,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,1701487000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,1370418000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,USD,551387000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,USD,541705000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,restricted_cash_noncurrent,RestrictedCashAndCashEquivalentsNoncurrent,USD,11147000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,restricted_cash_noncurrent,RestrictedCashAndCashEquivalentsNoncurrent,USD,28312000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,2264021000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,1940435000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,-885324000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,-252741000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,short_term_borrowings,ShortTermBorrowings,USD,1873306000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,short_term_borrowings,ShortTermBorrowings,USD,2389037000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2025,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2024,debt_current_total,DebtCurrent,USD,1873306000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,debt_current_total,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2024,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2025,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2024,ltd_maturity_next_12m,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,USD,1873307000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_next_12m,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,USD,2389037000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,ltd_maturity_year2,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,USD,812798000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_year2,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,USD,1685215000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,ltd_maturity_year3,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,USD,569199000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_year3,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,USD,997513000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,ltd_maturity_year4,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,USD,329388000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_year4,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,USD,229296000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,ltd_maturity_year5,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,USD,141707000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_year5,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,USD,347378000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,ltd_maturity_after5,LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive,USD,878450000,0001410578-25-001046,20-F,2025-04-30,2024,found
+Canadian Solar,1375877,FY2025,ltd_maturity_after5,LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive,USD,361830000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2024,warranty_accrual_total,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2025,warranty_accrual_total,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2024,warranty_accrual_current,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2025,warranty_accrual_current,,,,,,,,not tagged in XBRL (check filing note)
+Canadian Solar,1375877,FY2024,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,USD,84127000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Canadian Solar,1375877,FY2025,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,USD,138386000,0001104659-26-041976,20-F,2026-04-10,2025,found
+Daqo New Energy,1477641,FY2024,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,1006536000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2025,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,856054000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2024,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,USD,31813000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2025,restricted_cash_current,RestrictedCashAndCashEquivalentsAtCarryingValue,USD,124238000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2024,restricted_cash_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,restricted_cash_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,1038349000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2025,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,980292000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2024,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,-435423000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2025,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,49666000,0001104659-26-045134,20-F,2026-04-20,2025,found
+Daqo New Energy,1477641,FY2024,short_term_borrowings,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,short_term_borrowings,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,debt_current_total,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,debt_current_total,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,long_term_debt_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_next_12m,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_next_12m,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_year2,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_year2,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_year3,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_year3,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_year4,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_year4,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_year5,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_year5,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,warranty_accrual_total,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,warranty_accrual_total,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,warranty_accrual_current,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,warranty_accrual_current,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2024,warranty_accrual_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+Daqo New Energy,1477641,FY2025,warranty_accrual_noncurrent,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2024,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,1621376000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,cash_and_equivalents,CashAndCashEquivalentsAtCarryingValue,USD,2803514000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,restricted_cash_current,RestrictedCashCurrent,USD,8262000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,restricted_cash_current,RestrictedCashCurrent,USD,0,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,restricted_cash_noncurrent,RestrictedCashNoncurrent,USD,3613000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,restricted_cash_noncurrent,RestrictedCashNoncurrent,USD,3617000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,1638223000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,cash_restricted_total_cf,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,USD,2814031000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,1217999000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,operating_cash_flow,NetCashProvidedByUsedInOperatingActivities,USD,2057105000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,short_term_borrowings,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2025,short_term_borrowings,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2024,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2025,long_term_debt_current,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2024,debt_current_total,DebtCurrent,USD,236424000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,debt_current_total,DebtCurrent,USD,215979000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,long_term_debt_noncurrent,LongTermDebtNoncurrent,USD,373354000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,long_term_debt_noncurrent,LongTermDebtNoncurrent,USD,282593000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,ltd_maturity_next_12m,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,USD,90899000,0001274494-25-000010,10-K,2025-02-25,2024,found
+First Solar,1274494,FY2025,ltd_maturity_next_12m,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,USD,90899000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,ltd_maturity_year2,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,USD,90899000,0001274494-25-000010,10-K,2025-02-25,2024,found
+First Solar,1274494,FY2025,ltd_maturity_year2,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,USD,90950000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,ltd_maturity_year3,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,USD,90950000,0001274494-25-000010,10-K,2025-02-25,2024,found
+First Solar,1274494,FY2025,ltd_maturity_year3,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,USD,91000000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,ltd_maturity_year4,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,USD,91000000,0001274494-25-000010,10-K,2025-02-25,2024,found
+First Solar,1274494,FY2025,ltd_maturity_year4,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,USD,100802000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,ltd_maturity_year5,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,USD,100802000,0001274494-25-000010,10-K,2025-02-25,2024,found
+First Solar,1274494,FY2025,ltd_maturity_year5,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2024,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2025,ltd_maturity_after5,,,,,,,,not tagged in XBRL (check filing note)
+First Solar,1274494,FY2024,warranty_accrual_total,StandardProductWarrantyAccrual,USD,76435000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,warranty_accrual_total,StandardProductWarrantyAccrual,USD,79408000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,warranty_accrual_current,ProductWarrantyAccrualClassifiedCurrent,USD,62139000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,warranty_accrual_current,ProductWarrantyAccrualClassifiedCurrent,USD,59266000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2024,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,USD,14296000,0001274494-26-000021,10-K,2026-02-24,2025,found
+First Solar,1274494,FY2025,warranty_accrual_noncurrent,ProductWarrantyAccrualNoncurrent,USD,20142000,0001274494-26-000021,10-K,2026-02-24,2025,found

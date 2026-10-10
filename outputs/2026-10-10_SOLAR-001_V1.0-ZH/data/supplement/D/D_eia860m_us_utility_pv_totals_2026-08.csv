@@ -1,0 +1,9 @@
+,value
+generators,8281.0
+plants,7594.0
+nameplate_ac_mw,167564.8
+net_summer_mw,166612.9
+dc_net_mw_reported,198817.49000000002
+generators_with_dc,8007.0
+nameplate_ac_mw_where_dc_reported,153139.09999999998
+dc_ac_ratio_where_dc_reported,1.2982803869162092

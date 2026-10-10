@@ -1,0 +1,8 @@
+metric,mw,source,note
+Approved to Energize (chart total),9043,"C02 ERCOT Large Load Interconnection Status Update, TAC 2026-03-13 (retained PDF C02, p.5)","slide 6 text says 9,042 MW"
+  of which LZ_WEST,5136,C02 p.5,"observed non-simultaneous peak 2,253 + remaining 2,883"
+  of which Other zones (LZ_NORTH/SOUTH/HOUSTON),3907,C02 p.5,"observed 1,634 + remaining 2,273"
+  of which co-located,2044,C02 p.5,"observed 1,238 + remaining 806"
+  of which standalone,6999,C02 p.5,"observed 2,648 + remaining 4,351"
+Observed non-simultaneous monthly peak consumption of approved loads,3883,C02 p.6,"deck text says 'March 2025' though deck is dated 2026-03-13; source wording kept, not corrected; chart parts sum to 3,886-3,887 (rounding)"
+Observed simultaneous monthly peak,3801,C02 p.7,max value of the sum of all individual loads per month

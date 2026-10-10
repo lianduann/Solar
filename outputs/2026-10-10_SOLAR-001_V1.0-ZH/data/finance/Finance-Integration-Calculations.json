@@ -1,0 +1,14 @@
+{
+  "occ": 126041695.3068845,
+  "gcc": 17632971.3670987,
+  "capex": 143674666.6739832,
+  "old_credit_pv": 40329070.637154445,
+  "occ_credit_pv": 35379545.68422539,
+  "credit_reduction": 4949524.952929057,
+  "node_with_occ_credit": -50585735.49833176,
+  "fixed_with_occ_credit": -38360572.60314848,
+  "break_even_with_occ_credit": 53.50949300441343,
+  "reserve_removal_pv": 1792743.1332432835,
+  "node_without_reserve": -84172538.04931387,
+  "fixed_without_reserve": -71947375.1541306
+}

@@ -1,0 +1,18 @@
+{
+ "validation_chart_rows_within_1usd_per_kwdc": true,
+ "pass_through_k": 1.1439750000000004,
+ "module_share_mmp": 0.2611112621967449,
+ "pv_only_mmp_usd_per_kwdc": 1115.29027507246,
+ "pv_only_msp_usd_per_kwdc": 1065.8620215425808,
+ "atb_2024usd_per_wdc": 1.0605388200728718,
+ "lbnl_pdf_pages": {
+  "headline": 5,
+  "scope": 30
+ },
+ "module_dollar_shift_checks": {
+  "-100.0": -114.39750000000004,
+  "-50.0": -57.19875000000002,
+  "50.0": 57.19875000000002,
+  "100.0": 114.39750000000004
+ }
+}

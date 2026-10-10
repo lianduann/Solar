@@ -1,0 +1,4 @@
+variant,credit_usd_per_mwh_2025,value_per_credit_dollar,credit_years,pv_usd_m,node_base_npv_plus_credit_usd_m,fixed_base_npv_plus_credit_usd_m,fixed_route_breakeven_usd_mwh
+"Full rate (PWA met), retained by owner",30.0,1.0,10,57.8,-28.17,-15.94,45.61
+"Full rate, transferred at $0.90 per credit dollar",30.0,0.9,10,52.02,-33.95,-21.72,47.65
+Base rate (PWA not met),6.0,1.0,10,11.56,-74.41,-62.18,61.9
