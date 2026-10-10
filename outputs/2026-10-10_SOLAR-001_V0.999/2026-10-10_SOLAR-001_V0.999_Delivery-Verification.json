@@ -1,0 +1,20 @@
+{
+ "zip": "2026-10-10_SOLAR-001_V0.999.zip",
+ "zip_sha256": "3f4749dac147d78e2e38864aee4cafb0222a0a4dddbf6836e3c52b2e8d6fb83a",
+ "zip_entries": 521,
+ "crc_test": "unzip -t: No errors detected; zipfile.testzip(): None",
+ "path_safety": "all entries under 2026-10-10_SOLAR-001_V0.999/; no absolute paths, '..' segments, backslashes or duplicates",
+ "independent_extraction": "extracted into a new empty directory; sha256sum -c SHA256SUMS.txt: all 519 files OK",
+ "rebuild_from_extracted_copy": {
+  "command": "python3 build/build_all.py --output-dir /tmp/solar-x-rebuild",
+  "exit_status": 0,
+  "pages_delivered": 85,
+  "pages_rebuilt": 85,
+  "pages_with_text_difference": [],
+  "bookmarks_equal": true,
+  "figure_svgs_identical": 34,
+  "figure_svgs_total": 34,
+  "result": "PASS"
+ },
+ "checked_utc": "2026-10-10T06:03:36+00:00"
+}
