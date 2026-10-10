@@ -75,6 +75,36 @@
   "detail": ""
  },
  {
+  "check": "LONGi KPIs verbatim",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "LONGi segment margins 0.19 / -5.30",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "FIN-09 145 values, none NOT FOUND",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "Proclamation clause 2(c) shortfall text",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "RECAP docket terminated June 8, 2026",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "Batch Zero 127.9 and 125.4 in deck",
+  "pass": true,
+  "detail": ""
+ },
+ {
   "check": "credential scan",
   "pass": true,
   "detail": "[]"

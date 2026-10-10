@@ -1,0 +1,396 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1e295363f">
+    <name type="corporate">
+         <namePart>United States Government Publishing Office</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+              <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+        </role>
+         <role>
+              <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+              <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+        </role>
+    </name>
+    <name type="corporate">
+         <namePart>United States</namePart>
+         <namePart>United States District Court District of Columbia</namePart>
+         <role>
+              <roleTerm authority="marcrelator" type="text">author</roleTerm>
+              <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+        </role>
+         <description>Government Organization</description>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">government publication</genre>
+    <language>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <extension>
+         <collectionCode>USCOURTS</collectionCode>
+         <category>Judicial Publications</category>
+         <branch>judicial</branch>
+         <dateIngested>2026-06-07</dateIngested>
+    </extension>
+    <originInfo>
+         <publisher>Administrative Office of the United States Courts</publisher>
+         <dateIssued encoding="w3cdtf">2026-06-06</dateIssued>
+         <issuance>monographic</issuance>
+    </originInfo>
+    <physicalDescription>
+         <note type="source content type">deposited</note>
+         <digitalOrigin>born digital</digitalOrigin>
+         <extent>57 digital object pages</extent>
+    </physicalDescription>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_25-cv-04400</identifier>
+    <identifier type="local">P0b002ee1e295363f</identifier>
+    <recordInfo>
+         <recordContentSource authority="marcorg">DGPO</recordContentSource>
+         <recordCreationDate encoding="w3cdtf">2026-06-07</recordCreationDate>
+         <recordChangeDate encoding="w3cdtf">2026-06-07</recordChangeDate>
+         <recordIdentifier source="DGPO">USCOURTS-dcd-1_25-cv-04400</recordIdentifier>
+         <recordOrigin>machine generated</recordOrigin>
+         <languageOfCataloging>
+              <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </languageOfCataloging>
+    </recordInfo>
+    <accessCondition type="GPO scope determination">fdlp</accessCondition>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-dcd-1_25-cv-04400</accessId>
+         <courtType>District</courtType>
+         <courtCode>dcd</courtCode>
+         <courtCircuit>DC</courtCircuit>
+         <courtState>District of Columbia</courtState>
+         <courtSortOrder>2100</courtSortOrder>
+         <caseNumber>1:25-cv-04400</caseNumber>
+         <caseOffice>Washington, DC</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>899</natureSuitCode>
+         <natureSuit>Other Statutes - Administrative Procedure Act/Review or Appeal of Agency Decision</natureSuit>
+         <cause>05:702 Administrative Procedure Act</cause>
+         <party firstName="SCOTT" fullName="SCOTT BESSENT" lastName="BESSENT" role="Defendant"></party>
+         <party fullName="CITY AND COUNTY OF SAN FRANCISCO" lastName="CITY AND COUNTY OF SAN FRANCISCO" role="Plaintiff"></party>
+         <party fullName="DEPARTMENT OF THE TREASURY" lastName="DEPARTMENT OF THE TREASURY" role="Defendant"></party>
+         <party fullName="DISTRICT OF COLUMBIA" lastName="DISTRICT OF COLUMBIA" role="Amicus"></party>
+         <party fullName="ENVIRONMENTAL DEFENSE FUND, INC." lastName="ENVIRONMENTAL DEFENSE FUND, INC." role="Amicus"></party>
+         <party fullName="HOPI TRIBE" lastName="HOPI TRIBE" role="Plaintiff"></party>
+         <party fullName="HOPI UTILITIES CORPORATION" lastName="HOPI UTILITIES CORPORATION" role="Plaintiff"></party>
+         <party fullName="INTERNAL REVENUE SERVICE" lastName="INTERNAL REVENUE SERVICE" role="Defendant"></party>
+         <party fullName="MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL" lastName="MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL" role="Plaintiff"></party>
+         <party fullName="NATURAL RESOURCES DEFENSE COUNCIL, INC." lastName="NATURAL RESOURCES DEFENSE COUNCIL, INC." role="Plaintiff"></party>
+         <party fullName="OREGON ENVIRONMENTAL COUNCIL" lastName="OREGON ENVIRONMENTAL COUNCIL" role="Plaintiff"></party>
+         <party fullName="PUBLIC CITIZEN" lastName="PUBLIC CITIZEN" role="Plaintiff"></party>
+         <party fullName="STATE OF ARIZONA" lastName="STATE OF ARIZONA" role="Amicus"></party>
+         <party fullName="STATE OF CALIFORNIA" lastName="STATE OF CALIFORNIA" role="Amicus"></party>
+         <party fullName="STATE OF COLORADO" lastName="STATE OF COLORADO" role="Amicus"></party>
+         <party fullName="STATE OF CONNECTICUT" lastName="STATE OF CONNECTICUT" role="Amicus"></party>
+         <party fullName="STATE OF DELAWARE" lastName="STATE OF DELAWARE" role="Amicus"></party>
+         <party fullName="STATE OF ILLINOIS" lastName="STATE OF ILLINOIS" role="Amicus"></party>
+         <party fullName="STATE OF MAINE" lastName="STATE OF MAINE" role="Amicus"></party>
+         <party fullName="STATE OF MARYLAND" lastName="STATE OF MARYLAND" role="Amicus"></party>
+         <party fullName="STATE OF MASSACHUSETTS" lastName="STATE OF MASSACHUSETTS" role="Amicus"></party>
+         <party fullName="STATE OF MICHIGAN" lastName="STATE OF MICHIGAN" role="Amicus"></party>
+         <party fullName="STATE OF MINNESOTA" lastName="STATE OF MINNESOTA" role="Amicus"></party>
+         <party fullName="STATE OF NEW JERSEY" lastName="STATE OF NEW JERSEY" role="Amicus"></party>
+         <party fullName="STATE OF NEW MEXICO" lastName="STATE OF NEW MEXICO" role="Amicus"></party>
+         <party fullName="STATE OF OREGON" lastName="STATE OF OREGON" role="Amicus"></party>
+         <party fullName="STATE OF RHODE ISLAND" lastName="STATE OF RHODE ISLAND" role="Amicus"></party>
+         <party fullName="STATE OF WASHINGTON" lastName="STATE OF WASHINGTON" role="Amicus"></party>
+         <party fullName="WOVEN ENERGY" lastName="WOVEN ENERGY" role="Plaintiff"></party>
+    </extension>
+    <titleInfo>
+         <title>OREGON ENVIRONMENTAL COUNCIL et al v. INTERNAL REVENUE SERVICE et al</title>
+         <partNumber>1:25-cv-04400</partNumber>
+    </titleInfo>
+    <location>
+         <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_25-cv-04400</url>
+    </location>
+    <classification authority="sudocs">JU 4.15</classification>
+    <identifier type="preferred citation">1:25-cv-04400;25-4400</identifier>
+    <name type="corporate">
+         <namePart>United States District Court District of Columbia</namePart>
+         <namePart>DC Circuit</namePart>
+         <namePart>Washington, DC</namePart>
+         <affiliation>U.S. Courts</affiliation>
+         <role>
+              <roleTerm type="text" authority="marcrelator">author</roleTerm>
+              <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+        </role>
+    </name>
+    <name type="personal">
+         <displayForm>SCOTT BESSENT</displayForm>
+         <namePart type="family">BESSENT</namePart>
+         <namePart type="given">SCOTT</namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>CITY AND COUNTY OF SAN FRANCISCO</displayForm>
+         <namePart type="family">CITY AND COUNTY OF SAN FRANCISCO</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>DEPARTMENT OF THE TREASURY</displayForm>
+         <namePart type="family">DEPARTMENT OF THE TREASURY</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>DISTRICT OF COLUMBIA</displayForm>
+         <namePart type="family">DISTRICT OF COLUMBIA</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>ENVIRONMENTAL DEFENSE FUND, INC.</displayForm>
+         <namePart type="family">ENVIRONMENTAL DEFENSE FUND, INC.</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>HOPI TRIBE</displayForm>
+         <namePart type="family">HOPI TRIBE</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>HOPI UTILITIES CORPORATION</displayForm>
+         <namePart type="family">HOPI UTILITIES CORPORATION</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>INTERNAL REVENUE SERVICE</displayForm>
+         <namePart type="family">INTERNAL REVENUE SERVICE</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Defendant</description>
+    </name>
+    <name type="personal">
+         <displayForm>MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL</displayForm>
+         <namePart type="family">MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>NATURAL RESOURCES DEFENSE COUNCIL, INC.</displayForm>
+         <namePart type="family">NATURAL RESOURCES DEFENSE COUNCIL, INC.</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>OREGON ENVIRONMENTAL COUNCIL</displayForm>
+         <namePart type="family">OREGON ENVIRONMENTAL COUNCIL</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>PUBLIC CITIZEN</displayForm>
+         <namePart type="family">PUBLIC CITIZEN</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF ARIZONA</displayForm>
+         <namePart type="family">STATE OF ARIZONA</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF CALIFORNIA</displayForm>
+         <namePart type="family">STATE OF CALIFORNIA</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF COLORADO</displayForm>
+         <namePart type="family">STATE OF COLORADO</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF CONNECTICUT</displayForm>
+         <namePart type="family">STATE OF CONNECTICUT</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF DELAWARE</displayForm>
+         <namePart type="family">STATE OF DELAWARE</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF ILLINOIS</displayForm>
+         <namePart type="family">STATE OF ILLINOIS</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF MAINE</displayForm>
+         <namePart type="family">STATE OF MAINE</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF MARYLAND</displayForm>
+         <namePart type="family">STATE OF MARYLAND</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF MASSACHUSETTS</displayForm>
+         <namePart type="family">STATE OF MASSACHUSETTS</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF MICHIGAN</displayForm>
+         <namePart type="family">STATE OF MICHIGAN</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF MINNESOTA</displayForm>
+         <namePart type="family">STATE OF MINNESOTA</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF NEW JERSEY</displayForm>
+         <namePart type="family">STATE OF NEW JERSEY</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF NEW MEXICO</displayForm>
+         <namePart type="family">STATE OF NEW MEXICO</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF OREGON</displayForm>
+         <namePart type="family">STATE OF OREGON</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF RHODE ISLAND</displayForm>
+         <namePart type="family">STATE OF RHODE ISLAND</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>STATE OF WASHINGTON</displayForm>
+         <namePart type="family">STATE OF WASHINGTON</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Amicus</description>
+    </name>
+    <name type="personal">
+         <displayForm>WOVEN ENERGY</displayForm>
+         <namePart type="family">WOVEN ENERGY</namePart>
+         <namePart type="given"></namePart>
+         <namePart type="termsOfAddress"></namePart>
+         <description>Plaintiff</description>
+    </name>
+    <extension>
+         <docClass>USCOURTS</docClass>
+         <accessId>USCOURTS-dcd-1_25-cv-04400</accessId>
+         <courtType>District</courtType>
+         <courtCode>dcd</courtCode>
+         <courtCircuit>DC</courtCircuit>
+         <courtState>District of Columbia</courtState>
+         <courtSortOrder>2100</courtSortOrder>
+         <caseNumber>1:25-cv-04400</caseNumber>
+         <caseOffice>Washington, DC</caseOffice>
+         <caseType>civil</caseType>
+         <natureSuitCode>899</natureSuitCode>
+         <natureSuit>Other Statutes - Administrative Procedure Act/Review or Appeal of Agency Decision</natureSuit>
+         <cause>05:702 Administrative Procedure Act</cause>
+         <party firstName="SCOTT" fullName="SCOTT BESSENT" lastName="BESSENT" role="Defendant"></party>
+         <party fullName="CITY AND COUNTY OF SAN FRANCISCO" lastName="CITY AND COUNTY OF SAN FRANCISCO" role="Plaintiff"></party>
+         <party fullName="DEPARTMENT OF THE TREASURY" lastName="DEPARTMENT OF THE TREASURY" role="Defendant"></party>
+         <party fullName="DISTRICT OF COLUMBIA" lastName="DISTRICT OF COLUMBIA" role="Amicus"></party>
+         <party fullName="ENVIRONMENTAL DEFENSE FUND, INC." lastName="ENVIRONMENTAL DEFENSE FUND, INC." role="Amicus"></party>
+         <party fullName="HOPI TRIBE" lastName="HOPI TRIBE" role="Plaintiff"></party>
+         <party fullName="HOPI UTILITIES CORPORATION" lastName="HOPI UTILITIES CORPORATION" role="Plaintiff"></party>
+         <party fullName="INTERNAL REVENUE SERVICE" lastName="INTERNAL REVENUE SERVICE" role="Defendant"></party>
+         <party fullName="MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL" lastName="MARYLAND OFFICE OF PEOPLE&apos;S COUNSEL" role="Plaintiff"></party>
+         <party fullName="NATURAL RESOURCES DEFENSE COUNCIL, INC." lastName="NATURAL RESOURCES DEFENSE COUNCIL, INC." role="Plaintiff"></party>
+         <party fullName="OREGON ENVIRONMENTAL COUNCIL" lastName="OREGON ENVIRONMENTAL COUNCIL" role="Plaintiff"></party>
+         <party fullName="PUBLIC CITIZEN" lastName="PUBLIC CITIZEN" role="Plaintiff"></party>
+         <party fullName="STATE OF ARIZONA" lastName="STATE OF ARIZONA" role="Amicus"></party>
+         <party fullName="STATE OF CALIFORNIA" lastName="STATE OF CALIFORNIA" role="Amicus"></party>
+         <party fullName="STATE OF COLORADO" lastName="STATE OF COLORADO" role="Amicus"></party>
+         <party fullName="STATE OF CONNECTICUT" lastName="STATE OF CONNECTICUT" role="Amicus"></party>
+         <party fullName="STATE OF DELAWARE" lastName="STATE OF DELAWARE" role="Amicus"></party>
+         <party fullName="STATE OF ILLINOIS" lastName="STATE OF ILLINOIS" role="Amicus"></party>
+         <party fullName="STATE OF MAINE" lastName="STATE OF MAINE" role="Amicus"></party>
+         <party fullName="STATE OF MARYLAND" lastName="STATE OF MARYLAND" role="Amicus"></party>
+         <party fullName="STATE OF MASSACHUSETTS" lastName="STATE OF MASSACHUSETTS" role="Amicus"></party>
+         <party fullName="STATE OF MICHIGAN" lastName="STATE OF MICHIGAN" role="Amicus"></party>
+         <party fullName="STATE OF MINNESOTA" lastName="STATE OF MINNESOTA" role="Amicus"></party>
+         <party fullName="STATE OF NEW JERSEY" lastName="STATE OF NEW JERSEY" role="Amicus"></party>
+         <party fullName="STATE OF NEW MEXICO" lastName="STATE OF NEW MEXICO" role="Amicus"></party>
+         <party fullName="STATE OF OREGON" lastName="STATE OF OREGON" role="Amicus"></party>
+         <party fullName="STATE OF RHODE ISLAND" lastName="STATE OF RHODE ISLAND" role="Amicus"></party>
+         <party fullName="STATE OF WASHINGTON" lastName="STATE OF WASHINGTON" role="Amicus"></party>
+         <party fullName="WOVEN ENERGY" lastName="WOVEN ENERGY" role="Plaintiff"></party>
+         <state>District of Columbia</state>
+    </extension>
+    <relatedItem type="constituent" ID="id-USCOURTS-dcd-1_25-cv-04400-0" xlink:href="https://www.govinfo.gov/metadata/granule/USCOURTS-dcd-1_25-cv-04400/USCOURTS-dcd-1_25-cv-04400-0/mods.xml">
+         <titleInfo>
+              <title>OREGON ENVIRONMENTAL COUNCIL et al v. INTERNAL REVENUE SERVICE et al</title>
+              <subTitle>MEMORANDUM OPINION accompanying 49 ORDER. Signed by Judge Colleen Kollar-Kotelly on 06/06/2026. (lcckk1)</subTitle>
+              <partNumber>0</partNumber>
+        </titleInfo>
+         <originInfo>
+              <dateIssued>2026-06-06</dateIssued>
+        </originInfo>
+         <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_25-cv-04400/pdf/USCOURTS-dcd-1_25-cv-04400-0.pdf">
+              <identifier type="FDsys Unique ID">D09002ee1e2974117</identifier>
+        </relatedItem>
+         <identifier type="uri">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_25-cv-04400/USCOURTS-dcd-1_25-cv-04400-0</identifier>
+         <identifier type="former granule identifier">dcd-1_25-cv-04400_0.pdf</identifier>
+         <location>
+              <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/USCOURTS-dcd-1_25-cv-04400/USCOURTS-dcd-1_25-cv-04400-0</url>
+              <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_25-cv-04400/pdf/USCOURTS-dcd-1_25-cv-04400-0.pdf</url>
+        </location>
+         <extension>
+              <searchTitle>USCOURTS 1:25-cv-04400; OREGON ENVIRONMENTAL COUNCIL et al v. INTERNAL REVENUE SERVICE et al; </searchTitle>
+              <courtName>United States District Court District of Columbia</courtName>
+              <state>District of Columbia</state>
+              <accessId>USCOURTS-dcd-1_25-cv-04400-0</accessId>
+              <sequenceNumber>0</sequenceNumber>
+              <dateIssued>2026-06-06</dateIssued>
+              <docketText>MEMORANDUM OPINION accompanying 49 ORDER. Signed by Judge Colleen Kollar-Kotelly on 06/06/2026. (lcckk1)</docketText>
+        </extension>
+    </relatedItem>
+</mods>

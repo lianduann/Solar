@@ -18,3 +18,16 @@ S-14,B-03,search: ERCOT Batch Zero update October 2026 127.9 125.4,2026-10-10T03
 S-15,B-04,search: NSRDB Fill Flag values meaning,2026-10-10T03:21Z,no definition found,no,codes left undecoded
 S-16,FIN-05,search: US delivered utility-scale module price DDP 2026,2026-10-10T03:22Z,secondary median price survey; delivery basis unknown,lead only,not spec-matched; stop
 S-17,FIN-07/08/02/06/11,"local: Finance-Scenario-Versions, 2026 API QA, finance supplement tables",2026-10-10T03:25Z,read and recounted,yes (integration),complete
+R2-00,all,connectivity re-test of official hosts after environment change,2026-10-10T03:14Z,most 200; usitc.gov/static.longi.com/businesswire.com 403 (site); potomaceconomics.com proxy 403; nsrdb.nrel.gov 502,n/a,environment
+R2-01,FIN-09,data.sec.gov companyfacts x4,2026-10-10T03:15Z,200; saved,yes,complete
+R2-02,FIN-09,sec.gov Archives FY2025 20-F/10-K x4,2026-10-10T03:16Z,200; saved; values checked against XBRL,yes,complete
+R2-03,FIN-09/B-01,static.cninfo.com.cn annual reports Trina/JA/Tongwei/LONGi,2026-10-10T03:17Z,200 (JA after one retry); saved,yes,complete
+R2-04,FIN-04,courtlistener.com RECAP search + docket page,2026-10-10T03:19Z,200; saved; no appeal entry,yes,PACER not used (account)
+R2-05,FIN-04,govinfo USCOURTS package metadata; api.govinfo.gov (DEMO_KEY),2026-10-10T03:18Z,mods.xml 200; API 429 rate limit,yes (metadata),one opinion only
+R2-06,FIN-04,irs.gov credit pages; federalregister.gov API 'beginning of construction' since 2026-06-06,2026-10-10T03:20Z,no new guidance listed; FR count 0,no,two-path stop
+R2-07,B-02,federalregister.gov API 2026-16400; govinfo PDF,2026-10-10T03:20Z,200; PDF saved; annex images read,yes,complete
+R2-08,B-02,federalregister.gov API search 'crystalline silicon photovoltaic' since 2026-08-01; USITC agency search,2026-10-10T03:22Z,Commerce finals found; no ITC final notice,yes,usitc.gov 403
+R2-09,B-03,ercot.com Batch Zero deck; Large Load Integration page; news releases; board page,2026-10-10T03:24Z,deck saved; no revision,yes (verification),stop
+R2-10,FIN-05,atb.nlr.gov 2025 utility-scale PV page,2026-10-10T03:26Z,200; saved,yes,Tableau component table not exported
+R2-11,FIN-03/10,businesswire.com 20201209005197; 7xenergy.com; firstcitizens/cit newsroom; nestleusa.com,2026-10-10T03:23Z,403 (site) / not in allowlist,no,two-path stop
+R2-12,FIN-01/03/10,"efts.sec.gov full-text search 'Taygete', 'Emerald Grove', 'West Texas Solar Project II' (2019-2026)",2026-10-10T03:24Z,0 / 139 (Vistra guarantor exhibits; unrelated) / 0,no,stop

@@ -1,6 +1,6 @@
 # Findings and Replacement Text (EN) — SOLAR-001 Report Closure Supplement
 
-**Executed:** 2026-10-10 UTC (evening of 2026-10-09, America/New_York), in a cloud container.
+**Executed:** 2026-10-10 UTC (evening of 2026-10-09, America/New_York), in a cloud container; round 2 (official sources reachable) 2026-10-10 03:15–03:35 UTC.
 **Target manuscript:** `project/Deliverables/2026-10-09_Finance-Integrated-Client-Edition/Integrated-Market-Research-Report-EN_Finance-Integrated.md` (the "manuscript"; line numbers refer to that file as uploaded).
 **Scope:** The 16 closed items FIN-01 to FIN-11 and B-01 to B-05 only. No model, regression, simulation or financial version was run. No new research line is opened.
 
@@ -10,17 +10,29 @@
 - Source IDs are defined in `Sources.csv`. `PKG:` paths are files in the uploaded handoff package. `LEAD-` IDs are web-search results. They are leads, not evidence: no original page could be opened from this environment.
 - Text marked **CONDITIONAL INSERT** may enter the client report only after Codex (or the author) opens the original and confirms the wording. Otherwise leave it out.
 
-## Access conditions in this pass (affects every disposition)
+## Access conditions (two rounds)
 
-The container's egress policy refused connections (proxy HTTP 403 on CONNECT) to every official host attempted: sec.gov, data.sec.gov, federalregister.gov, govinfo.gov, irs.gov, ercot.com, comptroller.texas.gov, static.longi.com, static.cninfo.com.cn, courtlistener.com and atb.nlr.gov. The page-fetch tool also failed (DNS not resolved). Only a web-search tool worked, and it returns search summaries, not documents.
+**Round 1** (2026-10-10 ~02:45 UTC): the container's egress policy refused every official host, so only package originals, prior-round extracts and search leads were used.
 
-New evidence in this pass therefore comes from three places:
+**Round 2** (2026-10-10 ~03:15–03:30 UTC), after the author changed the environment's network settings, the following were downloaded and saved under `sources/`:
 
-1. a fresh reading of the original PDFs and data files already in the package, such as P.L. 119-21, the D.D.C. opinion, Notice 2026-15, 16 TAC §25.195, the 2026 API QA files and the scenario-version CSVs;
-2. the rendered official-page extracts saved by the previous round, such as the Federal Register text of Proclamation 11052 in `support/Policy-and-Cost-Web-Checks.json`;
-3. search leads, which are labelled as leads.
+| Source | Saved as |
+|---|---|
+| SEC XBRL companyfacts and FY2025 annual filings for JinkoSolar, Canadian Solar, Daqo and First Solar | `sources/sec/` |
+| FY2025 annual reports of Trina, JA Solar, Tongwei and **LONGi** (cninfo) | `sources/cninfo/` |
+| Official Federal Register PDF of Proclamation 11052, **including Annexes I–II** | `sources/trade/` |
+| Federal Register records of Commerce's 16 September 2026 AD/CVD final determinations | `sources/trade/` |
+| CourtListener RECAP docket and govinfo metadata for D.D.C. 1:25-cv-04400 | `sources/legal/` |
+| The ERCOT Batch Zero deck | `sources/other/` |
+| The ATB 2025 utility-scale PV page | `sources/other/` |
 
-"Inaccessible in this pass" below means exactly this access condition. It does not mean that a source is not public.
+Still unavailable in round 2:
+
+- usitc.gov, businesswire.com and static.longi.com return HTTP 403 at site level (bot blocking, not the proxy);
+- potomaceconomics.com was still refused by the proxy, and nsrdb.nrel.gov returned 502;
+- 7xenergy.com, newsroom.firstcitizens.com and nestleusa.com were not in the allowed list.
+
+Search results remain leads only.
 
 ---
 
@@ -100,6 +112,8 @@ New evidence in this pass therefore comes from three places:
 - Contract-Terms.csv CT-01, CT-02, CT-03.
 - Lead: LEAD-BW-2020 (search summary of the Business Wire release naming Nestlé as sole tax-equity investor and a 15-year renewable-attribute purchase). Not verified.
 
+**Round 2:** businesswire.com returned HTTP 403 (site-level). SEC full-text search (2019 to 2026-10-09) returns no filing naming "Taygete" or "West Texas Solar Project II". The conditional insert therefore stays conditional.
+
 **Remaining fields:** strike, tenor, settlement point, volume basis, negative-price clause, REC ownership, credit support and curtailment allocation for any comparable contract; a dated merchant-tail price.
 
 ---
@@ -108,35 +122,41 @@ New evidence in this pass therefore comes from three places:
 
 **Anchor (line 745):** "A retained District Court opinion dated 6 June 2026 vacates Notice 2025-42 in full and remands it to the IRS. Current appeal, stay and subsequent-guidance status are not established in this edition…"
 
-**Disposition:** partially disclosed. Statute, opinion and Notice 2026-15 wording were verified against the retained originals in this pass. Appeal and stay status is inaccessible in this pass, because no primary docket could be opened.
+**Disposition:** partially disclosed. Statute, opinion and Notice wording were verified against the package originals. In round 2, docket status was checked against the CourtListener RECAP docket and govinfo. No appeal entry was found; this is stated with the limits of those sources. No post-remand IRS guidance was found.
 
-**Verified against originals (this pass):**
-- **P.L. 119-21 §70512(a)** adds 45Y(d)(4)(A): "This section shall not apply with respect to any applicable facility placed in service after December 31, 2027." Source: PLAW-119publ21.pdf, 139 Stat. 252–253.
-- **§70512(l)(4):** the termination applies "to facilities the construction of which begins after the date which is 12 months after the date of enactment of this Act" (enactment 4 July 2025). Source: 139 Stat. 270.
-- **§70513(a):** adds 48E(e)(4)(A) for qualified property placed in service after 31 December 2027 that is part of an applicable facility.
-- **§70513(g)(5):** the same 12-month construction-start rule. Source: 139 Stat. 270 and 273.
-- **New §7701(a)(52)(B)(i):** material-assistance threshold percentages for qualified facilities of 40% (construction beginning in 2026) and 45% (2027), rising to 60% after 2029. Source: P.L. 119-21, text at 139 Stat. 260–261.
-- **D.D.C. No. 25-4400 (CKK), Document 50, filed 06/06/26, Memorandum Opinion:** "VACATE Notice 2025-42, and REMAND this matter to the IRS for further administrative action" (p.57). The remedy is vacatur "in full" (pp.1, 56).
-- **Notice 2026-15** describes itself as interim safe-harbour guidance. Treasury and the IRS "intend to issue more comprehensive proposed regulations" (§1, p.2). It restates that §1.48E-4(a)(2) provides that qualified interconnection property is not part of a qualified facility (p.6).
+**Verified against originals:**
+
+- **P.L. 119-21 §70512(a):** adds 45Y(d)(4)(A), "This section shall not apply with respect to any applicable facility placed in service after December 31, 2027" (139 Stat. 252–253).
+- **§70512(l)(4)** and **§70513(g)(5):** the termination applies to facilities "the construction of which begins after the date which is 12 months after the date of enactment" (139 Stat. 270, 273).
+- **§70513(a):** adds 48E(e)(4)(A).
+- **New §7701(a)(52)(B)(i):** the material-assistance threshold is 40% for construction beginning in 2026 and 45% for 2027 (139 Stat. 260–261).
+- **D.D.C. No. 25-4400 (CKK), Doc. 50, filed 06/06/26:** "VACATE Notice 2025-42, and REMAND" (p.57); vacatur "in full" (pp.1, 56); claims of five of seven plaintiffs decided (p.1).
+- **Doc. 49 (Order, 06/06/26)**, per the RECAP docket entry text: grants summary judgment to five named plaintiffs, declares Notice 2025-42 arbitrary and capricious under 5 U.S.C. §706(2)(A), and vacates and remands the notice.
+- **RECAP docket (retrieved 2026-10-10):** "Date Terminated: June 8, 2026; Date of Last Known Filing: June 6, 2026." No notice-of-appeal entry is listed. A CourtListener search across all courts returns this one docket only, with no appellate docket.
+- **govinfo package USCOURTS-dcd-1_25-cv-04400:** one opinion, dated 2026-06-06.
+- **IRS credit pages** (48E and 45Y; "Page Last Reviewed or Updated" 05-Jan-2026 and 03-Mar-2026): no guidance after Notice 2025-42 is listed.
+- **Notice 2026-15:** interim safe-harbour guidance, with proposed regulations to follow (§1, p.2). It restates §1.48E-4(a)(2): qualified interconnection property is not part of a qualified facility (p.6).
 
 **Action:** REPLACE line 745 with:
 
-> A District Court memorandum opinion dated 6 June 2026 (Oregon Environmental Council v. IRS, D.D.C. No. 25-4400) vacates Notice 2025-42 in full and remands it to the IRS. The court decided the claims of five of the seven plaintiffs. As of 10 October 2026, this research could not consult the court docket or IRS releases directly. Secondary legal commentary reviewed through early August 2026 described an appeal or stay as expected but not filed. No replacement beginning-of-construction notice was identified. Appeal, stay and remand status therefore remain unconfirmed from primary sources, and the vacated notice is not treated as controlling guidance. Whether a given project began construction by 4 July 2026, under whichever standard ultimately governs, is a project-specific legal question. The hypothetical case supplies no construction-start facts.
+> A District Court memorandum opinion and order dated 6 June 2026 (Oregon Environmental Council v. IRS, D.D.C. No. 25-4400) declare Notice 2025-42 arbitrary and capricious under the Administrative Procedure Act, vacate it in full and remand it to the IRS. The court decided the claims of five of the seven plaintiffs. The public RECAP copy of the district-court docket, retrieved on 10 October 2026, shows the case terminated on 8 June 2026 and lists no later filing; no appellate docket was located. RECAP is not a complete PACER record, and the IRS credit pages reviewed list no replacement guidance. The vacated notice is therefore not treated as controlling. Appeal and remand developments should be rechecked before any project-specific conclusion. Whether a given project began construction by 4 July 2026 remains a project-specific legal question, and the hypothetical case supplies no construction-start facts.
 
 **Action:** REPLACE the box at line 751 with:
 
-> **Tax qualifications.** The statutory timing branches (Table 10-3), the 40%/45% material-assistance thresholds for 2026/2027 construction starts, and the exclusion of interconnection property above 5 MWac are taken from the statute and IRS notice text. The hypothetical case has no construction-start date, placed-in-service date, owner, supplier certifications, wage and apprenticeship records, or transfer agreement. The $35.38m OCC-basis credit illustration is therefore a conditional scenario. It is not an eligibility finding or an after-tax valuation. Its variants are in the separately versioned credit-base calculation: receipt one year later gives $33.10m; transfer at 0.90 per credit dollar gives $31.84m; the 6% base rate gives $7.08m, all as PV at 4.27%.
+> **Tax qualifications.** The statutory timing branches (Table 10-3), the 40%/45% material-assistance thresholds for 2026/2027 construction starts, and the exclusion of interconnection property above 5 MWac are taken from the statute and IRS notice text. The hypothetical case has no construction-start date, placed-in-service date, owner, supplier certifications, wage and apprenticeship records, or transfer agreement. The $35.38m OCC-basis credit illustration is therefore a conditional scenario, not an eligibility finding or an after-tax valuation. Its separately versioned variants, all as PV at 4.27%, are: receipt one year later $33.10m; transfer at 0.90 per credit dollar $31.84m; and the 6% base rate $7.08m.
 
 **Sources:**
-- F07 PLAW-119publ21.pdf (pages as above);
-- F08 USCOURTS-dcd-1_25-cv-04400-0.pdf pp.1, 56, 57;
-- F09 n-26-15.pdf pp.2, 6;
-- Finance-Scenario-Versions `Credit-Base-Scenarios.csv` rows A1_OCC_only at 0.0427: recv_end2028 → credit_pv 33,103,126; transfer_0.90 → 31,841,591; pwa_not_met_6pct → 7,075,909.
-- Leads: LEAD-LAW-1 to LEAD-LAW-3 (law-firm alerts June–August 2026).
+- F07 (pages above), F08 pp.1, 56, 57;
+- LEGAL-RECAP (`sources/legal/CourtListener_RECAP_docket_dcd_1-25-cv-04400_retrieved_2026-10-10.html`);
+- LEGAL-CL-SEARCH;
+- LEGAL-GOVINFO-MODS;
+- IRS-CREDIT-PAGES (status checked; page not saved);
+- F09 pp.2, 6;
+- SV-CREDIT.
 
 **Remaining fields:**
-- appeal, notice-of-appeal or stay status from a primary docket (PACER/CourtListener; account-based);
-- any post-remand IRS guidance;
+- a PACER-complete docket (not consulted; account required);
+- any later IRS guidance after the pages reviewed;
 - project-specific construction-start, placed-in-service, MACR, PWA, owner and transfer-price facts. These are not facts of the hypothetical case.
 
 ---
@@ -155,7 +175,7 @@ New evidence in this pass therefore comes from three places:
 
 **Action:** REPLACE the box at line 727 with the box and table below.
 
-> **Cost scope and vintage.** The scenario CAPEX uses ATB 2025 overnight capital cost (OCC) plus grid-connection cost (GCC), 2026 values, converted from 2023 to 2025 dollars. ATB's utility PV cost is benchmarked on the DOE/NLR PV System Cost Model (PVSCM) of an earlier vintage. The component analysis in Chapter 5 instead uses PVSCM 2025Q1. The two are therefore related but not identical cost vintages, and the module share from PVSCM 2025Q1 is applied to ATB OCC only as an illustration.
+> **Cost scope and vintage.** The scenario CAPEX uses ATB 2025 overnight capital cost (OCC) plus grid-connection cost (GCC), 2026 values, converted from 2023 to 2025 dollars. ATB 2025 states that its 2024 overnight cost is based on modeled pricing for a 100-MWdc one-axis tracking system quoted in Q1 2024 (DOE, 2024), adjusted by an ILR of 1.32, and that 2024 fixed O&M of $24.66/kWac-yr splits into system ($10.88), property ($11.41) and administration ($2.38) expenses. The component analysis in Chapter 5 instead uses PVSCM 2025Q1. The two are therefore related but not identical cost vintages, and the module share from PVSCM 2025Q1 is applied to ATB OCC only as an illustration.
 >
 > PVSCM itemises a network-upgrade line inside electrical balance of system: $66/kWac in the 2024Q1 inputs and $51.26/kWac in 2025Q1. It also itemises annualised inverter and component replacement inside O&M. In ERCOT, 16 TAC §25.195(f) assigns step-up transformers and protective devices to the generator. It assigns transmission system upgrades to the transmission service provider, and for SGIAs executed after 31 December 2025 it bills the generator for interconnection-facility costs above a CPI-indexed allowance. A generic network-upgrade allowance and a separate year-16 replacement reserve may therefore overlap with costs already embedded in the benchmarks. The overlap cannot be quantified without the ATB component table.
 >
@@ -182,9 +202,10 @@ New evidence in this pass therefore comes from three places:
 - scenario_input_register.csv rows occ_2023usd, gcc_2023usd, fom_2023usd;
 - PUCT_16TAC_25.195_current.pdf (f)(1)–(3), pages "§25.195-2/3";
 - Followup-Evidence-No-Login.md §1 (TX statutes, browser-rendered; FOLLOWUP TX-STATUTES-BROWSER);
+- ATB-PAGE (`sources/other/ATB2025_utility-scale_pv.html`, Base Year and FOM sections; retrieved round 2);
 - LEAD-ANZA-Q1-2026 (secondary report of a median US module price; delivery terms not confirmed; not used).
 
-**Remaining fields:** delivered quotations; the ATB Components-of-CAPEX table; site property tax, insurance and land; generator versus TSP interconnection scope; owner, EPC and financing costs.
+**Remaining fields:** delivered quotations; the ATB Components-of-CAPEX table (Tableau, not exported); site property tax, insurance and land; generator versus TSP interconnection scope; owner, EPC and financing costs.
 
 ---
 
@@ -268,18 +289,57 @@ New evidence in this pass therefore comes from three places:
 
 **Anchor (line 276):** "Supplier-finance research pending — FIN-09. Reconcile cash balances, restricted cash, working-capital movements, debt maturities, covenant headroom, warranty provisions and manufacturing incentives…"
 
-**Disposition:** inaccessible in this pass. The SEC and cninfo originals could not be opened from this environment. The package holds only income, OCF and capex extracts, not balance-sheet notes.
+**Disposition:** partially disclosed (evidence integrated for most fields).
 
-**Action:** REPLACE the box at line 276 with:
+Round 2 extracted the balance-sheet and note values for all eight panel companies from their FY2025 annual filings. The filings are saved under `sources/`, and every value was checked to appear verbatim in the saved text (`tables/FIN-09_Supplier-Liquidity.csv`, 145 rows).
 
-> **Supplier-resilience boundary.** Table 4-2 reports margins, operating cash flow and long-lived-asset cash outlays. It does not report the following: cash and restricted cash, short-term debt and debt maturing within a year, longer-term maturity profiles, covenant headroom, product-warranty provisions, or manufacturing incentives recorded in cost of sales (for U.S. production, section 45X credits). These items are needed before conclusions are drawn about a supplier's ability to deliver and to honour warranties. Positive operating cash flow alongside an accounting loss does not establish sustainable free cash generation. First Solar's thin-film technology, U.S. manufacturing footprint and 45X exposure require a separate reading before any comparison with Chinese-listed producers. The report assigns no credit score or default probability.
+Not compiled:
+- covenant headroom, which is not disclosed in a comparable form;
+- A-share government-grant detail;
+- full maturity ladders, except for Canadian Solar and First Solar.
 
-**Fields and filings for any later integration (not client text):**
-- For each company: the FY2025 annual filing already cited in Appendix A (R-D SEC accession URLs; R-F cninfo URLs).
-- Fields: cash and cash equivalents; restricted cash (current and non-current); OCF; working-capital lines in the cash-flow statement; short-term borrowings and current portion of long-term debt; long-term debt maturity table; product-warranty provision (opening, accrual, utilisation, closing); 45X or government-grant amounts in cost of sales.
-- Units: original currency only.
+**Action:** REPLACE the box at line 276 with the paragraph and table below.
 
-**Remaining fields:** all of the above for the seven panel companies and LONGi.
+> **Liquidity and obligations (FY2025 year-end).** Table 4-3 sets out each company's cash, borrowings, product-warranty provisions and net working capital, in its reporting currency. Two accounting differences matter when reading it. Under Chinese accounting standards, 货币资金 ("cash and bank balances") includes restricted deposits, which are shown separately here. "Non-current liabilities due within one year" can include items other than borrowings, such as lease liabilities. US-GAAP filers report cash excluding restricted cash.
+>
+> The table is not a solvency ranking and supports no default probability, for four reasons: currencies and accounting standards differ, the reporting dates are single points, covenant headroom is not disclosed comparably, and off-balance-sheet obligations are not captured.
+>
+> Three observations are relevant to procurement:
+> - Several Chinese producers carry large current borrowing obligations alongside their cash. The current portion of Tongwei's non-current liabilities rose to CNY14.85bn from CNY10.73bn, and LONGi's rose to CNY10.33bn from CNY1.90bn.
+> - Daqo reports no bank borrowings.
+> - First Solar recognised about $1.6bn of section 45X manufacturing credits as a reduction in FY2025 cost of sales. Its margin profile is therefore not comparable with producers outside the United States without adjustment.
+>
+> Warranty provisions are company estimates, which depend on warranty terms and failure assumptions. JinkoSolar, for example, reversed CNY1.13bn of accrued warranty cost in FY2025 after updating replacement-cost estimates. These provisions measure the accounting reserve, not the value of warranty protection.
+
+**Table 4-3 (INSERT after Table 4-2). FY2025 year-end liquidity and obligations; billions of reporting currency.**
+
+| Company | CCY | Cash & bank | of which / plus restricted | Short-term borrowings and current portion | Long-term borrowings | Bonds / convertibles | Warranty provision | Net working capital |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| JinkoSolar | CNY | 20.01 | +2.93 restricted cash | 10.66¹ | 18.21 | 10.59 | 1.83 | 13.77 |
+| Trina Solar | CNY | 22.55 | of which 5.48 | 7.38 + 9.51² | 19.43 | 6.09 | 2.04 | 11.70 |
+| JA Solar | CNY | 25.24 | of which 8.89 | 9.06 + 5.75² | 17.52 | 8.88 | 1.99 | 9.40 |
+| Tongwei | CNY | 17.48 | of which 2.20 | 7.70 + 14.85² | 51.82 | 15.88 | 1.12 | 10.47 |
+| LONGi | CNY | 55.47 | of which 2.12 | 0.30 + 10.33² | 6.83 | 9.51 | 1.89³ | 20.51 |
+| Canadian Solar | USD | 1.37 | +0.57 restricted cash | 2.39 | 3.62 | 0.35⁴ | 0.14 | 0.13 |
+| Daqo New Energy | USD | 0.86 | +0.12 restricted cash | none⁵ | none⁵ | — | n/d | 2.19 |
+| First Solar | USD | 2.80 | +0.004 restricted cash | 0.22 | 0.28 | — | 0.08 | 3.77 |
+
+*Sources: FY2025 annual reports (cninfo) and Form 20-F/10-K (SEC), consolidated statements and notes; page or locator per row in `tables/FIN-09_Supplier-Liquidity.csv`. FY2024 comparatives are in the same file.*
+
+*Notes:*
+1. *JinkoSolar's line includes the current portion of long-term borrowings and failed sale-leaseback financing.*
+2. *First figure: short-term borrowings. Second: non-current liabilities due within one year, which may include non-debt items.*
+3. *LONGi: warranty provision expected to be paid after one year.*
+4. *Canadian Solar: green bonds 0.15 plus convertible notes 0.20.*
+5. *Daqo states it had no bank borrowings at 31 December 2025, and holds fixed-term deposits of $1,035.6m.*
+
+*Net working capital is current assets minus current liabilities. n/d = not disclosed as a separate line. Currencies are not converted.*
+
+**Remaining fields:**
+- covenant headroom;
+- full debt maturity ladders for the A-share companies and JinkoSolar;
+- A-share government grants or manufacturing incentives;
+- First Solar's FY2024 45X amount (not extracted).
 
 ---
 
@@ -298,6 +358,8 @@ New evidence in this pass therefore comes from three places:
 > A developer release names the five co-lenders and a single corporate tax-equity investor for Taygete I; it does not disclose flip date, target yield or allocation terms.
 
 **Sources:** F05 CIT release (Contract-Terms CT-01/02; Debt-and-Waterfall-Inputs.csv); C06 Form 772 p.1 §2 item 7. Lead: LEAD-BW-2020.
+
+**Round 2:** Business Wire still returned 403. SEC full-text search found no Taygete filings; "Emerald Grove" appears only in Vistra guarantor exhibits, with no financing terms.
 
 **Remaining fields:** coupon or spread, tenor, amortisation, DSCR/LLCR, DSRA/MRA, fees, sweep, flip date and target, and lender and auction price for Taygete II.
 
@@ -332,15 +394,25 @@ New evidence in this pass therefore comes from three places:
 
 **Anchor (line 272):** "LONGi's full FY2025 annual report remains unavailable in the research, and a harmonized segment panel remains incomplete."
 
-**Disposition:** inaccessible in this pass. A new official lead was located: the FY2025 annual report listed on cninfo (LEAD-LONGI-AR2025). It could not be downloaded.
+**Disposition:** evidence integrated. The LONGi Green Energy 2025 annual report (601012) was downloaded from cninfo and saved as `sources/cninfo/LONGi_2025_AR.pdf` (314 pages).
 
-**Action:** REPLACE that sentence with:
+**Action:** INSERT two rows in Table 4-2 after the LONGi 2024 rows:
 
-> LONGi's rows remain FY2024 segment margins; its FY2025 annual report has not been incorporated into this edition, so LONGi is not compared with the FY2025 observations above. A harmonized segment panel remains incomplete.
+| LONGi | Modules/cells | 2025 | 0.19% | -6.42 | 4.36 | 5.89 | CNY | Segment margin; LLA cash |
+| LONGi | Wafers/ingots | 2025 | −5.30% | -6.42 | 4.36 | 5.89 | CNY | Segment margin; group result and cash |
 
-**Note for Codex:** the search summary gives FY2025 revenue (CNY70.347bn) and an attributable net loss (CNY6.420bn) for the report at `https://static.cninfo.com.cn/finalpage/2026-04-29/1225251647.PDF`. These are unverified leads. Integrate them only after opening the PDF. Keep segment and group boundaries separate, and do not add LONGi to any ranking.
+**Action:** REPLACE the sentence at line 272 with:
 
-**Remaining fields:** LONGi FY2025 revenue, attributable result, OCF, LLA cash, segment margins (modules/cells; wafers), and the FIN-09 fields.
+> LONGi's FY2025 annual report shows revenue of CNY70.35bn, down 14.82%. It reports an attributable net loss of CNY6.42bn, against a restated FY2024 loss of CNY8.59bn, and operating cash flow of CNY4.36bn, against an outflow of CNY4.72bn in FY2024. The gross margin of its module-and-cell segment fell to 0.19%, down 6.08 percentage points. The wafer-and-ingot margin improved to −5.30%, up 9.01 points. Cash paid for long-lived assets fell to CNY5.89bn from CNY8.01bn. Segment and group measures are shown separately, and a harmonized segment panel across companies remains incomplete.
+
+**Sources (LONGi 2025 AR):**
+- p.13: key indicators (revenue 70,347,049,950.42; attributable net profit −6,419,556,843.85; FY2024 restated −8,592,102,400.42; OCF 4,359,382,755.77 and −4,724,978,931.84);
+- p.25: segment table (组件及电池 0.19%, −6.08 pp; 硅片及硅棒 −5.30%, +9.01 pp);
+- p.129: cash-flow statement (购建… 5,893,972,740.27 and 8,013,068,271.53).
+
+**Consistency check:** the manuscript's FY2024 segment margins (6.27% and −14.31%) plus the report's stated year-on-year changes reproduce the FY2025 values exactly (6.27 − 6.08 = 0.19; −14.31 + 9.01 = −5.30).
+
+**Remaining fields:** none for the existing panel definition.
 
 ---
 
@@ -348,23 +420,36 @@ New evidence in this pass therefore comes from three places:
 
 **Anchor (line 350):** "Proclamation 11052, published August 11, 2026, specifies a $0.38/W minimum import price for solar modules. Its operative provisions apply from December 4, 2026 to covered entries and include documentation rules, pre-existing-contract treatment, additional duties, and exceptions… The annex-level HTS mapping remains unresolved in this report."
 
-**Disposition:** partially disclosed (evidence integrated for the clauses checked; annex HTS unresolved). Clause text was re-read from the rendered official Federal Register extract saved in the previous round (`support/Policy-and-Cost-Web-Checks.json`). The original PDF is not in the package, and the extract ends at clause (2)(b).
+**Disposition:** evidence integrated. Round 2 retained the official Federal Register PDF, 91 FR 51975–51987, at `sources/trade/FR-2026-16400.pdf`. Clauses (1)–(16) and Annexes I–II were read, with the annex pages read as page images.
 
-**Correction needed:** "minimum import price" is enforced through entry documentation, not as a fixed floor price on every module. The manuscript should state the mechanism.
+**Correction to round 1:** round 1 used only a truncated extract and wrongly treated secondary "shortfall tariff" descriptions as conflicting with the official text. The full text contains clause 2(c), which provides exactly that shortfall tariff for documented entries. The round-1 B-02 wording is withdrawn and replaced below.
 
 **Action:** REPLACE the first paragraph of 5.7 (line 350) with:
 
-> Proclamation 11052 of 6 August 2026 (91 FR 51975, published 11 August 2026) acts under section 232. It sets minimum import prices of $0.22/W for solar cells and $0.38/W for solar modules, alongside per-kilogram prices for polysilicon, ingots and wafers. For goods entered on or after 12:01 a.m. ET on 4 December 2026, importers may document at entry either of two things: that the first arm's-length U.S. sale will occur at or above the applicable minimum price, or that the sale follows fixed terms in a contract signed before the proclamation. Without that documentation, the goods are subject to a specific tariff equal to the applicable minimum price. The proclamation also describes a 15% ad valorem duty on polysilicon derivatives. It states that these measures replace the safeguard tariff on solar cells and modules, which expired in February 2026. The Secretary of Commerce may adjust the minimum prices. Covered products are defined in Annexes I and II, whose tariff-line mapping has not been verified for this report. Stacking with other duties is not quantified. The headline $0.38/W is therefore a compliance threshold for covered imports, not a delivered project price. [P01, clauses 1(a)–(b), 2(a)–(b); recitals 10–11]
+> Proclamation 11052 of 6 August 2026 (91 FR 51975, published 11 August 2026), issued under section 232, sets minimum import prices (MIPs) of $0.22/W for solar cells and $0.38/W for solar modules, alongside per-kilogram prices for polysilicon, ingots and wafers. It applies to goods entered on or after 12:01 a.m. ET on 4 December 2026. Covered modules are those classified under HTSUS 8541.43.0010 and 8541.43.0080, and covered cells under 8541.42.0010 and 8541.42.0080 (Annex I).
+>
+> The MIP is enforced through entry documentation:
+> - An importer may certify either that the first arm's-length U.S. sale will be at or above the MIP, or that the sale follows fixed terms in a contract entered into before the proclamation was signed. Annex II describes this as a time-limited contract entered into prior to 6 August 2026.
+> - Without that documentation, the goods bear a specific tariff equal to the full MIP.
+> - With documentation but an entered value below the MIP, they bear a specific tariff equal to the shortfall.
+>
+> Ingots, wafers, cells and modules also bear an additional 15% ad valorem duty. Different arrangements apply to products of Japan, Korea, Taiwan, Switzerland, Liechtenstein and EU members (a combined 15% with the ordinary duty) and to the United Kingdom (10%). These duties apply in addition to other duties, and antidumping and countervailing duties continue to be imposed. The headline $0.38/W is therefore a compliance threshold and potential duty for covered imports, not a delivered project price. [P01, clauses 1–5; Annex I; Annex II, U.S. note 42 and headings 9903.45.30–9903.45.36]
 
 **Action:** INSERT after the second paragraph of 5.7:
 
-> Separately, Commerce issued final affirmative antidumping and countervailing duty determinations on crystalline silicon cells and modules from India, Indonesia and Laos (91 FR 58633, 16 September 2026). Orders follow only after an affirmative final injury determination by the U.S. International Trade Commission, which was pending at this edition's date. Because Indonesia and Laos feature prominently in the 2025–2026 import mix (Section 5.8), any resulting orders would further separate customs value from delivered project cost.
+> Separately, on 16 September 2026 Commerce published final affirmative antidumping and countervailing duty determinations on crystalline silicon photovoltaic cells, whether or not assembled into modules, from India, Indonesia and Laos (for example 91 FR 58633, 58643, 58651 and 58658). Duty orders require an affirmative final injury determination by the U.S. International Trade Commission, and none had been published in the Federal Register by 10 October 2026. Indonesia and Laos feature prominently in the 2025–2026 import mix (Section 5.8), so any resulting orders would further separate customs value from delivered project cost.
 
-**Sources:** P01 (rendered FR extract, prior round: `support/Policy-and-Cost-Web-Checks.json`, lines L83–L132); `data/supplement/A/A_rules_evidence.csv` R05, R06; LEAD-USITC-VOTE (USITC calendar lists a final-phase vote on 14 October 2026; lead only).
+**Action:** in 5.7 (line 350), DELETE "The annex-level HTS mapping remains unresolved in this report."
 
-**Remaining fields:** Annex I/II HTS lines; the operative clause text for the 15% duty and the country arrangements; stacking order with section 301, AD/CVD and any other duties; USITC final injury outcome.
+**Not changed:** the $0.29/Wdc versus $0.38/W paragraph (line 354) remains valid.
 
-**Not changed:** the $0.29/Wdc versus $0.38/W comparison paragraph (line 354) remains valid as written.
+**Sources:**
+- P01-PDF (`sources/trade/FR-2026-16400.pdf`; printed pp.51977–51979 clauses 1–8; pp.51982–51983 Annex I; pp.51984–51987 Annex II);
+- FR-ADCVD (`sources/trade/FR-2026-189xx.json`, FR-search-cspv-2026.json);
+- FR-ITC-SEARCH (`FR-search-usitc.json`: no final injury notice since June 2026);
+- LEAD-USITC-VOTE (vote listed for 2026-10-14; usitc.gov returned 403).
+
+**Remaining fields:** the USITC final injury outcome (pending); IEEPA and other stacking beyond the clause 5(a) "in addition" rule is not quantified.
 
 ---
 
@@ -372,15 +457,17 @@ New evidence in this pass therefore comes from three places:
 
 **Anchor (line 409):** "The deck also uses 127.9 GW in its narrative. That source inconsistency remains unresolved; 125.4 GW is the only as the chart-labeled quantity, with the alternative explicitly disclosed."
 
-**Disposition:** partially disclosed. The inconsistency is confirmed in the retained transcription. No official revision was identified (one search; ercot.com not reachable). The sentence is also ungrammatical.
+**Disposition:** partially disclosed.
+
+In round 2 the deck was re-downloaded from ercot.com (`sources/other/ERCOT_2026-09_Board14_Batch-Zero-Update.pdf`, 8 pages). The figures confirm the inconsistency: 127.9 GW on p.1, and 125.4 GW, 66.4 GW and 302.2 GW on p.6. ERCOT's Large Load Integration page, checked 10 October 2026, describes the Batch Zero verification step that precedes final classifications. No revised figure or later update was found there.
 
 **Action:** REPLACE line 409 with:
 
-> September 2026 Batch Zero materials classify 204 projects and 66.4 GW as conditional base load, and 158 projects as conditional studied load. For studied load the deck gives two totals: 125.4 GW in the chart legend (physical page 6) and 127.9 GW in the summary text (physical page 1). The category values transcribed from the chart sum to 125.4 GW, so this report uses 125.4 GW and discloses 127.9 GW as the deck's alternative figure. No official correction was identified as of this edition. Requests excluded from Batch Zero (373 projects, 302.2 GW) form a separate category. All classifications are conditional pending verification. None of these September quantities is added to March's process total, because different dates, population definitions and conditional treatment prevent a defensible additive estimate. [R-C: Batch Zero deck, physical pages 1 and 5–8]
+> September 2026 Batch Zero materials classify 204 projects and 66.4 GW as conditional base load, and 158 projects as conditional studied load. For studied load the deck gives two totals: 125.4 GW in the chart legend (physical page 6) and 127.9 GW in the summary text (physical page 1). The category values in the chart sum to 125.4 GW, so this report uses 125.4 GW and discloses 127.9 GW as the deck's alternative figure. No official correction had been published as of this edition. Final classifications follow ERCOT's verification process. Requests excluded from Batch Zero (373 projects, 302.2 GW) form a separate category. None of these September quantities is added to March's process total, because different dates, population definitions and conditional treatment prevent a defensible additive estimate. [R-C: Batch Zero deck, physical pages 1 and 5–8]
 
-**Sources:** this supplement `tables/B-03_Batch-Zero-Figure-vs-Narrative.csv` (studied 2032 category sum 125,391 MW; base 66,359 MW); `C_transcription_arithmetic_checks.csv`; LEAD-BZ-SEARCH.
+**Sources:** ERCOT-BZ-DECK; ERCOT-LLI-PAGE (status checked; not saved); `tables/B-03_Batch-Zero-Figure-vs-Narrative.csv`.
 
-**Remaining fields:** official reconciliation of 125.4 versus 127.9 GW; final (post-verification) Batch Zero classification.
+**Remaining fields:** an official reconciliation of 125.4 versus 127.9 GW; the final post-verification classification.
 
 ---
 
@@ -433,12 +520,12 @@ New evidence in this pass therefore comes from three places:
 > | Returns (FIN-01) | Definition-matched project or equity IRR for the nine named plants | Return comparison, hurdle rates | Not publicly disclosed |
 > | Operating output (FIN-02) | Plant availability, curtailment, same-year nameplate, metered delivery | Output calibration | System-level curtailment only |
 > | Contracts (FIN-03) | Strike, tenor, hub, volume rule, negative-price clause, RECs, credit support | Paid revenue and basis | Structures only; hub-hedge version is hypothetical |
-> | Tax (FIN-04) | Construction start, placed-in-service date, material-assistance ratio, PWA, transfer price; appeal or stay status of the June 2026 vacatur | Credit cash and timing | Statute verified; case facts absent; litigation status unconfirmed |
+> | Tax (FIN-04) | Construction start, placed-in-service date, material-assistance ratio, PWA, transfer price; PACER-complete appeal status | Credit cash and timing | Statute verified; public docket shows no appeal entry; case facts absent |
 > | Costs (FIN-05) | Delivered module and EPC quotations; ATB component table; site property tax and interconnection scope | Capital and operating cost | Scope crosswalk only |
 > | Location (FIN-06) | Official ERCOT–EIA crosswalk; historical mapping versions; original node-selection rationale | Applicability of the reference node | Attribute match; no settlement agreement exists for the hypothetical case |
 > | Currency (FIN-07) | — | — | CPI-restated version reported (Section 10.9) |
 > | Market regime (FIN-08) | Row-level 2026 price finality; 2026 site generation | Post-launch merchant value | Price coverage documented; no 2026 return |
-> | Suppliers (FIN-09) | Cash, restricted cash, debt maturities, warranty provisions, 45X amounts | Supplier resilience | Not compiled |
+> | Suppliers (FIN-09) | Covenant headroom; full maturity ladders (A-shares, JinkoSolar); A-share grants | Supplier resilience | Cash, borrowings, warranties and working capital compiled (Table 4-3) |
 > | Financing (FIN-10) | Coupon, tenor, sizing, reserves, tax-equity terms | Levered returns | Not publicly disclosed |
 > | Net receipts (FIN-11) | Loss factor, QSE fees, imbalance, REC price | Net cash receipts | Gross energy value only |
 >

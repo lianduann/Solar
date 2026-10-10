@@ -14,3 +14,5 @@
 | `.../data/supplement/C/C_batch_zero_*.csv` | B-03 | Category sums |
 
 Not rerun: the 2026 API download, the EIA extraction, the weather simulation, the regressions and resampling, and the finance scenario scripts 08–10.
+
+Round 2 added original downloads only (no recomputation). FIN-09 arithmetic is limited to current assets minus current liabilities, and to unit scaling for display.
