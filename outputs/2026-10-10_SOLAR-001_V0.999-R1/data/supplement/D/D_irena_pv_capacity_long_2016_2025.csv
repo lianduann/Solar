@@ -1,0 +1,2292 @@
+name,year,mw,flag,pdf_page,printed_page,is_region,is_aggregate,mw_prev,net_change_mw
+Afghanistan,2016,21,u,38,26,False,False,,
+Afghanistan,2017,23,u,38,26,False,False,21.0,2.0
+Afghanistan,2018,23,u,38,26,False,False,23.0,0.0
+Afghanistan,2019,53,u,38,26,False,False,23.0,30.0
+Afghanistan,2020,52,u,38,26,False,False,53.0,-1.0
+Afghanistan,2021,52,u,38,26,False,False,52.0,0.0
+Afghanistan,2022,54,u,38,26,False,False,52.0,2.0
+Afghanistan,2023,54,u,38,26,False,False,54.0,0.0
+Afghanistan,2024,64,u,38,26,False,False,54.0,10.0
+Afghanistan,2025,66,u,38,26,False,False,64.0,2.0
+Africa,2016,2600,,37,25,True,True,,
+Africa,2017,3252,,37,25,True,True,2600.0,652.0
+Africa,2018,4656,,37,25,True,True,3252.0,1404.0
+Africa,2019,6113,,37,25,True,True,4656.0,1457.0
+Africa,2020,7304,,37,25,True,True,6113.0,1191.0
+Africa,2021,8407,,37,25,True,True,7304.0,1103.0
+Africa,2022,10935,,37,25,True,True,8407.0,2528.0
+Africa,2023,14475,,37,25,True,True,10935.0,3540.0
+Africa,2024,17190,,37,25,True,True,14475.0,2715.0
+Africa,2025,21003,,37,25,True,True,17190.0,3813.0
+Albania,2016,1,u,39,27,False,False,,
+Albania,2017,1,u,39,27,False,False,1.0,0.0
+Albania,2018,1,u,39,27,False,False,1.0,0.0
+Albania,2019,14,u,39,27,False,False,1.0,13.0
+Albania,2020,21,u,39,27,False,False,14.0,7.0
+Albania,2021,23,e,39,27,False,False,21.0,2.0
+Albania,2022,100,u,39,27,False,False,23.0,77.0
+Albania,2023,207,u,39,27,False,False,100.0,107.0
+Albania,2024,720,u,39,27,False,False,207.0,513.0
+Albania,2025,876,u,39,27,False,False,720.0,156.0
+Algeria,2016,237,u,37,25,False,False,,
+Algeria,2017,330,u,37,25,False,False,237.0,93.0
+Algeria,2018,342,u,37,25,False,False,330.0,12.0
+Algeria,2019,342,u,37,25,False,False,342.0,0.0
+Algeria,2020,342,u,37,25,False,False,342.0,0.0
+Algeria,2021,342,u,37,25,False,False,342.0,0.0
+Algeria,2022,426,u,37,25,False,False,342.0,84.0
+Algeria,2023,437,u,37,25,False,False,426.0,11.0
+Algeria,2024,437,e,37,25,False,False,437.0,0.0
+Algeria,2025,437,u,37,25,False,False,437.0,0.0
+Amer Samoa,2016,4,e,40,28,False,False,,
+Amer Samoa,2017,4,e,40,28,False,False,4.0,0.0
+Amer Samoa,2018,5,e,40,28,False,False,4.0,1.0
+Amer Samoa,2019,5,u,40,28,False,False,5.0,0.0
+Amer Samoa,2020,5,u,40,28,False,False,5.0,0.0
+Amer Samoa,2021,5,u,40,28,False,False,5.0,0.0
+Amer Samoa,2022,7,u,40,28,False,False,5.0,2.0
+Amer Samoa,2023,7,u,40,28,False,False,7.0,0.0
+Amer Samoa,2024,7,e,40,28,False,False,7.0,0.0
+Amer Samoa,2025,7,o,40,28,False,False,7.0,0.0
+Andorra,2016,0,o,39,27,False,False,,
+Andorra,2017,0,o,39,27,False,False,0.0,0.0
+Andorra,2018,0,o,39,27,False,False,0.0,0.0
+Andorra,2019,1,o,39,27,False,False,0.0,1.0
+Andorra,2020,1,o,39,27,False,False,1.0,0.0
+Andorra,2021,1,o,39,27,False,False,1.0,0.0
+Andorra,2022,2,o,39,27,False,False,1.0,1.0
+Andorra,2023,5,o,39,27,False,False,2.0,3.0
+Andorra,2024,7,o,39,27,False,False,5.0,2.0
+Andorra,2025,10,u,39,27,False,False,7.0,3.0
+Angola,2016,0,u,37,25,False,False,,
+Angola,2017,0,u,37,25,False,False,0.0,0.0
+Angola,2018,0,u,37,25,False,False,0.0,0.0
+Angola,2019,1,u,37,25,False,False,0.0,1.0
+Angola,2020,1,u,37,25,False,False,1.0,0.0
+Angola,2021,1,u,37,25,False,False,1.0,0.0
+Angola,2022,285,u,37,25,False,False,1.0,284.0
+Angola,2023,310,u,37,25,False,False,285.0,25.0
+Angola,2024,362,u,37,25,False,False,310.0,52.0
+Angola,2025,385,u,37,25,False,False,362.0,23.0
+Anguilla,2016,2,u,38,26,False,False,,
+Anguilla,2017,2,u,38,26,False,False,2.0,0.0
+Anguilla,2018,1,u,38,26,False,False,2.0,-1.0
+Anguilla,2019,2,u,38,26,False,False,1.0,1.0
+Anguilla,2020,2,u,38,26,False,False,2.0,0.0
+Anguilla,2021,2,u,38,26,False,False,2.0,0.0
+Anguilla,2022,2,u,38,26,False,False,2.0,0.0
+Anguilla,2023,2,u,38,26,False,False,2.0,0.0
+Anguilla,2024,2,u,38,26,False,False,2.0,0.0
+Anguilla,2025,2,u,38,26,False,False,2.0,0.0
+Antigua Barb,2016,4,e,38,26,False,False,,
+Antigua Barb,2017,4,e,38,26,False,False,4.0,0.0
+Antigua Barb,2018,9,e,38,26,False,False,4.0,5.0
+Antigua Barb,2019,9,e,38,26,False,False,9.0,0.0
+Antigua Barb,2020,13,e,38,26,False,False,9.0,4.0
+Antigua Barb,2021,15,e,38,26,False,False,13.0,2.0
+Antigua Barb,2022,15,u,38,26,False,False,15.0,0.0
+Antigua Barb,2023,16,u,38,26,False,False,15.0,1.0
+Antigua Barb,2024,16,u,38,26,False,False,16.0,0.0
+Antigua Barb,2025,16,e,38,26,False,False,16.0,0.0
+Argentina,2016,14,e,40,28,False,False,,
+Argentina,2017,14,e,40,28,False,False,14.0,0.0
+Argentina,2018,196,e,40,28,False,False,14.0,182.0
+Argentina,2019,446,e,40,28,False,False,196.0,250.0
+Argentina,2020,768,e,40,28,False,False,446.0,322.0
+Argentina,2021,1077,e,40,28,False,False,768.0,309.0
+Argentina,2022,1113,e,40,28,False,False,1077.0,36.0
+Argentina,2023,1405,e,40,28,False,False,1113.0,292.0
+Argentina,2024,1741,u,40,28,False,False,1405.0,336.0
+Argentina,2025,2592,u,40,28,False,False,1741.0,851.0
+Armenia,2016,1,u,38,26,False,False,,
+Armenia,2017,2,u,38,26,False,False,1.0,1.0
+Armenia,2018,17,u,38,26,False,False,2.0,15.0
+Armenia,2019,21,u,38,26,False,False,17.0,4.0
+Armenia,2020,51,u,38,26,False,False,21.0,30.0
+Armenia,2021,146,u,38,26,False,False,51.0,95.0
+Armenia,2022,235,u,38,26,False,False,146.0,89.0
+Armenia,2023,402,e,38,26,False,False,235.0,167.0
+Armenia,2024,485,u,38,26,False,False,402.0,83.0
+Armenia,2025,706,u,38,26,False,False,485.0,221.0
+Aruba,2016,7,u,38,26,False,False,,
+Aruba,2017,7,u,38,26,False,False,7.0,0.0
+Aruba,2018,15,u,38,26,False,False,7.0,8.0
+Aruba,2019,15,u,38,26,False,False,15.0,0.0
+Aruba,2020,15,u,38,26,False,False,15.0,0.0
+Aruba,2021,15,u,38,26,False,False,15.0,0.0
+Aruba,2022,15,u,38,26,False,False,15.0,0.0
+Aruba,2023,15,u,38,26,False,False,15.0,0.0
+Aruba,2024,15,e,38,26,False,False,15.0,0.0
+Aruba,2025,15,u,38,26,False,False,15.0,0.0
+Asia,2016,139820,,38,26,True,True,,
+Asia,2017,211153,,38,26,True,True,139820.0,71333.0
+Asia,2018,275189,,38,26,True,True,211153.0,64036.0
+Asia,2019,330491,,38,26,True,True,275189.0,55302.0
+Asia,2020,411555,,38,26,True,True,330491.0,81064.0
+Asia,2021,488127,,38,26,True,True,411555.0,76572.0
+Asia,2022,599709,,38,26,True,True,488127.0,111582.0
+Asia,2023,841236,,38,26,True,True,599709.0,241527.0
+Asia,2024,1157898,,38,26,True,True,841236.0,316662.0
+Asia,2025,1528220,,38,26,True,True,1157898.0,370322.0
+Australia,2016,5878,o,40,28,False,False,,
+Australia,2017,7238,o,40,28,False,False,5878.0,1360.0
+Australia,2018,11125,o,40,28,False,False,7238.0,3887.0
+Australia,2019,15450,o,40,28,False,False,11125.0,4325.0
+Australia,2020,19770,o,40,28,False,False,15450.0,4320.0
+Australia,2021,24394,o,40,28,False,False,19770.0,4624.0
+Australia,2022,28884,o,40,28,False,False,24394.0,4490.0
+Australia,2023,30672,o,40,28,False,False,28884.0,1788.0
+Australia,2024,35995,o,40,28,False,False,30672.0,5323.0
+Australia,2025,41065,o,40,28,False,False,35995.0,5070.0
+Austria,2016,1103,u,39,27,False,False,,
+Austria,2017,1276,u,39,27,False,False,1103.0,173.0
+Austria,2018,1462,u,39,27,False,False,1276.0,186.0
+Austria,2019,1710,u,39,27,False,False,1462.0,248.0
+Austria,2020,2051,u,39,27,False,False,1710.0,341.0
+Austria,2021,2791,u,39,27,False,False,2051.0,740.0
+Austria,2022,3800,e,39,27,False,False,2791.0,1009.0
+Austria,2023,6394,u,39,27,False,False,3800.0,2594.0
+Austria,2024,8904,e,39,27,False,False,6394.0,2510.0
+Austria,2025,10304,u,39,27,False,False,8904.0,1400.0
+Azerbaijan,2016,25,u,38,26,False,False,,
+Azerbaijan,2017,28,u,38,26,False,False,25.0,3.0
+Azerbaijan,2018,35,e,38,26,False,False,28.0,7.0
+Azerbaijan,2019,33,e,38,26,False,False,35.0,-2.0
+Azerbaijan,2020,35,e,38,26,False,False,33.0,2.0
+Azerbaijan,2021,48,o,38,26,False,False,35.0,13.0
+Azerbaijan,2022,51,e,38,26,False,False,48.0,3.0
+Azerbaijan,2023,282,u,38,26,False,False,51.0,231.0
+Azerbaijan,2024,281,u,38,26,False,False,282.0,-1.0
+Azerbaijan,2025,281,e,38,26,False,False,281.0,0.0
+BES Islands,2016,2,e,38,26,False,False,,
+BES Islands,2017,5,e,38,26,False,False,2.0,3.0
+BES Islands,2018,6,u,38,26,False,False,5.0,1.0
+BES Islands,2019,7,u,38,26,False,False,6.0,1.0
+BES Islands,2020,7,u,38,26,False,False,7.0,0.0
+BES Islands,2021,7,u,38,26,False,False,7.0,0.0
+BES Islands,2022,7,u,38,26,False,False,7.0,0.0
+BES Islands,2023,16,u,38,26,False,False,7.0,9.0
+BES Islands,2024,22,e,38,26,False,False,16.0,6.0
+BES Islands,2025,24,u,38,26,False,False,22.0,2.0
+Bahamas,2016,3,u,38,26,False,False,,
+Bahamas,2017,3,u,38,26,False,False,3.0,0.0
+Bahamas,2018,3,u,38,26,False,False,3.0,0.0
+Bahamas,2019,5,u,38,26,False,False,3.0,2.0
+Bahamas,2020,5,u,38,26,False,False,5.0,0.0
+Bahamas,2021,10,u,38,26,False,False,5.0,5.0
+Bahamas,2022,15,u,38,26,False,False,10.0,5.0
+Bahamas,2023,15,u,38,26,False,False,15.0,0.0
+Bahamas,2024,21,u,38,26,False,False,15.0,6.0
+Bahamas,2025,21,u,38,26,False,False,21.0,0.0
+Bahrain,2016,6,u,39,27,False,False,,
+Bahrain,2017,6,u,39,27,False,False,6.0,0.0
+Bahrain,2018,6,u,39,27,False,False,6.0,0.0
+Bahrain,2019,10,u,39,27,False,False,6.0,4.0
+Bahrain,2020,10,u,39,27,False,False,10.0,0.0
+Bahrain,2021,21,u,39,27,False,False,10.0,11.0
+Bahrain,2022,46,u,39,27,False,False,21.0,25.0
+Bahrain,2023,57,u,39,27,False,False,46.0,11.0
+Bahrain,2024,66,u,39,27,False,False,57.0,9.0
+Bahrain,2025,112,e,39,27,False,False,66.0,46.0
+Bangladesh,2016,165,u,38,26,False,False,,
+Bangladesh,2017,217,u,38,26,False,False,165.0,52.0
+Bangladesh,2018,240,u,38,26,False,False,217.0,23.0
+Bangladesh,2019,280,u,38,26,False,False,240.0,40.0
+Bangladesh,2020,343,u,38,26,False,False,280.0,63.0
+Bangladesh,2021,506,u,38,26,False,False,343.0,163.0
+Bangladesh,2022,523,u,38,26,False,False,506.0,17.0
+Bangladesh,2023,746,u,38,26,False,False,523.0,223.0
+Bangladesh,2024,846,u,38,26,False,False,746.0,100.0
+Bangladesh,2025,1146,u,38,26,False,False,846.0,300.0
+Barbados,2016,15,e,38,26,False,False,,
+Barbados,2017,16,e,38,26,False,False,15.0,1.0
+Barbados,2018,17,e,38,26,False,False,16.0,1.0
+Barbados,2019,33,e,38,26,False,False,17.0,16.0
+Barbados,2020,49,e,38,26,False,False,33.0,16.0
+Barbados,2021,64,e,38,26,False,False,49.0,15.0
+Barbados,2022,69,e,38,26,False,False,64.0,5.0
+Barbados,2023,69,e,38,26,False,False,69.0,0.0
+Barbados,2024,69,e,38,26,False,False,69.0,0.0
+Barbados,2025,69,e,38,26,False,False,69.0,0.0
+Belarus,2016,47,u,39,27,False,False,,
+Belarus,2017,80,u,39,27,False,False,47.0,33.0
+Belarus,2018,154,u,39,27,False,False,80.0,74.0
+Belarus,2019,154,u,39,27,False,False,154.0,0.0
+Belarus,2020,160,u,39,27,False,False,154.0,6.0
+Belarus,2021,164,u,39,27,False,False,160.0,4.0
+Belarus,2022,273,e,39,27,False,False,164.0,109.0
+Belarus,2023,273,u,39,27,False,False,273.0,0.0
+Belarus,2024,265,u,39,27,False,False,273.0,-8.0
+Belarus,2025,277,u,39,27,False,False,265.0,12.0
+Belgium,2016,3291,u,39,27,False,False,,
+Belgium,2017,3600,u,39,27,False,False,3291.0,309.0
+Belgium,2018,3963,u,39,27,False,False,3600.0,363.0
+Belgium,2019,4523,u,39,27,False,False,3963.0,560.0
+Belgium,2020,5453,u,39,27,False,False,4523.0,930.0
+Belgium,2021,5933,u,39,27,False,False,5453.0,480.0
+Belgium,2022,6780,u,39,27,False,False,5933.0,847.0
+Belgium,2023,8360,u,39,27,False,False,6780.0,1580.0
+Belgium,2024,9642,u,39,27,False,False,8360.0,1282.0
+Belgium,2025,10398,u,39,27,False,False,9642.0,756.0
+Belize,2016,1,e,38,26,False,False,,
+Belize,2017,1,e,38,26,False,False,1.0,0.0
+Belize,2018,1,e,38,26,False,False,1.0,0.0
+Belize,2019,7,e,38,26,False,False,1.0,6.0
+Belize,2020,7,e,38,26,False,False,7.0,0.0
+Belize,2021,7,e,38,26,False,False,7.0,0.0
+Belize,2022,7,e,38,26,False,False,7.0,0.0
+Belize,2023,7,e,38,26,False,False,7.0,0.0
+Belize,2024,7,e,38,26,False,False,7.0,0.0
+Belize,2025,7,e,38,26,False,False,7.0,0.0
+Benin,2016,2,u,37,25,False,False,,
+Benin,2017,2,u,37,25,False,False,2.0,0.0
+Benin,2018,3,u,37,25,False,False,2.0,1.0
+Benin,2019,4,u,37,25,False,False,3.0,1.0
+Benin,2020,5,u,37,25,False,False,4.0,1.0
+Benin,2021,6,u,37,25,False,False,5.0,1.0
+Benin,2022,33,u,37,25,False,False,6.0,27.0
+Benin,2023,35,e,37,25,False,False,33.0,2.0
+Benin,2024,35,e,37,25,False,False,35.0,0.0
+Benin,2025,35,e,37,25,False,False,35.0,0.0
+Bhutan,2016,0,u,38,26,False,False,,
+Bhutan,2017,0,u,38,26,False,False,0.0,0.0
+Bhutan,2018,0,u,38,26,False,False,0.0,0.0
+Bhutan,2019,0,u,38,26,False,False,0.0,0.0
+Bhutan,2020,0,u,38,26,False,False,0.0,0.0
+Bhutan,2021,0,u,38,26,False,False,0.0,0.0
+Bhutan,2022,0,u,38,26,False,False,0.0,0.0
+Bhutan,2023,1,u,38,26,False,False,0.0,1.0
+Bhutan,2024,3,u,38,26,False,False,1.0,2.0
+Bhutan,2025,21,u,38,26,False,False,3.0,18.0
+Bolivia,2016,6,e,40,28,False,False,,
+Bolivia,2017,11,e,40,28,False,False,6.0,5.0
+Bolivia,2018,70,u,40,28,False,False,11.0,59.0
+Bolivia,2019,71,u,40,28,False,False,70.0,1.0
+Bolivia,2020,121,e,40,28,False,False,71.0,50.0
+Bolivia,2021,171,e,40,28,False,False,121.0,50.0
+Bolivia,2022,172,e,40,28,False,False,171.0,1.0
+Bolivia,2023,173,u,40,28,False,False,172.0,1.0
+Bolivia,2024,177,u,40,28,False,False,173.0,4.0
+Bolivia,2025,194,u,40,28,False,False,177.0,17.0
+Bosnia Herzg,2016,14,u,39,27,False,False,,
+Bosnia Herzg,2017,16,u,39,27,False,False,14.0,2.0
+Bosnia Herzg,2018,18,o,39,27,False,False,16.0,2.0
+Bosnia Herzg,2019,22,o,39,27,False,False,18.0,4.0
+Bosnia Herzg,2020,35,u,39,27,False,False,22.0,13.0
+Bosnia Herzg,2021,57,u,39,27,False,False,35.0,22.0
+Bosnia Herzg,2022,102,u,39,27,False,False,57.0,45.0
+Bosnia Herzg,2023,212,u,39,27,False,False,102.0,110.0
+Bosnia Herzg,2024,608,u,39,27,False,False,212.0,396.0
+Bosnia Herzg,2025,668,o,39,27,False,False,608.0,60.0
+Botswana,2016,3,u,37,25,False,False,,
+Botswana,2017,3,u,37,25,False,False,3.0,0.0
+Botswana,2018,4,u,37,25,False,False,3.0,1.0
+Botswana,2019,6,u,37,25,False,False,4.0,2.0
+Botswana,2020,6,u,37,25,False,False,6.0,0.0
+Botswana,2021,6,u,37,25,False,False,6.0,0.0
+Botswana,2022,6,u,37,25,False,False,6.0,0.0
+Botswana,2023,9,e,37,25,False,False,6.0,3.0
+Botswana,2024,66,e,37,25,False,False,9.0,57.0
+Botswana,2025,169,e,37,25,False,False,66.0,103.0
+Br Virgin Is,2016,1,u,38,26,False,False,,
+Br Virgin Is,2017,1,u,38,26,False,False,1.0,0.0
+Br Virgin Is,2018,1,u,38,26,False,False,1.0,0.0
+Br Virgin Is,2019,1,u,38,26,False,False,1.0,0.0
+Br Virgin Is,2020,1,u,38,26,False,False,1.0,0.0
+Br Virgin Is,2021,1,u,38,26,False,False,1.0,0.0
+Br Virgin Is,2022,2,u,38,26,False,False,1.0,1.0
+Br Virgin Is,2023,3,u,38,26,False,False,2.0,1.0
+Br Virgin Is,2024,3,e,38,26,False,False,3.0,0.0
+Br Virgin Is,2025,2,u,38,26,False,False,3.0,-1.0
+Brazil,2016,135,e,40,28,False,False,,
+Brazil,2017,1210,e,40,28,False,False,135.0,1075.0
+Brazil,2018,2458,e,40,28,False,False,1210.0,1248.0
+Brazil,2019,4669,e,40,28,False,False,2458.0,2211.0
+Brazil,2020,8386,e,40,28,False,False,4669.0,3717.0
+Brazil,2021,14310,e,40,28,False,False,8386.0,5924.0
+Brazil,2022,25066,e,40,28,False,False,14310.0,10756.0
+Brazil,2023,37563,e,40,28,False,False,25066.0,12497.0
+Brazil,2024,53114,u,40,28,False,False,37563.0,15551.0
+Brazil,2025,64692,u,40,28,False,False,53114.0,11578.0
+Brunei Darsm,2016,1,u,38,26,False,False,,
+Brunei Darsm,2017,1,u,38,26,False,False,1.0,0.0
+Brunei Darsm,2018,1,u,38,26,False,False,1.0,0.0
+Brunei Darsm,2019,1,u,38,26,False,False,1.0,0.0
+Brunei Darsm,2020,1,u,38,26,False,False,1.0,0.0
+Brunei Darsm,2021,5,u,38,26,False,False,1.0,4.0
+Brunei Darsm,2022,5,u,38,26,False,False,5.0,0.0
+Brunei Darsm,2023,5,u,38,26,False,False,5.0,0.0
+Brunei Darsm,2024,5,u,38,26,False,False,5.0,0.0
+Brunei Darsm,2025,6,u,38,26,False,False,5.0,1.0
+Bulgaria,2016,1030,u,39,27,False,False,,
+Bulgaria,2017,1031,u,39,27,False,False,1030.0,1.0
+Bulgaria,2018,1033,u,39,27,False,False,1031.0,2.0
+Bulgaria,2019,1044,u,39,27,False,False,1033.0,11.0
+Bulgaria,2020,1100,u,39,27,False,False,1044.0,56.0
+Bulgaria,2021,1275,u,39,27,False,False,1100.0,175.0
+Bulgaria,2022,1737,u,39,27,False,False,1275.0,462.0
+Bulgaria,2023,2927,u,39,27,False,False,1737.0,1190.0
+Bulgaria,2024,4560,u,39,27,False,False,2927.0,1633.0
+Bulgaria,2025,5910,u,39,27,False,False,4560.0,1350.0
+Burkina Faso,2016,3,u,37,25,False,False,,
+Burkina Faso,2017,38,u,37,25,False,False,3.0,35.0
+Burkina Faso,2018,54,u,37,25,False,False,38.0,16.0
+Burkina Faso,2019,58,u,37,25,False,False,54.0,4.0
+Burkina Faso,2020,59,u,37,25,False,False,58.0,1.0
+Burkina Faso,2021,59,u,37,25,False,False,59.0,0.0
+Burkina Faso,2022,90,u,37,25,False,False,59.0,31.0
+Burkina Faso,2023,177,u,37,25,False,False,90.0,87.0
+Burkina Faso,2024,206,e,37,25,False,False,177.0,29.0
+Burkina Faso,2025,206,e,37,25,False,False,206.0,0.0
+Burundi,2016,2,u,37,25,False,False,,
+Burundi,2017,2,u,37,25,False,False,2.0,0.0
+Burundi,2018,2,u,37,25,False,False,2.0,0.0
+Burundi,2019,2,u,37,25,False,False,2.0,0.0
+Burundi,2020,2,u,37,25,False,False,2.0,0.0
+Burundi,2021,9,u,37,25,False,False,2.0,7.0
+Burundi,2022,9,u,37,25,False,False,9.0,0.0
+Burundi,2023,9,e,37,25,False,False,9.0,0.0
+Burundi,2024,10,e,37,25,False,False,9.0,1.0
+Burundi,2025,10,u,37,25,False,False,10.0,0.0
+C America + Carib,2016,1197,,38,26,True,True,,
+C America + Carib,2017,1559,,38,26,True,True,1197.0,362.0
+C America + Carib,2018,1942,,38,26,True,True,1559.0,383.0
+C America + Carib,2019,2533,,38,26,True,True,1942.0,591.0
+C America + Carib,2020,2815,,38,26,True,True,2533.0,282.0
+C America + Carib,2021,3542,,38,26,True,True,2815.0,727.0
+C America + Carib,2022,3954,,38,26,True,True,3542.0,412.0
+C America + Carib,2023,4851,,38,26,True,True,3954.0,897.0
+C America + Carib,2024,5599,,38,26,True,True,4851.0,748.0
+C America + Carib,2025,7262,,38,26,True,True,5599.0,1663.0
+Cabo Verde,2016,6,u,37,25,False,False,,
+Cabo Verde,2017,6,u,37,25,False,False,6.0,0.0
+Cabo Verde,2018,11,o,37,25,False,False,6.0,5.0
+Cabo Verde,2019,14,o,37,25,False,False,11.0,3.0
+Cabo Verde,2020,15,o,37,25,False,False,14.0,1.0
+Cabo Verde,2021,17,o,37,25,False,False,15.0,2.0
+Cabo Verde,2022,23,o,37,25,False,False,17.0,6.0
+Cabo Verde,2023,26,o,37,25,False,False,23.0,3.0
+Cabo Verde,2024,31,u,37,25,False,False,26.0,5.0
+Cabo Verde,2025,33,u,37,25,False,False,31.0,2.0
+Cambodia,2016,18,u,38,26,False,False,,
+Cambodia,2017,32,u,38,26,False,False,18.0,14.0
+Cambodia,2018,43,u,38,26,False,False,32.0,11.0
+Cambodia,2019,140,u,38,26,False,False,43.0,97.0
+Cambodia,2020,333,u,38,26,False,False,140.0,193.0
+Cambodia,2021,395,u,38,26,False,False,333.0,62.0
+Cambodia,2022,481,u,38,26,False,False,395.0,86.0
+Cambodia,2023,487,u,38,26,False,False,481.0,6.0
+Cambodia,2024,972,u,38,26,False,False,487.0,485.0
+Cambodia,2025,1482,u,38,26,False,False,972.0,510.0
+Cameroon,2016,0,e,37,25,False,False,,
+Cameroon,2017,23,e,37,25,False,False,0.0,23.0
+Cameroon,2018,25,e,37,25,False,False,23.0,2.0
+Cameroon,2019,26,e,37,25,False,False,25.0,1.0
+Cameroon,2020,40,e,37,25,False,False,26.0,14.0
+Cameroon,2021,53,e,37,25,False,False,40.0,13.0
+Cameroon,2022,53,e,37,25,False,False,53.0,0.0
+Cameroon,2023,89,e,37,25,False,False,53.0,36.0
+Cameroon,2024,89,e,37,25,False,False,89.0,0.0
+Cameroon,2025,90,u,37,25,False,False,89.0,1.0
+Canada,2016,2265,u,39,27,False,False,,
+Canada,2017,2493,u,39,27,False,False,2265.0,228.0
+Canada,2018,2631,u,39,27,False,False,2493.0,138.0
+Canada,2019,2828,u,39,27,False,False,2631.0,197.0
+Canada,2020,3068,u,39,27,False,False,2828.0,240.0
+Canada,2021,3854,u,39,27,False,False,3068.0,786.0
+Canada,2022,4323,u,39,27,False,False,3854.0,469.0
+Canada,2023,5328,u,39,27,False,False,4323.0,1005.0
+Canada,2024,5818,u,39,27,False,False,5328.0,490.0
+Canada,2025,5931,u,39,27,False,False,5818.0,113.0
+Cayman Is,2016,3,u,38,26,False,False,,
+Cayman Is,2017,9,u,38,26,False,False,3.0,6.0
+Cayman Is,2018,10,u,38,26,False,False,9.0,1.0
+Cayman Is,2019,11,u,38,26,False,False,10.0,1.0
+Cayman Is,2020,13,u,38,26,False,False,11.0,2.0
+Cayman Is,2021,14,e,38,26,False,False,13.0,1.0
+Cayman Is,2022,14,u,38,26,False,False,14.0,0.0
+Cayman Is,2023,14,e,38,26,False,False,14.0,0.0
+Cayman Is,2024,14,e,38,26,False,False,14.0,0.0
+Cayman Is,2025,14,e,38,26,False,False,14.0,0.0
+Cent Afr Rep,2016,0,e,37,25,False,False,,
+Cent Afr Rep,2017,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2018,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2019,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2020,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2021,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2022,0,e,37,25,False,False,0.0,0.0
+Cent Afr Rep,2023,40,e,37,25,False,False,0.0,40.0
+Cent Afr Rep,2024,41,e,37,25,False,False,40.0,1.0
+Cent Afr Rep,2025,41,e,37,25,False,False,41.0,0.0
+Chad,2016,0,e,37,25,False,False,,
+Chad,2017,0,e,37,25,False,False,0.0,0.0
+Chad,2018,1,e,37,25,False,False,0.0,1.0
+Chad,2019,1,e,37,25,False,False,1.0,0.0
+Chad,2020,1,e,37,25,False,False,1.0,0.0
+Chad,2021,2,e,37,25,False,False,1.0,1.0
+Chad,2022,2,e,37,25,False,False,2.0,0.0
+Chad,2023,2,e,37,25,False,False,2.0,0.0
+Chad,2024,2,e,37,25,False,False,2.0,0.0
+Chad,2025,111,e,37,25,False,False,2.0,109.0
+Chile,2016,1125,u,40,28,False,False,,
+Chile,2017,1724,u,40,28,False,False,1125.0,599.0
+Chile,2018,2298,u,40,28,False,False,1724.0,574.0
+Chile,2019,2721,u,40,28,False,False,2298.0,423.0
+Chile,2020,3287,u,40,28,False,False,2721.0,566.0
+Chile,2021,4604,u,40,28,False,False,3287.0,1317.0
+Chile,2022,6779,u,40,28,False,False,4604.0,2175.0
+Chile,2023,8634,u,40,28,False,False,6779.0,1855.0
+Chile,2024,10911,e,40,28,False,False,8634.0,2277.0
+Chile,2025,12032,o,40,28,False,False,10911.0,1121.0
+China,2016,77788,u,38,26,False,False,,
+China,2017,130801,u,38,26,False,False,77788.0,53013.0
+China,2018,175016,u,38,26,False,False,130801.0,44215.0
+China,2019,204575,u,38,26,False,False,175016.0,29559.0
+China,2020,253414,u,38,26,False,False,204575.0,48839.0
+China,2021,306403,u,38,26,False,False,253414.0,52989.0
+China,2022,392462,u,38,26,False,False,306403.0,86059.0
+China,2023,609351,u,38,26,False,False,392462.0,216889.0
+China,2024,886120,u,38,26,False,False,609351.0,276769.0
+China,2025,1200359,u,38,26,False,False,886120.0,314239.0
+China HK SAR,2017,1,e,38,26,False,False,,
+China HK SAR,2018,1,e,38,26,False,False,1.0,0.0
+China HK SAR,2019,89,e,38,26,False,False,1.0,88.0
+China HK SAR,2020,91,e,38,26,False,False,89.0,2.0
+China HK SAR,2021,95,e,38,26,False,False,91.0,4.0
+China HK SAR,2022,185,u,38,26,False,False,95.0,90.0
+China HK SAR,2023,333,u,38,26,False,False,185.0,148.0
+China HK SAR,2024,405,e,38,26,False,False,333.0,72.0
+China HK SAR,2025,421,u,38,26,False,False,405.0,16.0
+Chinese Taipei,2016,1245,o,38,26,False,False,,
+Chinese Taipei,2017,1768,o,38,26,False,False,1245.0,523.0
+Chinese Taipei,2018,2738,o,38,26,False,False,1768.0,970.0
+Chinese Taipei,2019,4150,o,38,26,False,False,2738.0,1412.0
+Chinese Taipei,2020,5817,o,38,26,False,False,4150.0,1667.0
+Chinese Taipei,2021,7700,o,38,26,False,False,5817.0,1883.0
+Chinese Taipei,2022,9724,o,38,26,False,False,7700.0,2024.0
+Chinese Taipei,2023,12418,o,38,26,False,False,9724.0,2694.0
+Chinese Taipei,2024,14281,o,38,26,False,False,12418.0,1863.0
+Chinese Taipei,2025,15474,o,38,26,False,False,14281.0,1193.0
+Colombia,2016,2,u,40,28,False,False,,
+Colombia,2017,11,u,40,28,False,False,2.0,9.0
+Colombia,2018,13,u,40,28,False,False,11.0,2.0
+Colombia,2019,23,e,40,28,False,False,13.0,10.0
+Colombia,2020,74,e,40,28,False,False,23.0,51.0
+Colombia,2021,153,o,40,28,False,False,74.0,79.0
+Colombia,2022,307,o,40,28,False,False,153.0,154.0
+Colombia,2023,533,o,40,28,False,False,307.0,226.0
+Colombia,2024,1417,o,40,28,False,False,533.0,884.0
+Colombia,2025,1726,o,40,28,False,False,1417.0,309.0
+Comoros,2016,1,e,37,25,False,False,,
+Comoros,2017,1,e,37,25,False,False,1.0,0.0
+Comoros,2018,1,e,37,25,False,False,1.0,0.0
+Comoros,2019,1,e,37,25,False,False,1.0,0.0
+Comoros,2020,1,e,37,25,False,False,1.0,0.0
+Comoros,2021,3,e,37,25,False,False,1.0,2.0
+Comoros,2022,3,e,37,25,False,False,3.0,0.0
+Comoros,2023,3,e,37,25,False,False,3.0,0.0
+Comoros,2024,3,e,37,25,False,False,3.0,0.0
+Comoros,2025,9,e,37,25,False,False,3.0,6.0
+Congo DR,2016,5,e,37,25,False,False,,
+Congo DR,2017,6,e,37,25,False,False,5.0,1.0
+Congo DR,2018,8,e,37,25,False,False,6.0,2.0
+Congo DR,2019,10,e,37,25,False,False,8.0,2.0
+Congo DR,2020,14,e,37,25,False,False,10.0,4.0
+Congo DR,2021,18,e,37,25,False,False,14.0,4.0
+Congo DR,2022,22,e,37,25,False,False,18.0,4.0
+Congo DR,2023,24,e,37,25,False,False,22.0,2.0
+Congo DR,2024,29,e,37,25,False,False,24.0,5.0
+Congo DR,2025,29,e,37,25,False,False,29.0,0.0
+Congo Rep,2016,0,e,37,25,False,False,,
+Congo Rep,2017,0,e,37,25,False,False,0.0,0.0
+Congo Rep,2018,0,e,37,25,False,False,0.0,0.0
+Congo Rep,2019,0,e,37,25,False,False,0.0,0.0
+Congo Rep,2020,1,e,37,25,False,False,0.0,1.0
+Congo Rep,2021,1,e,37,25,False,False,1.0,0.0
+Congo Rep,2022,1,e,37,25,False,False,1.0,0.0
+Congo Rep,2023,1,e,37,25,False,False,1.0,0.0
+Congo Rep,2024,1,e,37,25,False,False,1.0,0.0
+Congo Rep,2025,1,e,37,25,False,False,1.0,0.0
+Cook Is,2016,3,u,40,28,False,False,,
+Cook Is,2017,3,u,40,28,False,False,3.0,0.0
+Cook Is,2018,5,u,40,28,False,False,3.0,2.0
+Cook Is,2019,6,u,40,28,False,False,5.0,1.0
+Cook Is,2020,6,u,40,28,False,False,6.0,0.0
+Cook Is,2021,6,u,40,28,False,False,6.0,0.0
+Cook Is,2022,6,u,40,28,False,False,6.0,0.0
+Cook Is,2023,6,u,40,28,False,False,6.0,0.0
+Cook Is,2024,6,u,40,28,False,False,6.0,0.0
+Cook Is,2025,6,u,40,28,False,False,6.0,0.0
+Costa Rica,2016,13,e,38,26,False,False,,
+Costa Rica,2017,19,e,38,26,False,False,13.0,6.0
+Costa Rica,2018,32,e,38,26,False,False,19.0,13.0
+Costa Rica,2019,47,e,38,26,False,False,32.0,15.0
+Costa Rica,2020,56,e,38,26,False,False,47.0,9.0
+Costa Rica,2021,73,e,38,26,False,False,56.0,17.0
+Costa Rica,2022,73,e,38,26,False,False,73.0,0.0
+Costa Rica,2023,73,e,38,26,False,False,73.0,0.0
+Costa Rica,2024,73,e,38,26,False,False,73.0,0.0
+Costa Rica,2025,83,e,38,26,False,False,73.0,10.0
+Cote d Ivoire,2016,0,e,37,25,False,False,,
+Cote d Ivoire,2017,1,e,37,25,False,False,0.0,1.0
+Cote d Ivoire,2018,2,e,37,25,False,False,1.0,1.0
+Cote d Ivoire,2019,4,e,37,25,False,False,2.0,2.0
+Cote d Ivoire,2020,6,e,37,25,False,False,4.0,2.0
+Cote d Ivoire,2021,8,e,37,25,False,False,6.0,2.0
+Cote d Ivoire,2022,9,e,37,25,False,False,8.0,1.0
+Cote d Ivoire,2023,39,e,37,25,False,False,9.0,30.0
+Cote d Ivoire,2024,39,e,37,25,False,False,39.0,0.0
+Cote d Ivoire,2025,39,e,37,25,False,False,39.0,0.0
+Croatia,2016,56,u,39,27,False,False,,
+Croatia,2017,60,u,39,27,False,False,56.0,4.0
+Croatia,2018,68,u,39,27,False,False,60.0,8.0
+Croatia,2019,85,u,39,27,False,False,68.0,17.0
+Croatia,2020,109,u,39,27,False,False,85.0,24.0
+Croatia,2021,138,u,39,27,False,False,109.0,29.0
+Croatia,2022,222,u,39,27,False,False,138.0,84.0
+Croatia,2023,463,u,39,27,False,False,222.0,241.0
+Croatia,2024,902,u,39,27,False,False,463.0,439.0
+Croatia,2025,1319,u,39,27,False,False,902.0,417.0
+Cuba,2016,31,e,38,26,False,False,,
+Cuba,2017,70,e,38,26,False,False,31.0,39.0
+Cuba,2018,124,e,38,26,False,False,70.0,54.0
+Cuba,2019,152,e,38,26,False,False,124.0,28.0
+Cuba,2020,214,e,38,26,False,False,152.0,62.0
+Cuba,2021,246,e,38,26,False,False,214.0,32.0
+Cuba,2022,267,e,38,26,False,False,246.0,21.0
+Cuba,2023,280,u,38,26,False,False,267.0,13.0
+Cuba,2024,392,e,38,26,False,False,280.0,112.0
+Cuba,2025,567,u,38,26,False,False,392.0,175.0
+Curacao,2016,11,u,38,26,False,False,,
+Curacao,2017,11,u,38,26,False,False,11.0,0.0
+Curacao,2018,12,u,38,26,False,False,11.0,1.0
+Curacao,2019,12,u,38,26,False,False,12.0,0.0
+Curacao,2020,13,u,38,26,False,False,12.0,1.0
+Curacao,2021,13,u,38,26,False,False,13.0,0.0
+Curacao,2022,13,u,38,26,False,False,13.0,0.0
+Curacao,2023,13,u,38,26,False,False,13.0,0.0
+Curacao,2024,14,e,38,26,False,False,13.0,1.0
+Curacao,2025,14,o,38,26,False,False,14.0,0.0
+Cyprus,2016,84,u,39,27,False,False,,
+Cyprus,2017,110,u,39,27,False,False,84.0,26.0
+Cyprus,2018,118,u,39,27,False,False,110.0,8.0
+Cyprus,2019,151,u,39,27,False,False,118.0,33.0
+Cyprus,2020,229,o,39,27,False,False,151.0,78.0
+Cyprus,2021,315,u,39,27,False,False,229.0,86.0
+Cyprus,2022,424,u,39,27,False,False,315.0,109.0
+Cyprus,2023,581,u,39,27,False,False,424.0,157.0
+Cyprus,2024,751,u,39,27,False,False,581.0,170.0
+Cyprus,2025,861,u,39,27,False,False,751.0,110.0
+Czechia,2016,2055,u,39,27,False,False,,
+Czechia,2017,2062,e,39,27,False,False,2055.0,7.0
+Czechia,2018,2068,e,39,27,False,False,2062.0,6.0
+Czechia,2019,2085,u,39,27,False,False,2068.0,17.0
+Czechia,2020,2124,u,39,27,False,False,2085.0,39.0
+Czechia,2021,2177,u,39,27,False,False,2124.0,53.0
+Czechia,2022,2404,u,39,27,False,False,2177.0,227.0
+Czechia,2023,3239,u,39,27,False,False,2404.0,835.0
+Czechia,2024,3984,u,39,27,False,False,3239.0,745.0
+Czechia,2025,4541,u,39,27,False,False,3984.0,557.0
+Denmark,2016,851,u,39,27,False,False,,
+Denmark,2017,906,u,39,27,False,False,851.0,55.0
+Denmark,2018,998,o,39,27,False,False,906.0,92.0
+Denmark,2019,1080,u,39,27,False,False,998.0,82.0
+Denmark,2020,1304,u,39,27,False,False,1080.0,224.0
+Denmark,2021,1704,u,39,27,False,False,1304.0,400.0
+Denmark,2022,3070,u,39,27,False,False,1704.0,1366.0
+Denmark,2023,3529,u,39,27,False,False,3070.0,459.0
+Denmark,2024,3945,u,39,27,False,False,3529.0,416.0
+Denmark,2025,5046,o,39,27,False,False,3945.0,1101.0
+Djibouti,2016,0,u,37,25,False,False,,
+Djibouti,2017,0,u,37,25,False,False,0.0,0.0
+Djibouti,2018,0,u,37,25,False,False,0.0,0.0
+Djibouti,2019,0,u,37,25,False,False,0.0,0.0
+Djibouti,2020,0,u,37,25,False,False,0.0,0.0
+Djibouti,2021,0,u,37,25,False,False,0.0,0.0
+Djibouti,2022,0,u,37,25,False,False,0.0,0.0
+Djibouti,2023,0,u,37,25,False,False,0.0,0.0
+Djibouti,2024,0,e,37,25,False,False,0.0,0.0
+Djibouti,2025,1,u,37,25,False,False,0.0,1.0
+Dominica,2016,1,u,38,26,False,False,,
+Dominica,2017,1,u,38,26,False,False,1.0,0.0
+Dominica,2018,0,u,38,26,False,False,1.0,-1.0
+Dominica,2019,0,u,38,26,False,False,0.0,0.0
+Dominica,2020,0,u,38,26,False,False,0.0,0.0
+Dominica,2021,0,u,38,26,False,False,0.0,0.0
+Dominica,2022,0,u,38,26,False,False,0.0,0.0
+Dominica,2023,1,u,38,26,False,False,0.0,1.0
+Dominica,2024,1,u,38,26,False,False,1.0,0.0
+Dominica,2025,1,u,38,26,False,False,1.0,0.0
+Dominican Rep,2016,71,e,38,26,False,False,,
+Dominican Rep,2017,95,e,38,26,False,False,71.0,24.0
+Dominican Rep,2018,191,e,38,26,False,False,95.0,96.0
+Dominican Rep,2019,335,e,38,26,False,False,191.0,144.0
+Dominican Rep,2020,386,e,38,26,False,False,335.0,51.0
+Dominican Rep,2021,584,e,38,26,False,False,386.0,198.0
+Dominican Rep,2022,735,e,38,26,False,False,584.0,151.0
+Dominican Rep,2023,1077,e,38,26,False,False,735.0,342.0
+Dominican Rep,2024,1423,e,38,26,False,False,1077.0,346.0
+Dominican Rep,2025,2083,o,38,26,False,False,1423.0,660.0
+Ecuador,2016,27,o,40,28,False,False,,
+Ecuador,2017,27,o,40,28,False,False,27.0,0.0
+Ecuador,2018,28,o,40,28,False,False,27.0,1.0
+Ecuador,2019,28,o,40,28,False,False,28.0,0.0
+Ecuador,2020,28,o,40,28,False,False,28.0,0.0
+Ecuador,2021,28,o,40,28,False,False,28.0,0.0
+Ecuador,2022,29,o,40,28,False,False,28.0,1.0
+Ecuador,2023,30,o,40,28,False,False,29.0,1.0
+Ecuador,2024,84,o,40,28,False,False,30.0,54.0
+Ecuador,2025,131,o,40,28,False,False,84.0,47.0
+Egypt,2016,39,u,37,25,False,False,,
+Egypt,2017,160,u,37,25,False,False,39.0,121.0
+Egypt,2018,744,u,37,25,False,False,160.0,584.0
+Egypt,2019,1627,u,37,25,False,False,744.0,883.0
+Egypt,2020,1623,e,37,25,False,False,1627.0,-4.0
+Egypt,2021,1643,e,37,25,False,False,1623.0,20.0
+Egypt,2022,1669,e,37,25,False,False,1643.0,26.0
+Egypt,2023,1800,e,37,25,False,False,1669.0,131.0
+Egypt,2024,2534,e,37,25,False,False,1800.0,734.0
+Egypt,2025,3247,o,37,25,False,False,2534.0,713.0
+El Salvador,2016,12,e,38,26,False,False,,
+El Salvador,2017,110,e,38,26,False,False,12.0,98.0
+El Salvador,2018,167,e,38,26,False,False,110.0,57.0
+El Salvador,2019,410,e,38,26,False,False,167.0,243.0
+El Salvador,2020,479,e,38,26,False,False,410.0,69.0
+El Salvador,2021,543,e,38,26,False,False,479.0,64.0
+El Salvador,2022,571,e,38,26,False,False,543.0,28.0
+El Salvador,2023,647,e,38,26,False,False,571.0,76.0
+El Salvador,2024,738,e,38,26,False,False,647.0,91.0
+El Salvador,2025,738,e,38,26,False,False,738.0,0.0
+Eq Guinea,2016,0,e,37,25,False,False,,
+Eq Guinea,2017,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2018,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2019,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2020,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2021,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2022,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2023,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2024,0,e,37,25,False,False,0.0,0.0
+Eq Guinea,2025,0,e,37,25,False,False,0.0,0.0
+Eritrea,2016,9,e,37,25,False,False,,
+Eritrea,2017,23,e,37,25,False,False,9.0,14.0
+Eritrea,2018,26,e,37,25,False,False,23.0,3.0
+Eritrea,2019,26,e,37,25,False,False,26.0,0.0
+Eritrea,2020,26,e,37,25,False,False,26.0,0.0
+Eritrea,2021,25,e,37,25,False,False,26.0,-1.0
+Eritrea,2022,25,e,37,25,False,False,25.0,0.0
+Eritrea,2023,25,e,37,25,False,False,25.0,0.0
+Eritrea,2024,25,e,37,25,False,False,25.0,0.0
+Eritrea,2025,25,e,37,25,False,False,25.0,0.0
+Estonia,2016,10,u,39,27,False,False,,
+Estonia,2017,15,u,39,27,False,False,10.0,5.0
+Estonia,2018,32,u,39,27,False,False,15.0,17.0
+Estonia,2019,121,u,39,27,False,False,32.0,89.0
+Estonia,2020,208,o,39,27,False,False,121.0,87.0
+Estonia,2021,395,u,39,27,False,False,208.0,187.0
+Estonia,2022,520,u,39,27,False,False,395.0,125.0
+Estonia,2023,813,u,39,27,False,False,520.0,293.0
+Estonia,2024,877,u,39,27,False,False,813.0,64.0
+Estonia,2025,984,u,39,27,False,False,877.0,107.0
+Eswatini,2016,0,u,37,25,False,False,,
+Eswatini,2017,0,e,37,25,False,False,0.0,0.0
+Eswatini,2018,0,e,37,25,False,False,0.0,0.0
+Eswatini,2019,0,e,37,25,False,False,0.0,0.0
+Eswatini,2020,0,e,37,25,False,False,0.0,0.0
+Eswatini,2021,10,e,37,25,False,False,0.0,10.0
+Eswatini,2022,10,e,37,25,False,False,10.0,0.0
+Eswatini,2023,28,e,37,25,False,False,10.0,18.0
+Eswatini,2024,28,e,37,25,False,False,28.0,0.0
+Eswatini,2025,28,e,37,25,False,False,28.0,0.0
+Ethiopia,2016,14,u,37,25,False,False,,
+Ethiopia,2017,12,u,37,25,False,False,14.0,-2.0
+Ethiopia,2018,12,u,37,25,False,False,12.0,0.0
+Ethiopia,2019,12,u,37,25,False,False,12.0,0.0
+Ethiopia,2020,20,u,37,25,False,False,12.0,8.0
+Ethiopia,2021,21,u,37,25,False,False,20.0,1.0
+Ethiopia,2022,21,u,37,25,False,False,21.0,0.0
+Ethiopia,2023,21,u,37,25,False,False,21.0,0.0
+Ethiopia,2024,22,u,37,25,False,False,21.0,1.0
+Ethiopia,2025,22,u,37,25,False,False,22.0,0.0
+Eurasia,2016,1292,,38,26,True,True,,
+Eurasia,2017,3990,,38,26,True,True,1292.0,2698.0
+Eurasia,2018,5944,,38,26,True,True,3990.0,1954.0
+Eurasia,2019,7477,,38,26,True,True,5944.0,1533.0
+Eurasia,2020,8532,,38,26,True,True,7477.0,1055.0
+Eurasia,2021,10017,,38,26,True,True,8532.0,1485.0
+Eurasia,2022,11895,,38,26,True,True,10017.0,1878.0
+Eurasia,2023,18260,,38,26,True,True,11895.0,6365.0
+Eurasia,2024,23399,,38,26,True,True,18260.0,5139.0
+Eurasia,2025,29205,,38,26,True,True,23399.0,5806.0
+Europe,2016,103248,,39,27,True,True,,
+Europe,2017,108633,,39,27,True,True,103248.0,5385.0
+Europe,2018,118063,,39,27,True,True,108633.0,9430.0
+Europe,2019,138596,,39,27,True,True,118063.0,20533.0
+Europe,2020,159072,,39,27,True,True,138596.0,20476.0
+Europe,2021,187733,,39,27,True,True,159072.0,28661.0
+Europe,2022,222377,,39,27,True,True,187733.0,34644.0
+Europe,2023,281096,,39,27,True,True,222377.0,58719.0
+Europe,2024,344106,,39,27,True,True,281096.0,63010.0
+Europe,2025,405417,,39,27,True,True,344106.0,61311.0
+European Union,2016,89016,,39,27,False,True,,
+European Union,2017,93020,,39,27,False,True,89016.0,4004.0
+European Union,2018,100970,,39,27,False,True,93020.0,7950.0
+European Union,2019,116922,,39,27,False,True,100970.0,15952.0
+European Union,2020,135097,,39,27,False,True,116922.0,18175.0
+European Union,2021,161832,,39,27,False,True,135097.0,26735.0
+European Union,2022,194305,,39,27,False,True,161832.0,32473.0
+European Union,2023,248793,,39,27,False,True,194305.0,54488.0
+European Union,2024,308427,,39,27,False,True,248793.0,59634.0
+European Union,2025,364740,,39,27,False,True,308427.0,56313.0
+Falklands Malv,2016,0,o,40,28,False,False,,
+Falklands Malv,2017,0,o,40,28,False,False,0.0,0.0
+Falklands Malv,2018,0,o,40,28,False,False,0.0,0.0
+Falklands Malv,2019,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2020,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2021,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2022,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2023,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2024,0,u,40,28,False,False,0.0,0.0
+Falklands Malv,2025,0,u,40,28,False,False,0.0,0.0
+Faroe Islands,2019,0,e,39,27,False,False,,
+Faroe Islands,2020,0,e,39,27,False,False,0.0,0.0
+Faroe Islands,2021,0,e,39,27,False,False,0.0,0.0
+Faroe Islands,2022,0,e,39,27,False,False,0.0,0.0
+Faroe Islands,2023,0,u,39,27,False,False,0.0,0.0
+Faroe Islands,2024,0,e,39,27,False,False,0.0,0.0
+Faroe Islands,2025,0,u,39,27,False,False,0.0,0.0
+Fiji,2016,6,u,40,28,False,False,,
+Fiji,2017,8,u,40,28,False,False,6.0,2.0
+Fiji,2018,9,u,40,28,False,False,8.0,1.0
+Fiji,2019,9,u,40,28,False,False,9.0,0.0
+Fiji,2020,9,u,40,28,False,False,9.0,0.0
+Fiji,2021,9,u,40,28,False,False,9.0,0.0
+Fiji,2022,10,u,40,28,False,False,9.0,1.0
+Fiji,2023,11,u,40,28,False,False,10.0,1.0
+Fiji,2024,12,e,40,28,False,False,11.0,1.0
+Fiji,2025,12,o,40,28,False,False,12.0,0.0
+Finland,2016,37,u,39,27,False,False,,
+Finland,2017,77,u,39,27,False,False,37.0,40.0
+Finland,2018,133,u,39,27,False,False,77.0,56.0
+Finland,2019,210,u,39,27,False,False,133.0,77.0
+Finland,2020,299,u,39,27,False,False,210.0,89.0
+Finland,2021,398,u,39,27,False,False,299.0,99.0
+Finland,2022,649,u,39,27,False,False,398.0,251.0
+Finland,2023,986,u,39,27,False,False,649.0,337.0
+Finland,2024,1219,u,39,27,False,False,986.0,233.0
+Finland,2025,1566,u,39,27,False,False,1219.0,347.0
+Fr Guiana,2016,46,o,40,28,False,False,,
+Fr Guiana,2017,46,o,40,28,False,False,46.0,0.0
+Fr Guiana,2018,46,o,40,28,False,False,46.0,0.0
+Fr Guiana,2019,46,u,40,28,False,False,46.0,0.0
+Fr Guiana,2020,56,u,40,28,False,False,46.0,10.0
+Fr Guiana,2021,57,u,40,28,False,False,56.0,1.0
+Fr Guiana,2022,59,u,40,28,False,False,57.0,2.0
+Fr Guiana,2023,65,u,40,28,False,False,59.0,6.0
+Fr Guiana,2024,68,u,40,28,False,False,65.0,3.0
+Fr Guiana,2025,69,u,40,28,False,False,68.0,1.0
+Fr Polynesia,2016,32,u,40,28,False,False,,
+Fr Polynesia,2017,35,u,40,28,False,False,32.0,3.0
+Fr Polynesia,2018,38,u,40,28,False,False,35.0,3.0
+Fr Polynesia,2019,41,u,40,28,False,False,38.0,3.0
+Fr Polynesia,2020,45,u,40,28,False,False,41.0,4.0
+Fr Polynesia,2021,46,u,40,28,False,False,45.0,1.0
+Fr Polynesia,2022,52,e,40,28,False,False,46.0,6.0
+Fr Polynesia,2023,53,u,40,28,False,False,52.0,1.0
+Fr Polynesia,2024,81,e,40,28,False,False,53.0,28.0
+Fr Polynesia,2025,81,u,40,28,False,False,81.0,0.0
+France,2016,7319,u,39,27,False,False,,
+France,2017,7524,u,39,27,False,False,7319.0,205.0
+France,2018,8727,u,39,27,False,False,7524.0,1203.0
+France,2019,9795,u,39,27,False,False,8727.0,1068.0
+France,2020,11127,e,39,27,False,False,9795.0,1332.0
+France,2021,14208,e,39,27,False,False,11127.0,3081.0
+France,2022,16801,e,39,27,False,False,14208.0,2593.0
+France,2023,20123,u,39,27,False,False,16801.0,3322.0
+France,2024,25456,e,39,27,False,False,20123.0,5333.0
+France,2025,31226,u,39,27,False,False,25456.0,5770.0
+Gabon,2016,0,e,37,25,False,False,,
+Gabon,2017,0,e,37,25,False,False,0.0,0.0
+Gabon,2018,0,e,37,25,False,False,0.0,0.0
+Gabon,2019,0,e,37,25,False,False,0.0,0.0
+Gabon,2020,0,e,37,25,False,False,0.0,0.0
+Gabon,2021,0,e,37,25,False,False,0.0,0.0
+Gabon,2022,1,e,37,25,False,False,0.0,1.0
+Gabon,2023,1,e,37,25,False,False,1.0,0.0
+Gabon,2024,11,e,37,25,False,False,1.0,10.0
+Gabon,2025,11,e,37,25,False,False,11.0,0.0
+Gambia,2016,1,e,37,25,False,False,,
+Gambia,2017,1,e,37,25,False,False,1.0,0.0
+Gambia,2018,1,e,37,25,False,False,1.0,0.0
+Gambia,2019,2,e,37,25,False,False,1.0,1.0
+Gambia,2020,2,e,37,25,False,False,2.0,0.0
+Gambia,2021,2,e,37,25,False,False,2.0,0.0
+Gambia,2022,2,e,37,25,False,False,2.0,0.0
+Gambia,2023,2,e,37,25,False,False,2.0,0.0
+Gambia,2024,25,e,37,25,False,False,2.0,23.0
+Gambia,2025,25,e,37,25,False,False,25.0,0.0
+Georgia,2016,0,u,38,26,False,False,,
+Georgia,2017,0,u,38,26,False,False,0.0,0.0
+Georgia,2018,1,u,38,26,False,False,0.0,1.0
+Georgia,2019,3,u,38,26,False,False,1.0,2.0
+Georgia,2020,5,u,38,26,False,False,3.0,2.0
+Georgia,2021,18,u,38,26,False,False,5.0,13.0
+Georgia,2022,35,u,38,26,False,False,18.0,17.0
+Georgia,2023,64,u,38,26,False,False,35.0,29.0
+Georgia,2024,139,u,38,26,False,False,64.0,75.0
+Georgia,2025,317,u,38,26,False,False,139.0,178.0
+Germany,2016,40677,u,39,27,False,False,,
+Germany,2017,42291,u,39,27,False,False,40677.0,1614.0
+Germany,2018,45156,u,39,27,False,False,42291.0,2865.0
+Germany,2019,48912,u,39,27,False,False,45156.0,3756.0
+Germany,2020,53669,u,39,27,False,False,48912.0,4757.0
+Germany,2021,60036,u,39,27,False,False,53669.0,6367.0
+Germany,2022,61188,u,39,27,False,False,60036.0,1152.0
+Germany,2023,75519,u,39,27,False,False,61188.0,14331.0
+Germany,2024,91204,u,39,27,False,False,75519.0,15685.0
+Germany,2025,106272,u,39,27,False,False,91204.0,15068.0
+Ghana,2016,37,e,37,25,False,False,,
+Ghana,2017,43,e,37,25,False,False,37.0,6.0
+Ghana,2018,73,e,37,25,False,False,43.0,30.0
+Ghana,2019,82,e,37,25,False,False,73.0,9.0
+Ghana,2020,106,e,37,25,False,False,82.0,24.0
+Ghana,2021,163,e,37,25,False,False,106.0,57.0
+Ghana,2022,166,e,37,25,False,False,163.0,3.0
+Ghana,2023,185,e,37,25,False,False,166.0,19.0
+Ghana,2024,186,e,37,25,False,False,185.0,1.0
+Ghana,2025,186,e,37,25,False,False,186.0,0.0
+Greece,2016,2604,u,39,27,False,False,,
+Greece,2017,2552,u,39,27,False,False,2604.0,-52.0
+Greece,2018,2591,u,39,27,False,False,2552.0,39.0
+Greece,2019,2754,u,39,27,False,False,2591.0,163.0
+Greece,2020,3174,u,39,27,False,False,2754.0,420.0
+Greece,2021,4073,u,39,27,False,False,3174.0,899.0
+Greece,2022,5104,u,39,27,False,False,4073.0,1031.0
+Greece,2023,6689,u,39,27,False,False,5104.0,1585.0
+Greece,2024,8827,u,39,27,False,False,6689.0,2138.0
+Greece,2025,11077,u,39,27,False,False,8827.0,2250.0
+Greenland,2018,0,u,39,27,False,False,,
+Greenland,2019,0,u,39,27,False,False,0.0,0.0
+Greenland,2020,0,e,39,27,False,False,0.0,0.0
+Greenland,2021,1,e,39,27,False,False,0.0,1.0
+Greenland,2022,1,u,39,27,False,False,1.0,0.0
+Greenland,2023,1,u,39,27,False,False,1.0,0.0
+Greenland,2024,1,e,39,27,False,False,1.0,0.0
+Greenland,2025,1,u,39,27,False,False,1.0,0.0
+Grenada,2016,2,e,38,26,False,False,,
+Grenada,2017,2,e,38,26,False,False,2.0,0.0
+Grenada,2018,3,e,38,26,False,False,2.0,1.0
+Grenada,2019,3,e,38,26,False,False,3.0,0.0
+Grenada,2020,4,e,38,26,False,False,3.0,1.0
+Grenada,2021,4,u,38,26,False,False,4.0,0.0
+Grenada,2022,4,u,38,26,False,False,4.0,0.0
+Grenada,2023,4,u,38,26,False,False,4.0,0.0
+Grenada,2024,4,e,38,26,False,False,4.0,0.0
+Grenada,2025,4,o,38,26,False,False,4.0,0.0
+Guadeloupe,2016,70,e,38,26,False,False,,
+Guadeloupe,2017,70,e,38,26,False,False,70.0,0.0
+Guadeloupe,2018,72,e,38,26,False,False,70.0,2.0
+Guadeloupe,2019,83,e,38,26,False,False,72.0,11.0
+Guadeloupe,2020,88,e,38,26,False,False,83.0,5.0
+Guadeloupe,2021,90,e,38,26,False,False,88.0,2.0
+Guadeloupe,2022,93,e,38,26,False,False,90.0,3.0
+Guadeloupe,2023,95,e,38,26,False,False,93.0,2.0
+Guadeloupe,2024,95,e,38,26,False,False,95.0,0.0
+Guadeloupe,2025,105,o,38,26,False,False,95.0,10.0
+Guam,2016,35,o,40,28,False,False,,
+Guam,2017,36,u,40,28,False,False,35.0,1.0
+Guam,2018,38,u,40,28,False,False,36.0,2.0
+Guam,2019,40,u,40,28,False,False,38.0,2.0
+Guam,2020,41,u,40,28,False,False,40.0,1.0
+Guam,2021,43,u,40,28,False,False,41.0,2.0
+Guam,2022,105,u,40,28,False,False,43.0,62.0
+Guam,2023,105,u,40,28,False,False,105.0,0.0
+Guam,2024,105,e,40,28,False,False,105.0,0.0
+Guam,2025,105,u,40,28,False,False,105.0,0.0
+Guatemala,2016,85,e,38,26,False,False,,
+Guatemala,2017,93,e,38,26,False,False,85.0,8.0
+Guatemala,2018,93,e,38,26,False,False,93.0,0.0
+Guatemala,2019,93,e,38,26,False,False,93.0,0.0
+Guatemala,2020,94,e,38,26,False,False,93.0,1.0
+Guatemala,2021,94,e,38,26,False,False,94.0,0.0
+Guatemala,2022,97,e,38,26,False,False,94.0,3.0
+Guatemala,2023,102,e,38,26,False,False,97.0,5.0
+Guatemala,2024,102,e,38,26,False,False,102.0,0.0
+Guatemala,2025,102,e,38,26,False,False,102.0,0.0
+Guinea,2016,0,e,37,25,False,False,,
+Guinea,2017,0,e,37,25,False,False,0.0,0.0
+Guinea,2018,13,e,37,25,False,False,0.0,13.0
+Guinea,2019,14,e,37,25,False,False,13.0,1.0
+Guinea,2020,15,e,37,25,False,False,14.0,1.0
+Guinea,2021,15,e,37,25,False,False,15.0,0.0
+Guinea,2022,16,e,37,25,False,False,15.0,1.0
+Guinea,2023,17,e,37,25,False,False,16.0,1.0
+Guinea,2024,17,e,37,25,False,False,17.0,0.0
+Guinea,2025,17,u,37,25,False,False,17.0,0.0
+Guinea Bissau,2016,1,e,37,25,False,False,,
+Guinea Bissau,2017,1,e,37,25,False,False,1.0,0.0
+Guinea Bissau,2018,2,e,37,25,False,False,1.0,1.0
+Guinea Bissau,2019,2,e,37,25,False,False,2.0,0.0
+Guinea Bissau,2020,2,e,37,25,False,False,2.0,0.0
+Guinea Bissau,2021,2,e,37,25,False,False,2.0,0.0
+Guinea Bissau,2022,2,e,37,25,False,False,2.0,0.0
+Guinea Bissau,2023,2,e,37,25,False,False,2.0,0.0
+Guinea Bissau,2024,3,e,37,25,False,False,2.0,1.0
+Guinea Bissau,2025,3,u,37,25,False,False,3.0,0.0
+Guyana,2016,2,u,40,28,False,False,,
+Guyana,2017,3,u,40,28,False,False,2.0,1.0
+Guyana,2018,6,u,40,28,False,False,3.0,3.0
+Guyana,2019,7,u,40,28,False,False,6.0,1.0
+Guyana,2020,7,u,40,28,False,False,7.0,0.0
+Guyana,2021,7,u,40,28,False,False,7.0,0.0
+Guyana,2022,13,u,40,28,False,False,7.0,6.0
+Guyana,2023,18,u,40,28,False,False,13.0,5.0
+Guyana,2024,21,u,40,28,False,False,18.0,3.0
+Guyana,2025,38,u,40,28,False,False,21.0,17.0
+Haiti,2016,2,u,38,26,False,False,,
+Haiti,2017,3,u,38,26,False,False,2.0,1.0
+Haiti,2018,3,u,38,26,False,False,3.0,0.0
+Haiti,2019,3,u,38,26,False,False,3.0,0.0
+Haiti,2020,3,u,38,26,False,False,3.0,0.0
+Haiti,2021,3,u,38,26,False,False,3.0,0.0
+Haiti,2022,3,u,38,26,False,False,3.0,0.0
+Haiti,2023,4,u,38,26,False,False,3.0,1.0
+Haiti,2024,4,e,38,26,False,False,4.0,0.0
+Haiti,2025,8,o,38,26,False,False,4.0,4.0
+Honduras,2016,412,e,38,26,False,False,,
+Honduras,2017,455,e,38,26,False,False,412.0,43.0
+Honduras,2018,515,e,38,26,False,False,455.0,60.0
+Honduras,2019,518,e,38,26,False,False,515.0,3.0
+Honduras,2020,525,e,38,26,False,False,518.0,7.0
+Honduras,2021,529,e,38,26,False,False,525.0,4.0
+Honduras,2022,529,e,38,26,False,False,529.0,0.0
+Honduras,2023,529,e,38,26,False,False,529.0,0.0
+Honduras,2024,554,e,38,26,False,False,529.0,25.0
+Honduras,2025,589,u,38,26,False,False,554.0,35.0
+Hungary,2016,235,u,39,27,False,False,,
+Hungary,2017,344,u,39,27,False,False,235.0,109.0
+Hungary,2018,728,u,39,27,False,False,344.0,384.0
+Hungary,2019,1400,u,39,27,False,False,728.0,672.0
+Hungary,2020,2131,u,39,27,False,False,1400.0,731.0
+Hungary,2021,2968,u,39,27,False,False,2131.0,837.0
+Hungary,2022,4235,u,39,27,False,False,2968.0,1267.0
+Hungary,2023,5910,u,39,27,False,False,4235.0,1675.0
+Hungary,2024,7166,u,39,27,False,False,5910.0,1256.0
+Hungary,2025,8177,u,39,27,False,False,7166.0,1011.0
+Iceland,2016,4,u,39,27,False,False,,
+Iceland,2017,4,u,39,27,False,False,4.0,0.0
+Iceland,2018,5,u,39,27,False,False,4.0,1.0
+Iceland,2019,7,u,39,27,False,False,5.0,2.0
+Iceland,2020,7,u,39,27,False,False,7.0,0.0
+Iceland,2021,7,u,39,27,False,False,7.0,0.0
+Iceland,2022,7,e,39,27,False,False,7.0,0.0
+Iceland,2023,7,u,39,27,False,False,7.0,0.0
+Iceland,2024,7,e,39,27,False,False,7.0,0.0
+Iceland,2025,7,u,39,27,False,False,7.0,0.0
+India,2016,9654,u,38,26,False,False,,
+India,2017,17928,u,38,26,False,False,9654.0,8274.0
+India,2018,27156,u,38,26,False,False,17928.0,9228.0
+India,2019,34908,u,38,26,False,False,27156.0,7752.0
+India,2020,39363,u,38,26,False,False,34908.0,4455.0
+India,2021,49636,u,38,26,False,False,39363.0,10273.0
+India,2022,63136,u,38,26,False,False,49636.0,13500.0
+India,2023,72709,u,38,26,False,False,63136.0,9573.0
+India,2024,98139,u,38,26,False,False,72709.0,25430.0
+India,2025,135159,u,38,26,False,False,98139.0,37020.0
+Indonesia,2016,88,u,38,26,False,False,,
+Indonesia,2017,97,u,38,26,False,False,88.0,9.0
+Indonesia,2018,68,u,38,26,False,False,97.0,-29.0
+Indonesia,2019,158,u,38,26,False,False,68.0,90.0
+Indonesia,2020,166,u,38,26,False,False,158.0,8.0
+Indonesia,2021,221,u,38,26,False,False,166.0,55.0
+Indonesia,2022,306,u,38,26,False,False,221.0,85.0
+Indonesia,2023,630,u,38,26,False,False,306.0,324.0
+Indonesia,2024,941,u,38,26,False,False,630.0,311.0
+Indonesia,2025,1494,u,38,26,False,False,941.0,553.0
+Iran IR,2016,43,u,39,27,False,False,,
+Iran IR,2017,184,u,39,27,False,False,43.0,141.0
+Iran IR,2018,286,u,39,27,False,False,184.0,102.0
+Iran IR,2019,346,u,39,27,False,False,286.0,60.0
+Iran IR,2020,430,u,39,27,False,False,346.0,84.0
+Iran IR,2021,456,e,39,27,False,False,430.0,26.0
+Iran IR,2022,539,u,39,27,False,False,456.0,83.0
+Iran IR,2023,595,u,39,27,False,False,539.0,56.0
+Iran IR,2024,782,u,39,27,False,False,595.0,187.0
+Iran IR,2025,1782,e,39,27,False,False,782.0,1000.0
+Iraq,2016,37,u,39,27,False,False,,
+Iraq,2017,37,u,39,27,False,False,37.0,0.0
+Iraq,2018,37,u,39,27,False,False,37.0,0.0
+Iraq,2019,37,u,39,27,False,False,37.0,0.0
+Iraq,2020,37,u,39,27,False,False,37.0,0.0
+Iraq,2021,37,u,39,27,False,False,37.0,0.0
+Iraq,2022,42,u,39,27,False,False,37.0,5.0
+Iraq,2023,42,u,39,27,False,False,42.0,0.0
+Iraq,2024,42,u,39,27,False,False,42.0,0.0
+Iraq,2025,64,e,39,27,False,False,42.0,22.0
+Ireland,2016,12,u,39,27,False,False,,
+Ireland,2017,30,u,39,27,False,False,12.0,18.0
+Ireland,2018,56,u,39,27,False,False,30.0,26.0
+Ireland,2019,102,u,39,27,False,False,56.0,46.0
+Ireland,2020,163,u,39,27,False,False,102.0,61.0
+Ireland,2021,247,u,39,27,False,False,163.0,84.0
+Ireland,2022,362,e,39,27,False,False,247.0,115.0
+Ireland,2023,919,u,39,27,False,False,362.0,557.0
+Ireland,2024,1489,e,39,27,False,False,919.0,570.0
+Ireland,2025,2494,u,39,27,False,False,1489.0,1005.0
+Israel,2016,900,e,39,27,False,False,,
+Israel,2017,1000,e,39,27,False,False,900.0,100.0
+Israel,2018,1340,e,39,27,False,False,1000.0,340.0
+Israel,2019,1890,e,39,27,False,False,1340.0,550.0
+Israel,2020,2410,e,39,27,False,False,1890.0,520.0
+Israel,2021,3349,e,39,27,False,False,2410.0,939.0
+Israel,2022,4390,e,39,27,False,False,3349.0,1041.0
+Israel,2023,5274,e,39,27,False,False,4390.0,884.0
+Israel,2024,5363,u,39,27,False,False,5274.0,89.0
+Israel,2025,7121,o,39,27,False,False,5363.0,1758.0
+Italy,2016,19111,u,39,27,False,False,,
+Italy,2017,19499,u,39,27,False,False,19111.0,388.0
+Italy,2018,19912,u,39,27,False,False,19499.0,413.0
+Italy,2019,20620,u,39,27,False,False,19912.0,708.0
+Italy,2020,21354,u,39,27,False,False,20620.0,734.0
+Italy,2021,22281,u,39,27,False,False,21354.0,927.0
+Italy,2022,24555,u,39,27,False,False,22281.0,2274.0
+Italy,2023,29351,u,39,27,False,False,24555.0,4796.0
+Italy,2024,35437,u,39,27,False,False,29351.0,6086.0
+Italy,2025,41183,o,39,27,False,False,35437.0,5746.0
+Jamaica,2016,28,e,38,26,False,False,,
+Jamaica,2017,56,e,38,26,False,False,28.0,28.0
+Jamaica,2018,56,e,38,26,False,False,56.0,0.0
+Jamaica,2019,107,e,38,26,False,False,56.0,51.0
+Jamaica,2020,107,u,38,26,False,False,107.0,0.0
+Jamaica,2021,108,u,38,26,False,False,107.0,1.0
+Jamaica,2022,110,u,38,26,False,False,108.0,2.0
+Jamaica,2023,113,u,38,26,False,False,110.0,3.0
+Jamaica,2024,117,u,38,26,False,False,113.0,4.0
+Jamaica,2025,117,u,38,26,False,False,117.0,0.0
+Japan,2016,42040,u,38,26,False,False,,
+Japan,2017,49500,o,38,26,False,False,42040.0,7460.0
+Japan,2018,56162,o,38,26,False,False,49500.0,6662.0
+Japan,2019,63192,u,38,26,False,False,56162.0,7030.0
+Japan,2020,71868,u,38,26,False,False,63192.0,8676.0
+Japan,2021,78413,u,38,26,False,False,71868.0,6545.0
+Japan,2022,83057,o,38,26,False,False,78413.0,4644.0
+Japan,2023,87068,o,38,26,False,False,83057.0,4011.0
+Japan,2024,89601,o,38,26,False,False,87068.0,2533.0
+Japan,2025,92211,o,38,26,False,False,89601.0,2610.0
+Jordan,2016,311,e,39,27,False,False,,
+Jordan,2017,418,e,39,27,False,False,311.0,107.0
+Jordan,2018,760,e,39,27,False,False,418.0,342.0
+Jordan,2019,971,e,39,27,False,False,760.0,211.0
+Jordan,2020,1541,e,39,27,False,False,971.0,570.0
+Jordan,2021,1811,e,39,27,False,False,1541.0,270.0
+Jordan,2022,1966,e,39,27,False,False,1811.0,155.0
+Jordan,2023,1990,u,39,27,False,False,1966.0,24.0
+Jordan,2024,2195,u,39,27,False,False,1990.0,205.0
+Jordan,2025,2195,u,39,27,False,False,2195.0,0.0
+Kazakhstan,2016,57,u,38,26,False,False,,
+Kazakhstan,2017,59,u,38,26,False,False,57.0,2.0
+Kazakhstan,2018,209,u,38,26,False,False,59.0,150.0
+Kazakhstan,2019,542,u,38,26,False,False,209.0,333.0
+Kazakhstan,2020,912,e,38,26,False,False,542.0,370.0
+Kazakhstan,2021,1038,e,38,26,False,False,912.0,126.0
+Kazakhstan,2022,1146,e,38,26,False,False,1038.0,108.0
+Kazakhstan,2023,1205,u,38,26,False,False,1146.0,59.0
+Kazakhstan,2024,1229,u,38,26,False,False,1205.0,24.0
+Kazakhstan,2025,1325,u,38,26,False,False,1229.0,96.0
+Kenya,2016,31,e,37,25,False,False,,
+Kenya,2017,37,e,37,25,False,False,31.0,6.0
+Kenya,2018,92,e,37,25,False,False,37.0,55.0
+Kenya,2019,104,e,37,25,False,False,92.0,12.0
+Kenya,2020,110,e,37,25,False,False,104.0,6.0
+Kenya,2021,173,e,37,25,False,False,110.0,63.0
+Kenya,2022,267,e,37,25,False,False,173.0,94.0
+Kenya,2023,475,e,37,25,False,False,267.0,208.0
+Kenya,2024,551,e,37,25,False,False,475.0,76.0
+Kenya,2025,551,e,37,25,False,False,551.0,0.0
+Kiribati,2016,2,u,40,28,False,False,,
+Kiribati,2017,2,u,40,28,False,False,2.0,0.0
+Kiribati,2018,2,u,40,28,False,False,2.0,0.0
+Kiribati,2019,2,u,40,28,False,False,2.0,0.0
+Kiribati,2020,2,u,40,28,False,False,2.0,0.0
+Kiribati,2021,2,u,40,28,False,False,2.0,0.0
+Kiribati,2022,2,u,40,28,False,False,2.0,0.0
+Kiribati,2023,4,u,40,28,False,False,2.0,2.0
+Kiribati,2024,4,e,40,28,False,False,4.0,0.0
+Kiribati,2025,4,e,40,28,False,False,4.0,0.0
+Korea DPR,2016,32,u,38,26,False,False,,
+Korea DPR,2017,36,u,38,26,False,False,32.0,4.0
+Korea DPR,2018,50,u,38,26,False,False,36.0,14.0
+Korea DPR,2019,65,u,38,26,False,False,50.0,15.0
+Korea DPR,2020,79,u,38,26,False,False,65.0,14.0
+Korea DPR,2021,102,u,38,26,False,False,79.0,23.0
+Korea DPR,2022,116,u,38,26,False,False,102.0,14.0
+Korea DPR,2023,129,u,38,26,False,False,116.0,13.0
+Korea DPR,2024,143,u,38,26,False,False,129.0,14.0
+Korea DPR,2025,156,u,38,26,False,False,143.0,13.0
+Korea Rep,2016,4338,u,38,26,False,False,,
+Korea Rep,2017,5633,o,38,26,False,False,4338.0,1295.0
+Korea Rep,2018,7701,o,38,26,False,False,5633.0,2068.0
+Korea Rep,2019,10847,o,38,26,False,False,7701.0,3146.0
+Korea Rep,2020,14756,o,38,26,False,False,10847.0,3909.0
+Korea Rep,2021,17905,o,38,26,False,False,14756.0,3149.0
+Korea Rep,2022,20525,o,38,26,False,False,17905.0,2620.0
+Korea Rep,2023,23528,o,38,26,False,False,20525.0,3003.0
+Korea Rep,2024,26680,o,38,26,False,False,23528.0,3152.0
+Korea Rep,2025,30346,o,38,26,False,False,26680.0,3666.0
+Kosovo*,2016,2,u,39,27,False,False,,
+Kosovo*,2017,7,u,39,27,False,False,2.0,5.0
+Kosovo*,2018,7,u,39,27,False,False,7.0,0.0
+Kosovo*,2019,10,u,39,27,False,False,7.0,3.0
+Kosovo*,2020,10,u,39,27,False,False,10.0,0.0
+Kosovo*,2021,14,u,39,27,False,False,10.0,4.0
+Kosovo*,2022,14,e,39,27,False,False,14.0,0.0
+Kosovo*,2023,14,u,39,27,False,False,14.0,0.0
+Kosovo*,2024,20,e,39,27,False,False,14.0,6.0
+Kosovo*,2025,21,u,39,27,False,False,20.0,1.0
+Kuwait,2016,21,e,39,27,False,False,,
+Kuwait,2017,21,e,39,27,False,False,21.0,0.0
+Kuwait,2018,32,e,39,27,False,False,21.0,11.0
+Kuwait,2019,33,e,39,27,False,False,32.0,1.0
+Kuwait,2020,33,e,39,27,False,False,33.0,0.0
+Kuwait,2021,33,e,39,27,False,False,33.0,0.0
+Kuwait,2022,50,e,39,27,False,False,33.0,17.0
+Kuwait,2023,50,e,39,27,False,False,50.0,0.0
+Kuwait,2024,50,e,39,27,False,False,50.0,0.0
+Kuwait,2025,50,u,39,27,False,False,50.0,0.0
+Kyrgyzstan,2023,0,u,38,26,False,False,,
+Kyrgyzstan,2024,0,e,38,26,False,False,0.0,0.0
+Kyrgyzstan,2025,100,e,38,26,False,False,0.0,100.0
+Lao PDR,2016,3,e,38,26,False,False,,
+Lao PDR,2017,9,e,38,26,False,False,3.0,6.0
+Lao PDR,2018,34,e,38,26,False,False,9.0,25.0
+Lao PDR,2019,34,e,38,26,False,False,34.0,0.0
+Lao PDR,2020,44,e,38,26,False,False,34.0,10.0
+Lao PDR,2021,58,e,38,26,False,False,44.0,14.0
+Lao PDR,2022,58,e,38,26,False,False,58.0,0.0
+Lao PDR,2023,58,e,38,26,False,False,58.0,0.0
+Lao PDR,2024,58,u,38,26,False,False,58.0,0.0
+Lao PDR,2025,1058,u,38,26,False,False,58.0,1000.0
+Latvia,2016,1,u,39,27,False,False,,
+Latvia,2017,1,u,39,27,False,False,1.0,0.0
+Latvia,2018,2,u,39,27,False,False,1.0,1.0
+Latvia,2019,3,u,39,27,False,False,2.0,1.0
+Latvia,2020,5,u,39,27,False,False,3.0,2.0
+Latvia,2021,7,u,39,27,False,False,5.0,2.0
+Latvia,2022,113,u,39,27,False,False,7.0,106.0
+Latvia,2023,319,u,39,27,False,False,113.0,206.0
+Latvia,2024,660,u,39,27,False,False,319.0,341.0
+Latvia,2025,922,u,39,27,False,False,660.0,262.0
+Lebanon,2016,24,e,39,27,False,False,,
+Lebanon,2017,37,e,39,27,False,False,24.0,13.0
+Lebanon,2018,56,e,39,27,False,False,37.0,19.0
+Lebanon,2019,78,e,39,27,False,False,56.0,22.0
+Lebanon,2020,92,e,39,27,False,False,78.0,14.0
+Lebanon,2021,206,e,39,27,False,False,92.0,114.0
+Lebanon,2022,869,e,39,27,False,False,206.0,663.0
+Lebanon,2023,1081,e,39,27,False,False,869.0,212.0
+Lebanon,2024,1081,e,39,27,False,False,1081.0,0.0
+Lebanon,2025,1505,e,39,27,False,False,1081.0,424.0
+Lesotho,2016,0,e,37,25,False,False,,
+Lesotho,2017,0,e,37,25,False,False,0.0,0.0
+Lesotho,2018,0,e,37,25,False,False,0.0,0.0
+Lesotho,2019,1,e,37,25,False,False,0.0,1.0
+Lesotho,2020,1,e,37,25,False,False,1.0,0.0
+Lesotho,2021,1,e,37,25,False,False,1.0,0.0
+Lesotho,2022,1,e,37,25,False,False,1.0,0.0
+Lesotho,2023,29,e,37,25,False,False,1.0,28.0
+Lesotho,2024,29,e,37,25,False,False,29.0,0.0
+Lesotho,2025,29,e,37,25,False,False,29.0,0.0
+Liberia,2016,0,e,37,25,False,False,,
+Liberia,2017,1,e,37,25,False,False,0.0,1.0
+Liberia,2018,1,e,37,25,False,False,1.0,0.0
+Liberia,2019,2,e,37,25,False,False,1.0,1.0
+Liberia,2020,2,e,37,25,False,False,2.0,0.0
+Liberia,2021,3,e,37,25,False,False,2.0,1.0
+Liberia,2022,3,e,37,25,False,False,3.0,0.0
+Liberia,2023,4,e,37,25,False,False,3.0,1.0
+Liberia,2024,4,e,37,25,False,False,4.0,0.0
+Liberia,2025,4,u,37,25,False,False,4.0,0.0
+Libya,2016,5,u,37,25,False,False,,
+Libya,2017,5,u,37,25,False,False,5.0,0.0
+Libya,2018,5,u,37,25,False,False,5.0,0.0
+Libya,2019,5,u,37,25,False,False,5.0,0.0
+Libya,2020,5,u,37,25,False,False,5.0,0.0
+Libya,2021,6,e,37,25,False,False,5.0,1.0
+Libya,2022,6,u,37,25,False,False,6.0,0.0
+Libya,2023,8,u,37,25,False,False,6.0,2.0
+Libya,2024,8,e,37,25,False,False,8.0,0.0
+Libya,2025,9,u,37,25,False,False,8.0,1.0
+Lithuania,2016,68,u,39,27,False,False,,
+Lithuania,2017,75,u,39,27,False,False,68.0,7.0
+Lithuania,2018,89,u,39,27,False,False,75.0,14.0
+Lithuania,2019,130,u,39,27,False,False,89.0,41.0
+Lithuania,2020,244,u,39,27,False,False,130.0,114.0
+Lithuania,2021,422,u,39,27,False,False,244.0,178.0
+Lithuania,2022,738,e,39,27,False,False,422.0,316.0
+Lithuania,2023,1330,u,39,27,False,False,738.0,592.0
+Lithuania,2024,2575,e,39,27,False,False,1330.0,1245.0
+Lithuania,2025,3295,u,39,27,False,False,2575.0,720.0
+Luxembourg,2016,122,u,39,27,False,False,,
+Luxembourg,2017,128,u,39,27,False,False,122.0,6.0
+Luxembourg,2018,131,u,39,27,False,False,128.0,3.0
+Luxembourg,2019,160,u,39,27,False,False,131.0,29.0
+Luxembourg,2020,187,u,39,27,False,False,160.0,27.0
+Luxembourg,2021,277,u,39,27,False,False,187.0,90.0
+Luxembourg,2022,317,u,39,27,False,False,277.0,40.0
+Luxembourg,2023,394,u,39,27,False,False,317.0,77.0
+Luxembourg,2024,548,u,39,27,False,False,394.0,154.0
+Luxembourg,2025,774,u,39,27,False,False,548.0,226.0
+Madagascar,2016,1,e,37,25,False,False,,
+Madagascar,2017,2,e,37,25,False,False,1.0,1.0
+Madagascar,2018,22,e,37,25,False,False,2.0,20.0
+Madagascar,2019,23,e,37,25,False,False,22.0,1.0
+Madagascar,2020,24,e,37,25,False,False,23.0,1.0
+Madagascar,2021,24,e,37,25,False,False,24.0,0.0
+Madagascar,2022,53,e,37,25,False,False,24.0,29.0
+Madagascar,2023,58,e,37,25,False,False,53.0,5.0
+Madagascar,2024,59,e,37,25,False,False,58.0,1.0
+Madagascar,2025,63,e,37,25,False,False,59.0,4.0
+Malawi,2016,1,e,37,25,False,False,,
+Malawi,2017,2,e,37,25,False,False,1.0,1.0
+Malawi,2018,2,e,37,25,False,False,2.0,0.0
+Malawi,2019,2,e,37,25,False,False,2.0,0.0
+Malawi,2020,3,e,37,25,False,False,2.0,1.0
+Malawi,2021,63,e,37,25,False,False,3.0,60.0
+Malawi,2022,105,e,37,25,False,False,63.0,42.0
+Malawi,2023,105,e,37,25,False,False,105.0,0.0
+Malawi,2024,105,e,37,25,False,False,105.0,0.0
+Malawi,2025,105,e,37,25,False,False,105.0,0.0
+Malaysia,2016,287,e,38,26,False,False,,
+Malaysia,2017,331,e,38,26,False,False,287.0,44.0
+Malaysia,2018,481,e,38,26,False,False,331.0,150.0
+Malaysia,2019,829,e,38,26,False,False,481.0,348.0
+Malaysia,2020,1483,e,38,26,False,False,829.0,654.0
+Malaysia,2021,1583,e,38,26,False,False,1483.0,100.0
+Malaysia,2022,2131,e,38,26,False,False,1583.0,548.0
+Malaysia,2023,2417,e,38,26,False,False,2131.0,286.0
+Malaysia,2024,3074,e,38,26,False,False,2417.0,657.0
+Malaysia,2025,3074,e,38,26,False,False,3074.0,0.0
+Maldives,2016,7,u,38,26,False,False,,
+Maldives,2017,11,u,38,26,False,False,7.0,4.0
+Maldives,2018,16,u,38,26,False,False,11.0,5.0
+Maldives,2019,29,o,38,26,False,False,16.0,13.0
+Maldives,2020,39,o,38,26,False,False,29.0,10.0
+Maldives,2021,40,o,38,26,False,False,39.0,1.0
+Maldives,2022,52,o,38,26,False,False,40.0,12.0
+Maldives,2023,55,o,38,26,False,False,52.0,3.0
+Maldives,2024,69,o,38,26,False,False,55.0,14.0
+Maldives,2025,75,u,38,26,False,False,69.0,6.0
+Mali,2016,7,e,37,25,False,False,,
+Mali,2017,10,e,37,25,False,False,7.0,3.0
+Mali,2018,10,e,37,25,False,False,10.0,0.0
+Mali,2019,11,e,37,25,False,False,10.0,1.0
+Mali,2020,62,e,37,25,False,False,11.0,51.0
+Mali,2021,93,e,37,25,False,False,62.0,31.0
+Mali,2022,97,e,37,25,False,False,93.0,4.0
+Mali,2023,97,e,37,25,False,False,97.0,0.0
+Mali,2024,137,e,37,25,False,False,97.0,40.0
+Mali,2025,137,e,37,25,False,False,137.0,0.0
+Malta,2016,92,u,39,27,False,False,,
+Malta,2017,109,u,39,27,False,False,92.0,17.0
+Malta,2018,129,u,39,27,False,False,109.0,20.0
+Malta,2019,151,u,39,27,False,False,129.0,22.0
+Malta,2020,180,u,39,27,False,False,151.0,29.0
+Malta,2021,194,u,39,27,False,False,180.0,14.0
+Malta,2022,210,u,39,27,False,False,194.0,16.0
+Malta,2023,226,u,39,27,False,False,210.0,16.0
+Malta,2024,238,u,39,27,False,False,226.0,12.0
+Malta,2025,250,u,39,27,False,False,238.0,12.0
+Marshall Is,2016,2,u,40,28,False,False,,
+Marshall Is,2017,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2018,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2019,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2020,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2021,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2022,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2023,2,u,40,28,False,False,2.0,0.0
+Marshall Is,2024,3,u,40,28,False,False,2.0,1.0
+Marshall Is,2025,3,u,40,28,False,False,3.0,0.0
+Martinique,2016,67,e,38,26,False,False,,
+Martinique,2017,68,e,38,26,False,False,67.0,1.0
+Martinique,2018,71,e,38,26,False,False,68.0,3.0
+Martinique,2019,76,e,38,26,False,False,71.0,5.0
+Martinique,2020,77,e,38,26,False,False,76.0,1.0
+Martinique,2021,89,e,38,26,False,False,77.0,12.0
+Martinique,2022,96,e,38,26,False,False,89.0,7.0
+Martinique,2023,104,e,38,26,False,False,96.0,8.0
+Martinique,2024,115,e,38,26,False,False,104.0,11.0
+Martinique,2025,122,o,38,26,False,False,115.0,7.0
+Mauritania,2016,35,u,37,25,False,False,,
+Mauritania,2017,35,u,37,25,False,False,35.0,0.0
+Mauritania,2018,87,u,37,25,False,False,35.0,52.0
+Mauritania,2019,88,u,37,25,False,False,87.0,1.0
+Mauritania,2020,88,u,37,25,False,False,88.0,0.0
+Mauritania,2021,88,u,37,25,False,False,88.0,0.0
+Mauritania,2022,89,u,37,25,False,False,88.0,1.0
+Mauritania,2023,123,u,37,25,False,False,89.0,34.0
+Mauritania,2024,157,e,37,25,False,False,123.0,34.0
+Mauritania,2025,169,u,37,25,False,False,157.0,12.0
+Mauritius,2016,25,o,37,25,False,False,,
+Mauritius,2017,29,o,37,25,False,False,25.0,4.0
+Mauritius,2018,73,o,37,25,False,False,29.0,44.0
+Mauritius,2019,98,o,37,25,False,False,73.0,25.0
+Mauritius,2020,109,o,37,25,False,False,98.0,11.0
+Mauritius,2021,114,o,37,25,False,False,109.0,5.0
+Mauritius,2022,114,o,37,25,False,False,114.0,0.0
+Mauritius,2023,129,o,37,25,False,False,114.0,15.0
+Mauritius,2024,155,u,37,25,False,False,129.0,26.0
+Mauritius,2025,155,o,37,25,False,False,155.0,0.0
+Mayotte,2016,13,o,37,25,False,False,,
+Mayotte,2017,15,o,37,25,False,False,13.0,2.0
+Mayotte,2018,16,e,37,25,False,False,15.0,1.0
+Mayotte,2019,17,e,37,25,False,False,16.0,1.0
+Mayotte,2020,19,e,37,25,False,False,17.0,2.0
+Mayotte,2021,30,e,37,25,False,False,19.0,11.0
+Mayotte,2022,30,e,37,25,False,False,30.0,0.0
+Mayotte,2023,31,u,37,25,False,False,30.0,1.0
+Mayotte,2024,31,u,37,25,False,False,31.0,0.0
+Mayotte,2025,31,u,37,25,False,False,31.0,0.0
+Mexico,2016,606,e,39,27,False,False,,
+Mexico,2017,1072,e,39,27,False,False,606.0,466.0
+Mexico,2018,2754,e,39,27,False,False,1072.0,1682.0
+Mexico,2019,6230,e,39,27,False,False,2754.0,3476.0
+Mexico,2020,7141,e,39,27,False,False,6230.0,911.0
+Mexico,2021,8910,e,39,27,False,False,7141.0,1769.0
+Mexico,2022,9339,e,39,27,False,False,8910.0,429.0
+Mexico,2023,10893,e,39,27,False,False,9339.0,1554.0
+Mexico,2024,11975,e,39,27,False,False,10893.0,1082.0
+Mexico,2025,12912,u,39,27,False,False,11975.0,937.0
+Micronesia,2016,4,e,40,28,False,False,,
+Micronesia,2017,4,e,40,28,False,False,4.0,0.0
+Micronesia,2018,5,e,40,28,False,False,4.0,1.0
+Micronesia,2019,5,e,40,28,False,False,5.0,0.0
+Micronesia,2020,7,u,40,28,False,False,5.0,2.0
+Micronesia,2021,7,u,40,28,False,False,7.0,0.0
+Micronesia,2022,7,u,40,28,False,False,7.0,0.0
+Micronesia,2023,7,u,40,28,False,False,7.0,0.0
+Micronesia,2024,7,u,40,28,False,False,7.0,0.0
+Micronesia,2025,7,u,40,28,False,False,7.0,0.0
+Middle East,2016,1515,,39,27,True,True,,
+Middle East,2017,2143,,39,27,True,True,1515.0,628.0
+Middle East,2018,3379,,39,27,True,True,2143.0,1236.0
+Middle East,2019,5630,,39,27,True,True,3379.0,2251.0
+Middle East,2020,7667,,39,27,True,True,5630.0,2037.0
+Middle East,2021,9835,,39,27,True,True,7667.0,2168.0
+Middle East,2022,13812,,39,27,True,True,9835.0,3977.0
+Middle East,2023,19863,,39,27,True,True,13812.0,6051.0
+Middle East,2024,25208,,39,27,True,True,19863.0,5345.0
+Middle East,2025,37792,,39,27,True,True,25208.0,12584.0
+Moldova Rep,2016,2,o,39,27,False,False,,
+Moldova Rep,2017,2,o,39,27,False,False,2.0,0.0
+Moldova Rep,2018,3,o,39,27,False,False,2.0,1.0
+Moldova Rep,2019,5,o,39,27,False,False,3.0,2.0
+Moldova Rep,2020,4,o,39,27,False,False,5.0,-1.0
+Moldova Rep,2021,14,o,39,27,False,False,4.0,10.0
+Moldova Rep,2022,60,o,39,27,False,False,14.0,46.0
+Moldova Rep,2023,201,u,39,27,False,False,60.0,141.0
+Moldova Rep,2024,400,u,39,27,False,False,201.0,199.0
+Moldova Rep,2025,711,u,39,27,False,False,400.0,311.0
+Mongolia,2016,24,e,38,26,False,False,,
+Mongolia,2017,56,e,38,26,False,False,24.0,32.0
+Mongolia,2018,73,e,38,26,False,False,56.0,17.0
+Mongolia,2019,98,e,38,26,False,False,73.0,25.0
+Mongolia,2020,103,e,38,26,False,False,98.0,5.0
+Mongolia,2021,103,e,38,26,False,False,103.0,0.0
+Mongolia,2022,103,e,38,26,False,False,103.0,0.0
+Mongolia,2023,108,e,38,26,False,False,103.0,5.0
+Mongolia,2024,143,e,38,26,False,False,108.0,35.0
+Mongolia,2025,129,e,38,26,False,False,143.0,-14.0
+Montenegro,2020,3,u,39,27,False,False,,
+Montenegro,2021,3,u,39,27,False,False,3.0,0.0
+Montenegro,2022,3,u,39,27,False,False,3.0,0.0
+Montenegro,2023,17,u,39,27,False,False,3.0,14.0
+Montenegro,2024,64,u,39,27,False,False,17.0,47.0
+Montenegro,2025,100,u,39,27,False,False,64.0,36.0
+Montserrat,2019,0,u,38,26,False,False,,
+Montserrat,2020,0,u,38,26,False,False,0.0,0.0
+Montserrat,2021,1,e,38,26,False,False,0.0,1.0
+Montserrat,2022,1,u,38,26,False,False,1.0,0.0
+Montserrat,2023,1,u,38,26,False,False,1.0,0.0
+Montserrat,2024,1,e,38,26,False,False,1.0,0.0
+Montserrat,2025,1,u,38,26,False,False,1.0,0.0
+Morocco,2016,22,u,37,25,False,False,,
+Morocco,2017,24,u,37,25,False,False,22.0,2.0
+Morocco,2018,194,e,37,25,False,False,24.0,170.0
+Morocco,2019,194,e,37,25,False,False,194.0,0.0
+Morocco,2020,234,e,37,25,False,False,194.0,40.0
+Morocco,2021,314,e,37,25,False,False,234.0,80.0
+Morocco,2022,314,u,37,25,False,False,314.0,0.0
+Morocco,2023,314,u,37,25,False,False,314.0,0.0
+Morocco,2024,411,e,37,25,False,False,314.0,97.0
+Morocco,2025,546,e,37,25,False,False,411.0,135.0
+Mozambique,2016,4,e,37,25,False,False,,
+Mozambique,2017,4,e,37,25,False,False,4.0,0.0
+Mozambique,2018,5,e,37,25,False,False,4.0,1.0
+Mozambique,2019,48,e,37,25,False,False,5.0,43.0
+Mozambique,2020,55,e,37,25,False,False,48.0,7.0
+Mozambique,2021,63,e,37,25,False,False,55.0,8.0
+Mozambique,2022,115,e,37,25,False,False,63.0,52.0
+Mozambique,2023,162,e,37,25,False,False,115.0,47.0
+Mozambique,2024,175,e,37,25,False,False,162.0,13.0
+Mozambique,2025,175,e,37,25,False,False,175.0,0.0
+Myanmar,2016,32,o,38,26,False,False,,
+Myanmar,2017,44,o,38,26,False,False,32.0,12.0
+Myanmar,2018,48,o,38,26,False,False,44.0,4.0
+Myanmar,2019,88,u,38,26,False,False,48.0,40.0
+Myanmar,2020,84,u,38,26,False,False,88.0,-4.0
+Myanmar,2021,110,u,38,26,False,False,84.0,26.0
+Myanmar,2022,181,u,38,26,False,False,110.0,71.0
+Myanmar,2023,181,u,38,26,False,False,181.0,0.0
+Myanmar,2024,216,u,38,26,False,False,181.0,35.0
+Myanmar,2025,240,u,38,26,False,False,216.0,24.0
+N America,2016,35829,,39,27,True,True,,
+N America,2017,44922,,39,27,True,True,35829.0,9093.0
+N America,2018,55197,,39,27,True,True,44922.0,10275.0
+N America,2019,68127,,39,27,True,True,55197.0,12930.0
+N America,2020,84254,,39,27,True,True,68127.0,16127.0
+N America,2021,106070,,39,27,True,True,84254.0,21816.0
+N America,2022,125024,,39,27,True,True,106070.0,18954.0
+N America,2023,154668,,39,27,True,True,125024.0,29644.0
+N America,2024,193909,,39,27,True,True,154668.0,39241.0
+N America,2025,228974,,39,27,True,True,193909.0,35065.0
+Namibia,2016,27,e,37,25,False,False,,
+Namibia,2017,67,e,37,25,False,False,27.0,40.0
+Namibia,2018,123,e,37,25,False,False,67.0,56.0
+Namibia,2019,187,e,37,25,False,False,123.0,64.0
+Namibia,2020,187,e,37,25,False,False,187.0,0.0
+Namibia,2021,190,e,37,25,False,False,187.0,3.0
+Namibia,2022,245,e,37,25,False,False,190.0,55.0
+Namibia,2023,240,e,37,25,False,False,245.0,-5.0
+Namibia,2024,240,e,37,25,False,False,240.0,0.0
+Namibia,2025,389,e,37,25,False,False,240.0,149.0
+Nauru,2016,1,u,40,28,False,False,,
+Nauru,2017,1,e,40,28,False,False,1.0,0.0
+Nauru,2018,1,e,40,28,False,False,1.0,0.0
+Nauru,2019,2,u,40,28,False,False,1.0,1.0
+Nauru,2020,2,u,40,28,False,False,2.0,0.0
+Nauru,2021,3,u,40,28,False,False,2.0,1.0
+Nauru,2022,3,u,40,28,False,False,3.0,0.0
+Nauru,2023,3,u,40,28,False,False,3.0,0.0
+Nauru,2024,3,e,40,28,False,False,3.0,0.0
+Nauru,2025,9,e,40,28,False,False,3.0,6.0
+Nepal,2016,14,u,38,26,False,False,,
+Nepal,2017,55,u,38,26,False,False,14.0,41.0
+Nepal,2018,56,u,38,26,False,False,55.0,1.0
+Nepal,2019,55,u,38,26,False,False,56.0,-1.0
+Nepal,2020,65,u,38,26,False,False,55.0,10.0
+Nepal,2021,90,u,38,26,False,False,65.0,25.0
+Nepal,2022,112,u,38,26,False,False,90.0,22.0
+Nepal,2023,115,u,38,26,False,False,112.0,3.0
+Nepal,2024,171,u,38,26,False,False,115.0,56.0
+Nepal,2025,213,u,38,26,False,False,171.0,42.0
+Netherlands,2016,2135,e,39,27,False,False,,
+Netherlands,2017,2911,u,39,27,False,False,2135.0,776.0
+Netherlands,2018,4608,u,39,27,False,False,2911.0,1697.0
+Netherlands,2019,7228,u,39,27,False,False,4608.0,2620.0
+Netherlands,2020,11110,u,39,27,False,False,7228.0,3882.0
+Netherlands,2021,14823,u,39,27,False,False,11110.0,3713.0
+Netherlands,2022,17356,u,39,27,False,False,14823.0,2533.0
+Netherlands,2023,21957,u,39,27,False,False,17356.0,4601.0
+Netherlands,2024,24772,u,39,27,False,False,21957.0,2815.0
+Netherlands,2025,25878,o,39,27,False,False,24772.0,1106.0
+New Caledon,2016,10,e,40,28,False,False,,
+New Caledon,2017,27,e,40,28,False,False,10.0,17.0
+New Caledon,2018,60,e,40,28,False,False,27.0,33.0
+New Caledon,2019,104,e,40,28,False,False,60.0,44.0
+New Caledon,2020,125,e,40,28,False,False,104.0,21.0
+New Caledon,2021,175,e,40,28,False,False,125.0,50.0
+New Caledon,2022,210,e,40,28,False,False,175.0,35.0
+New Caledon,2023,215,e,40,28,False,False,210.0,5.0
+New Caledon,2024,215,e,40,28,False,False,215.0,0.0
+New Caledon,2025,219,o,40,28,False,False,215.0,4.0
+New Zealand,2016,53,u,40,28,False,False,,
+New Zealand,2017,71,o,40,28,False,False,53.0,18.0
+New Zealand,2018,91,o,40,28,False,False,71.0,20.0
+New Zealand,2019,115,o,40,28,False,False,91.0,24.0
+New Zealand,2020,145,o,40,28,False,False,115.0,30.0
+New Zealand,2021,192,o,40,28,False,False,145.0,47.0
+New Zealand,2022,262,o,40,28,False,False,192.0,70.0
+New Zealand,2023,371,o,40,28,False,False,262.0,109.0
+New Zealand,2024,578,u,40,28,False,False,371.0,207.0
+New Zealand,2025,836,o,40,28,False,False,578.0,258.0
+Nicaragua,2016,1,e,38,26,False,False,,
+Nicaragua,2017,14,e,38,26,False,False,1.0,13.0
+Nicaragua,2018,14,e,38,26,False,False,14.0,0.0
+Nicaragua,2019,16,e,38,26,False,False,14.0,2.0
+Nicaragua,2020,16,e,38,26,False,False,16.0,0.0
+Nicaragua,2021,16,e,38,26,False,False,16.0,0.0
+Nicaragua,2022,17,e,38,26,False,False,16.0,1.0
+Nicaragua,2023,18,u,38,26,False,False,17.0,1.0
+Nicaragua,2024,36,e,38,26,False,False,18.0,18.0
+Nicaragua,2025,36,u,38,26,False,False,36.0,0.0
+Niger,2016,7,e,37,25,False,False,,
+Niger,2017,7,e,37,25,False,False,7.0,0.0
+Niger,2018,14,e,37,25,False,False,7.0,7.0
+Niger,2019,14,e,37,25,False,False,14.0,0.0
+Niger,2020,15,e,37,25,False,False,14.0,1.0
+Niger,2021,15,e,37,25,False,False,15.0,0.0
+Niger,2022,50,e,37,25,False,False,15.0,35.0
+Niger,2023,83,e,37,25,False,False,50.0,33.0
+Niger,2024,83,e,37,25,False,False,83.0,0.0
+Niger,2025,83,e,37,25,False,False,83.0,0.0
+Nigeria,2016,21,e,37,25,False,False,,
+Nigeria,2017,27,e,37,25,False,False,21.0,6.0
+Nigeria,2018,31,e,37,25,False,False,27.0,4.0
+Nigeria,2019,50,e,37,25,False,False,31.0,19.0
+Nigeria,2020,75,e,37,25,False,False,50.0,25.0
+Nigeria,2021,98,e,37,25,False,False,75.0,23.0
+Nigeria,2022,131,e,37,25,False,False,98.0,33.0
+Nigeria,2023,171,e,37,25,False,False,131.0,40.0
+Nigeria,2024,233,e,37,25,False,False,171.0,62.0
+Nigeria,2025,285,e,37,25,False,False,233.0,52.0
+Niue,2016,0,u,40,28,False,False,,
+Niue,2017,0,u,40,28,False,False,0.0,0.0
+Niue,2018,0,u,40,28,False,False,0.0,0.0
+Niue,2019,1,u,40,28,False,False,0.0,1.0
+Niue,2020,1,u,40,28,False,False,1.0,0.0
+Niue,2021,1,u,40,28,False,False,1.0,0.0
+Niue,2022,1,u,40,28,False,False,1.0,0.0
+Niue,2023,1,u,40,28,False,False,1.0,0.0
+Niue,2024,2,o,40,28,False,False,1.0,1.0
+Niue,2025,2,o,40,28,False,False,2.0,0.0
+North Macedonia,2016,17,u,39,27,False,False,,
+North Macedonia,2017,17,u,39,27,False,False,17.0,0.0
+North Macedonia,2018,17,u,39,27,False,False,17.0,0.0
+North Macedonia,2019,17,e,39,27,False,False,17.0,0.0
+North Macedonia,2020,30,u,39,27,False,False,17.0,13.0
+North Macedonia,2021,45,u,39,27,False,False,30.0,15.0
+North Macedonia,2022,144,e,39,27,False,False,45.0,99.0
+North Macedonia,2023,548,u,39,27,False,False,144.0,404.0
+North Macedonia,2024,869,u,39,27,False,False,548.0,321.0
+North Macedonia,2025,1058,u,39,27,False,False,869.0,189.0
+Norway,2016,27,u,39,27,False,False,,
+Norway,2017,45,u,39,27,False,False,27.0,18.0
+Norway,2018,84,u,39,27,False,False,45.0,39.0
+Norway,2019,137,u,39,27,False,False,84.0,53.0
+Norway,2020,143,e,39,27,False,False,137.0,6.0
+Norway,2021,185,e,39,27,False,False,143.0,42.0
+Norway,2022,341,e,39,27,False,False,185.0,156.0
+Norway,2023,634,u,39,27,False,False,341.0,293.0
+Norway,2024,786,e,39,27,False,False,634.0,152.0
+Norway,2025,903,u,39,27,False,False,786.0,117.0
+Oceania,2016,6059,,40,28,True,True,,
+Oceania,2017,7464,,40,28,True,True,6059.0,1405.0
+Oceania,2018,11418,,40,28,True,True,7464.0,3954.0
+Oceania,2019,15819,,40,28,True,True,11418.0,4401.0
+Oceania,2020,20199,,40,28,True,True,15819.0,4380.0
+Oceania,2021,24927,,40,28,True,True,20199.0,4728.0
+Oceania,2022,29602,,40,28,True,True,24927.0,4675.0
+Oceania,2023,31527,,40,28,True,True,29602.0,1925.0
+Oceania,2024,37090,,40,28,True,True,31527.0,5563.0
+Oceania,2025,42435,,40,28,True,True,37090.0,5345.0
+Oman,2016,2,u,39,27,False,False,,
+Oman,2017,8,u,39,27,False,False,2.0,6.0
+Oman,2018,26,u,39,27,False,False,8.0,18.0
+Oman,2019,26,u,39,27,False,False,26.0,0.0
+Oman,2020,129,u,39,27,False,False,26.0,103.0
+Oman,2021,155,u,39,27,False,False,129.0,26.0
+Oman,2022,655,u,39,27,False,False,155.0,500.0
+Oman,2023,672,u,39,27,False,False,655.0,17.0
+Oman,2024,672,e,39,27,False,False,672.0,0.0
+Oman,2025,1672,e,39,27,False,False,672.0,1000.0
+Pakistan,2016,589,e,38,26,False,False,,
+Pakistan,2017,654,e,38,26,False,False,589.0,65.0
+Pakistan,2018,679,e,38,26,False,False,654.0,25.0
+Pakistan,2019,755,e,38,26,False,False,679.0,76.0
+Pakistan,2020,1049,e,38,26,False,False,755.0,294.0
+Pakistan,2021,1434,e,38,26,False,False,1049.0,385.0
+Pakistan,2022,2182,e,38,26,False,False,1434.0,748.0
+Pakistan,2023,3210,e,38,26,False,False,2182.0,1028.0
+Pakistan,2024,3717,e,38,26,False,False,3210.0,507.0
+Pakistan,2025,3717,e,38,26,False,False,3717.0,0.0
+Palau,2016,2,u,40,28,False,False,,
+Palau,2017,2,u,40,28,False,False,2.0,0.0
+Palau,2018,3,u,40,28,False,False,2.0,1.0
+Palau,2019,3,u,40,28,False,False,3.0,0.0
+Palau,2020,3,e,40,28,False,False,3.0,0.0
+Palau,2021,4,u,40,28,False,False,3.0,1.0
+Palau,2022,4,u,40,28,False,False,4.0,0.0
+Palau,2023,20,u,40,28,False,False,4.0,16.0
+Palau,2024,20,e,40,28,False,False,20.0,0.0
+Palau,2025,23,u,40,28,False,False,20.0,3.0
+Palestine,2016,26,u,39,27,False,False,,
+Palestine,2017,36,u,39,27,False,False,26.0,10.0
+Palestine,2018,41,u,39,27,False,False,36.0,5.0
+Palestine,2019,83,u,39,27,False,False,41.0,42.0
+Palestine,2020,119,u,39,27,False,False,83.0,36.0
+Palestine,2021,179,u,39,27,False,False,119.0,60.0
+Palestine,2022,193,u,39,27,False,False,179.0,14.0
+Palestine,2023,260,u,39,27,False,False,193.0,67.0
+Palestine,2024,303,e,39,27,False,False,260.0,43.0
+Palestine,2025,308,u,39,27,False,False,303.0,5.0
+Panama,2016,89,e,38,26,False,False,,
+Panama,2017,127,e,38,26,False,False,89.0,38.0
+Panama,2018,199,e,38,26,False,False,127.0,72.0
+Panama,2019,225,e,38,26,False,False,199.0,26.0
+Panama,2020,235,e,38,26,False,False,225.0,10.0
+Panama,2021,498,e,38,26,False,False,235.0,263.0
+Panama,2022,529,e,38,26,False,False,498.0,31.0
+Panama,2023,646,e,38,26,False,False,529.0,117.0
+Panama,2024,743,e,38,26,False,False,646.0,97.0
+Panama,2025,973,u,38,26,False,False,743.0,230.0
+Papua N Guin,2016,1,u,40,28,False,False,,
+Papua N Guin,2017,1,u,40,28,False,False,1.0,0.0
+Papua N Guin,2018,1,u,40,28,False,False,1.0,0.0
+Papua N Guin,2019,2,u,40,28,False,False,1.0,1.0
+Papua N Guin,2020,2,u,40,28,False,False,2.0,0.0
+Papua N Guin,2021,4,u,40,28,False,False,2.0,2.0
+Papua N Guin,2022,4,u,40,28,False,False,4.0,0.0
+Papua N Guin,2023,4,u,40,28,False,False,4.0,0.0
+Papua N Guin,2024,5,u,40,28,False,False,4.0,1.0
+Papua N Guin,2025,6,u,40,28,False,False,5.0,1.0
+Paraguay,2016,0,o,40,28,False,False,,
+Paraguay,2017,0,o,40,28,False,False,0.0,0.0
+Paraguay,2018,0,o,40,28,False,False,0.0,0.0
+Paraguay,2019,0,o,40,28,False,False,0.0,0.0
+Paraguay,2020,0,u,40,28,False,False,0.0,0.0
+Paraguay,2021,0,u,40,28,False,False,0.0,0.0
+Paraguay,2022,1,u,40,28,False,False,0.0,1.0
+Paraguay,2023,1,u,40,28,False,False,1.0,0.0
+Paraguay,2024,1,u,40,28,False,False,1.0,0.0
+Paraguay,2025,3,u,40,28,False,False,1.0,2.0
+Peru,2016,146,e,40,28,False,False,,
+Peru,2017,298,e,40,28,False,False,146.0,152.0
+Peru,2018,324,e,40,28,False,False,298.0,26.0
+Peru,2019,335,e,40,28,False,False,324.0,11.0
+Peru,2020,335,e,40,28,False,False,335.0,0.0
+Peru,2021,332,e,40,28,False,False,335.0,-3.0
+Peru,2022,332,e,40,28,False,False,332.0,0.0
+Peru,2023,447,u,40,28,False,False,332.0,115.0
+Peru,2024,528,o,40,28,False,False,447.0,81.0
+Peru,2025,1016,u,40,28,False,False,528.0,488.0
+Philippines,2016,791,u,38,26,False,False,,
+Philippines,2017,916,u,38,26,False,False,791.0,125.0
+Philippines,2018,930,u,38,26,False,False,916.0,14.0
+Philippines,2019,1002,u,38,26,False,False,930.0,72.0
+Philippines,2020,1083,u,38,26,False,False,1002.0,81.0
+Philippines,2021,1406,u,38,26,False,False,1083.0,323.0
+Philippines,2022,1660,u,38,26,False,False,1406.0,254.0
+Philippines,2023,1801,u,38,26,False,False,1660.0,141.0
+Philippines,2024,2993,u,38,26,False,False,1801.0,1192.0
+Philippines,2025,3892,u,38,26,False,False,2993.0,899.0
+Poland,2016,176,u,39,27,False,False,,
+Poland,2017,270,u,39,27,False,False,176.0,94.0
+Poland,2018,526,u,39,27,False,False,270.0,256.0
+Poland,2019,1428,u,39,27,False,False,526.0,902.0
+Poland,2020,3656,u,39,27,False,False,1428.0,2228.0
+Poland,2021,7091,u,39,27,False,False,3656.0,3435.0
+Poland,2022,11063,u,39,27,False,False,7091.0,3972.0
+Poland,2023,15917,u,39,27,False,False,11063.0,4854.0
+Poland,2024,21721,u,39,27,False,False,15917.0,5804.0
+Poland,2025,25421,u,39,27,False,False,21721.0,3700.0
+Portugal,2016,533,u,39,27,False,False,,
+Portugal,2017,619,u,39,27,False,False,533.0,86.0
+Portugal,2018,717,u,39,27,False,False,619.0,98.0
+Portugal,2019,970,u,39,27,False,False,717.0,253.0
+Portugal,2020,1191,u,39,27,False,False,970.0,221.0
+Portugal,2021,1817,u,39,27,False,False,1191.0,626.0
+Portugal,2022,2817,e,39,27,False,False,1817.0,1000.0
+Portugal,2023,4040,u,39,27,False,False,2817.0,1223.0
+Portugal,2024,5811,e,39,27,False,False,4040.0,1771.0
+Portugal,2025,6949,u,39,27,False,False,5811.0,1138.0
+Puerto Rico,2016,244,e,38,26,False,False,,
+Puerto Rico,2017,302,e,38,26,False,False,244.0,58.0
+Puerto Rico,2018,305,e,38,26,False,False,302.0,3.0
+Puerto Rico,2019,337,e,38,26,False,False,305.0,32.0
+Puerto Rico,2020,381,e,38,26,False,False,337.0,44.0
+Puerto Rico,2021,488,e,38,26,False,False,381.0,107.0
+Puerto Rico,2022,639,e,38,26,False,False,488.0,151.0
+Puerto Rico,2023,955,e,38,26,False,False,639.0,316.0
+Puerto Rico,2024,963,e,38,26,False,False,955.0,8.0
+Puerto Rico,2025,1362,e,38,26,False,False,963.0,399.0
+Qatar,2016,5,u,39,27,False,False,,
+Qatar,2017,5,u,39,27,False,False,5.0,0.0
+Qatar,2018,5,u,39,27,False,False,5.0,0.0
+Qatar,2019,5,u,39,27,False,False,5.0,0.0
+Qatar,2020,5,u,39,27,False,False,5.0,0.0
+Qatar,2021,5,u,39,27,False,False,5.0,0.0
+Qatar,2022,805,u,39,27,False,False,5.0,800.0
+Qatar,2023,805,u,39,27,False,False,805.0,0.0
+Qatar,2024,805,u,39,27,False,False,805.0,0.0
+Qatar,2025,1680,u,39,27,False,False,805.0,875.0
+Reunion,2016,186,e,37,25,False,False,,
+Reunion,2017,188,e,37,25,False,False,186.0,2.0
+Reunion,2018,190,e,37,25,False,False,188.0,2.0
+Reunion,2019,199,e,37,25,False,False,190.0,9.0
+Reunion,2020,208,e,37,25,False,False,199.0,9.0
+Reunion,2021,225,e,37,25,False,False,208.0,17.0
+Reunion,2022,234,e,37,25,False,False,225.0,9.0
+Reunion,2023,268,e,37,25,False,False,234.0,34.0
+Reunion,2024,314,e,37,25,False,False,268.0,46.0
+Reunion,2025,314,e,37,25,False,False,314.0,0.0
+Romania,2016,1372,u,39,27,False,False,,
+Romania,2017,1374,u,39,27,False,False,1372.0,2.0
+Romania,2018,1386,u,39,27,False,False,1374.0,12.0
+Romania,2019,1398,u,39,27,False,False,1386.0,12.0
+Romania,2020,1383,u,39,27,False,False,1398.0,-15.0
+Romania,2021,1394,u,39,27,False,False,1383.0,11.0
+Romania,2022,1809,u,39,27,False,False,1394.0,415.0
+Romania,2023,2988,u,39,27,False,False,1809.0,1179.0
+Romania,2024,4257,u,39,27,False,False,2988.0,1269.0
+Romania,2025,6237,u,39,27,False,False,4257.0,1980.0
+Russian Fed,2016,433,u,38,26,False,False,,
+Russian Fed,2017,538,u,38,26,False,False,433.0,105.0
+Russian Fed,2018,828,u,38,26,False,False,538.0,290.0
+Russian Fed,2019,1425,u,38,26,False,False,828.0,597.0
+Russian Fed,2020,1774,u,38,26,False,False,1425.0,349.0
+Russian Fed,2021,1988,u,38,26,False,False,1774.0,214.0
+Russian Fed,2022,2148,u,38,26,False,False,1988.0,160.0
+Russian Fed,2023,1899,u,38,26,False,False,2148.0,-249.0
+Russian Fed,2024,2262,u,38,26,False,False,1899.0,363.0
+Russian Fed,2025,2433,u,38,26,False,False,2262.0,171.0
+Rwanda,2016,9,e,37,25,False,False,,
+Rwanda,2017,13,e,37,25,False,False,9.0,4.0
+Rwanda,2018,13,e,37,25,False,False,13.0,0.0
+Rwanda,2019,14,e,37,25,False,False,13.0,1.0
+Rwanda,2020,14,e,37,25,False,False,14.0,0.0
+Rwanda,2021,15,e,37,25,False,False,14.0,1.0
+Rwanda,2022,15,e,37,25,False,False,15.0,0.0
+Rwanda,2023,16,e,37,25,False,False,15.0,1.0
+Rwanda,2024,15,e,37,25,False,False,16.0,-1.0
+Rwanda,2025,15,u,37,25,False,False,15.0,0.0
+S America,2016,1599,,40,28,True,True,,
+S America,2017,3594,,40,28,True,True,1599.0,1995.0
+S America,2018,5697,,40,28,True,True,3594.0,2103.0
+S America,2019,8608,,40,28,True,True,5697.0,2911.0
+S America,2020,13329,,40,28,True,True,8608.0,4721.0
+S America,2021,21016,,40,28,True,True,13329.0,7687.0
+S America,2022,34163,,40,28,True,True,21016.0,13147.0
+S America,2023,49185,,40,28,True,True,34163.0,15022.0
+S America,2024,68415,,40,28,True,True,49185.0,19230.0
+S America,2025,82854,,40,28,True,True,68415.0,14439.0
+Samoa,2016,14,e,40,28,False,False,,
+Samoa,2017,14,u,40,28,False,False,14.0,0.0
+Samoa,2018,16,u,40,28,False,False,14.0,2.0
+Samoa,2019,16,u,40,28,False,False,16.0,0.0
+Samoa,2020,16,u,40,28,False,False,16.0,0.0
+Samoa,2021,16,u,40,28,False,False,16.0,0.0
+Samoa,2022,16,u,40,28,False,False,16.0,0.0
+Samoa,2023,16,u,40,28,False,False,16.0,0.0
+Samoa,2024,16,u,40,28,False,False,16.0,0.0
+Samoa,2025,16,u,40,28,False,False,16.0,0.0
+Sao Tome Prn,2016,0,e,37,25,False,False,,
+Sao Tome Prn,2017,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2018,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2019,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2020,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2021,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2022,0,e,37,25,False,False,0.0,0.0
+Sao Tome Prn,2023,1,e,37,25,False,False,0.0,1.0
+Sao Tome Prn,2024,1,e,37,25,False,False,1.0,0.0
+Sao Tome Prn,2025,2,e,37,25,False,False,1.0,1.0
+Saudi Arabia,2016,24,u,39,27,False,False,,
+Saudi Arabia,2017,34,u,39,27,False,False,24.0,10.0
+Saudi Arabia,2018,34,u,39,27,False,False,34.0,0.0
+Saudi Arabia,2019,59,u,39,27,False,False,34.0,25.0
+Saudi Arabia,2020,359,u,39,27,False,False,59.0,300.0
+Saudi Arabia,2021,389,u,39,27,False,False,359.0,30.0
+Saudi Arabia,2022,390,u,39,27,False,False,389.0,1.0
+Saudi Arabia,2023,2390,u,39,27,False,False,390.0,2000.0
+Saudi Arabia,2024,6151,u,39,27,False,False,2390.0,3761.0
+Saudi Arabia,2025,11882,e,39,27,False,False,6151.0,5731.0
+Senegal,2016,52,e,37,25,False,False,,
+Senegal,2017,93,e,37,25,False,False,52.0,41.0
+Senegal,2018,136,e,37,25,False,False,93.0,43.0
+Senegal,2019,162,e,37,25,False,False,136.0,26.0
+Senegal,2020,162,e,37,25,False,False,162.0,0.0
+Senegal,2021,230,e,37,25,False,False,162.0,68.0
+Senegal,2022,233,e,37,25,False,False,230.0,3.0
+Senegal,2023,233,e,37,25,False,False,233.0,0.0
+Senegal,2024,273,e,37,25,False,False,233.0,40.0
+Senegal,2025,290,e,37,25,False,False,273.0,17.0
+Serbia,2016,17,u,39,27,False,False,,
+Serbia,2017,18,u,39,27,False,False,17.0,1.0
+Serbia,2018,21,u,39,27,False,False,18.0,3.0
+Serbia,2019,23,u,39,27,False,False,21.0,2.0
+Serbia,2020,31,o,39,27,False,False,23.0,8.0
+Serbia,2021,52,u,39,27,False,False,31.0,21.0
+Serbia,2022,137,u,39,27,False,False,52.0,85.0
+Serbia,2023,197,u,39,27,False,False,137.0,60.0
+Serbia,2024,296,e,39,27,False,False,197.0,99.0
+Serbia,2025,431,u,39,27,False,False,296.0,135.0
+Seychelles,2016,2,e,37,25,False,False,,
+Seychelles,2017,3,e,37,25,False,False,2.0,1.0
+Seychelles,2018,4,e,37,25,False,False,3.0,1.0
+Seychelles,2019,4,e,37,25,False,False,4.0,0.0
+Seychelles,2020,7,e,37,25,False,False,4.0,3.0
+Seychelles,2021,16,e,37,25,False,False,7.0,9.0
+Seychelles,2022,17,e,37,25,False,False,16.0,1.0
+Seychelles,2023,18,e,37,25,False,False,17.0,1.0
+Seychelles,2024,19,e,37,25,False,False,18.0,1.0
+Seychelles,2025,19,e,37,25,False,False,19.0,0.0
+Sierra Leone,2016,1,e,37,25,False,False,,
+Sierra Leone,2017,1,e,37,25,False,False,1.0,0.0
+Sierra Leone,2018,1,e,37,25,False,False,1.0,0.0
+Sierra Leone,2019,3,e,37,25,False,False,1.0,2.0
+Sierra Leone,2020,4,e,37,25,False,False,3.0,1.0
+Sierra Leone,2021,11,e,37,25,False,False,4.0,7.0
+Sierra Leone,2022,17,e,37,25,False,False,11.0,6.0
+Sierra Leone,2023,17,e,37,25,False,False,17.0,0.0
+Sierra Leone,2024,16,e,37,25,False,False,17.0,-1.0
+Sierra Leone,2025,17,e,37,25,False,False,16.0,1.0
+Singapore,2016,97,o,38,26,False,False,,
+Singapore,2017,116,o,38,26,False,False,97.0,19.0
+Singapore,2018,162,o,38,26,False,False,116.0,46.0
+Singapore,2019,272,o,38,26,False,False,162.0,110.0
+Singapore,2020,331,o,38,26,False,False,272.0,59.0
+Singapore,2021,482,o,38,26,False,False,331.0,151.0
+Singapore,2022,628,o,38,26,False,False,482.0,146.0
+Singapore,2023,919,o,38,26,False,False,628.0,291.0
+Singapore,2024,1211,o,38,26,False,False,919.0,292.0
+Singapore,2025,1523,o,38,26,False,False,1211.0,312.0
+Slovakia,2016,533,u,39,27,False,False,,
+Slovakia,2017,528,u,39,27,False,False,533.0,-5.0
+Slovakia,2018,471,u,39,27,False,False,528.0,-57.0
+Slovakia,2019,590,u,39,27,False,False,471.0,119.0
+Slovakia,2020,535,o,39,27,False,False,590.0,-55.0
+Slovakia,2021,537,e,39,27,False,False,535.0,2.0
+Slovakia,2022,549,u,39,27,False,False,537.0,12.0
+Slovakia,2023,594,u,39,27,False,False,549.0,45.0
+Slovakia,2024,728,u,39,27,False,False,594.0,134.0
+Slovakia,2025,1028,u,39,27,False,False,728.0,300.0
+Slovenia,2016,233,u,39,27,False,False,,
+Slovenia,2017,247,u,39,27,False,False,233.0,14.0
+Slovenia,2018,247,u,39,27,False,False,247.0,0.0
+Slovenia,2019,278,o,39,27,False,False,247.0,31.0
+Slovenia,2020,370,o,39,27,False,False,278.0,92.0
+Slovenia,2021,461,e,39,27,False,False,370.0,91.0
+Slovenia,2022,626,u,39,27,False,False,461.0,165.0
+Slovenia,2023,1031,u,39,27,False,False,626.0,405.0
+Slovenia,2024,1421,u,39,27,False,False,1031.0,390.0
+Slovenia,2025,1568,u,39,27,False,False,1421.0,147.0
+Solomon Is,2016,2,u,40,28,False,False,,
+Solomon Is,2017,3,u,40,28,False,False,2.0,1.0
+Solomon Is,2018,3,u,40,28,False,False,3.0,0.0
+Solomon Is,2019,2,u,40,28,False,False,3.0,-1.0
+Solomon Is,2020,2,u,40,28,False,False,2.0,0.0
+Solomon Is,2021,2,u,40,28,False,False,2.0,0.0
+Solomon Is,2022,4,u,40,28,False,False,2.0,2.0
+Solomon Is,2023,6,e,40,28,False,False,4.0,2.0
+Solomon Is,2024,6,e,40,28,False,False,6.0,0.0
+Solomon Is,2025,8,o,40,28,False,False,6.0,2.0
+Somalia,2016,1,u,37,25,False,False,,
+Somalia,2017,2,u,37,25,False,False,1.0,1.0
+Somalia,2018,2,u,37,25,False,False,2.0,0.0
+Somalia,2019,2,u,37,25,False,False,2.0,0.0
+Somalia,2020,11,u,37,25,False,False,2.0,9.0
+Somalia,2021,19,u,37,25,False,False,11.0,8.0
+Somalia,2022,42,u,37,25,False,False,19.0,23.0
+Somalia,2023,46,u,37,25,False,False,42.0,4.0
+Somalia,2024,46,e,37,25,False,False,46.0,0.0
+Somalia,2025,46,u,37,25,False,False,46.0,0.0
+South Africa,2016,1702,e,37,25,False,False,,
+South Africa,2017,1905,e,37,25,False,False,1702.0,203.0
+South Africa,2018,2105,e,37,25,False,False,1905.0,200.0
+South Africa,2019,2306,e,37,25,False,False,2105.0,201.0
+South Africa,2020,3205,e,37,25,False,False,2306.0,899.0
+South Africa,2021,3705,e,37,25,False,False,3205.0,500.0
+South Africa,2022,5205,e,37,25,False,False,3705.0,1500.0
+South Africa,2023,7506,e,37,25,False,False,5205.0,2301.0
+South Africa,2024,8458,e,37,25,False,False,7506.0,952.0
+South Africa,2025,10655,e,37,25,False,False,8458.0,2197.0
+South Sudan,2016,1,u,37,25,False,False,,
+South Sudan,2017,2,u,37,25,False,False,1.0,1.0
+South Sudan,2018,2,u,37,25,False,False,2.0,0.0
+South Sudan,2019,2,u,37,25,False,False,2.0,0.0
+South Sudan,2020,4,u,37,25,False,False,2.0,2.0
+South Sudan,2021,4,u,37,25,False,False,4.0,0.0
+South Sudan,2022,4,u,37,25,False,False,4.0,0.0
+South Sudan,2023,17,u,37,25,False,False,4.0,13.0
+South Sudan,2024,31,u,37,25,False,False,17.0,14.0
+South Sudan,2025,45,u,37,25,False,False,31.0,14.0
+Spain,2016,4740,u,39,27,False,False,,
+Spain,2017,4749,u,39,27,False,False,4740.0,9.0
+Spain,2018,4797,u,39,27,False,False,4749.0,48.0
+Spain,2019,8842,u,39,27,False,False,4797.0,4045.0
+Spain,2020,10171,u,39,27,False,False,8842.0,1329.0
+Spain,2021,13752,u,39,27,False,False,10171.0,3581.0
+Spain,2022,23934,e,39,27,False,False,13752.0,10182.0
+Spain,2023,29616,e,39,27,False,False,23934.0,5682.0
+Spain,2024,35860,e,39,27,False,False,29616.0,6244.0
+Spain,2025,44903,u,39,27,False,False,35860.0,9043.0
+Sri Lanka,2016,71,u,38,26,False,False,,
+Sri Lanka,2017,154,u,38,26,False,False,71.0,83.0
+Sri Lanka,2018,228,u,38,26,False,False,154.0,74.0
+Sri Lanka,2019,350,u,38,26,False,False,228.0,122.0
+Sri Lanka,2020,436,u,38,26,False,False,350.0,86.0
+Sri Lanka,2021,624,u,38,26,False,False,436.0,188.0
+Sri Lanka,2022,800,u,38,26,False,False,624.0,176.0
+Sri Lanka,2023,958,u,38,26,False,False,800.0,158.0
+Sri Lanka,2024,1579,u,38,26,False,False,958.0,621.0
+Sri Lanka,2025,2507,u,38,26,False,False,1579.0,928.0
+St Barth,2016,0,o,38,26,False,False,,
+St Barth,2017,0,o,38,26,False,False,0.0,0.0
+St Barth,2018,0,o,38,26,False,False,0.0,0.0
+St Barth,2019,0,u,38,26,False,False,0.0,0.0
+St Barth,2020,0,u,38,26,False,False,0.0,0.0
+St Barth,2021,0,u,38,26,False,False,0.0,0.0
+St Barth,2022,0,e,38,26,False,False,0.0,0.0
+St Barth,2023,0,e,38,26,False,False,0.0,0.0
+St Barth,2024,1,e,38,26,False,False,0.0,1.0
+St Barth,2025,1,o,38,26,False,False,1.0,0.0
+St Kitts Nevis,2016,2,e,38,26,False,False,,
+St Kitts Nevis,2017,2,e,38,26,False,False,2.0,0.0
+St Kitts Nevis,2018,2,e,38,26,False,False,2.0,0.0
+St Kitts Nevis,2019,2,e,38,26,False,False,2.0,0.0
+St Kitts Nevis,2020,3,e,38,26,False,False,2.0,1.0
+St Kitts Nevis,2021,3,e,38,26,False,False,3.0,0.0
+St Kitts Nevis,2022,3,e,38,26,False,False,3.0,0.0
+St Kitts Nevis,2023,3,e,38,26,False,False,3.0,0.0
+St Kitts Nevis,2024,5,e,38,26,False,False,3.0,2.0
+St Kitts Nevis,2025,5,e,38,26,False,False,5.0,0.0
+St Lucia,2016,1,u,38,26,False,False,,
+St Lucia,2017,1,u,38,26,False,False,1.0,0.0
+St Lucia,2018,4,u,38,26,False,False,1.0,3.0
+St Lucia,2019,4,u,38,26,False,False,4.0,0.0
+St Lucia,2020,4,u,38,26,False,False,4.0,0.0
+St Lucia,2021,4,u,38,26,False,False,4.0,0.0
+St Lucia,2022,4,u,38,26,False,False,4.0,0.0
+St Lucia,2023,4,u,38,26,False,False,4.0,0.0
+St Lucia,2024,5,u,38,26,False,False,4.0,1.0
+St Lucia,2025,6,o,38,26,False,False,5.0,1.0
+St Maarten,2022,0,u,38,26,False,False,,
+St Maarten,2023,0,u,38,26,False,False,0.0,0.0
+St Maarten,2024,0,u,38,26,False,False,0.0,0.0
+St Maarten,2025,0,u,38,26,False,False,0.0,0.0
+St Martin,2016,2,e,38,26,False,False,,
+St Martin,2017,0,e,38,26,False,False,2.0,-2.0
+St Martin,2018,0,e,38,26,False,False,0.0,0.0
+St Martin,2019,1,e,38,26,False,False,0.0,1.0
+St Martin,2020,1,e,38,26,False,False,1.0,0.0
+St Martin,2021,1,e,38,26,False,False,1.0,0.0
+St Martin,2022,2,e,38,26,False,False,1.0,1.0
+St Martin,2023,2,e,38,26,False,False,2.0,0.0
+St Martin,2024,2,e,38,26,False,False,2.0,0.0
+St Martin,2025,17,o,38,26,False,False,2.0,15.0
+St Vincent Gren,2016,3,u,38,26,False,False,,
+St Vincent Gren,2017,3,u,38,26,False,False,3.0,0.0
+St Vincent Gren,2018,3,u,38,26,False,False,3.0,0.0
+St Vincent Gren,2019,4,e,38,26,False,False,3.0,1.0
+St Vincent Gren,2020,4,e,38,26,False,False,4.0,0.0
+St Vincent Gren,2021,4,e,38,26,False,False,4.0,0.0
+St Vincent Gren,2022,4,e,38,26,False,False,4.0,0.0
+St Vincent Gren,2023,6,u,38,26,False,False,4.0,2.0
+St Vincent Gren,2024,6,u,38,26,False,False,6.0,0.0
+St Vincent Gren,2025,6,u,38,26,False,False,6.0,0.0
+Sudan,2016,26,u,37,25,False,False,,
+Sudan,2017,36,u,37,25,False,False,26.0,10.0
+Sudan,2018,60,u,37,25,False,False,36.0,24.0
+Sudan,2019,81,u,37,25,False,False,60.0,21.0
+Sudan,2020,118,u,37,25,False,False,81.0,37.0
+Sudan,2021,136,u,37,25,False,False,118.0,18.0
+Sudan,2022,190,u,37,25,False,False,136.0,54.0
+Sudan,2023,190,u,37,25,False,False,190.0,0.0
+Sudan,2024,190,u,37,25,False,False,190.0,0.0
+Sudan,2025,190,u,37,25,False,False,190.0,0.0
+Suriname,2016,5,u,40,28,False,False,,
+Suriname,2017,5,u,40,28,False,False,5.0,0.0
+Suriname,2018,6,u,40,28,False,False,5.0,1.0
+Suriname,2019,6,u,40,28,False,False,6.0,0.0
+Suriname,2020,6,u,40,28,False,False,6.0,0.0
+Suriname,2021,7,u,40,28,False,False,6.0,1.0
+Suriname,2022,10,u,40,28,False,False,7.0,3.0
+Suriname,2023,11,u,40,28,False,False,10.0,1.0
+Suriname,2024,13,u,40,28,False,False,11.0,2.0
+Suriname,2025,16,u,40,28,False,False,13.0,3.0
+Sweden,2016,153,u,39,27,False,False,,
+Sweden,2017,244,u,39,27,False,False,153.0,91.0
+Sweden,2018,428,u,39,27,False,False,244.0,184.0
+Sweden,2019,730,u,39,27,False,False,428.0,302.0
+Sweden,2020,1124,u,39,27,False,False,730.0,394.0
+Sweden,2021,1625,u,39,27,False,False,1124.0,501.0
+Sweden,2022,2407,e,39,27,False,False,1625.0,782.0
+Sweden,2023,4012,u,39,27,False,False,2407.0,1605.0
+Sweden,2024,4848,e,39,27,False,False,4012.0,836.0
+Sweden,2025,5500,u,39,27,False,False,4848.0,652.0
+Switzerland,2016,1617,u,39,27,False,False,,
+Switzerland,2017,1860,u,39,27,False,False,1617.0,243.0
+Switzerland,2018,2117,u,39,27,False,False,1860.0,257.0
+Switzerland,2019,2425,u,39,27,False,False,2117.0,308.0
+Switzerland,2020,2875,u,39,27,False,False,2425.0,450.0
+Switzerland,2021,3515,u,39,27,False,False,2875.0,640.0
+Switzerland,2022,4528,u,39,27,False,False,3515.0,1013.0
+Switzerland,2023,6064,u,39,27,False,False,4528.0,1536.0
+Switzerland,2024,7764,u,39,27,False,False,6064.0,1700.0
+Switzerland,2025,9114,u,39,27,False,False,7764.0,1350.0
+Syrian AR,2017,0,u,39,27,False,False,,
+Syrian AR,2018,1,u,39,27,False,False,0.0,1.0
+Syrian AR,2019,2,u,39,27,False,False,1.0,1.0
+Syrian AR,2020,12,o,39,27,False,False,2.0,10.0
+Syrian AR,2021,33,o,39,27,False,False,12.0,21.0
+Syrian AR,2022,307,o,39,27,False,False,33.0,274.0
+Syrian AR,2023,1022,u,39,27,False,False,307.0,715.0
+Syrian AR,2024,1606,u,39,27,False,False,1022.0,584.0
+Syrian AR,2025,2249,o,39,27,False,False,1606.0,643.0
+Tajikistan,2020,0,e,38,26,False,False,,
+Tajikistan,2021,0,e,38,26,False,False,0.0,0.0
+Tajikistan,2022,0,e,38,26,False,False,0.0,0.0
+Tajikistan,2023,0,u,38,26,False,False,0.0,0.0
+Tajikistan,2024,0,u,38,26,False,False,0.0,0.0
+Tajikistan,2025,0,u,38,26,False,False,0.0,0.0
+Tanzania,2016,9,e,37,25,False,False,,
+Tanzania,2017,9,e,37,25,False,False,9.0,0.0
+Tanzania,2018,10,e,37,25,False,False,9.0,1.0
+Tanzania,2019,6,e,37,25,False,False,10.0,-4.0
+Tanzania,2020,6,e,37,25,False,False,6.0,0.0
+Tanzania,2021,6,e,37,25,False,False,6.0,0.0
+Tanzania,2022,6,e,37,25,False,False,6.0,0.0
+Tanzania,2023,6,e,37,25,False,False,6.0,0.0
+Tanzania,2024,12,e,37,25,False,False,6.0,6.0
+Tanzania,2025,12,e,37,25,False,False,12.0,0.0
+Thailand,2016,2447,e,38,26,False,False,,
+Thailand,2017,2698,e,38,26,False,False,2447.0,251.0
+Thailand,2018,2963,e,38,26,False,False,2698.0,265.0
+Thailand,2019,2983,e,38,26,False,False,2963.0,20.0
+Thailand,2020,2979,u,38,26,False,False,2983.0,-4.0
+Thailand,2021,3060,u,38,26,False,False,2979.0,81.0
+Thailand,2022,3180,u,38,26,False,False,3060.0,120.0
+Thailand,2023,3294,u,38,26,False,False,3180.0,114.0
+Thailand,2024,3383,u,38,26,False,False,3294.0,89.0
+Thailand,2025,6837,u,38,26,False,False,3383.0,3454.0
+Timor Leste,2016,1,u,38,26,False,False,,
+Timor Leste,2017,1,u,38,26,False,False,1.0,0.0
+Timor Leste,2018,1,u,38,26,False,False,1.0,0.0
+Timor Leste,2019,1,u,38,26,False,False,1.0,0.0
+Timor Leste,2020,0,u,38,26,False,False,1.0,-1.0
+Timor Leste,2021,0,u,38,26,False,False,0.0,0.0
+Timor Leste,2022,0,u,38,26,False,False,0.0,0.0
+Timor Leste,2023,0,u,38,26,False,False,0.0,0.0
+Timor Leste,2024,0,u,38,26,False,False,0.0,0.0
+Timor Leste,2025,1,u,38,26,False,False,0.0,1.0
+Togo,2016,0,e,37,25,False,False,,
+Togo,2017,1,e,37,25,False,False,0.0,1.0
+Togo,2018,4,e,37,25,False,False,1.0,3.0
+Togo,2019,7,e,37,25,False,False,4.0,3.0
+Togo,2020,10,e,37,25,False,False,7.0,3.0
+Togo,2021,64,e,37,25,False,False,10.0,54.0
+Togo,2022,66,e,37,25,False,False,64.0,2.0
+Togo,2023,66,e,37,25,False,False,66.0,0.0
+Togo,2024,66,e,37,25,False,False,66.0,0.0
+Togo,2025,87,e,37,25,False,False,66.0,21.0
+Tokelau,2016,1,u,40,28,False,False,,
+Tokelau,2017,1,e,40,28,False,False,1.0,0.0
+Tokelau,2018,1,e,40,28,False,False,1.0,0.0
+Tokelau,2019,1,e,40,28,False,False,1.0,0.0
+Tokelau,2020,1,e,40,28,False,False,1.0,0.0
+Tokelau,2021,1,e,40,28,False,False,1.0,0.0
+Tokelau,2022,1,e,40,28,False,False,1.0,0.0
+Tokelau,2023,1,e,40,28,False,False,1.0,0.0
+Tokelau,2024,1,e,40,28,False,False,1.0,0.0
+Tokelau,2025,1,u,40,28,False,False,1.0,0.0
+Tonga,2016,5,u,40,28,False,False,,
+Tonga,2017,7,u,40,28,False,False,5.0,2.0
+Tonga,2018,7,u,40,28,False,False,7.0,0.0
+Tonga,2019,7,u,40,28,False,False,7.0,0.0
+Tonga,2020,7,u,40,28,False,False,7.0,0.0
+Tonga,2021,7,u,40,28,False,False,7.0,0.0
+Tonga,2022,14,u,40,28,False,False,7.0,7.0
+Tonga,2023,15,u,40,28,False,False,14.0,1.0
+Tonga,2024,16,u,40,28,False,False,15.0,1.0
+Tonga,2025,16,u,40,28,False,False,16.0,0.0
+Trinidad Tobago,2016,4,u,38,26,False,False,,
+Trinidad Tobago,2017,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2018,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2019,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2020,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2021,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2022,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2023,4,u,38,26,False,False,4.0,0.0
+Trinidad Tobago,2024,5,e,38,26,False,False,4.0,1.0
+Trinidad Tobago,2025,97,u,38,26,False,False,5.0,92.0
+Tunisia,2016,38,u,37,25,False,False,,
+Tunisia,2017,47,u,37,25,False,False,38.0,9.0
+Tunisia,2018,64,u,37,25,False,False,47.0,17.0
+Tunisia,2019,80,u,37,25,False,False,64.0,16.0
+Tunisia,2020,96,u,37,25,False,False,80.0,16.0
+Tunisia,2021,97,u,37,25,False,False,96.0,1.0
+Tunisia,2022,199,u,37,25,False,False,97.0,102.0
+Tunisia,2023,508,u,37,25,False,False,199.0,309.0
+Tunisia,2024,775,e,37,25,False,False,508.0,267.0
+Tunisia,2025,895,u,37,25,False,False,775.0,120.0
+Turkmenistan,2024,0,u,38,26,False,False,,
+Turkmenistan,2025,0,u,38,26,False,False,0.0,0.0
+Turks Caicos,2016,0,u,38,26,False,False,,
+Turks Caicos,2017,0,u,38,26,False,False,0.0,0.0
+Turks Caicos,2018,0,u,38,26,False,False,0.0,0.0
+Turks Caicos,2019,1,u,38,26,False,False,0.0,1.0
+Turks Caicos,2020,1,u,38,26,False,False,1.0,0.0
+Turks Caicos,2021,3,u,38,26,False,False,1.0,2.0
+Turks Caicos,2022,3,u,38,26,False,False,3.0,0.0
+Turks Caicos,2023,4,u,38,26,False,False,3.0,1.0
+Turks Caicos,2024,4,e,38,26,False,False,4.0,0.0
+Turks Caicos,2025,4,o,38,26,False,False,4.0,0.0
+Tuvalu,2016,4,u,40,28,False,False,,
+Tuvalu,2017,4,e,40,28,False,False,4.0,0.0
+Tuvalu,2018,4,u,40,28,False,False,4.0,0.0
+Tuvalu,2019,4,u,40,28,False,False,4.0,0.0
+Tuvalu,2020,4,e,40,28,False,False,4.0,0.0
+Tuvalu,2021,4,u,40,28,False,False,4.0,0.0
+Tuvalu,2022,4,u,40,28,False,False,4.0,0.0
+Tuvalu,2023,4,e,40,28,False,False,4.0,0.0
+Tuvalu,2024,5,u,40,28,False,False,4.0,1.0
+Tuvalu,2025,5,e,40,28,False,False,5.0,0.0
+Türkiye,2016,833,u,38,26,False,False,,
+Türkiye,2017,3421,u,38,26,False,False,833.0,2588.0
+Türkiye,2018,5063,u,38,26,False,False,3421.0,1642.0
+Türkiye,2019,5995,o,38,26,False,False,5063.0,932.0
+Türkiye,2020,6667,u,38,26,False,False,5995.0,672.0
+Türkiye,2021,7816,u,38,26,False,False,6667.0,1149.0
+Türkiye,2022,9425,u,38,26,False,False,7816.0,1609.0
+Türkiye,2023,15613,u,38,26,False,False,9425.0,6188.0
+Türkiye,2024,20232,u,38,26,False,False,15613.0,4619.0
+Türkiye,2025,25468,u,38,26,False,False,20232.0,5236.0
+UK,2016,11914,u,39,27,False,False,,
+UK,2017,12751,u,39,27,False,False,11914.0,837.0
+UK,2018,13059,o,39,27,False,False,12751.0,308.0
+UK,2019,13345,o,39,27,False,False,13059.0,286.0
+UK,2020,13772,o,39,27,False,False,13345.0,427.0
+UK,2021,14251,o,39,27,False,False,13772.0,479.0
+UK,2022,14813,o,39,27,False,False,14251.0,562.0
+UK,2023,16428,o,39,27,False,False,14813.0,1615.0
+UK,2024,19000,o,39,27,False,False,16428.0,2572.0
+UK,2025,21662,o,39,27,False,False,19000.0,2662.0
+US Virgin Is,2016,9,u,38,26,False,False,,
+US Virgin Is,2017,5,u,38,26,False,False,9.0,-4.0
+US Virgin Is,2018,10,e,38,26,False,False,5.0,5.0
+US Virgin Is,2019,10,u,38,26,False,False,10.0,0.0
+US Virgin Is,2020,10,u,38,26,False,False,10.0,0.0
+US Virgin Is,2021,10,u,38,26,False,False,10.0,0.0
+US Virgin Is,2022,10,u,38,26,False,False,10.0,0.0
+US Virgin Is,2023,10,e,38,26,False,False,10.0,0.0
+US Virgin Is,2024,30,e,38,26,False,False,10.0,20.0
+US Virgin Is,2025,53,e,38,26,False,False,30.0,23.0
+USA,2016,32958,e,39,27,False,False,,
+USA,2017,41357,u,39,27,False,False,32958.0,8399.0
+USA,2018,49812,u,39,27,False,False,41357.0,8455.0
+USA,2019,59068,u,39,27,False,False,49812.0,9256.0
+USA,2020,74046,u,39,27,False,False,59068.0,14978.0
+USA,2021,93306,u,39,27,False,False,74046.0,19260.0
+USA,2022,111362,u,39,27,False,False,93306.0,18056.0
+USA,2023,138447,u,39,27,False,False,111362.0,27085.0
+USA,2024,176114,u,39,27,False,False,138447.0,37667.0
+USA,2025,210130,o,39,27,False,False,176114.0,34016.0
+Uganda,2016,7,e,37,25,False,False,,
+Uganda,2017,26,e,37,25,False,False,7.0,19.0
+Uganda,2018,52,e,37,25,False,False,26.0,26.0
+Uganda,2019,65,e,37,25,False,False,52.0,13.0
+Uganda,2020,75,e,37,25,False,False,65.0,10.0
+Uganda,2021,76,e,37,25,False,False,75.0,1.0
+Uganda,2022,76,e,37,25,False,False,76.0,0.0
+Uganda,2023,96,e,37,25,False,False,76.0,20.0
+Uganda,2024,97,e,37,25,False,False,96.0,1.0
+Uganda,2025,96,e,37,25,False,False,97.0,-1.0
+Ukraine,2016,955,u,39,27,False,False,,
+Ukraine,2017,1200,u,39,27,False,False,955.0,245.0
+Ukraine,2018,2003,u,39,27,False,False,1200.0,803.0
+Ukraine,2019,5936,u,39,27,False,False,2003.0,3933.0
+Ukraine,2020,7331,e,39,27,False,False,5936.0,1395.0
+Ukraine,2021,8062,u,39,27,False,False,7331.0,731.0
+Ukraine,2022,8062,u,39,27,False,False,8062.0,0.0
+Ukraine,2023,8062,u,39,27,False,False,8062.0,0.0
+Ukraine,2024,5500,u,39,27,False,False,8062.0,-2562.0
+Ukraine,2025,5500,u,39,27,False,False,5500.0,0.0
+United Arab Em,2016,35,u,39,27,False,False,,
+United Arab Em,2017,253,u,39,27,False,False,35.0,218.0
+United Arab Em,2018,500,u,39,27,False,False,253.0,247.0
+United Arab Em,2019,1835,u,39,27,False,False,500.0,1335.0
+United Arab Em,2020,2232,u,39,27,False,False,1835.0,397.0
+United Arab Em,2021,2902,u,39,27,False,False,2232.0,670.0
+United Arab Em,2022,3296,u,39,27,False,False,2902.0,394.0
+United Arab Em,2023,5342,e,39,27,False,False,3296.0,2046.0
+United Arab Em,2024,5689,e,39,27,False,False,5342.0,347.0
+United Arab Em,2025,6716,e,39,27,False,False,5689.0,1027.0
+Uruguay,2016,89,u,40,28,False,False,,
+Uruguay,2017,243,u,40,28,False,False,89.0,154.0
+Uruguay,2018,248,u,40,28,False,False,243.0,5.0
+Uruguay,2019,254,u,40,28,False,False,248.0,6.0
+Uruguay,2020,258,u,40,28,False,False,254.0,4.0
+Uruguay,2021,267,u,40,28,False,False,258.0,9.0
+Uruguay,2022,280,u,40,28,False,False,267.0,13.0
+Uruguay,2023,301,u,40,28,False,False,280.0,21.0
+Uruguay,2024,336,u,40,28,False,False,301.0,35.0
+Uruguay,2025,339,o,40,28,False,False,336.0,3.0
+Uzbekistan,2016,2,u,38,26,False,False,,
+Uzbekistan,2017,3,u,38,26,False,False,2.0,1.0
+Uzbekistan,2018,4,u,38,26,False,False,3.0,1.0
+Uzbekistan,2019,4,u,38,26,False,False,4.0,0.0
+Uzbekistan,2020,4,u,38,26,False,False,4.0,0.0
+Uzbekistan,2021,4,u,38,26,False,False,4.0,0.0
+Uzbekistan,2022,204,e,38,26,False,False,4.0,200.0
+Uzbekistan,2023,867,u,38,26,False,False,204.0,663.0
+Uzbekistan,2024,3188,u,38,26,False,False,867.0,2321.0
+Uzbekistan,2025,5934,u,38,26,False,False,3188.0,2746.0
+Vanuatu,2016,2,u,40,28,False,False,,
+Vanuatu,2017,3,u,40,28,False,False,2.0,1.0
+Vanuatu,2018,4,u,40,28,False,False,3.0,1.0
+Vanuatu,2019,5,u,40,28,False,False,4.0,1.0
+Vanuatu,2020,5,e,40,28,False,False,5.0,0.0
+Vanuatu,2021,5,e,40,28,False,False,5.0,0.0
+Vanuatu,2022,5,e,40,28,False,False,5.0,0.0
+Vanuatu,2023,5,u,40,28,False,False,5.0,0.0
+Vanuatu,2024,5,u,40,28,False,False,5.0,0.0
+Vanuatu,2025,5,u,40,28,False,False,5.0,0.0
+Venezuela,2016,3,u,40,28,False,False,,
+Venezuela,2017,3,u,40,28,False,False,3.0,0.0
+Venezuela,2018,3,u,40,28,False,False,3.0,0.0
+Venezuela,2019,3,u,40,28,False,False,3.0,0.0
+Venezuela,2020,3,u,40,28,False,False,3.0,0.0
+Venezuela,2021,3,u,40,28,False,False,3.0,0.0
+Venezuela,2022,3,u,40,28,False,False,3.0,0.0
+Venezuela,2023,3,u,40,28,False,False,3.0,0.0
+Venezuela,2024,4,u,40,28,False,False,3.0,1.0
+Venezuela,2025,5,u,40,28,False,False,4.0,1.0
+Viet Nam,2016,5,u,38,26,False,False,,
+Viet Nam,2017,8,u,38,26,False,False,5.0,3.0
+Viet Nam,2018,105,u,38,26,False,False,8.0,97.0
+Viet Nam,2019,4993,u,38,26,False,False,105.0,4888.0
+Viet Nam,2020,16660,u,38,26,False,False,4993.0,11667.0
+Viet Nam,2021,16660,u,38,26,False,False,16660.0,0.0
+Viet Nam,2022,16697,u,38,26,False,False,16660.0,37.0
+Viet Nam,2023,18587,u,38,26,False,False,16697.0,1890.0
+Viet Nam,2024,18666,u,38,26,False,False,18587.0,79.0
+Viet Nam,2025,19252,u,38,26,False,False,18666.0,586.0
+World,2016,293159,,37,25,True,True,,
+World,2017,386711,,37,25,True,True,293159.0,93552.0
+World,2018,481485,,37,25,True,True,386711.0,94774.0
+World,2019,583393,,37,25,True,True,481485.0,101908.0
+World,2020,714728,,37,25,True,True,583393.0,131335.0
+World,2021,859674,,37,25,True,True,714728.0,144946.0
+World,2022,1051471,,37,25,True,True,859674.0,191797.0
+World,2023,1415161,,37,25,True,True,1051471.0,363690.0
+World,2024,1872813,,37,25,True,True,1415161.0,457652.0
+World,2025,2383162,,37,25,True,True,1872813.0,510349.0
+Yemen,2016,81,u,39,27,False,False,,
+Yemen,2017,103,u,39,27,False,False,81.0,22.0
+Yemen,2018,253,u,39,27,False,False,103.0,150.0
+Yemen,2019,254,u,39,27,False,False,253.0,1.0
+Yemen,2020,258,u,39,27,False,False,254.0,4.0
+Yemen,2021,258,u,39,27,False,False,258.0,0.0
+Yemen,2022,264,u,39,27,False,False,258.0,6.0
+Yemen,2023,283,u,39,27,False,False,264.0,19.0
+Yemen,2024,403,u,39,27,False,False,283.0,120.0
+Yemen,2025,456,u,39,27,False,False,403.0,53.0
+Zambia,2016,1,e,37,25,False,False,,
+Zambia,2017,2,e,37,25,False,False,1.0,1.0
+Zambia,2018,4,e,37,25,False,False,2.0,2.0
+Zambia,2019,93,e,37,25,False,False,4.0,89.0
+Zambia,2020,94,e,37,25,False,False,93.0,1.0
+Zambia,2021,94,e,37,25,False,False,94.0,0.0
+Zambia,2022,95,e,37,25,False,False,94.0,1.0
+Zambia,2023,131,e,37,25,False,False,95.0,36.0
+Zambia,2024,193,e,37,25,False,False,131.0,62.0
+Zambia,2025,328,e,37,25,False,False,193.0,135.0
+Zimbabwe,2016,2,e,37,25,False,False,,
+Zimbabwe,2017,4,e,37,25,False,False,2.0,2.0
+Zimbabwe,2018,8,e,37,25,False,False,4.0,4.0
+Zimbabwe,2019,11,e,37,25,False,False,8.0,3.0
+Zimbabwe,2020,13,e,37,25,False,False,11.0,2.0
+Zimbabwe,2021,27,e,37,25,False,False,13.0,14.0
+Zimbabwe,2022,40,e,37,25,False,False,27.0,13.0
+Zimbabwe,2023,45,e,37,25,False,False,40.0,5.0
+Zimbabwe,2024,105,e,37,25,False,False,45.0,60.0
+Zimbabwe,2025,105,e,37,25,False,False,105.0,0.0

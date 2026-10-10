@@ -1,0 +1,20 @@
+fuel,change,projects,mw
+Battery,COD earlier than Dec-2025 projection,3,453.1
+Battery,COD later than Dec-2025 projection,76,14025.9
+Battery,added since Dec-2025 list,74,10044.7
+Battery,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)",59,7623.97
+Battery,unchanged COD,62,11263.2
+Gas,COD later than Dec-2025 projection,3,1822
+Gas,added since Dec-2025 list,12,10019.8
+Gas,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)",5,1532.83
+Gas,unchanged COD,6,3779.71
+Solar,COD earlier than Dec-2025 projection,6,1701.46
+Solar,COD later than Dec-2025 projection,69,16136.8
+Solar,added since Dec-2025 list,52,13172.3
+Solar,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)",36,7226.94
+Solar,unchanged COD,77,21433.5
+Wind,COD earlier than Dec-2025 projection,2,523.1
+Wind,COD later than Dec-2025 projection,13,3926.82
+Wind,added since Dec-2025 list,12,5350.53
+Wind,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)",3,612.85
+Wind,unchanged COD,21,5347.85

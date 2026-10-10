@@ -1,0 +1,44 @@
+{
+ "fuel_2023_count_mismatch": [],
+ "fuel_2023_max_abs_rel_daily_total_diff": 2.5601100593024705e-11,
+ "fuel_2023_settlement_types": [
+  "FINAL"
+ ],
+ "fuel_2024_count_mismatch": [],
+ "fuel_2024_max_abs_rel_daily_total_diff": 1.3048800413424624e-10,
+ "fuel_2024_settlement_types": [
+  "FINAL"
+ ],
+ "fuel_2025_count_mismatch": [],
+ "fuel_2025_max_abs_rel_daily_total_diff": 1.6481536370085485e-10,
+ "fuel_2025_settlement_types": [
+  "FINAL"
+ ],
+ "load_2023_count_mismatch": [],
+ "load_2024_count_mismatch": [],
+ "load_2025_count_mismatch": [],
+ "daily_temp_station_count": {
+  "4": 1096
+ },
+ "panel_rows": 26304,
+ "missing_counts": {
+  "load_mw": 0,
+  "solar_mw": 0,
+  "wind_mw": 0,
+  "gas_steam_mw": 0,
+  "gas_cc_mw": 0,
+  "coal_mw": 0,
+  "nuclear_mw": 0,
+  "temp_c_loadcenter": 3049,
+  "n_temp_stations": 0,
+  "henry_hub_usd_mmbtu": 0,
+  "temp_daily_mean_c_loadcenter": 0,
+  "temp_daily_max_c_loadcenter": 0
+ },
+ "temp_station_count_distribution": {
+  "0": 3049,
+  "2": 7,
+  "3": 52,
+  "4": 23196
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "receipts": {
+  "2023": {
+   "expected_intervals": 35040,
+   "points": 910,
+   "duplicate_name_utc_rows_dropped": 3452,
+   "duplicate_rows_with_conflicting_price": 0,
+   "names_split_by_type": [
+    "DC_E",
+    "DC_L",
+    "DC_N",
+    "DC_R",
+    "DC_S",
+    "LZ_AEN",
+    "LZ_CPS",
+    "LZ_HOUSTON",
+    "LZ_LCRA",
+    "LZ_NORTH",
+    "LZ_RAYBN",
+    "LZ_SOUTH",
+    "LZ_WEST"
+   ],
+   "inner_files": 35042
+  },
+  "2024": {
+   "expected_intervals": 35136,
+   "points": 982,
+   "duplicate_name_utc_rows_dropped": 0,
+   "duplicate_rows_with_conflicting_price": 0,
+   "names_split_by_type": [
+    "BYU_BYU_1",
+    "DC_E",
+    "DC_L",
+    "DC_N",
+    "DC_R",
+    "LZ_AEN",
+    "LZ_CPS",
+    "LZ_HOUSTON",
+    "LZ_LCRA",
+    "LZ_NORTH",
+    "LZ_RAYBN",
+    "LZ_SOUTH",
+    "LZ_WEST"
+   ],
+   "inner_files": 35136
+  },
+  "2025": {
+   "expected_intervals": 35040,
+   "points": 1102,
+   "duplicate_name_utc_rows_dropped": 0,
+   "duplicate_rows_with_conflicting_price": 0,
+   "names_split_by_type": [
+    "DC_E",
+    "DC_L",
+    "DC_N",
+    "DC_R",
+    "FLCNS_UNIT1",
+    "FLCNS_UNIT2",
+    "FLCNS_UNIT3",
+    "LZ_AEN",
+    "LZ_CPS",
+    "LZ_HOUSTON",
+    "LZ_LCRA",
+    "LZ_NORTH",
+    "LZ_RAYBN",
+    "LZ_SOUTH",
+    "LZ_WEST",
+    "MASSENGL_G6",
+    "MASSENGL_G7",
+    "MASSENGL_G8"
+   ],
+   "inner_files": 35039
+  }
+ },
+ "r2_set_n": 757,
+ "r1_rule_n_2025": 641,
+ "strict_all3_total_incl_benchmarks": 788,
+ "acceptable_all3_total": 788,
+ "node_years_flagged_valid_by_R2_but_not_strict": 0,
+ "max_missing_energy_share_in_those": 0.0
+}

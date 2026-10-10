@@ -1,0 +1,11 @@
+{
+ "finance_a": 15.471935077402582,
+ "finance_K": 187321205.57371765,
+ "breakeven_year1_revenue_usd": 12107160.780897291,
+ "identity_max_abs_residual_usd_mwh": 2.842170943040401e-14,
+ "two_factor_sum_max_abs_residual_usd": 3.725290298461914e-09,
+ "four_term_sum_max_abs_residual_usd": 4.284083843231201e-08,
+ "n_strict": 485,
+ "n_acceptable": 485,
+ "n_universe": 492
+}

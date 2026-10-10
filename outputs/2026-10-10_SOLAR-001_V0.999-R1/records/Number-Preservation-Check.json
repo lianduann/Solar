@@ -1,0 +1,355 @@
+{
+ "baseline": "SOLAR-001_V0.999_Report-EN.md",
+ "r1": "SOLAR-001_V0.999-R1_Report-EN.md",
+ "distinct_numeric_tokens_baseline": 687,
+ "distinct_numeric_tokens_r1": 731,
+ "tokens_absent_from_baseline": [
+  "-92",
+  "0.0754",
+  "0.0872",
+  "0.1019",
+  "0.6",
+  "1.4",
+  "10.10",
+  "104.4",
+  "109.2",
+  "11.56",
+  "113.0",
+  "125.0",
+  "1250",
+  "141.0",
+  "15.94",
+  "158.3",
+  "16249",
+  "179.7",
+  "1850",
+  "188.3",
+  "2.84",
+  "202.7",
+  "26.25",
+  "28.17",
+  "3.0",
+  "3.75",
+  "39.2",
+  "40.7",
+  "44.6",
+  "45.5",
+  "45.61",
+  "47.65",
+  "52.02",
+  "57.80",
+  "61",
+  "61.40",
+  "61.90",
+  "64.49",
+  "67.5",
+  "68.6",
+  "7.75",
+  "73.74",
+  "74.4",
+  "8.25",
+  "86",
+  "96.4",
+  "98"
+ ],
+ "registered_new_tokens": {
+  "-92": {
+   "token": "-92",
+   "kind": "range end",
+   "where_used": "Table 12-1 round-trip efficiency 86%–92%",
+   "source": "Lazard LCOS v11.0 round-trip efficiency 92%–86% [M04]; tokenizer reads '–92' as -92"
+  },
+  "0.0754": {
+   "token": "0.0754",
+   "kind": "R1 calculation",
+   "where_used": "Appendix B.9",
+   "source": "capital-recovery factor at 4.27% over 20 years; data/r1/Storage-Cost.csv"
+  },
+  "0.0872": {
+   "token": "0.0872",
+   "kind": "R1 calculation",
+   "where_used": "Appendix B.9",
+   "source": "capital-recovery factor at 6%; data/r1/Storage-Cost.csv"
+  },
+  "0.1019": {
+   "token": "0.1019",
+   "kind": "R1 calculation",
+   "where_used": "Appendix B.9",
+   "source": "capital-recovery factor at 8%; data/r1/Storage-Cost.csv"
+  },
+  "0.6": {
+   "token": "0.6",
+   "kind": "source",
+   "where_used": "Section 10.8 R1 box",
+   "source": "IRS FR Doc. 2025-16249: 2025 section 45Y base amount 0.6 cents/kWh [M05]"
+  },
+  "1.4": {
+   "token": "1.4",
+   "kind": "structure",
+   "where_used": "Section 1.4 heading",
+   "source": "New Section 1.3 (break-even prices) inserted; former 1.3 renumbered"
+  },
+  "10.10": {
+   "token": "10.10",
+   "kind": "structure",
+   "where_used": "Section 10.10 heading and references",
+   "source": "New section: public market reference points"
+  },
+  "104.4": {
+   "token": "104.4",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1, Table 13-3",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "109.2": {
+   "token": "109.2",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1, Table 13-3",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "11.56": {
+   "token": "11.56",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (base-rate PTC PV)"
+  },
+  "113.0": {
+   "token": "113.0",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1, Table 13-3",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "125.0": {
+   "token": "125.0",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "1250": {
+   "token": "1250",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard utility PV capital cost $1250–1850/kW [M04]"
+  },
+  "141.0": {
+   "token": "141.0",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "15.94": {
+   "token": "15.94",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (fixed base NPV plus credit; shown negative)"
+  },
+  "158.3": {
+   "token": "158.3",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1, Table 13-3",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "16249": {
+   "token": "16249",
+   "kind": "source",
+   "where_used": "Appendix A.3",
+   "source": "FR Doc. number 2025-16249 [M05]"
+  },
+  "179.7": {
+   "token": "179.7",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "1850": {
+   "token": "1850",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard utility PV capital cost [M04]"
+  },
+  "188.3": {
+   "token": "188.3",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "2.84": {
+   "token": "2.84",
+   "kind": "R1 calculation",
+   "where_used": "Appendix B.9",
+   "source": "Slope 73.74 / (65.97 − 40) = 2.8394; data/r1/R1-Calcs.json"
+  },
+  "202.7": {
+   "token": "202.7",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "26.25": {
+   "token": "26.25",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard utility PV fixed O&M [M04]"
+  },
+  "28.17": {
+   "token": "28.17",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (node base NPV plus credit; shown negative)"
+  },
+  "3.0": {
+   "token": "3.0",
+   "kind": "source",
+   "where_used": "Section 10.8 R1 box",
+   "source": "IRS FR Doc. 2025-16249: 2025 section 45Y amount 3.0 cents/kWh with PWA [M05]"
+  },
+  "3.75": {
+   "token": "3.75",
+   "kind": "source",
+   "where_used": "Table 12-1",
+   "source": "Lazard LCOS 4-hour O&M $3.75–7.75/kWh-yr [M04]"
+  },
+  "39.2": {
+   "token": "39.2",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "LevelTen 2024 levelized ERCOT solar index [M01]"
+  },
+  "40.7": {
+   "token": "40.7",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Trio 2024 levelized ERCOT solar index [M01]"
+  },
+  "44.6": {
+   "token": "44.6",
+   "kind": "source",
+   "where_used": "Ch.1, Table 1-2, 10.10, 13",
+   "source": "LBNL 2025 data file, LevelTen ERCOT solar P25, 2025 average [M01]; data/r1/Market-References.csv"
+  },
+  "45.5": {
+   "token": "45.5",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "LevelTen ERCOT solar P25, 2Q25 (range 43.6–45.5 over 4Q24–4Q25) [M01]"
+  },
+  "45.61": {
+   "token": "45.61",
+   "kind": "R1 calculation",
+   "where_used": "1.1, Table 1-2, 10.8, Figure 1-1",
+   "source": "data/r1/PTC-Illustration.csv (fixed-route break-even with full-rate PTC)"
+  },
+  "47.65": {
+   "token": "47.65",
+   "kind": "R1 calculation",
+   "where_used": "1.1, Table 1-2, 10.8",
+   "source": "data/r1/PTC-Illustration.csv (break-even with PTC transferred at 0.90)"
+  },
+  "52.02": {
+   "token": "52.02",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (PTC transferred at 0.90)"
+  },
+  "57.80": {
+   "token": "57.80",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (full-rate PTC PV $m)"
+  },
+  "61": {
+   "token": "61",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard PV + storage LCOE $61–156/MWh [M04]"
+  },
+  "61.40": {
+   "token": "61.40",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "LevelTen North America solar P25, 2Q26, TaiyangNews [M02]"
+  },
+  "61.90": {
+   "token": "61.90",
+   "kind": "R1 calculation",
+   "where_used": "Section 10.8 R1 box",
+   "source": "data/r1/PTC-Illustration.csv (break-even with base-rate PTC)"
+  },
+  "64.49": {
+   "token": "64.49",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "LevelTen North America solar P25, 1Q26, pv magazine USA 20 Apr 2026 [M02]"
+  },
+  "67.5": {
+   "token": "67.5",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "68.6": {
+   "token": "68.6",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "7.75": {
+   "token": "7.75",
+   "kind": "source",
+   "where_used": "Table 12-1",
+   "source": "Lazard LCOS 4-hour O&M [M04]"
+  },
+  "73.74": {
+   "token": "73.74",
+   "kind": "R1 calculation",
+   "where_used": "Appendix B.9",
+   "source": "Fixed base NPV −$73.74m = −$38.36m − $35.38m (Section 10.8); data/r1/R1-Calcs.json"
+  },
+  "74.4": {
+   "token": "74.4",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Screen.csv"
+  },
+  "8.25": {
+   "token": "8.25",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard utility PV fixed O&M $8.25–26.25/kW-yr [M04]"
+  },
+  "86": {
+   "token": "86",
+   "kind": "source",
+   "where_used": "Table 12-1 round-trip efficiency",
+   "source": "Lazard LCOS v11.0 [M04]"
+  },
+  "96.4": {
+   "token": "96.4",
+   "kind": "R1 calculation",
+   "where_used": "Table 12-1",
+   "source": "data/r1/Storage-Cost.csv"
+  },
+  "98": {
+   "token": "98",
+   "kind": "source",
+   "where_used": "Table 10-7",
+   "source": "Lazard utility PV LCOE $40–98/MWh [M04]"
+  }
+ },
+ "unexplained_new_tokens": [],
+ "registry_tokens_not_used": [],
+ "tokens_dropped_from_baseline": [
+  "11.8",
+  "11.9",
+  "12.6"
+ ],
+ "dropped_token_notes": {
+  "11.8": "section number: V0.999 11.8 (tail dependence) is R1 11.6; its 2026 evidence is R1 11.7",
+  "11.9": "section number: V0.999 11.9 (resampling) moved to Appendix B.8",
+  "12.6": "section number: V0.999 12.6 (controlled update) is R1 12.5"
+ },
+ "unexplained_dropped": [],
+ "tables_checked": 32,
+ "table_cells_with_numbers_not_in_input": {},
+ "result": "PASS"
+}

@@ -1,0 +1,20 @@
+file,field,definition,unit
+system_panel_hourly_2023_2025.csv.gz,utc,UTC hour start (local year grid 2023-01-01 06:00 UTC to 2026-01-01 06:00 UTC),timestamp
+system_panel_hourly_2023_2025.csv.gz,load_mw,"ERCOT native load, hourly mean (system)",MW
+system_panel_hourly_2023_2025.csv.gz,solar_mw / wind_mw,"Fuel-mix solar / wind, 15-minute MWh summed to hourly (equals mean MW); FINAL only",MW
+system_panel_hourly_2023_2025.csv.gz,"gas_steam_mw, gas_cc_mw, coal_mw, nuclear_mw",Fuel-mix output by fuel (not used in models),MW
+system_panel_hourly_2023_2025.csv.gz,temp_daily_mean_c_loadcenter,"Mean of (TMAX+TMIN)/2 over DFW, IAH, SAT, AUS on the local date",deg C
+system_panel_hourly_2023_2025.csv.gz,temp_c_loadcenter,Hourly ISD temperature mean of available stations; missing after 2025-08-27; not used in models,deg C
+system_panel_hourly_2023_2025.csv.gz,henry_hub_usd_mmbtu,"EIA Henry Hub spot, forward-filled over non-trading days",USD/MMBtu
+A_3x3_cells_by_node.csv,"weather_year, price_year","Year of the NSRDB weather / of the NP6-905-CD prices paired by calendar key (UTC-6 month, day, quarter-hour; 29 Feb dropped)",year
+A_3x3_cells_by_node.csv,rev_potential_usd,"sum(q_t p_t) on the node's common valid grid, signed prices",USD
+A_3x3_cells_by_node.csv,rev_stop_negative_usd,sum(q_t p_t) over intervals with p >= 0 (modelled rule),USD
+A_3x3_cells_by_node.csv,rule_effect_usd,rev_stop_negative - rev_potential,USD
+A_3x3_cells_by_node.csv,capture_price / mean_price / capture_ratio,R/Q; time-weighted mean price; their ratio,USD/MWh; USD/MWh; ratio
+A_3x3_cells_by_node.csv,cov_term_usd_mwh,"Cov(q,p)/mean(q) with 1/N weights; capture = mean + cov term",USD/MWh
+A_3x3_cells_by_node.csv,npv_4p27,"15.472 x rev_stop_negative - 187.32 million (unmodified finance model, real 4.27%)",USD
+A_decomposition_by_node.csv,component,"total_change, weather_pure, price_pure, interaction, weather_shapley, price_shapley, volume_lmdi, price_level_lmdi, match_lmdi, rule_effect",text
+C_tail_results_by_node_year.csv,top_pct,"0.1, 1, 5 = top share of intervals ranked by price; cap_p99.0/99.9; scarcity_days_ge1000; breakeven_removal",text
+Node-Year-Sample-Table.csv,strict / acceptable / market_wide_missing / node_specific_missing,Coverage tiers; strict = no node-specific missing interval,flag / count
+Node-Year-Sample-Table.csv,identity_label,resource node (type RN and in 2026-09-10 official list) / type RN not on list / settlement point selected by name / market benchmark,text
+B_regression_coefficients_long.csv,"term, coef, se_hac168, ci95_*",OLS coefficient; Newey-West s.e. with 168 lags; 95% interval from HAC-168,USD/MWh per unit

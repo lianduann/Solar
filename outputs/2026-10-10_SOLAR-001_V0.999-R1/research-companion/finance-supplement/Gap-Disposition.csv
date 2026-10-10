@@ -1,0 +1,16 @@
+gap_id,gap,brief_section,disposition,evidence_file,remaining_gap,note_on_acceptance
+G-01,Tax timing and applicability (45Y/48E branches; Notice 2025-42; Notice 2026-15),P0-A / 5.4 / FIN-04,addressed,Tax-Eligibility-Matrix.csv; Contract-and-Tax-Decision-Tree.md,project-specific facts unproven,not mapped to original acceptance 'Met'
+G-02,ATB FOM scope,P0-A / 5.3 / FIN-05,addressed,Cost-Coverage-Crosswalk.csv,ATB-to-PVSCM link inferred from citation,not mapped
+G-03,Actual contract structure,P0-A / 5.1 / FIN-03,partial,Contract-Terms.csv,no comparable discloses strike/tenor/settlement terms,not mapped
+G-04,Node vs hub basis and capture 2023-2025,P0-A / 5.1,addressed,frozen panel Node-Hub-Comparisons.csv; data/Node-Hub-*.csv (independent reproduction),none for historical metrics,not mapped
+G-05,Actual generation comparison,P0-A / 5.2 / FIN-02,addressed,data/EIA-Operating-Generation-Comparables.csv,no weather normalisation by design,not mapped
+G-06,Comparable cost/contract/finance/tax/return evidence,P0-B / FIN-01,partial,Comparable-Projects.csv; Return-Metric-Comparability.csv,no IRR and almost no financing terms,not mapped
+G-07,Reference node identity chain,5.1 / FIN-06,addressed,Entity-Node-Mapping.csv,ERCOT-EIA link is attribute-matched,not mapped
+G-08,ERCOT interconnection cost allocation,5.3 / FIN-05,addressed,ERCOT/PUCT_16TAC_25.195_current.pdf; Cost-Coverage-Crosswalk.csv,site-specific study absent,not mapped
+G-09,Public PPA price index,5.5,partial,Return-Metric-Comparability.csv RM-09/RM-10,ERCOT Q2 2026 value behind subscription,not mapped
+G-10,Market background (EEA2; record; storage; RTC+B),5.6 / FIN-08,addressed,Regime-Evidence.csv,finalized 2026 prices,not mapped
+G-11,Model upgrade specification,6,addressed,Model-Upgrade-Specification.md,levered layer blocked,not mapped
+G-12,CPI-consistent historical price scenario,FIN-07,partial,Currency-Timing-Crosswalk.csv,scenario not run,not mapped
+G-13,Supplier liquidity,FIN-09,blocked (not attempted in this round),Supplier-Liquidity.csv,all,not mapped
+G-14,Debt and tax-equity terms,FIN-10,partial,Debt-and-Waterfall-Inputs.csv,all terms,not mapped
+G-15,Net settlement receipts,FIN-11,partial,Settlement-and-Net-Receipts.csv,fees/losses/REC/imbalance,not mapped

@@ -1,0 +1,8 @@
+{
+ "n_nodes": 641,
+ "reference_npv_4p27": -85965281.13497414,
+ "reference_percentile_among_nodes": 0.32293291731669266,
+ "nodes_with_npv_above_zero": 2,
+ "max_npv_4p27": 127688948.09938973,
+ "min_npv_4p27": -110360280.76141876
+}

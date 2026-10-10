@@ -1,0 +1,8 @@
+metric,projects,mw,source_location
+"Batch Zero base load, conditional",204,66400.0,"C03 ERCOT Board Item 14 Batch Zero Update, 2026-09-14/15 (retained PDF C03, p.6-8) p.1/6"
+"Batch Zero studied load, conditional (chart legend)",158,125400.0,"C03 ERCOT Board Item 14 Batch Zero Update, 2026-09-14/15 (retained PDF C03, p.6-8) p.6"
+"Batch Zero studied load, conditional (takeaway text)",158,127900.0,"C03 ERCOT Board Item 14 Batch Zero Update, 2026-09-14/15 (retained PDF C03, p.6-8) p.1 (conflicts with chart)"
+Excluded from Batch Zero,373,302200.0,"C03 ERCOT Board Item 14 Batch Zero Update, 2026-09-14/15 (retained PDF C03, p.6-8) p.6 footnote"
+Large loads in base or studied categories,362,,"C03 ERCOT Board Item 14 Batch Zero Update, 2026-09-14/15 (retained PDF C03, p.6-8) p.5"
+"Sum of studied-load category rows, 2032 column (transcribed table)",158,125391.0,C_batch_zero_conditional_by_year_2026-09.csv
+"Sum of base-load category rows, 2032 column (transcribed table)",204,66359.0,C_batch_zero_conditional_by_year_2026-09.csv

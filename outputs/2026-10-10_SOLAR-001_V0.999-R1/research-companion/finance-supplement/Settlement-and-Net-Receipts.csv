@@ -1,0 +1,11 @@
+bridge_step,item,current_treatment_in_frozen_model,evidence_status,what_is_needed,source_or_prior_record,status
+1,Gross energy value at resource node (15-min RT SPP x simulated AC output),computed (node route),verified for archive identity; price finality rule documented at protocol level (RTSPP final 16:00 second business day) but no row-level version field,Correction-disposition record for exact operating dates if used as an observed price,Data/2026-09-08_ERCOT-RTSPP-Archive-Finality-and-Correction-Status-Record.md,partial
+2,Loss treatment between inverter output and settlement meter,inside PVWatts loss stack (no separate transformer/line-loss factor to the settlement point),not verified,Meter location and loss factors from an interconnection agreement,none,gap
+3,DST / repeated hour,15-min intervals converted with DSTFlag; frozen calendars documented,verified (this supplement's extraction receipt shows 24 DST-flag rows per year across 6 series = 4 intervals each),none,data/node_hub_extraction_receipt.json,addressed
+4,Economic stop below zero,frozen node rule stops output when P_node<0 (rule effect on 2025 revenue +79.9k USD per frozen panel table),documented,Contract-specific rule if hedged; PTC case changes the threshold to -PTC value,Panel data/panel/Node-Hub-Comparisons.csv rule_effect_usd,addressed for merchant; open for contracts
+5,Hedge / VPPA settlement leg,absent,specification only,"H, K, hub, negative-price clause, volume basis, credit support",Contract-Terms.csv CT-07,spec only
+6,REC revenue,excluded,no dated Texas REC price retained,Dated REC price source and registration/transfer cost,none,gap
+7,QSE / scheduling fee,excluded,no public fee schedule retained,QSE service quotes or published fee benchmarks,none,gap
+8,Real-time imbalance / deviation and uplift allocations,excluded (price x metered output assumed),not quantified,ERCOT settlement charge-type mapping for a generation resource,none,gap
+9,Ancillary-service obligations or revenue,excluded (standalone PV),n/a after RTC+B for PV in this case,none unless the plant offers AS,ERCOT RTC+B release,not applicable
+10,Net cash receipts,= step 1 (merchant) or contract formula,cannot be completed,Steps 2 and 5-8,this table,null

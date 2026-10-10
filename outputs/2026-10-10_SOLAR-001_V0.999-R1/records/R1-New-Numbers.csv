@@ -1,0 +1,48 @@
+token,kind,where_used,source
+1.4,structure,Section 1.4 heading,"New Section 1.3 (break-even prices) inserted; former 1.3 renumbered"
+10.10,structure,Section 10.10 heading and references,New section: public market reference points
+-92,range end,Table 12-1 round-trip efficiency 86%–92%,"Lazard LCOS v11.0 round-trip efficiency 92%–86% [M04]; tokenizer reads '–92' as -92"
+86,source,Table 12-1 round-trip efficiency,Lazard LCOS v11.0 [M04]
+0.6,source,Section 10.8 R1 box,"IRS FR Doc. 2025-16249: 2025 section 45Y base amount 0.6 cents/kWh [M05]"
+3.0,source,Section 10.8 R1 box,"IRS FR Doc. 2025-16249: 2025 section 45Y amount 3.0 cents/kWh with PWA [M05]"
+16249,source,Appendix A.3,FR Doc. number 2025-16249 [M05]
+44.6,source,"Ch.1, Table 1-2, 10.10, 13","LBNL 2025 data file, LevelTen ERCOT solar P25, 2025 average [M01]; data/r1/Market-References.csv"
+45.5,source,Table 10-7,"LevelTen ERCOT solar P25, 2Q25 (range 43.6–45.5 over 4Q24–4Q25) [M01]"
+39.2,source,Table 10-7,LevelTen 2024 levelized ERCOT solar index [M01]
+40.7,source,Table 10-7,Trio 2024 levelized ERCOT solar index [M01]
+64.49,source,Table 10-7,"LevelTen North America solar P25, 1Q26, pv magazine USA 20 Apr 2026 [M02]"
+61.40,source,Table 10-7,"LevelTen North America solar P25, 2Q26, TaiyangNews [M02]"
+98,source,Table 10-7,Lazard utility PV LCOE $40–98/MWh [M04]
+1250,source,Table 10-7,Lazard utility PV capital cost $1250–1850/kW [M04]
+1850,source,Table 10-7,Lazard utility PV capital cost [M04]
+8.25,source,Table 10-7,Lazard utility PV fixed O&M $8.25–26.25/kW-yr [M04]
+26.25,source,Table 10-7,Lazard utility PV fixed O&M [M04]
+61,source,Table 10-7,Lazard PV + storage LCOE $61–156/MWh [M04]
+3.75,source,Table 12-1,Lazard LCOS 4-hour O&M $3.75–7.75/kWh-yr [M04]
+7.75,source,Table 12-1,Lazard LCOS 4-hour O&M [M04]
+57.80,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (full-rate PTC PV $m)
+28.17,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (node base NPV plus credit; shown negative)
+15.94,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (fixed base NPV plus credit; shown negative)
+45.61,R1 calculation,"1.1, Table 1-2, 10.8, Figure 1-1",data/r1/PTC-Illustration.csv (fixed-route break-even with full-rate PTC)
+52.02,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (PTC transferred at 0.90)
+47.65,R1 calculation,"1.1, Table 1-2, 10.8",data/r1/PTC-Illustration.csv (break-even with PTC transferred at 0.90)
+11.56,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (base-rate PTC PV)
+61.90,R1 calculation,Section 10.8 R1 box,data/r1/PTC-Illustration.csv (break-even with base-rate PTC)
+73.74,R1 calculation,Appendix B.9,"Fixed base NPV −$73.74m = −$38.36m − $35.38m (Section 10.8); data/r1/R1-Calcs.json"
+2.84,R1 calculation,Appendix B.9,"Slope 73.74 / (65.97 − 40) = 2.8394; data/r1/R1-Calcs.json"
+104.4,R1 calculation,"Table 12-1, Table 13-3",data/r1/Storage-Screen.csv
+113.0,R1 calculation,"Table 12-1, Table 13-3",data/r1/Storage-Screen.csv
+188.3,R1 calculation,Table 12-1,data/r1/Storage-Screen.csv
+202.7,R1 calculation,Table 12-1,data/r1/Storage-Screen.csv
+68.6,R1 calculation,Table 12-1,data/r1/Storage-Screen.csv
+74.4,R1 calculation,Table 12-1,data/r1/Storage-Screen.csv
+67.5,R1 calculation,Table 12-1,data/r1/Storage-Screen.csv
+96.4,R1 calculation,Table 12-1,data/r1/Storage-Cost.csv
+141.0,R1 calculation,Table 12-1,data/r1/Storage-Cost.csv
+109.2,R1 calculation,"Table 12-1, Table 13-3",data/r1/Storage-Cost.csv
+158.3,R1 calculation,"Table 12-1, Table 13-3",data/r1/Storage-Cost.csv
+125.0,R1 calculation,Table 12-1,data/r1/Storage-Cost.csv
+179.7,R1 calculation,Table 12-1,data/r1/Storage-Cost.csv
+0.0754,R1 calculation,Appendix B.9,capital-recovery factor at 4.27% over 20 years; data/r1/Storage-Cost.csv
+0.0872,R1 calculation,Appendix B.9,capital-recovery factor at 6%; data/r1/Storage-Cost.csv
+0.1019,R1 calculation,Appendix B.9,capital-recovery factor at 8%; data/r1/Storage-Cost.csv

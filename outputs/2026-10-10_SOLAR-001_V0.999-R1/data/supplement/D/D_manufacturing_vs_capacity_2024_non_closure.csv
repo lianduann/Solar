@@ -1,0 +1,8 @@
+item,value_gw,definition,source
+"MIIT: module production, China 2024",588,"modules produced in China (MIIT PDF accepted); not shipments, not installations",miit_2024_observations.csv (accepted MIIT PDF)
+"MIIT: cell production, China 2024",654,"cells; upstream of modules, not additive",miit_2024_observations.csv
+"MIIT: wafer production, China 2024",753,"wafers; upstream, not additive",miit_2024_observations.csv
+IRENA: world net PV capacity change 2024,457.652,difference in year-end net capacity; AC/DC basis not stated; includes retirements/revisions,"IRENA 2026 stats, PDF p.37 (World row)"
+IRENA: China net PV capacity change 2024,276.769,same,IRENA PDF p.38
+LONGi: cell and module shipments 2024 (one company),82.32,company-reported aggregate of cell and module shipments,LONGi 2024 AR (retained)
+Arithmetic difference: MIIT module production minus IRENA world net change (2024),130.348,"NOT a surplus or inventory estimate: exports/imports, DC vs AC, shipment timing, inventory, 2025 installations of 2024 modules, non-grid use and statistical differences are unmeasured here",computed

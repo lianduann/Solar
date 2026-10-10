@@ -1,0 +1,17 @@
+check,computed,printed,ok
+queue 2022: statuses sum to printed total,2634,2634,True
+queue 2023: statuses sum to printed total,4286,4286,True
+queue 2024: statuses sum to printed total,4845,4845,True
+queue 2025: statuses sum to printed total,6714,6714,True
+queue 2026: statuses sum to printed total,21765,21765,True
+queue 2027: statuses sum to printed total,66679,66679,True
+queue 2028: statuses sum to printed total,124785,124785,True
+queue 2029: statuses sum to printed total,180910,180910,True
+queue 2030: statuses sum to printed total,238630,238630,True
+Batch Zero 2032 base sum vs 66.4 GW headline (rounded),66359,66400,True
+Batch Zero 2032 studied sum vs 125.4 GW chart legend,125391,125400,True
+Batch Zero studied: slide-2 takeaway says 127.9 GW vs chart 125.4 GW (internal inconsistency in the source; not resolved),125391,127900,False
+regional base sums to 2032 base,66359,66359,True
+regional studied sums to 2032 studied,125391,125391,True
+WLPUN 2032 studied equals WLPUN load on p.8,9478,9478,True
+"WLPUN generation components vs stated 15,444 MW (rounding)",15445,15444,True

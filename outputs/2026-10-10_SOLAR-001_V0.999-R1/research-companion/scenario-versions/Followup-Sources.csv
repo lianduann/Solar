@@ -1,0 +1,6 @@
+source_id,url,local_file,retrieved_utc,http_status,content_type,sha256,bytes
+ERCOT-NP6-785-ER-2026,"https://www.ercot.com/misdownload/servlets/mirDownload?doclookupId=1282360725",rpt.00013061.20261004.RTMLZHBSPP_2026.zip,2026-10-10T00:11:37Z,200,,7d8061e06e9e8fe4d0becd7302750aefb95ab255b932bada936be7fa74fd9806,10316068
+IMM-SOM-2025,"https://www.potomaceconomics.com/wp-content/uploads/2026/06/2025-State-of-the-Market-Report-for-ERCOT.pdf",IMM_2025_State-of-the-Market_ERCOT.pdf,2026-10-10T00:11:53Z,200,application/pdf,8febb03a618b923c14f611197cc8bbf6edc6a4a7eda9cb9021f86547ac66c6db,9250005
+IMM-SOM-2025-TAC-slides,"https://www.ercot.com/files/docs/2026/08/06/2026-08-SoM-for-TAC-JDMc.pdf",IMM_2026-08_SoM_TAC_slides.pdf,2026-10-10T00:11:53Z,200,application/pdf,3593547445af03e52eaa5c414ad1e189055468f651f8d13b85d4cf1bb5d4847e,491683
+TX-STATUTES-BROWSER,"statutes.capitol.texas.gov UT.35 / TX.313 / GV.403 (browser-rendered)",TX_Statutes_browser-rendered_excerpts.txt,2026-10-10T00:13:05Z,200 (browser),text/plain,337d80b342fff76b2d9c58dc07427c112502bbb6ac4680db613ef77bb360b7c3,3062
+BW-RETRY-BROWSER,"https://www.businesswire.com/news/home/20201209005197/en",(not kept: Access Denied in browser),2026-10-10T00:13:05Z,denied,,,

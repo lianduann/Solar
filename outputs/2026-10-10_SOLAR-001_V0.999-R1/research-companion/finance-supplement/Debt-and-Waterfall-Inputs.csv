@@ -1,0 +1,16 @@
+field,layer,value_found,unit,source_object,evidence_type,source_id,status,note
+debt_amount,levered,256000000 (Taygete I 'financing'; composition not stated),USD nominal 2020,CMP-03 Taygete I,direct (lender release),F01,partial,"May combine construction/term debt and other tranches; not a debt fraction because project cost is not disclosed"
+lenders,levered,"CIT (coordinating lead arranger) plus five other lenders",n/a,CMP-03,direct,F01,found,Names of the five lenders appear only in a Business Wire version that returned HTTP 403
+senior_loan_existence_and_default,levered,"Senior project loan on Taygete II; owner failed to repay; lender-initiated foreclosure auction; buyer West Texas Solar Project II LLC",n/a,CMP-01,direct (Comptroller filing),C06,found,"Lender, amount, coupon, tenor, default date and auction price not disclosed"
+tax_equity_investor,tax equity,named only in an inaccessible Business Wire version (search snippets mention a corporate investor),n/a,CMP-03,blocked,F02 (HTTP 403),blocked,Not used
+base_rate_spread_or_coupon,levered,not found,n/a,all comparables,n/a,n/a,not found,
+tenor_and_amortisation,levered,not found,n/a,all comparables,n/a,n/a,not found,
+sizing_DSCR_LLCR,levered,not found,n/a,all comparables,n/a,n/a,not found,"Contracted vs merchant sizing ratios need a lender or rating-agency source; none retained"
+reserves_DSRA_MRA,levered,not found,n/a,all comparables,n/a,n/a,not found,
+cash_sweep_balloon_refinancing,levered,not found,n/a,all comparables,n/a,n/a,not found,
+fees_upfront_commitment,levered,not found,n/a,all comparables,n/a,n/a,not found,
+flip_date_and_target,tax equity,not found,n/a,all comparables,n/a,n/a,not found,
+reference_debt_rate,reference,6.5,percent nominal,NREL ATB 2025 (frozen register),public reference,frozen register,reference only,Not a term sheet; real 3.90%
+reference_debt_fraction,reference,0.7457,fraction,NREL ATB 2025 (frozen register),public reference,frozen register,reference only,ATB financing structure for a contracted asset; no merchant equivalent retained
+reference_equity_return,reference,8.0,percent nominal,NREL ATB 2025 (frozen register),public reference,frozen register,reference only,Not an observed hurdle
+equity_IRR_for_case,levered,null,n/a,n/a,n/a,n/a,cannot be calculated,"No debt schedule, fees, reserves or tax layer; a leverage-multiplied IRR would be pseudo-precise"

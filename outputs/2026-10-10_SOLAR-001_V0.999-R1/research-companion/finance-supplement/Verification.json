@@ -1,0 +1,166 @@
+{
+ "executed_local": "2026-10-09T19:54:04.300600-04:00",
+ "python": "3.12.0",
+ "pandas": "2.2.1",
+ "clean_dir": "/private/tmp/claude-501/-Users-duanlian-Desktop/b500fd49-fa82-4e23-b677-dff092ba2a90/scratchpad/clean_rerun",
+ "runs": [
+  {
+   "cmd": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Analysis/2026-10-09_Finance-Deepening/Claude-Research/scripts/02_eia_operating_generation.py --eia860 /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-10-09_Finance-Deepening/EIA/eia8602025.zip --eia923 /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-10-09_Finance-Deepening/EIA/f923_2023.zip /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-08-25/US/EIA/2024_EIA-923_final.zip /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-10-09_Finance-Deepening/EIA/f923_2025.zip --out /private/tmp/claude-501/-Users-duanlian-Desktop/b500fd49-fa82-4e23-b677-dff092ba2a90/scratchpad/clean_rerun/data",
+   "exit": 0,
+   "stderr_tail": ""
+  },
+  {
+   "cmd": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Analysis/2026-10-09_Finance-Deepening/Claude-Research/scripts/03_ercot_battery_vintage.py /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-10-09_Finance-Deepening/EIA/eia8602025.zip /private/tmp/claude-501/-Users-duanlian-Desktop/b500fd49-fa82-4e23-b677-dff092ba2a90/scratchpad/clean_rerun/data/ERCOT-Battery-Capacity-by-Vintage-EIA860-2025.csv",
+   "exit": 0,
+   "stderr_tail": ""
+  },
+  {
+   "cmd": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Analysis/2026-10-09_Finance-Deepening/Claude-Research/scripts/04_extract_ch313_773.py /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/raw/2026-10-09_Finance-Deepening/comparables /private/tmp/claude-501/-Users-duanlian-Desktop/b500fd49-fa82-4e23-b677-dff092ba2a90/scratchpad/clean_rerun/data/Ch313-Form773-2023-Extract.csv",
+   "exit": 0,
+   "stderr_tail": ""
+  },
+  {
+   "cmd": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Analysis/2026-10-09_Finance-Deepening/Claude-Research/scripts/05_finance_arithmetic.py --panel /Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Deliverables/2026-10-09_Panel-Revision-Client-Edition --supp /private/tmp/claude-501/-Users-duanlian-Desktop/b500fd49-fa82-4e23-b677-dff092ba2a90/scratchpad/clean_rerun",
+   "exit": 0,
+   "stderr_tail": ""
+  }
+ ],
+ "table_comparisons": [
+  {
+   "file": "EIA-860-2025_WestTX_PV_generators.csv",
+   "rows": 38,
+   "identical": true
+  },
+  {
+   "file": "EIA-Operating-Generation-Comparables.csv",
+   "rows": 97,
+   "identical": true
+  },
+  {
+   "file": "EIA-Operating-Generation-Monthly-2023-2025.csv",
+   "rows": 1164,
+   "identical": true
+  },
+  {
+   "file": "ERCOT-Battery-Capacity-by-Vintage-EIA860-2025.csv",
+   "rows": 7,
+   "identical": true
+  },
+  {
+   "file": "Ch313-Form773-2023-Extract.csv",
+   "rows": 288,
+   "identical": true
+  },
+  {
+   "file": "Finance-Arithmetic-Checks.csv",
+   "rows": 34,
+   "identical": true
+  }
+ ],
+ "node_hub_vs_frozen_panel": [
+  {
+   "year": 2023,
+   "point": "TAYGETE2_ALL",
+   "capture_mine": 64.8864,
+   "capture_frozen": 64.8864,
+   "mean_mine": 60.6496,
+   "mean_frozen": 60.6508,
+   "abs_diff_capture": 0.0
+  },
+  {
+   "year": 2023,
+   "point": "HB_WEST",
+   "capture_mine": 64.9407,
+   "capture_frozen": 64.9407,
+   "mean_mine": 49.8299,
+   "mean_frozen": 49.8308,
+   "abs_diff_capture": 0.0
+  },
+  {
+   "year": 2023,
+   "point": "HB_BUSAVG",
+   "capture_mine": 67.6996,
+   "capture_frozen": 67.6996,
+   "mean_mine": 48.5144,
+   "mean_frozen": 48.5153,
+   "abs_diff_capture": 0.0
+  },
+  {
+   "year": 2023,
+   "point": "basis TAYGETE2_ALL-HB_WEST",
+   "capture_mine": -0.0543,
+   "capture_frozen": -0.0543,
+   "abs_diff_capture": 0.0
+  },
+  {
+   "year": 2024,
+   "point": "TAYGETE2_ALL",
+   "capture_mine": 20.8416,
+   "capture_frozen": 20.8452,
+   "mean_mine": 38.7704,
+   "mean_frozen": 38.7714,
+   "abs_diff_capture": 0.0036
+  },
+  {
+   "year": 2024,
+   "point": "HB_WEST",
+   "capture_mine": 20.5965,
+   "capture_frozen": 20.6,
+   "mean_mine": 27.4158,
+   "mean_frozen": 27.4168,
+   "abs_diff_capture": 0.0035
+  },
+  {
+   "year": 2024,
+   "point": "HB_BUSAVG",
+   "capture_mine": 23.3993,
+   "capture_frozen": 23.4032,
+   "mean_mine": 26.462,
+   "mean_frozen": 26.4633,
+   "abs_diff_capture": 0.0039
+  },
+  {
+   "year": 2024,
+   "point": "basis TAYGETE2_ALL-HB_WEST",
+   "capture_mine": 0.2451,
+   "capture_frozen": 0.2452,
+   "abs_diff_capture": 0.0001
+  },
+  {
+   "year": 2025,
+   "point": "TAYGETE2_ALL",
+   "capture_mine": 22.1319,
+   "capture_frozen": 22.1337,
+   "mean_mine": 46.37,
+   "mean_frozen": 46.3719,
+   "abs_diff_capture": 0.0018
+  },
+  {
+   "year": 2025,
+   "point": "HB_WEST",
+   "capture_mine": 21.4613,
+   "capture_frozen": 21.4629,
+   "mean_mine": 32.9231,
+   "mean_frozen": 32.9243,
+   "abs_diff_capture": 0.0016
+  },
+  {
+   "year": 2025,
+   "point": "HB_BUSAVG",
+   "capture_mine": 24.9426,
+   "capture_frozen": 24.9445,
+   "mean_mine": 32.3089,
+   "mean_frozen": 32.3099,
+   "abs_diff_capture": 0.0019
+  },
+  {
+   "year": 2025,
+   "point": "basis TAYGETE2_ALL-HB_WEST",
+   "capture_mine": 0.6707,
+   "capture_frozen": 0.6708,
+   "abs_diff_capture": 0.0001
+  }
+ ],
+ "max_abs_diff_vs_frozen": 0.0039,
+ "note": "Script 01 (price extraction) was not re-run in the clean directory; its delivered outputs are checked against the frozen panel table. 2024 compared on the Feb-29-excluded calendar used by the panel. No regression, bootstrap or weather simulation was run."
+}

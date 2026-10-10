@@ -1,0 +1,39 @@
+Plant Code,Plant Name,County,Generator ID,Status,cap,dc,start,Single-Axis Tracking?,Bifacial?,Utility Name
+58710,Barilla Solar,Pecos,BRLA,OP,30.2,37.6,2015-06-01,,,"Leeward Asset Management, LLC"
+59206,Alamo 6,Pecos,OCIA6,OP,105.0,139.1,2017-03-01,,,"BHE Renewables, LLC"
+59994,RE Roserock,Pecos,ROSEK,OP,160.0,212.1,2016-11-01,Y,,Southern Power Co
+60044,Buckthorn Westex,Pecos,BKTH1,OP,154.0,202.0,2018-05-01,Y,,"Buckthorn Westex, LLC"
+60123,Castle Gap Solar Hybrid,Upton,CGAP,OP,180.0,234.0,2018-05-01,Y,,Upton County Solar 2 LLC
+60436,East Pecos Solar,Pecos,1,OP,118.5,142.8,2017-04-01,Y,,Southern Power Co
+60581,Upton County Solar,Upton,UCTX,OP,150.0,213.0,2017-12-01,Y,,RWE Clean Energy
+60682,Pearl Solar,Pecos,PEARL,OP,50.0,66.1,2017-10-01,Y,,"BHE Renewables, LLC"
+60989,SolaireHolman Solar Project,Brewster,PV1,OP,50.0,64.5,2017-04-01,Y,,"SolaireHolman 1, LLC"
+61346,RE Maplewood,Pecos,PV1,OP,222.0,290.0,2021-10-01,Y,,Onward Energy
+61346,RE Maplewood,Pecos,PV2,OP,28.0,37.0,2021-04-01,Y,,Onward Energy
+61368,Midway Solar - TX,Pecos,PV1,OP,182.0,235.7,2018-12-01,Y,,Midway Solar
+61906,Phoebe Solar,Winkler,PHOEB,OP,250.0,317.0,2019-11-01,Y,,"Phoebe Energy Project, LLC"
+61920,Galloway 1 Solar Farm,Concho,GSM01,OP,250.0,319.0,2021-10-01,Y,,225DD 8me LLC
+61967,Norton Solar Farm,Runnels,NSM01,OP,125.0,159.3,2025-10-01,Y,Y,TAI Norton Solar LLC
+62141,Rambler,Tom Green,RMBLR,OP,200.0,266.0,2020-06-01,Y,,Deriva Energy
+62415,West of the Pecos Solar,Reeves,WOTP1,OP,100.0,130.0,2019-12-01,Y,,RWE Clean Energy
+62448,Lapetus,Andrews,LAP,OP,100.0,133.0,2019-12-01,Y,,Deriva Energy
+62483,Taygete Energy Project LLC,Pecos,PV1,OP,255.0,344.1,2021-03-01,Y,,Taygete Energy Project LLC
+62561,"Roadrunner, LLC Hybrid",Upton,RODR1,OP,200.0,248.5,2019-11-01,Y,Y,"Roadrunner Solar, LLC"
+62561,"Roadrunner, LLC Hybrid",Upton,RODR2,OP,200.0,248.5,2020-09-01,Y,Y,"Roadrunner Solar, LLC"
+62755,Prospero Solar,Andrews,PROSP,OP,300.0,379.0,2020-06-01,Y,,"Prospero Energy Project, LLC (Longroad)"
+62804,Greasewood Solar,Pecos,GREA1,OP,255.0,348.0,2021-02-01,Y,,Concho Bluff LLC
+62932,Oberon IB,Ector,OBR1B,OP,30.0,37.3,2020-07-01,Y,,Oberon Solar IB
+62933,Oberon IA,Ector,OBR1A,OP,150.0,193.0,2020-07-01,Y,,Oberon Solar IA
+63233,Emerald Grove,Pecos,UNIT1,OP,108.0,140.8,2023-03-01,Y,,Luminant Generation Company LLC
+63255,2W Permian Solar Project Hybrid,Andrews,2WPSO,OP,420.0,520.0,2021-08-01,Y,,"2W Permian Solar, LLC"
+63343,Galloway 2 Solar Farm,Concho,GS2SF,OP,110.0,146.6,2023-10-01,,,224WB 8me LLC
+63388,Oxy Renewable Energy - Goldsmith,Ector,SOLAR,OP,16.8,20.8,2020-05-01,Y,,Oxy Renewable Energy LLC
+63519,Crane Solar Project,Crane,CRN1,OP,150.0,212.6,2020-07-01,Y,,"Crane Solar Project, LLC"
+64075,Taygete II Energy Project,Pecos,TAYG2,OP,203.8,258.4,2023-07-01,Y,,West Texas Solar Project II LLC
+64325,Prospero Solar II,Andrews,PROSP,OP,250.0,331.0,2021-08-01,Y,,"Prospero Solar II, LLC (Longroad)"
+65793,"Concho Valley Solar, LLC",Tom Green,CVS,OP,172.8,214.6,2023-05-01,N,Y,"Concho Valley Solar, LLC"
+67006,Greasewood II LLC,Pecos,TBSP,OP,306.0,398.0,2024-10-01,Y,,Greasewood II LLC
+68145,Angelo Solar,Tom Green,ANGSO,OP,195.0,263.0,2025-01-01,Y,Y,"Angelo Solar, LLC"
+68537,Swift Air Solar I,Ector,OSAS1,OP,145.0,184.0,2025-04-01,Y,N,"Origis Energy USA, Inc"
+68587,Swift Air Solar II,Ector,OSAS2,OP,173.6,188.3,2025-11-01,Y,,"Origis Energy USA, Inc"
+68588,Swift Air Solar III,Ector,OSAS3,OP,100.0,125.0,2025-11-01,Y,,"Origis Energy USA, Inc"

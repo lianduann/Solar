@@ -1,0 +1,146 @@
+company,period,field,value_as_reported,unit,source_file,locator,check,boundary
+Trina Solar,FY2025,cash_and_bank (货币资金),"22,547,205,245.55",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.143,verbatim found,consolidated
+Trina Solar,FY2024,cash_and_bank (货币资金),"22,506,041,923.49",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.143,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,restricted_cash (受限货币资金),"5,477,811,068.55",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.53,verbatim found,consolidated
+Trina Solar,FY2024,restricted_cash (受限货币资金),"3,914,872,696.69",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.200,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,operating_cash_flow,"6,902,281,166.06",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.8,verbatim found,consolidated
+Trina Solar,FY2024,operating_cash_flow,"7,943,402,668.79",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.8,verbatim found,consolidated
+Trina Solar,FY2025,short_term_borrowings (短期借款),"7,380,722,522.92",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated
+Trina Solar,FY2024,short_term_borrowings (短期借款),"6,497,513,267.06",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"9,509,091,922.86",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated
+Trina Solar,FY2024,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"7,363,922,519.24",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,long_term_borrowings (长期借款),"19,432,408,392.79",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated
+Trina Solar,FY2024,long_term_borrowings (长期借款),"23,563,263,543.87",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,bonds_payable (应付债券),"6,094,362,423.48",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.51,verbatim found,consolidated
+Trina Solar,FY2024,bonds_payable (应付债券),"8,879,220,089.25",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.51,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,warranty_provision (预计负债-产品质量保证),"2,039,839,780.97",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.267,verbatim found,consolidated
+Trina Solar,FY2024,warranty_provision (预计负债-产品质量保证),"1,862,299,438.57",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.267,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,total_current_assets,"70,598,543,236.41",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.143,verbatim found,consolidated
+Trina Solar,FY2024,total_current_assets,"72,356,909,319.43",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.143,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Trina Solar,FY2025,total_current_liabilities,"58,902,223,959.07",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated
+Trina Solar,FY2024,total_current_liabilities,"55,607,082,782.64",CNY (yuan),sources/cninfo/Trina_2025_AR.pdf,p.144,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,cash_and_bank (货币资金),"25,242,273,705.53",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.137,verbatim found,consolidated
+JA Solar,FY2024,cash_and_bank (货币资金),"25,088,742,298.26",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.137,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,operating_cash_flow,"4,279,976,369.76",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.8,verbatim found,consolidated
+JA Solar,FY2024,operating_cash_flow,"3,346,575,961.54",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.8,verbatim found,consolidated
+JA Solar,FY2025,short_term_borrowings (短期借款),"9,061,307,423.27",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.138,verbatim found,consolidated
+JA Solar,FY2024,short_term_borrowings (短期借款),"8,497,626,915.30",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.138,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"5,750,983,972.14",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated
+JA Solar,FY2024,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"1,765,458,153.16",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,long_term_borrowings (长期借款),"17,520,134,473.11",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated
+JA Solar,FY2024,long_term_borrowings (长期借款),"14,241,991,898.84",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,bonds_payable (应付债券),"8,878,910,378.93",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated
+JA Solar,FY2024,bonds_payable (应付债券),"8,623,651,496.24",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,warranty_provision (预计负债-产品质量保证),"1,992,943,486.16",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.220,verbatim found,consolidated
+JA Solar,FY2024,warranty_provision (预计负债-产品质量保证),"1,821,135,230.36",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.220,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,total_current_assets,"55,159,360,797.46",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.138,verbatim found,consolidated
+JA Solar,FY2024,total_current_assets,"54,938,615,970.98",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.138,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,total_current_liabilities,"45,760,430,495.15",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated
+JA Solar,FY2024,total_current_liabilities,"49,975,652,450.92",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,p.139,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,cash_and_bank (货币资金),"17,475,377,054.83",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.96,verbatim found,consolidated
+Tongwei,FY2024,cash_and_bank (货币资金),"16,448,454,772.62",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.96,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,restricted_cash (受限货币资金),"2,199,660,424.82",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.28,verbatim found,consolidated
+Tongwei,FY2024,restricted_cash (受限货币资金),"1,987,117,932.06",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.182,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,operating_cash_flow,"1,379,185,344.61",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.8,verbatim found,consolidated
+Tongwei,FY2024,operating_cash_flow,"1,143,735,923.37",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.8,verbatim found,consolidated
+Tongwei,FY2025,short_term_borrowings (短期借款),"7,702,135,271.21",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.27,verbatim found,consolidated
+Tongwei,FY2024,short_term_borrowings (短期借款),"1,878,224,418.52",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.27,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"14,848,205,537.78",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.27,verbatim found,consolidated
+Tongwei,FY2024,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"10,725,854,956.38",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.27,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,long_term_borrowings (长期借款),"51,820,396,592.88",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated
+Tongwei,FY2024,long_term_borrowings (长期借款),"51,244,335,868.59",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,bonds_payable (应付债券),"15,882,120,516.33",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated
+Tongwei,FY2024,bonds_payable (应付债券),"15,062,229,237.62",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,warranty_provision (预计负债-产品质量保证金),"1,117,750,316.57",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated
+Tongwei,FY2024,warranty_provision (预计负债-产品质量保证金),"999,177,452.48",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.196,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,total_current_assets,"66,238,762,666.65",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.97,verbatim found,consolidated
+Tongwei,FY2024,total_current_assets,"66,192,918,621.75",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.97,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+Tongwei,FY2025,total_current_liabilities,"55,766,509,445.26",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated
+Tongwei,FY2024,total_current_liabilities,"56,538,075,361.44",CNY (yuan),sources/cninfo/Tongwei_2025_AR.pdf,p.98,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,cash_and_bank (货币资金),"55,472,934,100.37",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.119,verbatim found,consolidated
+LONGi,FY2024,cash_and_bank (货币资金),"53,156,782,586.47",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.119,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,restricted_cash (受限货币资金),"2,122,876,930.68",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.174,verbatim found,consolidated
+LONGi,FY2024,restricted_cash (受限货币资金),"2,208,759,385.20",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.174,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,operating_cash_flow,"4,359,382,755.77",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.13,verbatim found,consolidated
+LONGi,FY2024,operating_cash_flow,"-4,724,978,931.84",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.13,verbatim found,consolidated
+LONGi,FY2025,short_term_borrowings (短期借款),"300,193,416.63",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.120,verbatim found,consolidated
+LONGi,FY2024,short_term_borrowings (短期借款),"300,223,666.66",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.120,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"10,325,154,570.27",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.32,verbatim found,consolidated
+LONGi,FY2024,non_current_liabilities_due_within_1y (一年内到期的非流动负债),"1,902,000,262.18",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.32,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,long_term_borrowings (长期借款),"6,825,267,539.84",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.33,verbatim found,consolidated
+LONGi,FY2024,long_term_borrowings (长期借款),"13,949,126,850.80",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.33,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,bonds_payable (应付债券),"9,510,050,595.59",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.33,verbatim found,consolidated
+LONGi,FY2024,bonds_payable (应付债券),"6,973,410,085.80",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.33,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,warranty_provision (预计负债-一年以后支出的产品质量保证),"1,892,850,438.78",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.237,verbatim found,consolidated
+LONGi,FY2024,warranty_provision (预计负债-一年以后支出的产品质量保证),"1,385,303,531.60",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.237,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,total_current_assets,"91,058,312,814.98",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.119,verbatim found,consolidated
+LONGi,FY2024,total_current_assets,"90,023,010,481.69",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.119,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+LONGi,FY2025,total_current_liabilities,"70,544,047,640.81",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.121,verbatim found,consolidated
+LONGi,FY2024,total_current_liabilities,"60,293,087,421.47",CNY (yuan),sources/cninfo/LONGi_2025_AR.pdf,p.121,verbatim found,consolidated; 2024 = opening balance column of FY2025 report
+JA Solar,FY2025,"restricted_cash (受限货币资金, 质押 保证金等)","8,887,458,406.33",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,restricted-assets note (text line ~15058; digits wrap across lines),reassembled from wrapped cells; checked manually,consolidated
+JA Solar,FY2024,"restricted_cash (受限货币资金, 质押 保证金等)","11,960,906,456.52",CNY (yuan),sources/cninfo/JASolar_2025_AR.pdf,restricted-assets note (text line ~15058; digits wrap across lines),reassembled from wrapped cells; checked manually,consolidated
+JinkoSolar Holding,FY2025,cash_and_equivalents,"20,008,382",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,cash_and_equivalents,"25,053,762",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,restricted_cash (current),"2,929,999",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,restricted_cash (current),"2,684,214",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,restricted_short_term_investments,"3,302,036",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,restricted_short_term_investments,"2,973,120",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,operating_cash_flow (XBRL),1081871000,CNY thousands,sources/sec/jks-20251231x20f.htm,XBRL companyfacts sources/sec/*.json,verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,operating_cash_flow (XBRL),16850366000,CNY thousands,sources/sec/jks-20251231x20f.htm,XBRL companyfacts sources/sec/*.json,verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,short_term_borrowings incl. current portion of LT and failed sale-leaseback,"10,655,366",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,short_term_borrowings incl. current portion of LT and failed sale-leaseback,"6,933,899",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,long_term_borrowings,"18,206,905",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,long_term_borrowings,"20,643,272",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,convertible_notes (non-current),"10,594,637",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,convertible_notes (non-current),"8,605,579",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,warranty_accrual_total (roll-forward end of year),"1,832,203",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,warranty_accrual_total (roll-forward end of year),"2,361,596",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,warranty_accrual_noncurrent,"1,655,630",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,warranty_accrual_noncurrent,"2,136,192",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,total_current_assets,"68,814,145",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,total_current_assets,"68,865,057",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2025,total_current_liabilities,"55,044,136",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+JinkoSolar Holding,FY2024,total_current_liabilities,"54,484,022",CNY thousands,sources/sec/jks-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,cash_and_equivalents,"1,370,418",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,cash_and_equivalents,"1,701,487",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,restricted_cash (current),"541,705",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,restricted_cash (current),"551,387",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,restricted_cash (non-current),"28,312",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,restricted_cash (non-current),"11,147",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,short_term_borrowings,"2,389,037",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,short_term_borrowings,"1,873,306",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,long_term_borrowings,"3,621,232",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,long_term_borrowings,"2,731,543",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,green_bonds current/non-current,"153,152",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,green_bonds current/non-current,"146,542",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,convertible_notes,"195,313",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,convertible_notes,"228,917",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,warranty_accrual (roll-forward ending balance),"138,386",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,warranty_accrual (roll-forward ending balance),"84,127",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,total_current_assets,"5,978,866",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,total_current_assets,"5,917,077",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2025,total_current_liabilities,"5,850,389",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Canadian Solar,FY2024,total_current_liabilities,"5,418,910",USD thousands,sources/sec/csiq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,cash_and_equivalents,"856,054",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2024,cash_and_equivalents,"1,006,536",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,restricted_cash,"124,238",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2024,restricted_cash,"31,813",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,bank_borrowings,did not have any bank borrowings,USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,"fixed-term deposits (text, USD m)","fixed-term deposits of $1,035.6 million",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,total_current_assets,"2,696,177",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2024,total_current_assets,"2,631,547",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2025,total_current_liabilities,"501,622",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+Daqo New Energy,FY2024,total_current_liabilities,"521,235",USD thousands,sources/sec/dq-20251231x20f.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,cash_and_equivalents,"2,803,514",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,cash_and_equivalents,"1,621,376",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,current_portion_of_debt,"215,979",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,current_portion_of_debt,"236,424",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,long_term_debt,"282,593",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,long_term_debt,"373,354",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,product_warranty_liability (end of period),"79,408",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,product_warranty_liability (end of period),"76,435",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,"section_45X_credits recognised in cost of sales (USD bn, text)",we recognized $1.6 billion of Section 45X,USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,total_current_assets,"6,028,832",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,total_current_assets,"5,089,033",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2025,total_current_liabilities,"2,254,102",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP
+First Solar,FY2024,total_current_liabilities,"2,077,442",USD thousands,sources/sec/fslr-20251231.htm,balance sheet / notes (FY2025 annual filing),verbatim found,consolidated; US GAAP

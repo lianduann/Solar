@@ -1,0 +1,9 @@
+figure,content,scripts,input_tables_or_files,report_location
+F1_sample_flow_and_coverage.png,Node sample flow by year; 2025 coverage histogram,"scripts/01_extract_prices_year.py, 04_sample_audit.py, 08_figures_and_tables.py",tables/Sample-Flow-By-Year.csv; tables/Node-Year-Sample-Table.csv; tables/Market-Wide-Missing-Intervals.csv,Report Sections 4.1-4.3
+F2_weather_by_price_matrix.png,Weather year x price year NPV matrix,"03_site_energy.py, 05_decomposition_and_tails.py, 08_figures_and_tables.py",data/A_3x3_cells_by_node.csv; data/A_3x3_summary.csv,Section 6; tables/T_A1
+F3_npv_change_decomposition.png,Two-factor and volume/level/match decomposition of NPV change,"05_decomposition_and_tails.py, 08",data/A_decomposition_by_node.csv; tables/T_A2,Section 6
+F4_tail_concentration_and_stress.png,Revenue concentration and stress cases (TAYGETE2_ALL),"05, 08 (recomputes the cumulative curve from price matrices and energy)",data/C_tail_results_by_node_year.csv; price matrices rebuilt by 01_extract_prices_year.py,Section 7; tables/T_C1
+F5_solar_price_association_forest.png,Solar coefficient across specifications with HAC and bootstrap intervals,"06_regressions.py, 08",tables/B_regression_coefficients_long.csv; tables/B_solar_coef_block_bootstrap.csv,Section 8.1
+F6_price_vs_solar_and_negative_hours.png,Price by solar bin; negative-price share by hour,"02_build_system_panel.py, 08",data/system_panel_hourly_2023_2025.csv.gz plus HB_BUSAVG hourly prices from the price matrices,Section 8.1
+F7_node_basis_persistence.png,Node basis persistence and dispersion,"07_node_basis.py, 08",tables/B3_node_basis_stats.csv,Section 8.3
+F8_bootstrap_and_mixture_scenario.png,Within-year block bootstrap; equal-weight mixture scenario,"05, 08",data/C_block_bootstrap_within_year.csv; data/C_three_year_mixture_scenario_by_node.csv,Section 7

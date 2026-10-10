@@ -1,0 +1,7 @@
+Plant State,Status,nameplate_ac_mw,generators
+TX,(L) Regulatory approvals pending. Not under construction,8108.8,38
+TX,"(P) Planned for installation, but regulatory approvals not initiated",10222.9,48
+TX,(T) Regulatory approvals received. Not under construction,4431.5,20
+TX,"(TS) Construction complete, but not yet in commercial operation",8191.5,36
+TX,"(U) Under construction, less than or equal to 50 percent complete",4387.3,17
+TX,"(V) Under construction, more than 50 percent complete",3042.7,14

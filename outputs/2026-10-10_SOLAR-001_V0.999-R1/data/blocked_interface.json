@@ -1,0 +1,128 @@
+{
+  "artifact_type": "non_numerical_model_interface",
+  "interfaces": {
+    "levered_equity_cash_flow": {
+      "blockers": [
+        "dated_debt_schedule",
+        "debt_proceeds",
+        "debt_rate",
+        "debt_tenor",
+        "fees",
+        "interest",
+        "principal_repayment",
+        "reserves",
+        "unlevered_cash_flow"
+      ],
+      "excluded_fields": [],
+      "required_fields": [
+        "debt_proceeds",
+        "debt_rate",
+        "debt_tenor",
+        "interest",
+        "fees",
+        "reserves",
+        "principal_repayment",
+        "dated_debt_schedule"
+      ],
+      "selected_routes": {},
+      "status": "blocked",
+      "symbolic_formula": "unlevered_cash_flow + debt_proceeds - interest - fees - reserves - principal_repayment"
+    },
+    "unlevered_cash_flow": {
+      "blockers": [
+        "cash_tax",
+        "construction_timing",
+        "contract_attributes",
+        "contract_delivery_point",
+        "contract_escalation",
+        "contract_price",
+        "contract_volume_rule",
+        "degradation_schedule",
+        "energy_method",
+        "generation_loss_basis",
+        "generation_time_convention",
+        "hourly_generation_profile",
+        "inflation_basis",
+        "loss_and_curtailment_method",
+        "merchant_price",
+        "net_capacity_factor",
+        "price_correction_and_finality",
+        "price_method",
+        "price_time_convention",
+        "price_unit_and_loss_basis",
+        "project_life",
+        "project_settlement_mapping",
+        "resource_class",
+        "working_capital_change",
+        "year_hours"
+      ],
+      "excluded_fields": [
+        "debt_proceeds",
+        "debt_rate",
+        "debt_tenor",
+        "interest",
+        "fees",
+        "reserves",
+        "principal_repayment",
+        "dated_debt_schedule"
+      ],
+      "required_fields": [
+        "overnight_capex",
+        "fixed_om",
+        "variable_om",
+        "loss_and_curtailment_method",
+        "degradation_schedule",
+        "construction_timing",
+        "project_life",
+        "inflation_basis",
+        "working_capital_change",
+        "cash_tax"
+      ],
+      "selected_routes": {},
+      "status": "blocked",
+      "symbolic_formula": "operating_revenue - operating_costs - cash_taxes - capex - working_capital_change"
+    }
+  },
+  "output_values": {
+    "annual_generation": null,
+    "capture_price": null,
+    "cash_tax": null,
+    "debt_cost": null,
+    "equity_irr": null,
+    "lcoe": null,
+    "leverage": null,
+    "npv": null,
+    "project_irr": null,
+    "project_price": null,
+    "revenue": null,
+    "tax_credit_amount": null,
+    "wacc": null
+  },
+  "prohibited_outputs": [
+    "annual_generation",
+    "project_price",
+    "capture_price",
+    "revenue",
+    "lcoe",
+    "npv",
+    "project_irr",
+    "equity_irr",
+    "wacc",
+    "leverage",
+    "debt_cost",
+    "cash_tax",
+    "tax_credit_amount"
+  ],
+  "record_date": "2026-09-25",
+  "scope": "Non-numerical gate, dependency, route-exclusivity, and lineage control only",
+  "sources": {
+    "input_register": {
+      "path": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Data/processed/2026-09-24_Hypothetical-PV-Case-Input-Selections.csv",
+      "sha256": "e795b2430d3aed382763a06684137cb3667c876047b57312c3e83b33aa24f957"
+    },
+    "interface_specification": {
+      "path": "/Users/duanlian/Desktop/OPT-Self-Employment/03-Work-Evidence/Projects/2026-08-SOLAR-001-AI-Power-Solar-Economics/Analysis/model/2026-09-25_Representative-Project-Machine-Readable-Interface-Specification.json",
+      "sha256": "4ef8c5be3e79a70cf8190def90cdac7a3808f3c1761dded9e3e77e1b2e6a5107"
+    }
+  }
+}

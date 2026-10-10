@@ -1,0 +1,4 @@
+model,rmse,mae,n
+S1 fitted on 2023-2024 (year-month FE set to base),65.9908,46.0618,8758
+hour-of-week mean 2023-2024,44.8646,21.6815,8758
+constant 2023-2024 mean,38.757,18.6661,8758

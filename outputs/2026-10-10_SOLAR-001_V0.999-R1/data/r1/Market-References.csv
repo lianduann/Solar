@@ -1,0 +1,24 @@
+item,value,unit,period,basis,source,locator
+LevelTen solar PPA price index P25 ERCOT,44.2,USD/MWh nominal,4Q24,25th percentile of first-year offer prices,"Berkeley Lab, U.S. Utility-Scale Solar 2025 Data Update, data file (LevelTen Energy data)",tab 'LevelTen Solar PPA Prices'
+LevelTen solar PPA price index P25 ERCOT,44.7,USD/MWh nominal,1Q25,25th percentile of first-year offer prices,same,same
+LevelTen solar PPA price index P25 ERCOT,45.5,USD/MWh nominal,2Q25,25th percentile of first-year offer prices,same,same
+LevelTen solar PPA price index P25 ERCOT,44.5,USD/MWh nominal,3Q25,25th percentile of first-year offer prices,same,same
+LevelTen solar PPA price index P25 ERCOT,43.6,USD/MWh nominal,4Q25,25th percentile of first-year offer prices,same,same
+LevelTen solar PPA price index P25 ERCOT,44.6,USD/MWh nominal,1Q25-4Q25 average (calendar 2025; workbook column 'four quarters'),25th percentile of first-year offer prices,same,same
+LevelTen 2024 levelized solar PPA index ERCOT,39.2,USD/MWh real 2024,2024,levelized,same,tab 'LevelTen & Trio 2024 PPA Index'
+Trio 2024 levelized solar PPA index ERCOT,40.7,USD/MWh real 2024,2024,levelized,same,tab 'LevelTen & Trio 2024 PPA Index'
+LevelTen solar P25 North America market-averaged,64.49,USD/MWh nominal,1Q26,press report of LevelTen index,"pv magazine USA, 20 April 2026",article text
+LevelTen solar P25 North America market-averaged,61.40,USD/MWh nominal,2Q26,press report of LevelTen index,"TaiyangNews, LevelTen Q2 2026 report coverage",article text
+ERCOT average captured price for solar,21,USD/MWh,2025,generation-weighted energy price paid to solar generators,"Potomac Economics, 2025 State of the Market Report for the ERCOT Electricity Markets (June 2026)","Section II.D.3, Figure 15"
+ERCOT solar generation curtailed,6,% of solar generation,2025,system level,same,Section II.D.1
+New capacity in ERCOT: solar,6.2,GW,2025,entered commercial operation,same,Executive summary and Section II.A
+New capacity in ERCOT: energy storage,7.3,GW,2025,entered commercial operation,same,Executive summary and Section II.A
+Change in annual ESR revenue per unit of capacity,-37,%,2025 vs 2024,normalized for capacity,same,Section II.E.3
+Lazard utility-scale solar PV unsubsidized LCOE,40-98,USD/MWh,LCOE v19.0 (July 2026),range,"Lazard, Levelized Cost of Energy+ (July 2026)",LCOE v19.0 comparison and key assumptions
+Lazard utility-scale solar PV capital cost,1250-1850,USD/kW,LCOE v19.0,key assumption,same,key assumptions
+Lazard utility-scale solar PV fixed O&M,8.25-26.25,USD/kW-yr,LCOE v19.0,key assumption,same,key assumptions
+Lazard utility-scale solar PV + storage LCOE,61-156,USD/MWh,LCOE v19.0,range; 100 MW PV + 50 MW / 200 MWh,same,LCOE comparison
+Lazard 4-hour standalone storage capital cost,270-365,USD/kWh,LCOS v11.0,key assumption incl. inverter,same,LCOS key assumptions
+Lazard 4-hour standalone storage O&M,3.75-7.75,USD/kWh-yr,LCOS v11.0,key assumption,same,LCOS key assumptions
+Lazard 4-hour standalone storage unsubsidized LCOS,210-292,USD/MWh,LCOS v11.0,range,same,LCOS key assumptions
+Section 45Y applicable amount 2025 (PWA met / base),3.0 / 0.6,US cents per kWh,calendar year 2025,inflation-adjusted credit amount,"IRS, Publication of Inflation Adjustment Factor and Applicable Amounts for Clean Electricity Production Credit for Calendar Year 2025 (FR Doc. 2025-16249, 25 August 2025)",notice text
