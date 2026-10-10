@@ -1,0 +1,16 @@
+--- /home/claude/work/zh/2026-10-10_SOLAR-001_V1.0-ZH/build/build_report.py	2026-10-10 08:10:52.477131367 +0000
++++ zh-client/build/build_report.py	2026-10-10 18:34:58.820436928 +0000
+@@ -69,7 +69,13 @@
+     return h.replace("：", "：<br/>", 1) if len(t) > 22 and "：" in t else h
+ 
+ 
++LINK_MAP = B / "client_link_map.json"  # client edition: companion links retargeted to the delivery folder; unmapped links become plain text
++
++
+ def local_link(href):
++    if LINK_MAP.exists():
++        t = json.loads(LINK_MAP.read_text()).get(href)
++        return t if t and (PKG / t).exists() else None
+     target = PKG / COMPANION / href
+     return f"{COMPANION}/{href}" if target.exists() else None
+ 

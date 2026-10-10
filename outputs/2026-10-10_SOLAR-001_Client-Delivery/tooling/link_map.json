@@ -1,0 +1,8 @@
+{
+ "closure-evidence/tables/FIN-09_Supplier-Liquidity.csv": "05_Supporting-Data/Supplier-Liquidity_FY2025-FY2024.csv",
+ "sources/finance/comparables/C06_ch313_1377_772_2025.pdf": "04_Source-Documents/Texas-Comptroller_Agreement-1377_Form-772_TY2024.pdf",
+ "sources/finance/ERCOT/PUCT_16TAC_25.195_current.pdf": "04_Source-Documents/PUCT-Rule_16-TAC-25.195.pdf",
+ "sources/finance/tax/PLAW-119publ21.pdf": "04_Source-Documents/Public-Law-119-21.pdf",
+ "sources/finance/tax/USCOURTS-dcd-1_25-cv-04400-0.pdf": "04_Source-Documents/US-District-Court-DC_25-cv-04400_Memorandum-Opinion_2026-06-06.pdf",
+ "sources/finance/tax/n-26-15.pdf": "04_Source-Documents/IRS-Notice-2026-15.pdf"
+}

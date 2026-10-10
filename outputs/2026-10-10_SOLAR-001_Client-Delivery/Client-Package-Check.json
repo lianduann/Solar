@@ -1,0 +1,170 @@
+{
+ "EN client PDF: pages, per-page text (line by line) and bookmarks identical to delivered V1.0": {
+  "pass": true,
+  "detail": {
+   "pages": 106,
+   "pages_V1.0": 106,
+   "pages_with_text_difference": [],
+   "pages_with_trailing_space_difference_only": [
+    91
+   ]
+  }
+ },
+ "EN client PDF: file links resolve inside the package": {
+  "pass": true,
+  "detail": {
+   "file_links": 7,
+   "targets": [
+    "04_Source-Documents/IRS-Notice-2026-15.pdf",
+    "04_Source-Documents/PUCT-Rule_16-TAC-25.195.pdf",
+    "04_Source-Documents/Public-Law-119-21.pdf",
+    "04_Source-Documents/Texas-Comptroller_Agreement-1377_Form-772_TY2024.pdf",
+    "04_Source-Documents/US-District-Court-DC_25-cv-04400_Memorandum-Opinion_2026-06-06.pdf",
+    "05_Supporting-Data/Supplier-Liquidity_FY2025-FY2024.csv"
+   ],
+   "missing": []
+  }
+ },
+ "EN client PDF: no link into research working files": {
+  "pass": true,
+  "detail": {
+   "V1.0 file links": 12,
+   "unlinked (now plain text)": [
+    "research-companion/closure-evidence/Findings-and-Replacement-Text-EN.md",
+    "research-companion/closure-evidence/Numbers-and-Claims.csv",
+    "research-companion/closure-evidence/Sources.csv",
+    "research-companion/scenario-versions/Scenario-Notes-EN.md"
+   ]
+  }
+ },
+ "ZH client PDF: pages, per-page text (line by line) and bookmarks identical to delivered V1.0": {
+  "pass": true,
+  "detail": {
+   "pages": 92,
+   "pages_V1.0": 92,
+   "pages_with_text_difference": [],
+   "pages_with_trailing_space_difference_only": []
+  }
+ },
+ "ZH client PDF: file links resolve inside the package": {
+  "pass": true,
+  "detail": {
+   "file_links": 7,
+   "targets": [
+    "04_Source-Documents/IRS-Notice-2026-15.pdf",
+    "04_Source-Documents/PUCT-Rule_16-TAC-25.195.pdf",
+    "04_Source-Documents/Public-Law-119-21.pdf",
+    "04_Source-Documents/Texas-Comptroller_Agreement-1377_Form-772_TY2024.pdf",
+    "04_Source-Documents/US-District-Court-DC_25-cv-04400_Memorandum-Opinion_2026-06-06.pdf",
+    "05_Supporting-Data/Supplier-Liquidity_FY2025-FY2024.csv"
+   ],
+   "missing": []
+  }
+ },
+ "ZH client PDF: no link into research working files": {
+  "pass": true,
+  "detail": {
+   "V1.0 file links": 11,
+   "unlinked (now plain text)": [
+    "research-companion/closure-evidence/Findings-and-Replacement-Text-EN.md",
+    "research-companion/closure-evidence/Numbers-and-Claims.csv",
+    "research-companion/closure-evidence/Sources.csv",
+    "research-companion/scenario-versions/Scenario-Notes-EN.md"
+   ]
+  }
+ },
+ "source documents and supplier table byte-identical to retained originals (CSV: apart from the added UTF-8 BOM)": {
+  "pass": true
+ },
+ "figures: one PNG per report figure": {
+  "pass": true,
+  "detail": {
+   "png": 30,
+   "report_figures": 30
+  }
+ },
+ "package contains no scripts, records, baselines or working files": {
+  "pass": true,
+  "detail": {
+   "files": 42,
+   "flagged": []
+  }
+ },
+ "author edition: no 'Lucid' / 'Direction Insights' in text, metadata or raw bytes": {
+  "pass": true,
+  "detail": {
+   "metadata_author": "Lian Duan"
+  }
+ },
+ "author edition: remaining 'LLC' strings are third-party project entities only": {
+  "pass": true,
+  "detail": [
+   "names West Texas Solar Project II LLC"
+  ]
+ },
+ "author edition: body pages identical to V1.0 apart from the footer name": {
+  "pass": true,
+  "detail": {
+   "pages": 106,
+   "pages_with_other_differences": []
+  }
+ },
+ "author edition: 'Lian Duan' on cover, back cover and every body-page footer": {
+  "pass": true
+ },
+ "author edition: no local file links (standalone PDF)": {
+  "pass": true,
+  "detail": {
+   "V1.0 file links": 12
+  }
+ },
+ "_package_files": [
+  "00_README.txt",
+  "01_SOLAR-001_Market-Research-Report_V1.0_EN.pdf",
+  "02_SOLAR-001_Market-Research-Report_V1.0_ZH.pdf",
+  "03_Figures/Figure-01-1_Price-ladder-observed-values-public-offers.png",
+  "03_Figures/Figure-03-1_Global-and-Chinese-cumulative-solar-PV-capacity.png",
+  "03_Figures/Figure-03-2_Country-contributions-to-2025-PV-capacity-growth.png",
+  "03_Figures/Figure-04-1_Reported-price-changes-at-selected-manufacturing.png",
+  "03_Figures/Figure-04-2_Evidence-links-from-manufacturing-to-US.png",
+  "03_Figures/Figure-04-3_Within-company-gross-margin-changes.png",
+  "03_Figures/Figure-05-1_Components-of-the-PV-only-modeled-market-price.png",
+  "03_Figures/Figure-05-2_Hypothetical-US-module-input-changes-and-PV-only.png",
+  "03_Figures/Figure-06-1_US-data-center-electricity-demand-scenarios.png",
+  "03_Figures/Figure-06-2_Large-load-process-categories-in-the-March-2026.png",
+  "03_Figures/Figure-06-3_Resource-power-capacities-associated-with-11.png",
+  "03_Figures/Figure-07-1_Mean-intraday-load-and-solar-output-in-ERCOT.png",
+  "03_Figures/Figure-07-2_Seasonal-ERCOT-load-and-solar-output-2025.png",
+  "03_Figures/Figure-07-3_Load-wind-solar-and-residual-load-across-the-day.png",
+  "03_Figures/Figure-08-1_Hypothetical-solar-output-and-reference-node.png",
+  "03_Figures/Figure-08-2_Monthly-simulated-generation-and-price-capture.png",
+  "03_Figures/Figure-08-3_2025-production-weighted-price-distribution.png",
+  "03_Figures/Figure-08-4_Observed-price-patterns-and-negative-hour.png",
+  "03_Figures/Figure-08-5_Cross-year-persistence-of-node-basis.png",
+  "03_Figures/Figure-09-1_2025-operating-capacity-factors-and-simulated.png",
+  "03_Figures/Figure-10-1_Scenario-NPV-under-three-real-discount-rates.png",
+  "03_Figures/Figure-10-2_Annual-real-cash-flows.png",
+  "03_Figures/Figure-10-3_Selected-qualified-investment-observations.png",
+  "03_Figures/Figure-11-1_One-way-sensitivities-over-specified-parameter.png",
+  "03_Figures/Figure-11-2_Two-way-cost-and-price-break-even-analysis.png",
+  "03_Figures/Figure-11-3_Revenue-concentration-and-tail-stresses.png",
+  "03_Figures/Figure-B-1_Conditional-solar-price-coefficients.png",
+  "03_Figures/Figure-B-2_Weather-year-and-price-year-scenario-matrix.png",
+  "03_Figures/Figure-B-3_Mean-components-and-total-NPV-change.png",
+  "03_Figures/Figure-B-4_Reference-node-resampling-and-the-screened-node.png",
+  "04_Source-Documents/IRS-Notice-2026-15.pdf",
+  "04_Source-Documents/PUCT-Rule_16-TAC-25.195.pdf",
+  "04_Source-Documents/Public-Law-119-21.pdf",
+  "04_Source-Documents/Texas-Comptroller_Agreement-1377_Form-772_TY2024.pdf",
+  "04_Source-Documents/US-District-Court-DC_25-cv-04400_Memorandum-Opinion_2026-06-06.pdf",
+  "05_Supporting-Data/EIA-Cohort-Reconciliation.csv",
+  "05_Supporting-Data/Storage-Cost.csv",
+  "05_Supporting-Data/Storage-Screen.csv",
+  "05_Supporting-Data/Supplier-Liquidity_FY2025-FY2024.csv"
+ ],
+ "_sizes_bytes": {
+  "zip": 10774300,
+  "author_pdf": 1496811
+ },
+ "_result": "PASS"
+}

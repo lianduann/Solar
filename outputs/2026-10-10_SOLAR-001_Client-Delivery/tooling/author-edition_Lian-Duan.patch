@@ -1,0 +1,75 @@
+--- /home/claude/work/v10/2026-10-10_SOLAR-001_V1.0/build/build_report.py	2026-10-10 07:35:27.077356421 +0000
++++ en-liandian/build/build_report.py	2026-10-10 18:38:17.497444598 +0000
+@@ -1,4 +1,4 @@
+-"""SOLAR-001 V1.0 - convert the English Markdown source into the designed HTML and render the PDF with WeasyPrint.
++"""SOLAR-001 V1.0 (author edition: Lian Duan, no company name) - convert the English Markdown source into the designed HTML and render the PDF with WeasyPrint.
+ 
+ The Markdown file is the single content source; this script only adds structure and styling:
+ cover, back cover, contents, chapter openers, key-number tiles, boxes, tables, figures, notes,
+@@ -59,7 +59,13 @@
+     return s
+ 
+ 
++LINK_MAP = B / "client_link_map.json"  # client edition: companion links retargeted to the delivery folder; unmapped links become plain text
++
++
+ def local_link(href):
++    if LINK_MAP.exists():
++        t = json.loads(LINK_MAP.read_text()).get(href)
++        return t if t and (PKG / t).exists() else None
+     target = PKG / COMPANION / href
+     return f"{COMPANION}/{href}" if target.exists() else None
+ 
+@@ -364,13 +370,12 @@
+     t = t.replace("Supply&nbsp;Chain to", "Supply&nbsp;Chain<br/>to")
+     return f'''<section class="cover">
+ <svg class="art" viewBox="0 0 612 792" width="612" height="792" xmlns="http://www.w3.org/2000/svg">{cover_art()}</svg>
+-<div class="brand">{WORDMARK}<span>{html.escape(meta["organization"].replace(" LLC", ""))}</span></div>
+ <div class="cover-main">
+ <p class="kicker">Industry and Market Research</p>
+ <h1 class="cover-title">{smart(t)}</h1>
+ <p class="cover-sub">{smart(html.escape(meta["subtitle"], quote=False))}</p>
+ </div>
+-<div class="cover-foot"><div><span class="k">Project</span><span class="v">{meta["project"]}</span></div><div><span class="k">Version</span><span class="v">{meta["version"]}</span></div><div><span class="k">Date</span><span class="v">{meta["date"]}</span></div><div class="org">{html.escape(meta["organization"])}</div></div>
++<div class="cover-foot"><div><span class="k">Project</span><span class="v">{meta["project"]}</span></div><div><span class="k">Version</span><span class="v">{meta["version"]}</span></div><div><span class="k">Date</span><span class="v">{meta["date"]}</span></div><div><span class="k">Author</span><span class="v">{html.escape(meta["organization"])}</span></div></div>
+ </section>'''
+ 
+ 
+@@ -378,7 +383,7 @@
+     return f'''<section class="backcover">
+ <svg class="art" viewBox="0 0 612 792" width="612" height="792" xmlns="http://www.w3.org/2000/svg">{cover_art(back=True)}</svg>
+ <div class="back-main">
+-<div class="brand">{WORDMARK}<span>{html.escape(meta["organization"].replace(" LLC", ""))}</span></div>
++<div class="brand-space"></div>
+ <p class="back-title">{smart(html.escape(meta["title"], quote=False))}</p>
+ <p class="back-sub">{smart(html.escape(meta["subtitle"], quote=False))}</p>
+ <p class="back-meta">{meta["project"]} &#183; Version {meta["version"].lstrip("V")} &#183; {meta["date"]}</p>
+--- /home/claude/work/v10/2026-10-10_SOLAR-001_V1.0/assets/report.css	2026-10-10 07:13:06.096419814 +0000
++++ en-liandian/assets/report.css	2026-10-10 18:38:17.497946205 +0000
+@@ -28,7 +28,7 @@
+   size: Letter; margin: 1.05in 1.15in 0.95in 1.15in;
+   @top-left { content: string(chaptitle, first-except); font: 500 7.2pt var(--sans); color: var(--muted); vertical-align: bottom; padding-bottom: 17pt; }
+   @top-right { content: "RUNNING_TEXT"; font: 500 7.2pt var(--sans); color: var(--muted); vertical-align: bottom; padding-bottom: 17pt; }
+-  @bottom-left { content: "Lucid Direction Insights"; font: 600 7.2pt var(--sans); color: var(--navy); letter-spacing: 0.04em; vertical-align: top; padding-top: 14pt; }
++  @bottom-left { content: "Lian Duan"; font: 600 7.2pt var(--sans); color: var(--navy); letter-spacing: 0.04em; vertical-align: top; padding-top: 14pt; }
+   @bottom-right { content: counter(page); font: 600 8pt var(--sans); color: var(--teal); vertical-align: top; padding-top: 13pt; }
+ }
+ @page cover { margin: 0; @top-left { content: none; } @top-right { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@@ -190,3 +190,6 @@
+ @font-face { font-family: "Report Mono"; src: url(fonts/DejaVuSansMono.ttf); }
+ code { font-family: "Report Mono", monospace; }
+ table.glossary td { padding-top: 3.4pt; padding-bottom: 3.4pt; }
++
++/* author edition: keep the back-cover title where the removed wordmark line left it */
++.back-main .brand-space { height: 17pt; margin-bottom: 52pt; }
+--- /home/claude/work/v10/2026-10-10_SOLAR-001_V1.0/source/SOLAR-001_V1.0_Report-EN.md	2026-10-10 07:45:48.291719520 +0000
++++ en-liandian/source/SOLAR-001_V1.0_Report-EN.md	2026-10-10 18:35:06.158882044 +0000
+@@ -2,7 +2,7 @@
+ title: From China's Solar Supply Chain to U.S. Power Markets
+ subtitle: Industry Restructuring, Value Capture in ERCOT, and Utility-Scale Solar Economics
+ tagline: Market opportunities and commercial constraints in the context of data-center electricity demand
+-organization: Lucid Direction Insights LLC
++organization: Lian Duan
+ project: SOLAR-001
+ version: V1.0
+ date: 10 October 2026

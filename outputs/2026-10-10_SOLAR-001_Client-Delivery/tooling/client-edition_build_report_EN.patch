@@ -1,0 +1,16 @@
+--- /home/claude/work/v10/2026-10-10_SOLAR-001_V1.0/build/build_report.py	2026-10-10 07:35:27.077356421 +0000
++++ en-client/build/build_report.py	2026-10-10 18:34:58.811506683 +0000
+@@ -59,7 +59,13 @@
+     return s
+ 
+ 
++LINK_MAP = B / "client_link_map.json"  # client edition: companion links retargeted to the delivery folder; unmapped links become plain text
++
++
+ def local_link(href):
++    if LINK_MAP.exists():
++        t = json.loads(LINK_MAP.read_text()).get(href)
++        return t if t and (PKG / t).exists() else None
+     target = PKG / COMPANION / href
+     return f"{COMPANION}/{href}" if target.exists() else None
+ 

@@ -1,0 +1,5 @@
+price_series,year,days,upper_bound_usd_kw_yr_eta86,upper_bound_usd_kw_yr_eta92
+TAYGETE2_ALL reference node,2025,365,104.4,113.0
+HB_BUSAVG hub,2023,365,188.3,202.7
+HB_BUSAVG hub,2024,366,68.6,74.4
+HB_BUSAVG hub,2025,365,61.6,67.5
