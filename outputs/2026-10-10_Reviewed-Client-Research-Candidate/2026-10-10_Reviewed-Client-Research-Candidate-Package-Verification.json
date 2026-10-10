@@ -1,0 +1,46 @@
+{
+  "archives": [
+    {
+      "file": "2026-10-10_Reviewed-Client-Research-Candidate-Report.zip",
+      "bytes": 28205490,
+      "sha256": "f5c36e121fbe4c4b54ab8009074c8de7a5585f05a71fcacdb3baffb1497960c4",
+      "members": 473,
+      "crc": "pass",
+      "safe_paths": "pass"
+    },
+    {
+      "file": "2026-10-10_Reviewed-Client-Research-Candidate-Supplement-Sources.zip",
+      "bytes": 26438380,
+      "sha256": "838b7707dbbfab8162908df209e7aeb3e31203d42f50500271000ff384d01307",
+      "members": 41,
+      "crc": "pass",
+      "safe_paths": "pass"
+    }
+  ],
+  "extracted_payload_hashes": {
+    "files": 511,
+    "mismatches": []
+  },
+  "handoff_rebuild": {
+    "command": [
+      "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3",
+      "-P",
+      "/var/folders/gp/j76t77mj13lfnzhr9k1fjt680000gn/T/solar-reviewed-handoff-asi4xbym/2026-10-10_Reviewed-Client-Research-Candidate/scripts/rebuild_reviewed.py",
+      "--output-dir",
+      "/var/folders/gp/j76t77mj13lfnzhr9k1fjt680000gn/T/solar-reviewed-handoff-asi4xbym/fresh-output"
+    ],
+    "exit_status": 0,
+    "stdout": "{\"operations\": 93, \"output\": \"/private/var/folders/gp/j76t77mj13lfnzhr9k1fjt680000gn/T/solar-reviewed-handoff-asi4xbym/fresh-output\", \"chapter1_word_change\": 172}\n/private/var/folders/gp/j76t77mj13lfnzhr9k1fjt680000gn/T/solar-reviewed-handoff-asi4xbym/fresh-output/Integrated-Market-Research-Report-EN_Reviewed-Candidate.pdf\n",
+    "stderr": ""
+  },
+  "handoff_output_comparison": {
+    "Integrated-Market-Research-Report-EN_Reviewed-Candidate.md": true,
+    "Integrated-Market-Research-Report-EN_Reviewed-Candidate.pdf": true
+  },
+  "extracted_directory": "/var/folders/gp/j76t77mj13lfnzhr9k1fjt680000gn/T/solar-reviewed-handoff-asi4xbym/2026-10-10_Reviewed-Client-Research-Candidate",
+  "handoff_number_checks": {
+    "exit_status": 0,
+    "stdout": "{\"passed\": 29, \"failures\": []}\n",
+    "stderr": ""
+  }
+}
