@@ -1,0 +1,46 @@
+{
+ "vif_continuous": {
+  "henry_hub_usd_mmbtu": 1.2368891886173379,
+  "temp_daily_mean_c_loadcenter": 1.6139894040654983,
+  "solar_gw": 1.387593020427584,
+  "wind_gw": 1.1333310087459332,
+  "load_gw": 1.7427311271736887
+ },
+ "corr": {
+  "henry_hub_usd_mmbtu": {
+   "henry_hub_usd_mmbtu": 1.0,
+   "temp_daily_mean_c_loadcenter": -0.339,
+   "solar_gw": 0.03,
+   "wind_gw": 0.045,
+   "load_gw": 0.067
+  },
+  "temp_daily_mean_c_loadcenter": {
+   "henry_hub_usd_mmbtu": -0.339,
+   "temp_daily_mean_c_loadcenter": 1.0,
+   "solar_gw": 0.165,
+   "wind_gw": -0.029,
+   "load_gw": 0.485
+  },
+  "solar_gw": {
+   "henry_hub_usd_mmbtu": 0.03,
+   "temp_daily_mean_c_loadcenter": 0.165,
+   "solar_gw": 1.0,
+   "wind_gw": -0.332,
+   "load_gw": 0.456
+  },
+  "wind_gw": {
+   "henry_hub_usd_mmbtu": 0.045,
+   "temp_daily_mean_c_loadcenter": -0.029,
+   "solar_gw": -0.332,
+   "wind_gw": 1.0,
+   "load_gw": -0.16
+  },
+  "load_gw": {
+   "henry_hub_usd_mmbtu": 0.067,
+   "temp_daily_mean_c_loadcenter": 0.485,
+   "solar_gw": 0.456,
+   "wind_gw": -0.16,
+   "load_gw": 1.0
+  }
+ }
+}

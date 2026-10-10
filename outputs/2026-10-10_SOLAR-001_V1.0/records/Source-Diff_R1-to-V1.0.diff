@@ -1,0 +1,355 @@
+--- baseline/SOLAR-001_V0.999-R1_Report-EN.md	2026-10-10 07:34:35.664858684 +0000
++++ source/SOLAR-001_V1.0_Report-EN.md	2026-10-10 07:45:48.291719520 +0000
+@@ -4,14 +4,14 @@
+ tagline: Market opportunities and commercial constraints in the context of data-center electricity demand
+ organization: Lucid Direction Insights LLC
+ project: SOLAR-001
+-version: V0.999-R1
++version: V1.0
+ date: 10 October 2026
+-running: SOLAR-001 · Version 0.999-R1 · 10 October 2026
++running: SOLAR-001 · Version 1.0 · 10 October 2026
+ ---
+ 
+ # About This Report {.front}
+ 
+-**Edition.** Version 0.999-R1, dated 10 October 2026, a usability revision of Version 0.999. Structure and design have been revised; the estimates, model inputs, samples and evidence boundaries of Version 0.999 are unchanged. Three additions are marked **R1** wherever they appear: public market reference points (Section 10.10), an illustrative production-credit variant (Section 10.8) and a storage screening calculation (Section 12.4). Their methods and sources are in Appendix B.9. They are arithmetic on existing outputs and public sources, not new model runs, and they do not replace any Version 0.999 result.
++**Edition.** Version 1.0, dated 10 October 2026, the delivery edition of this report for the uses listed below. Its estimates, model inputs, samples and evidence boundaries are those of the reviewed research edition. Three calculations complete the commercial picture: public market reference points (Section 10.10), a production-credit illustration (Section 10.8) and a storage screen (Section 12.4). They are arithmetic on existing outputs and public sources, not new model runs; methods and sources are in Appendix B.9 and Appendix A.3.
+ 
+ **Coverage.** Manufacturing evidence covers 2024 and selected FY2025 disclosures. Weather and nodal-price scenarios cover 2023–2025, with a separately qualified 2026 year-to-date price diagnostic. Regional load evidence uses March and September 2026 snapshots, and national demand scenarios extend to 2030. Policy context is dated to 9 October 2026.
+ 
+@@ -59,13 +59,13 @@
+ 1. **Revenue falls well short of cost in the reference case.** The hypothetical 2025 reference system is modeled to earn a gross energy value of $26.4/MWh on delivered electricity (before fees, settlement losses and imbalance; not net revenue), against a delivered-energy LCOE of $48.9/MWh. Its pre-tax, unlevered NPV is −$86.0m at 4.27% real discounting, and neither base revenue route recovers its defined lifetime costs. [S08]
+ 2. **Payment terms matter.** The 30-year node-delivered, flat nominal route breaks even near $66/MWh with 15.24% of potential energy assumed unpaid (a stress setting, not a contract term), or at $55.9/MWh if all potential output is paid. A separately calculated 10–15-year West-hub hedge with a node merchant tail needs $60.6–$84.8/MWh, depending mainly on the unsourced tail. None of these prices is an observed market offer. [S08; Section 10.3]
+ 3. **Cheaper modules alone do not close the gap.** A hypothetical 10% reduction in the **U.S. module input** (the DOE/NLR U.S.-assembled benchmark: about $0.29/Wdc in 2024 dollars after −$0.07/Wdc of modeled 45X subsidy, about $0.36 before it; not an import or export price), passed through the component model to PV overnight cost with grid-connection cost held fixed, saves $3.76m. Even a zero-priced module input leaves the reference NPV at about −$48.3m. This cross-benchmark sensitivity does not estimate actual China-to-U.S. price transmission. [R-A; Table 5-1]
+-4. **Trade rules are changing the delivered-cost bridge.** From 4 December 2026, covered imports face minimum import prices (MIPs) of $0.22/W for cells and $0.38/W for modules, generally an additional 15% duty, and continuing antidumping and countervailing duties (AD/CVD). Commerce's September 2026 final determinations for India, Indonesia and Laos await U.S. International Trade Commission (USITC) injury findings, and China ended export VAT rebates for listed PV products on 1 April 2026. These provisions are not delivered prices or supplier-specific tariff outcomes. [P01; Section 5.7; LONGi FY2025 annual report p.297]
++4. **Trade rules are changing the delivered-cost bridge.** From 4 December 2026, covered imports face minimum import prices (MIPs) of $0.22/W for cells and $0.38/W for modules, generally an additional 15% duty, and continuing antidumping and countervailing duties (AD/CVD). Commerce's September 2026 final determinations for India, Indonesia and Laos await U.S. International Trade Commission (USITC) injury findings, and China ended export VAT rebates for listed PV products on 1 April 2026. These provisions are not delivered prices or supplier-specific tariff outcomes. [P01; P08; Sections 4.4 and 5.7; LONGi FY2025 annual report p.297]
+ 5. **The positive 2023 case rests on scarce high-price intervals.** Repeating 2023 conditions yields positive NPV at all 485 rule-screened nodes, versus 13 under 2024 conditions and two under 2025 conditions. The median node-level share of receipts from the top 1% of 2023 price intervals is 54.7%; removing those receipts leaves 482 nodes negative. These sample shares are historical scenario outcomes, not profitability probabilities. [E-A, E-C]
+ 6. **Timing, not average price, drives solar value.** The reference node's 2025 average price is $46.37/MWh, but its potential-generation-weighted price is $22.13/MWh (all potential output; item 1 uses exported output after the negative-price stop rule). The corresponding West hub value is $21.46/MWh on the common calendar. A hub-settled contract leaves the seller with node-to-hub basis and needs its own settlement calculation (Section 10.3); switching benchmarks is not automatically an improvement. [S06, S07; Table 8-1]
+ 7. **Load growth and manufacturing scale need separate commercial qualification.** ERCOT's March 2026 process table records a 238.6 GW total across all statuses in the 2030 request column, of which about 5.8 GW is observed energized, a historical noncoincident measure. Selected manufacturers report losses despite deployment growth. Neither observation determines contract or asset economics. [R-C, R-F]
+-8. **Recent market signals point the same way.** Public ERCOT solar offers averaged about $44.6/MWh in 2025 (25th percentile, first-year price), below every no-credit break-even in Table 1-2. The fixed-profile West hub value for January–September 2026 is $18.24/MWh, with negative prices in 14.1% of intervals versus 7.7% a year earlier. Taygete II, one of the nine named ERCOT comparables, passed to its senior lender through foreclosure. For construction starting after 4 July 2026, federal credits require service by 31 December 2027. [M01; Sections 10.10, 11.7; Appendix C; Table 10-4]
++8. **Recent market signals point the same way.** Public ERCOT solar offers averaged about $44.6/MWh in 2025 (25th percentile, first-year price), below every no-credit break-even in Table 1-2. The fixed-profile West hub value for January–September 2026 is $18.24/MWh, with negative prices in 14.1% of intervals versus 7.7% a year earlier. Taygete II, one of the nine named ERCOT comparables, was sold in a foreclosure purchase initiated by its senior lender. For construction starting after 4 July 2026, federal credits require service by 31 December 2027. [M01; Sections 10.10, 11.7; Appendix C; Table 10-4]
+ 
+-An illustrative 30% investment credit, applied to PV overnight cost only (excluding national grid-connection cost) and received at end-2027, has a present value of **$35.38m** and would move the reference NPV to **−$50.59m**. This is pre-tax NPV plus a credit that is conditional on eligibility, not an after-tax value, and the six original pre-tax scenarios are unchanged (Section 10.8). An R1 production-credit illustration (Section 10.8) lowers the fixed-route break-even to $45.61–$47.65/MWh under the same eligibility conditions. Nine named ERCOT plants disclose no definition-matched IRR or cash flows; cost and operating comparables are diligence checks, not return benchmarks. [F01–F05]
++An illustrative 30% investment credit, applied to PV overnight cost only (excluding national grid-connection cost) and received at end-2027, has a present value of **$35.38m** and would move the reference NPV to **−$50.59m**. This is pre-tax NPV plus a credit that is conditional on eligibility, not an after-tax value, and the six original pre-tax scenarios are unchanged (Section 10.8). A production-credit illustration (Section 10.8) lowers the fixed-route break-even to $45.61–$47.65/MWh under the same eligibility conditions. Nine named ERCOT plants disclose no definition-matched IRR or cash flows; cost and operating comparables are diligence checks, not return benchmarks. [F01–F05]
+ 
+ ## 1.2 Key numbers
+ 
+@@ -85,7 +85,7 @@
+ | Modeled gross energy value per delivered MWh (before fees, settlement losses and imbalance) | $26.4/MWh | Reference node, stop exports below zero; 8.2 |
+ | Reference NPV | −$86.0m / −$95.3m / −$103.3m | 4.27% / 6% / 8% real; 10.4 |
+ | Break-even, 30-yr node-level fixed-price route | $66.0/MWh | 15.24% unpaid; pre-tax, no credit; 11.3 |
+-| HB_WEST hedge break-even strike, 10–15 yr | $60.6–84.8/MWh | Separate pre-tax, no-credit version; tail-dependent; 10.3 |
++| HB_WEST hedge break-even strike, 10–15 yr | $60.6–84.8/MWh | Separate pre-tax, no-credit calculation; tail-dependent; 10.3 |
+ | Nodal break-even capital cost | $577/kWac | About 40% of base cost; 11.3 |
+ | Receipts needed for zero NPV | $12.1m in year 1 | Constant-real price-profile case; 10.9 |
+ | Module share of PV-only cost benchmark | 26.1% | About 23% of total scenario CAPEX; cross-benchmark illustration; 5.5–5.6 |
+@@ -113,10 +113,10 @@
+ | Node fixed route, no credit, 15.24% unpaid (base) | 65.97 | 74.3 / 84.6 | Unpaid share is a stress setting | 10.3, 11.3 |
+ | Node fixed route, no credit, 30.48% unpaid | 80.43 | — | Doubled stress | 10.3 |
+ | Node fixed route, illustrative 30% investment credit | 53.51 | — | Eligibility assumed; OCC basis; end-2027 receipt | 10.8 |
+-| Node fixed route, illustrative production credit (R1) | 45.61–47.65 | — | Full-rate credit kept or transferred at 0.90; eligibility assumed | 10.8 |
++| Node fixed route, illustrative production credit | 45.61–47.65 | — | Full-rate credit kept or transferred at 0.90; eligibility assumed | 10.8 |
+ | HB_WEST hedge, 10–15 years, then node merchant tail | 60.6–84.8 | 68–107 | No credit; depends on the unsourced tail | 10.3 |
+ 
+-*Sources: Sections 8.1–8.2, 10.3, 10.8, 10.10 and 11.3. All break-even prices are flat nominal and pre-tax, with credits added as illustrations rather than after-tax values. The node fixed route is an analytical device, not a contract offered in the market. For comparison with a hub-settled offer, the HB_WEST row is the closest structure; credits would lower it but are not calculated for that version.*
++*Sources: Sections 8.1–8.2, 10.3, 10.8, 10.10 and 11.3. All break-even prices are flat nominal and pre-tax, with credits added as illustrations rather than after-tax values. The node fixed route is an analytical device, not a contract offered in the market. For comparison with a hub-settled offer, the HB_WEST row is the closest structure; credits would lower it but are not calculated for that structure.*
+ 
+ Read this way, no tested route without credits reaches the level of public 2025 offers, and only the full-rate production-credit illustration comes close. Offers near $44.6/MWh imply that sellers rely on credits, lower costs, higher output or different contract terms than the hypothetical case; the index does not reveal which.
+ 
+@@ -304,7 +304,7 @@
+ 
+ China's January 2025 renewable electricity pricing reform moves wind and solar generation toward market-based pricing with differentiated arrangements for existing and new projects. It changes the setting for domestic demand; no installation response is estimated here. From 1 April 2026, the listed photovoltaic products lose their export VAT rebate under the January 2026 notice. This affects export economics without proving an equal increase in the U.S. delivered price. [P07; CL-B-01, LONGi FY2025 annual report p.297, post-balance-sheet note citing MOF/STA announcement 2026 No.2]
+ 
+-For overseas supply, four links require separate evidence: factory location, material origin, customs treatment and producer ownership/control. An overseas plant is not by itself proof of access to a particular duty treatment or tax-credit-compliant supply chain. Announced capacity is distinct from operational output; this edition has no harmonized 2026 overseas capacity or ownership panel. A matched competitive panel would align product technology, segment boundaries, currency, fiscal period, utilization denominator and the treatment of incentives. Until those definitions are comparable, Table 4-2 is a financial observation panel rather than an efficiency league table.
++For overseas supply, four links require separate evidence: factory location, material origin, customs treatment and producer ownership/control. An overseas plant is not by itself proof of access to a particular duty treatment or tax-credit-compliant supply chain. Announced capacity is distinct from operational output; this report has no harmonized 2026 overseas capacity or ownership panel. A matched competitive panel would align product technology, segment boundaries, currency, fiscal period, utilization denominator and the treatment of incentives. Until those definitions are comparable, Table 4-2 is a financial observation panel rather than an efficiency league table.
+ 
+ ![Figure 4-2. Evidence links from manufacturing to U.S. procurement](figures/Panel_Supply_Route.png)
+ 
+@@ -320,7 +320,7 @@
+ 
+ Cash generation adds another dimension. JinkoSolar's operating cash flow falls from approximately CNY16.85bn to CNY1.08bn between FY2024 and FY2025. Canadian Solar reports operating outflows in both years, while First Solar reports positive operating cash flow. Daqo's FY2025 operating cash flow is positive despite a negative gross margin. Working-capital movements, business mix, and other cash-flow items can produce such differences; equipment prices alone are not an identified explanation for reported cash flow.
+ 
+-Capital spending also requires account-level interpretation. Canadian Solar's extracted cash-flow item covers payments to acquire productive assets, a broader label than an automatically comparable factory-expansion measure. LONGi's FY2024 investing cash flow is broader than capital expenditure and is not used as that measure here. The panel consequently preserves currencies and filing definitions rather than combining all companies into a single cost or cash-efficiency league table.
++Capital spending also requires account-level interpretation. Canadian Solar's extracted cash-flow item covers payments to acquire productive assets, a broader label than an automatically comparable factory-expansion measure. LONGi's FY2024 investing cash flow is broader than capital expenditure and is not used as that measure here.
+ 
+ ## 4.6 Utilization indicators require explicit capacity denominators
+ 
+@@ -448,7 +448,7 @@
+ 
+ *Source: component share and cost factor [R-A], scenario cost register and base cash flows [S08]. Connection cost is unchanged. A zero module price is a mathematical boundary, not a feasible commercial quotation.*
+ 
+-Even eliminating the module input fails to close the tested shortfall. If the illustrative credit in Section 10.8 applies and eligible basis falls with cost, a 10% module reduction improves NPV by $2.71m rather than $3.76m because the assumed credit receipt also falls. This is a conditional interaction, not evidence of actual eligibility. MIIT's −29.7% remains a China manufacturing observation and is not used as a forecast of U.S. savings.
++Even eliminating the module input fails to close the tested shortfall. If the illustrative credit in Section 10.8 applies and eligible basis falls with cost, a 10% module reduction improves NPV by $2.71m rather than $3.76m because the assumed credit receipt also falls. This is a conditional interaction, not evidence of actual eligibility.
+ 
+ **Procurement evidence boundary.** No public source located for this report gives a specification-matched, dated U.S. delivered module or EPC quotation. Such a quotation would state technology, wattage class, DC basis, currency, freight, duty and origin, delivery point and warranty. Published market price surveys report median module prices without confirming delivery terms or tariff treatment, so they are not used as project quotations. The module sensitivities in Table 5-1 therefore remain benchmark-input sensitivities. A module saving reduces an investment-credit basis only if the saved cost would have been eligible energy property, which is why the credit-adjusted gain above is $2.71m rather than $3.76m. [CL-FIN-05]
+ 
+@@ -469,7 +469,7 @@
+ 
+ Separately, on 16 September 2026 Commerce published final affirmative antidumping and countervailing duty determinations on crystalline silicon photovoltaic cells, whether or not assembled into modules, from India, Indonesia and Laos (for example 91 FR 58633, 58643, 58651 and 58658). Duty orders require an affirmative final injury determination by the U.S. International Trade Commission (USITC), and none was located in the Federal Register search performed on 10 October 2026. India, Indonesia and Laos supplied about 61.5% of January–August 2025 module import value versus about 12.7% in 2026 (modules only; Section 5.8). Commerce also made affirmative critical-circumstances findings in part. Any resulting orders would further separate customs value from delivered project cost. [CL-B-02]
+ 
+-The cost benchmark's module line and the proclamation's import-price floor belong to different cost boundaries and dates. The DOE/NLR U.S.-assembled benchmark is about $0.29/Wdc (2024 dollars) after the model's −$0.07/Wdc 45X subsidy and about $0.36/Wdc before it; neither figure is an imported-module or export price. The $0.38/W floor applies to covered imported products entered from 4 December 2026. A common nameplate-Wdc denominator and a product, origin and exception match have not been established. The nominal comparison signals a possible limit to factory-price transmission rather than a quantified duty-inclusive procurement saving. [R-A, P01]
++The cost benchmark's module line and the proclamation's import-price floor belong to different cost boundaries and dates. The DOE/NLR U.S.-assembled benchmark is about $0.29/Wdc (2024 dollars) after the model's −$0.07/Wdc 45X subsidy and about $0.36/Wdc before it; neither figure is an imported-module or export price. A common nameplate-Wdc denominator and a product, origin and exception match have not been established. The nominal comparison signals a possible limit to factory-price transmission rather than a quantified duty-inclusive procurement saving. [R-A, P01]
+ 
+ ## 5.8 Import value and sourcing shifts provide context, not a delivered-price series
+ 
+@@ -520,7 +520,7 @@
+ *Source: ERCOT March 2026 large-load status table, 2030 column; GW. Category totals describe the source's process snapshot, not a probability-weighted load forecast. Observed energized is a noncoincident historical measure. The chart does not add Batch Zero quantities.*
+ 
+ 
+-September 2026 Batch Zero materials classify 204 projects and 66.4 GW as conditional base load, and 158 projects as conditional studied load. For studied load the deck gives two totals: 125.4 GW in the chart legend (physical page 6) and 127.9 GW in the summary text (physical page 1). The category values in the chart sum to 125.4 GW, so this report uses 125.4 GW and discloses 127.9 GW as the deck's alternative figure. No official correction had been published as of this edition. Final classifications follow ERCOT's verification process. Requests excluded from Batch Zero (373 projects, 302.2 GW) form a separate category. None of these September quantities is added to March's process total, because different dates, population definitions and conditional treatment prevent a defensible additive estimate. [R-C: Batch Zero deck, physical pages 1 and 5–8] [CL-B-03]
++September 2026 Batch Zero materials classify 204 projects and 66.4 GW as conditional base load, and 158 projects as conditional studied load. For studied load the deck gives two totals: 125.4 GW in the chart legend (physical page 6) and 127.9 GW in the summary text (physical page 1). The category values in the chart sum to 125.4 GW, so this report uses 125.4 GW and discloses 127.9 GW as the deck's alternative figure. No official correction had been published as of the report date. Final classifications follow ERCOT's verification process. Requests excluded from Batch Zero (373 projects, 302.2 GW) form a separate category. None of these September quantities is added to March's process total, because different dates, population definitions and conditional treatment prevent a defensible additive estimate. [R-C: Batch Zero deck, physical pages 1 and 5–8] [CL-B-03]
+ 
+ ## 6.5 Self-supply evidence indicates a requirement for more than solar energy
+ 
+@@ -581,11 +581,11 @@
+ 
+ ## 8.1 The reference-node price comparison
+ 
+-TAYGETE2_ALL is the historical price reference inherited by this study. ERCOT's resource-node mapping associates it with TAYGETE2_UNIT1/UNIT2 at substation TAYGETE2. ERCOT's resource list identifies two 101.9 MW units in Pecos County, West zone, with a 2023 in-service year. Their combined 203.8 MW, name, county and year match EIA plant 64075, Taygete II Energy Project: 203.8 MWac / 258.4 MWdc, single-axis PV, first in service July 2023. EIA names West Texas Solar Project II LLC, also identified in Comptroller agreement #1377. [F01]
++TAYGETE2_ALL is the historical price reference used in this study. ERCOT's resource-node mapping associates it with TAYGETE2_UNIT1/UNIT2 at substation TAYGETE2. ERCOT's resource list identifies two 101.9 MW units in Pecos County, West zone, with a 2023 in-service year. Their combined 203.8 MW, name, county and year match EIA plant 64075, Taygete II Energy Project: 203.8 MWac / 258.4 MWdc, single-axis PV, first in service July 2023. EIA names West Texas Solar Project II LLC, also identified in Comptroller agreement #1377. [F01]
+ 
+ The ERCOT-to-EIA step is an **attribute match on name, county, capacity and in-service year, not an official crosswalk**; no official crosswalk was identified, and the mapping files used are current (September/October 2026) versions rather than the 2023–2025 versions. The records support a same-county operating-plant reference, but the research records do not document why this node was originally chosen as the reference. The hypothetical 100 MWac system is not Taygete II, and its settlement rights at this node remain unestablished. The 2025 series provides 35,038 of 35,040 expected intervals. Its time-weighted price is $46.37/MWh and potential-generation-weighted price $22.13/MWh, before the negative-price response. [S06, S07]
+ 
+-The current owner's 2025 Comptroller filing reports a senior-lender-initiated foreclosure purchase after the previous owner failed to repay its loan. This is direct evidence of a financing event at the matched plant; it supplies neither an IRR nor the cause or scale of any investor loss. [F02, physical PDF p. 1, Section 2.7] The filing does not date the default or auction, so the event cannot be attributed to post-2023 operating prices at this node.
++The current owner's 2025 Comptroller filing reports a senior-lender-initiated foreclosure purchase after the previous owner failed to repay its loan. This is direct evidence of a financing event at the matched plant; it supplies neither an IRR nor the cause or scale of any investor loss. [F02, physical PDF p. 1, filing Section 2.7] The filing does not date the default or auction, so the event cannot be attributed to post-2023 operating prices at this node.
+ 
+ **Table 8-1. Reference node and hub comparisons, same output profile and common calendar.**
+ 
+@@ -599,7 +599,7 @@
+ 
+ The West hub does not improve this particular 2025 weighted-price comparison. ERCOT Bus Average (HB_BUSAVG) is the 345-kV bus-average hub introduced under NPRR817, excluding Panhandle buses; it is a system reference rather than a four-hub simple average. [P09] Neither benchmark verifies the asset's settlement node or supplies the cash flows of a hub-settled contract.
+ 
+-**Reference-node status.** Because the hypothetical system has no interconnection or settlement agreement, TAYGETE2_ALL serves only as a historical price reference, and hub prices remain comparison benchmarks. Section 8.5 shows where the node sits in the 2025 cross-section. [CL-FIN-06]
++**Reference-node status.** Section 8.5 shows where the node sits in the 2025 cross-section. [CL-FIN-06]
+ 
+ These results show why temporal alignment matters: annual generation multiplied by the average market price would omit the covariance between output and price. The capture ratio is specific to the priced output profile, and the observed relationship has no identified single cause.
+ 
+@@ -722,9 +722,9 @@
+ 
+ *Source: EIA-860/923 comparison outputs [F03]; scenario design [S07]. Emerald Grove is classified as Pecos in the EIA record but Crane in ERCOT/Comptroller records; the table reports the result with that plant excluded. Other observed differences in technology, design, availability, curtailment and weather remain uncontrolled.*
+ 
+-The broader standalone cohort has medians of 24.8% in 2024 and 24.6% in 2025; restricting it to tracking Y gives 23.8% and 25.0%. The simulated 2025 potential factor of 33.38% exceeds every observed plant in these screened cohorts. Its 28.29% delivered factor falls within the 25.5%–29.7% range for the three 2023–2024-COD examples in the supplement: Taygete II, Emerald Grove and Greasewood II. That overlap does not validate the simulated system. Net operating generation and potential simulated output have different loss and operating boundaries, and the observed values are not weather-normalized.
++The broader standalone cohort has medians of 24.8% in 2024 and 24.6% in 2025; restricting it to tracking Y gives 23.8% and 25.0%. The simulated 2025 potential factor of 33.38% exceeds every observed plant in these screened cohorts. Its 28.29% delivered factor falls within the 25.5%–29.7% range for three plants with 2023–2024 commercial operation dates (COD): Taygete II, Emerald Grove and Greasewood II. That overlap does not validate the simulated system. Net operating generation and potential simulated output have different loss and operating boundaries, and the observed values are not weather-normalized.
+ 
+-**Operating-benchmark boundary.** The EIA comparison uses each plant's 2025 recorded AC nameplate capacity as the denominator for both 2024 and 2025 generation, so a capacity change between years would bias the 2024 factor. Because Emerald Grove is recorded in Pecos County by EIA but in Crane County by ERCOT and the Comptroller, results are shown with and without it.
++**Operating-benchmark boundary.** The EIA comparison uses each plant's 2025 recorded AC nameplate capacity as the denominator for both 2024 and 2025 generation, so a capacity change between years would bias the 2024 factor.
+ 
+ Plant-level availability, forced outage and curtailment are not publicly disclosed for the screened plants. Only system-level indicators are available, and they come from different sources and years:
+ - Berkeley Lab reports 7.1% solar curtailment in ERCOT for 2024.
+@@ -760,13 +760,13 @@
+ 
+ The 2025 price averaged over negative-price energy is only about −$1.79/MWh. For a buyer who pays the fixed price through those intervals, physical negative prices do not automatically erase contract receipts; actual economic shutdown depends on energy settlement, contract rights, production incentives and delivery obligations together.
+ 
+-**Paid-volume stress.** Holding the contract cash-flow shape and costs fixed, the flat nominal break-even is $55.91/MWh at zero unpaid energy, $65.97/MWh at the 15.24% base share, and $80.43/MWh at 30.48%. The last value is arithmetic scaling of paid volume, not a new dispatch or contract simulation, and uniform unpaid shares are stress parameters, not observed contract clauses. [F04; `data/finance/Unpaid-Energy-Stress.csv`]
++**Paid-volume stress.** Holding the contract cash-flow shape and costs fixed, the flat nominal break-even is $55.91/MWh at zero unpaid energy, $65.97/MWh at the 15.24% base share, and $80.43/MWh at 30.48%. The last value is arithmetic scaling of paid volume, not a new dispatch or contract simulation. [F04]
+ 
+ **Hub-settled contracts.** For a simplified hub-settled financial contract, interval receipts would be **node energy receipts + contracted quantity × (strike price − hub price)**, before fees, deviations and other clauses. If contracted quantity equals generated output, node-to-hub basis remains an exposure. Different volume shapes, negative-price provisions, payment suspensions and credit terms can change the result. REC proceeds and fees are separate from the two energy-settlement legs, and fixed-shape hedge quantities, shutdown provisions and losses can break the matching-volume simplification. A hub hedge transfers price and shape exposures; substituting hub prices for node receipts does not model the hedge.
+ 
+ The output-weighted reference-node-minus-West basis is −$0.05, +$0.25 and +$0.67/MWh for 2023–2025. West hub weighted prices are $64.94, $20.60 and $21.46/MWh, with capture ratios 1.30, 0.75 and 0.65. A small annual weighted basis does not establish a small interval basis or low contract risk. [F04]
+ 
+-**Separately versioned hub-hedge calculation.** A separately labeled calculation version models the hypothetical plant selling metered output at the reference node, with a financial swap at HB_WEST. The swap pays contract quantity × (strike − hub price) with quantity equal to generation, over a 10- or 15-year tenor followed by a merchant tail at the node. The tail repeats the 2025 price path and is a scenario, not a forecast. Fees, REC cash flows and imbalance charges are omitted from this calculation; their economic values are unknown, rather than established as zero.
++**Separately versioned hub-hedge calculation.** This calculation models the hypothetical plant selling metered output at the reference node, with a financial swap at HB_WEST. The swap pays contract quantity × (strike − hub price) with quantity equal to generation, over a 10- or 15-year tenor followed by a merchant tail at the node. The tail repeats the 2025 price path and is a scenario, not a forecast. Fees, REC cash flows and imbalance charges are omitted from this calculation; their economic values are unknown, rather than established as zero.
+ 
+ On the 2025 price path at 4.27% real, the break-even flat nominal strike ranges from **$60.6/MWh** to **$84.8/MWh** across the eight tenor, dispatch and negative-hub-clause combinations. With a 10-year tenor and a $40/MWh strike, the merchant tail supplies about 43% of revenue present value. The break-even therefore depends heavily on the unsourced tail price. At 6% and 8% the break-even strikes rise to about $68–$107/MWh.
+ 
+@@ -844,7 +844,7 @@
+ 
+ These allowances are not deductions from the national $17.63m GCC input. The facility scope, voltage, agreement date and ownership of the hypothetical connection are unverified. Likewise, a generic PVSCM network line cannot be removed from ATB GCC before a component match. Site-specific property tax should replace or reconcile the embedded allowance, not be added in full to unchanged FOM.
+ 
+-**Cost scope and vintage.** The scenario CAPEX uses ATB 2025 overnight capital cost (OCC) plus grid-connection cost (GCC), 2026 values, converted from 2023 to 2025 dollars. ATB 2025 states that its 2024 overnight cost is based on modeled pricing for a 100-MWdc one-axis tracking system quoted in Q1 2024 (DOE, 2024), adjusted by an ILR of 1.32, and that 2024 fixed O&M of $24.66/kWac-year splits into system ($10.88), property ($11.41) and administration ($2.38) expenses. The rounded components sum to $24.67; the published total is $24.66. The component analysis in Chapter 5 instead uses PVSCM 2025Q1. The two are therefore related but not identical cost vintages, and the module share from PVSCM 2025Q1 is applied to ATB OCC only as an illustration. The $24.66 FOM quote refers to 2024 source pricing; its dollar basis has not been separately reconciled here with the ATB workbook. The scenario's $24.49 uses the 2026 Moderate projection converted from 2023 to real 2025 dollars. The quotes are not a matched cost-year and dollar-year comparison.
++**Cost scope and vintage.** The scenario CAPEX uses ATB 2025 overnight capital cost (OCC) plus grid-connection cost (GCC), 2026 values, converted from 2023 to 2025 dollars. ATB 2025 states that its 2024 overnight cost is based on modeled pricing for a 100-MWdc one-axis tracking system quoted in Q1 2024 (DOE, 2024), adjusted by an ILR of 1.32, and that 2024 fixed O&M of $24.66/kWac-year splits into system ($10.88), property ($11.41) and administration ($2.38) expenses. The rounded components sum to $24.67; the published total is $24.66. The component analysis in Chapter 5 instead uses PVSCM 2025Q1. The two are therefore related but not identical cost vintages, and the module share from PVSCM 2025Q1 is applied to ATB OCC only as an illustration. The $24.66 FOM quote refers to 2024 source pricing; its dollar basis has not been separately reconciled here with the ATB workbook. The scenario's $24.49 uses the 2026 Moderate projection converted from 2023 to real 2025 dollars.
+ 
+ PVSCM itemizes a network-upgrade line inside electrical balance of system ($66/kWac in the 2024Q1 inputs and $51.26/kWac in 2025Q1) and annualized inverter and component replacement inside O&M. A generic network-upgrade allowance and a separate year-16 replacement reserve may therefore overlap with costs already embedded in the benchmarks; the overlap cannot be quantified without the ATB component table.
+ 
+@@ -866,11 +866,11 @@
+ 
+ *Sources: ATB 2025 utility PV page and workbook rows in the scenario register [S09, P10]; PVSCM 2024Q1/2025Q1 parameter files as itemized in the finance supplement [F04]; 16 TAC §25.195(f)(1)–(3), pp.2–3 [F06]; Texas statute excerpts [CL-FIN-05].*
+ 
+-## 10.8 Tax timing and basis: a revised illustration, not an entitlement
++## 10.8 Tax timing and basis: an illustration, not an entitlement
+ 
+-The six baseline scenarios remain pre-tax and unlevered. The revised illustration applies an assumed 30% rate only to **$126.04m of national PV overnight cost (OCC)**, excluding $17.63m GCC from the assumed basis. With the prior timing convention—2026 nominal basis, unchanged nominal receipt at end-2027, 2025-dollar deflation and one-year discounting at 4.27%—the credit PV is **$35.38m**. Node-base NPV becomes **−$50.59m**, fixed-base NPV **−$38.36m**, and fixed-route break-even **$53.51/MWh**. No benefit is inserted into the original six scenarios. [F04]
++The six baseline scenarios remain pre-tax and unlevered. The illustration applies an assumed 30% rate only to **$126.04m of national PV overnight cost (OCC)**, excluding $17.63m GCC from the assumed basis. With a timing convention of 2026 nominal basis, unchanged nominal receipt at end-2027, 2025-dollar deflation and one-year discounting at 4.27%—the credit PV is **$35.38m**. Node-base NPV becomes **−$50.59m**, fixed-base NPV **−$38.36m**, and fixed-route break-even **$53.51/MWh**. No benefit is inserted into the original six scenarios. [F04]
+ 
+-The earlier full-CAPEX illustration produced $40.33m PV. Excluding GCC reduces it by $4.95m. This is a conservative boundary for an unresolved national aggregate, not a determination that every OCC item qualifies or every generator-owned connection asset is ineligible. The special qualified-interconnection-property provision of section 48E applies only to facilities no larger than 5 MWac; it does not establish eligibility for this 100 MWac setting. [F07]
++Applying the same rate to full CAPEX would give $40.33m PV. Excluding GCC reduces it by $4.95m. This is a conservative boundary for an unresolved national aggregate, not a determination that every OCC item qualifies or every generator-owned connection asset is ineligible. The special qualified-interconnection-property provision of section 48E applies only to facilities no larger than 5 MWac; it does not establish eligibility for this 100 MWac setting. [F07]
+ 
+ **Table 10-4. Timing branches requiring project evidence.**
+ 
+@@ -882,15 +882,15 @@
+ 
+ *Source: P.L. 119-21 sections 70512/70513 [F07]. Payment at end-2026 is not evidence of actual construction commencement. The early-start branch remains available for evaluation if supported by qualifying contemporaneous records; for construction starting after 4 July 2026, only the placed-in-service-by-2027 branch can apply.*
+ 
+-Notice 2025-42 on the beginning of construction was vacated by a District Court on 6 June 2026 and is not treated as controlling; the docket status is set out in Appendix C. Whether a given project began construction by 4 July 2026 remains a project-specific legal question, and the hypothetical case supplies no construction-start facts. [CL-FIN-04]
++Notice 2025-42 on the beginning of construction was vacated by a District Court on 6 June 2026 and is not treated as controlling; the docket status is set out in Appendix C. [CL-FIN-04]
+ 
+ For facilities beginning construction after 2025, the material-assistance test includes a cost-ratio threshold of 40% for a 2026 construction start and 45% for 2027. These are the defined material-assistance cost ratios, not percentages of module origin or a generic permitted foreign-content share. Taxpayer ownership/control, supply-chain tracing and the applicable safe-harbor rules also matter. [F07; F09]
+ 
+ The 30% rate, wage/apprenticeship compliance, qualified basis, transfer price, cash timing and recapture exposure remain assumptions or missing inputs. An eventual after-tax model must reflect the section 50(c)(3) basis reduction—half the credit—as well as depreciation and other taxes. This edition does not claim the illustration is a complete after-tax NPV. [F07]
+ 
+-**Tax qualifications.** The statutory timing branches (Table 10-4), the material-assistance thresholds and the 5 MWac limit on the special interconnection-property provision are taken from the statute and IRS notice text. The hypothetical case has no construction-start date, placed-in-service date, owner, supplier certifications, wage and apprenticeship records, or transfer agreement, so the $35.38m OCC-basis credit illustration is a conditional scenario, not an eligibility finding or an after-tax valuation. Its separately versioned variants, all as PV at 4.27%, are: receipt one year later, $33.10m; transfer at 0.90 per credit dollar, $31.84m; and a 6% statutory credit rate (prevailing-wage and apprenticeship conditions not met), $7.08m. [CL-FIN-04]
++**Tax qualifications.** The statutory timing branches (Table 10-4), the material-assistance thresholds and the 5 MWac limit on the special interconnection-property provision are taken from the statute and IRS notice text. The hypothetical case has no construction-start date, placed-in-service date, owner, supplier certifications, wage and apprenticeship records, or transfer agreement, so the $35.38m OCC-basis credit illustration is a conditional scenario, not an eligibility finding or an after-tax valuation. Its variants, all as PV at 4.27%, are: receipt one year later, $33.10m; transfer at 0.90 per credit dollar, $31.84m; and a 6% statutory credit rate (prevailing-wage and apprenticeship conditions not met), $7.08m. [CL-FIN-04]
+ 
+-> **R1 addition: production-credit illustration.** A qualifying facility can elect the section 45Y production credit instead of the investment credit, not both. The 2025 applicable amount is 3.0¢/kWh when prevailing-wage and apprenticeship (PWA) requirements are met and 0.6¢/kWh otherwise, adjusted annually for inflation. The illustration pays $30/MWh, held constant in real 2025 dollars, on the base delivered energy (247.8 GWh in the first year, 0.7% annual degradation) for 10 years, discounted at 4.27% real in the year of production. Its PV is **$57.80m**: node-base NPV becomes −$28.17m, fixed-base NPV −$15.94m, and the fixed-route break-even **$45.61/MWh**. Transferred at $0.90 per credit dollar, the PV is $52.02m and the break-even $47.65/MWh; at the 0.6¢ base rate, $11.56m and $61.90/MWh. The timing branches in Table 10-4 and the eligibility conditions above apply unchanged, and the result is pre-tax NPV plus a credit, not an after-tax valuation. [M05; `data/r1/PTC-Illustration.csv`]
++> **Illustration — production credit.** A qualifying facility can elect the section 45Y production credit instead of the investment credit, not both. The 2025 applicable amount is 3.0¢/kWh when prevailing-wage and apprenticeship (PWA) requirements are met and 0.6¢/kWh otherwise, adjusted annually for inflation. The illustration pays $30/MWh, held constant in real 2025 dollars, on the base delivered energy (247.8 GWh in the first year, 0.7% annual degradation) for 10 years, discounted at 4.27% real in the year of production. Its PV is **$57.80m**: node-base NPV becomes −$28.17m, fixed-base NPV −$15.94m, and the fixed-route break-even **$45.61/MWh**. Transferred at $0.90 per credit dollar, the PV is $52.02m and the break-even $47.65/MWh; at the 0.6¢ base rate, $11.56m and $61.90/MWh. The timing branches in Table 10-4 and the eligibility conditions above apply unchanged, and the result is pre-tax NPV plus a credit, not an after-tax valuation. [M05]
+ 
+ ## 10.9 Historical price-year substitution changes the sign of modeled NPV
+ 
+@@ -920,14 +920,14 @@
+ 
+ **Comparable returns remain undisclosed.** Public records for the nine named ERCOT plants contain three kinds of financial observation: a financing amount (Taygete I), a lender-initiated foreclosure (Taygete II), and self-reported qualified investment (Comptroller Form 773). Each answers a different question. None reports a project or equity IRR, a project-level cash-flow series, or the return definition needed for comparison (levered or unlevered, pre- or post-tax, target or realized, development or acquisition), so no defensible "typical solar IRR" range can be formed. The ATB 6.5% nominal debt and 8.0% equity assumptions equal 3.90% and 5.37% real at 2.5% inflation, respectively; they are reference inputs, not observed investment returns. The model keeps its 4.27% real convention, a pre-tax analytical rate rather than a market hurdle rate; NPV results at 6% and 8% show the effect of higher required returns. [F01, F04]
+ 
+-**CPI-restated price years (separately versioned).** A separately labeled version restates the 2023 and 2024 nominal price levels in 2025 dollars using CPI-U annual-average ratios of 1.0566 and 1.0263. All other inputs are unchanged. The restatement raises the value of the older price years without changing the signs of the reported comparisons:
++**CPI-restated price years.** A CPI-restated variant restates the 2023 and 2024 nominal price levels in 2025 dollars using CPI-U annual-average ratios of 1.0566 and 1.0263. All other inputs are unchanged. The restatement raises the value of the older price years without changing the signs of the reported comparisons:
+ - reference node 2023: NPV moves from +$97.76m to +$113.89m;
+ - reference node 2024: NPV moves from −$92.15m to −$89.64m;
+ - 485-node median 2023: NPV moves from +$99.78m to +$116.02m.
+ 
+ The share of nodes with positive NPV is unchanged in every year: 100% in 2023, 2.7% in 2024 and 0.4% in 2025. The same-year results in Tables 10-5 and 10-6 remain the primary presentation, and the CPI version is a purchasing-power check on them.
+ 
+-The CPI file's 2024 median uses the full-year calendar; Tables 10-5 and 10-6 use the common-calendar sample. Those medians are not interchangeable. The reference-node 2024 comparison above is on the common-calendar basis. [CL-FIN-07]
++The CPI-restated 2024 median uses the full-year calendar; Tables 10-5 and 10-6 use the common-calendar sample. Those medians are not interchangeable. The reference-node 2024 comparison above is on the common-calendar basis. [CL-FIN-07]
+ 
+ All 13 positive 2024 nodes map to the South load zone, with 10 distinct receipt series among them. The mapping is descriptive and does not identify an actual asset portfolio.
+ 
+@@ -935,7 +935,7 @@
+ 
+ The original six scenarios in Section 10.4 remain 2025-based cost and commercial stress settings. They are not replaced by the three historical-year experiments. Taxes, financing, actual commercial mapping and complete project cost remain absent from both sets.
+ 
+-## 10.10 Public market reference points (R1 addition)
++## 10.10 Public market reference points
+ 
+ The prices in this chapter are model outputs for one hypothetical system. Table 10-7 sets them beside public observations of ERCOT solar offers, receipts and costs in 2025–2026. The sources are indices, monitor reports and cost surveys, not executed contracts for this site.
+ 
+@@ -951,7 +951,7 @@
+ | Lazard unsubsidized utility-scale PV LCOE | $40–98/MWh | July 2026 edition | U.S. range; capital $1,250–1,850/kW, fixed O&M $8.25–26.25/kW-year | [M04] |
+ | Lazard unsubsidized PV-plus-storage LCOE | $61–156/MWh | July 2026 edition | 100 MW PV with 50 MW / 200 MWh storage | [M04] |
+ 
+-*Sources: Appendix A.3; values as published, with periods and bases as stated by each source. `data/r1/Market-References.csv` records the table, tab or section of each value.*
++*Sources: Appendix A.3; values as published, with periods and bases as stated by each source. The accompanying research files record the table, tab or section of each value.*
+ 
+ Three readings follow. First, the market monitor's 2025 solar captured price of $21/MWh is close to the West hub value of $21.46/MWh and the reference node's $22.13/MWh (Section 8.1), so the reference case is not an outlier against the market-wide figure. Second, the report's $1,437/kWac capital cost and $24.49/kWac-year fixed O&M fall within Lazard's ranges, although Lazard's capacity basis is not reconciled with this report's. Third, ERCOT solar offers near $44.6/MWh in 2025 sit below every no-credit break-even in Table 1-2 and below the $53.51/MWh investment-credit illustration; only the full-rate production-credit illustration comes close. The ERCOT index is far below the North American average, so a national PPA price is not a usable reference for this market.
+ 
+@@ -991,7 +991,7 @@
+ 
+ The nodal break-even capital cost of $577/kWac is about 40% of the base $1,437/kWac, a reduction of roughly 60%. The thresholds turn a general question about economic viability into conditions that can be checked: the achievable price and paid-volume rule, the construction cost consistent with that revenue, and the effect of eligible incentives or alternative risk allocation on cash flows.
+ 
+-A modeled break-even price requires a willing buyer before it becomes a contracting opportunity. Similarly, a break-even capital budget is not evidence that the system can be built for that amount. The thresholds identify the evidence that would change a commercial assessment.
++A modeled break-even price requires a willing buyer before it becomes a contracting opportunity. Similarly, a break-even capital budget is not evidence that the system can be built for that amount.
+ 
+ ## 11.4 Two-way sensitivities
+ 
+@@ -1029,7 +1029,7 @@
+ 
+ Removing receipts from the top 1% of intervals turns modeled NPV negative for 99.4% of the sample under 2023 conditions. The reported median stress-case NPV is approximately −$56.6m. A 99th-percentile price cap produces a median around −$10.6m; removing receipts on dates containing an interval at or above $1,000/MWh produces a median around −$82.5m. Those settings retain costs while deliberately reducing receipts and do not represent forecasts of attainable annual revenue.
+ 
+-A gentler cap at the 99.9th percentile leaves the 2023 median NPV at approximately +$98.25m, whereas the 99th-percentile cap gives −$10.61m. This difference identifies sensitivity to a broader upper tail rather than just the most extreme 0.1%. The quoted scarcity-date stress removes those dates' energy receipts while retaining costs. A separate variant replaces daily receipts with the median receipts of nonflagged dates; it does not replace an interval price profile. Across nodes its median count is 34 flagged dates. [E-C]
++A gentler cap at the 99.9th percentile leaves the 2023 median NPV at approximately +$98.25m, whereas the 99th-percentile cap gives −$10.61m. This difference identifies sensitivity to a broader upper tail rather than just the most extreme 0.1%. A separate variant replaces daily receipts with the median receipts of nonflagged dates; it does not replace an interval price profile. Across nodes its median count is 34 flagged dates. [E-C]
+ 
+ ERCOT initiated an Energy Emergency Alert Level 2 on 6 September 2023, reporting a September peak of 82,705 MW. That official event provides context for the high-price environment; this study has not matched its individual revenue intervals to event or constraint records. ERCOT subsequently launched real-time co-optimization of energy and ancillary services, with its battery enhancements, on **5 December 2025**. The years 2023–2024 therefore predate the change and **2025 straddles it**, so the three-year sample should not be described as entirely pre-reform. No causal battery or reform effect is estimated. [P05, P06]
+ 
+@@ -1043,7 +1043,7 @@
+ - **Finality.** Under the Nodal Protocols, prices become final at 16:00 on the second business day after the operating day. Using a Monday–Friday business-day count without independently applying the ERCOT holiday calendar, data through 7 October were inferred to have passed that time at retrieval, but the API supplies no version field. Row-level finality is therefore not verified.
+ - **Cross-product differences.** A cross-check of West hub prices against ERCOT's separate year-to-date hub file found 423 interval differences above $0.005/MWh, up to $4.01/MWh, mostly in January 2026. Their cause is not established.
+ 
+-No 2026 generation series exists for the hypothetical site, so no same-year 2026 capture price, project revenue or NPV is reported. As context only, ERCOT's separate year-to-date West hub file (NP6-785-ER; different from the API series in 423 intervals) gives a fixed-2025-profile-weighted January–September 2026 value of $18.24/MWh, versus $21.36/MWh for January–September 2025 with that year's profile. West hub prices are negative in 14.1% of 2026 intervals versus 7.7% (23.6% versus 13.7% of the profile's energy). Compare the reference node's full-year 2025 interval share of 6.2% in Section 8.2: hub/node and seasonal/full-year measures differ. This is a fixed-profile price diagnostic, not realized 2026 capture. It does not isolate the effect of the December 2025 co-optimization launch because weather, load, fuel prices and competing capacity also changed. [CL-FIN-08; scenario-versions/data/HB_WEST-2026-JanSep-Post-RTCB-Context.csv]
++No 2026 generation series exists for the hypothetical site, so no same-year 2026 capture price, project revenue or NPV is reported. As context only, ERCOT's separate year-to-date West hub file (NP6-785-ER; different from the API series in 423 intervals) gives a fixed-2025-profile-weighted January–September 2026 value of $18.24/MWh, versus $21.36/MWh for January–September 2025 with that year's profile. West hub prices are negative in 14.1% of 2026 intervals versus 7.7% (23.6% versus 13.7% of the profile's energy). Compare the reference node's full-year 2025 interval share of 6.2% in Section 8.2: hub/node and seasonal/full-year measures differ. This is a fixed-profile price diagnostic, not realized 2026 capture. It does not isolate the effect of the December 2025 co-optimization launch because weather, load, fuel prices and competing capacity also changed. [CL-FIN-08]
+ 
+ The ERCOT Independent Market Monitor reports for 2025 that the ORDC shortage adder was active for only 57 hours and that energy-storage capacity exceeded 17 GW. Three historical years provide no recurrence probability for 2023-type scarcity receipts. [CL-FIN-08]
+ 
+@@ -1079,9 +1079,9 @@
+ 
+ **Q2 — Grid constraints.** System timing differences, negative-price exposure and the persistent node basis motivate the question but do not measure the cost of network constraints or the marginal value of adding the hypothetical system; weather, fleet composition and other market conditions can also explain them. *What would settle it:* interval constraint or curtailment records, interconnection timing and costs, or a supported counterfactual. *Practical implication:* investigate actual constraints and settlement exposure before attributing a node price difference to congestion.
+ 
+-**Q3 — Storage.** Shifting midday output into higher-priced hours is the obvious response to the timing pattern in Chapter 8, but a timing mismatch is not proof of positive storage value. The report has no storage configuration, dispatch or cost model; Section 12.4 gives an R1 screen of the question.
++**Q3 — Storage.** Shifting midday output into higher-priced hours is the obvious response to the timing pattern in Chapter 8, but a timing mismatch is not proof of positive storage value. The report has no storage configuration, dispatch or cost model; Section 12.4 gives a first screen of the question.
+ 
+-## 12.4 Storage screen (R1 addition)
++## 12.4 Storage screen
+ 
+ The screen asks whether the best possible energy arbitrage in the observed price years could pay for a standard 4-hour battery. It compares a perfect-foresight upper bound on daily arbitrage with Lazard's 2026 cost range; method details are in Appendix B.9.
+ 
+@@ -1103,28 +1103,28 @@
+ 
+ **Practical implication.** An energy-only storage addition is unlikely to pay for itself on the 2024–2025 price pattern; a storage case needs ancillary-service, scarcity or contracted revenue, and should be modeled as a separate incremental investment with its own dispatch and cost evidence.
+ 
+-## 12.5 Controlled update after the empirical extension
++## 12.5 Summary of conclusions
+ 
+-**Table 12-2. Controlled conclusions and revision evidence.**
++**Table 12-2. Conclusions and revision evidence.**
+ 
+-| Hypothesis or question | Controlled conclusion | Additional support | Alternative explanation and revision evidence |
++| Hypothesis or question | Conclusion | Additional support | Alternative explanation and revision evidence |
+ |---|---|---|---|
+ | H1 Equipment price | Mixed | Component model quantifies a conditional cost mechanism; customs data adds sourcing context | Trade treatment, specifications and non-module costs can offset savings; matched procurement and complete budgets remain necessary |
+ | H2 Value chain | Supported as an existence claim for the observed businesses | Annual losses and company-specific margins alongside large manufacturing scale | Technology, incentives, financing, working capital and market price shape differ; matched segment and procurement evidence is needed |
+ | Q1 Demand and value | Open; not testable as a causal or asset-level proposition | Dated large-load categories and hourly market associations improve context | Load requests may not connect or may procure a different product; actual timed local load and procurement are absent |
+ | Q2 Grid constraints | Open; not testable causally | Node basis persists in the 485-point common-calendar panel | Settlement, supply and network factors are not separated; interval constraints, dispatch and a credible counterfactual remain necessary |
+-| Q3 Storage | Screened (R1): even perfect energy arbitrage reaches only the bottom of the cost range | Upper bound from observed prices against Lazard cost ranges | Ancillary services, contracts and dispatch rules can change the result; no storage investment case is modeled |
++| Q3 Storage | Screened: even perfect energy arbitrage at the reference node in 2025 reaches only the bottom of the cost range | Upper bound from observed prices against Lazard cost ranges | Ancillary services, contracts and dispatch rules can change the result; no storage investment case is modeled |
+ 
+ *Hypotheses and questions are stated in full in Section 2.5.*
+ 
+ Statistical association, accounting contribution, and investment relevance remain distinct. The empirical findings support conditional screening, within the asset-level boundaries set out in Box 1.
+ 
+-> **Limits of this chapter.** (1) Controlled conclusions apply only to their stated evidence. (2) Comparative driver rankings and causal demand or congestion claims remain untested; the storage result is a screen, not a valuation. (3) The additional evidence required is listed in Appendix C.
++> **Limits of this chapter.** (1) Conclusions apply only to their stated evidence. (2) Comparative driver rankings and causal demand or congestion claims remain untested; the storage result is a screen, not a valuation. (3) The additional evidence required is listed in Appendix C.
+ 
+ # 13. Commercial Applications: Procurement, Development, and Market Screening
+ 
+ ::: lead
+-**Bottom line by reader.** Suppliers: a 10% cheaper module saves $3.76m against an $86.0m modeled gap, so sell delivered value and documentation, not price alone. Developers: no tested route without credits reaches public 2025 ERCOT offers of about $44.6/MWh, so a project needs credits it can actually claim, a lower all-in cost or a buyer paying for more than energy. Buyers: compare an offer with the hub-hedge row of Table 1-2 and the terms in Table 13-2, not with a headline average. Storage: even perfect energy arbitrage reaches only the bottom of the cost range (Section 12.4).
++**Bottom line by reader.** Suppliers: a 10% cheaper module saves $3.76m against an $86.0m modeled gap, so sell delivered value and documentation, not price alone. Developers: no tested route without credits reaches public 2025 ERCOT offers of about $44.6/MWh, so a project needs credits it can actually claim, a lower all-in cost or a buyer paying for more than energy. Buyers: compare an offer with the hub-hedge row of Table 1-2 and the terms in Table 13-2, not with a headline average. Storage: even perfect energy arbitrage at the reference node in 2025 reaches only the bottom of the cost range (Section 12.4).
+ :::
+ 
+ ## 13.1 Equipment suppliers: demonstrate value within the customer's system
+@@ -1162,7 +1162,7 @@
+ 
+ Energy, environmental attributes, scheduled delivery, and continuous supply are distinct procurement objectives. Their quantity, location, and shortfall responsibilities differ. Two prices expressed per MWh may therefore refer to materially different products.
+ 
+-A contract-reading framework should identify those responsibilities before comparing prices. Customer-specific procurement recommendations require evidence about the actual product and obligation, which is not part of this report. Section 10.3 compares the separately versioned hub hedge, Section 10.10 gives public offer references, Appendix B.2 sets out contract risk allocation, and Appendix C lists the undisclosed terms needed for transaction diligence.
++A contract-reading framework should identify those responsibilities before comparing prices. Customer-specific procurement recommendations require evidence about the actual product and obligation, which is not part of this report. Section 10.3 calculates the hub-hedge break-even, Section 10.10 gives public offer references, Appendix B.2 sets out contract risk allocation, and Appendix C lists the undisclosed terms needed for transaction diligence.
+ 
+ **Table 13-2. Contract questions before comparing headline prices.**
+ 
+@@ -1311,7 +1311,7 @@
+ ## A.1 Comparable-project, cost, contract and tax sources (F references)
+ 
+ - **[F01]** Finance supplement, Comparable-Projects.csv and Entity-Node-Mapping.csv; ERCOT NP4-160, MORA resource records and EIA-860 design/capacity records. The ERCOT–EIA plant link is attribute-matched; source locators are in finance-supplement/Source-Catalog.csv.
+-- **[F02]** Texas Comptroller, agreement #1377, TY2024 Form 772 (2025 filing), physical PDF p. 1, Section 2.7. Retained copy: [Form 772](sources/finance/comparables/C06_ch313_1377_772_2025.pdf). Financing event; no return disclosure.
++- **[F02]** Texas Comptroller, agreement #1377, TY2024 Form 772 (2025 filing), physical PDF p. 1, filing Section 2.7. Retained copy: [Form 772](sources/finance/comparables/C06_ch313_1377_772_2025.pdf). Financing event; no return disclosure.
+ - **[F03]** EIA-860/923, retained annual comparison and monthly generation tables in finance-supplement/data/. Full workbooks remain in the project's raw-data archive; geographic and capacity-vintage limitations are described in Section 9.5.
+ - **[F04]** Finance supplement, Finance-Arithmetic-Checks.csv, Cost-Coverage-Crosswalk.csv, Node-Hub-Solar-Capture-2023-2025.csv, plus retained scenario cash flows. The stated arithmetic and sample screens are recomputed from these files.
+ - **[F05]** CIT/First Citizens, Taygete I financing announcement, 9 December 2020; source F01 in finance-supplement/Source-Catalog.csv and Contract-Terms.csv. Financing amount is not construction cost or IRR. Secondary fixed-shape description is separately marked F03 in that catalog.
+@@ -1327,7 +1327,7 @@
+ 
+ The separately versioned CPI, credit and VPPA calculations are documented in the [scenario notes](scenario-versions/Scenario-Notes-EN.md) and their accompanying CSV files. They do not revise the original six baseline scenarios.
+ 
+-## A.3 Sources for the R1 additions (M references)
++## A.3 Sources for the market, credit and storage calculations (M references)
+ 
+ - **[M01]** Berkeley Lab, U.S. Utility-Scale Solar, 2025 Data Update, data file (tabs "LevelTen Solar PPA Prices" and "LevelTen & Trio 2024 PPA Index", LevelTen Energy and Trio data): [publication page](https://emp.lbl.gov/publications/us-utility-scale-solar-2025-data).
+ - **[M02]** LevelTen North American solar PPA price index as reported by pv magazine USA, 20 April 2026 (1Q26): [article](https://pv-magazine-usa.com/2026/04/20/permitting-headwinds-and-geopolitics-drive-solar-ppa-prices-higher-in-q/); and by TaiyangNews (2Q26): [article](https://taiyangnews.info/business/levelten-energy-q2-2026-report-for-north-america-europe).
+@@ -1449,9 +1449,9 @@
+ 
+ An equal-weight average of each node's first-year receipts across the three years gives a median NPV of approximately −$21.4m, with 12.2% of screened nodes positive. A separate break-even calculation mixes the 2023 receipts with the average of 2024–2025 receipts: the median of node-level required weights is approximately **44.9%** of discounted revenue weight assigned to the 2023 setting; the reference needs **47.7%**. These are analytical mixture weights, not probabilities or an integer count of profitable years. The timing of high-price years matters because earlier receipts carry more present value. Equal weights are a chosen stress setting. With only three observed years, neither those weights nor the resulting positive share establish a long-run return distribution.
+ 
+-## B.9 R1 additions: methods and sources
++## B.9 Market, credit and storage calculations: methods
+ 
+-The three R1 additions are arithmetic on Version 0.999 outputs and public sources; `build/r1_calcs.py` reproduces them and writes `data/r1/`. No model in the original research chain was rerun, and no Version 0.999 estimate changes.
++The three calculations in Sections 10.8 (production credit), 10.10 and 12.4 are arithmetic on the reviewed-edition outputs and public sources; `build/r1_calcs.py` reproduces them and writes `data/r1/`. No model in the original research chain was rerun, and no earlier estimate changes.
+ 
+ **Production credit (Section 10.8).** Fixed-route NPV is linear in the flat nominal price, with a slope of about $2.84m per $1/MWh at 4.27% (from −$73.74m at $40/MWh and zero at $65.97/MWh); the slope reproduces the investment-credit break-even of $53.51/MWh. Credit PV is the sum over years 1–10 of delivered energy × $30/MWh (or $6/MWh) ÷ 1.0427 to the power of the year. Cash timing within the year, transfer costs other than the stated price and the owner's tax capacity are not modeled. [M05]
+ 
+@@ -1479,7 +1479,7 @@
+ | Financing (FIN-10) | Coupon, tenor, sizing, reserves, tax-equity terms | Levered returns | Not publicly disclosed |
+ | Net receipts (FIN-11) | Loss factor, QSE fees, imbalance, REC price | Net cash receipts | Gross energy value only |
+ 
+-**Outside the scope of this edition.** The following topics lie outside the present analysis: expanding the overseas-factory sample; estimating industry inventory; local gas prices; attributing congestion with interval constraint data; a storage investment case (Section 12.4 gives only an R1 screen); and new causal or forecasting methods. Three weather and price years provide neither validated P50/P90 output nor a long-run regime probability.
++**Outside the scope of this edition.** The following topics lie outside the present analysis: expanding the overseas-factory sample; estimating industry inventory; local gas prices; attributing congestion with interval constraint data; a storage investment case (Section 12.4 gives only a screen); and new causal or forecasting methods. Three weather and price years provide neither validated P50/P90 output nor a long-run regime probability.
+ 
+ **Financing terms.** For Taygete I, the lead arranger's release reports a $256m financing arranged by CIT with five other lenders. For Taygete II, the Comptroller filing reports a foreclosure purchase initiated by the senior lender after the previous owner failed to repay its loan. Neither public record discloses the debt size relative to project cost, coupon or spread, tenor, amortization, sizing ratios (DSCR), reserve accounts, fees or a tax-equity allocation. The $256m is a financing amount, not a construction cost or a return. No levered or equity return is estimated.
+ 

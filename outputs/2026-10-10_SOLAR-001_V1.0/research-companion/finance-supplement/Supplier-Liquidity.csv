@@ -1,0 +1,7 @@
+field,company_scope,value,source,status,next_evidence_target
+cash and restricted cash,module/cell/wafer suppliers in Chapter 4 panel,not collected in this round,none,not done,"Latest annual/interim reports (consolidated balance sheet and cash-flow statement notes) for each panel company; record restricted cash separately"
+working-capital movements,same,not collected,none,not done,Cash-flow statement working-capital lines FY2024-FY2025 and latest interim
+debt maturities and covenant headroom,same,not collected,none,not done,Debt maturity tables and covenant notes in the same filings
+warranty provisions,same,not collected,none,not done,Product-warranty provision roll-forward notes
+manufacturing incentives (45X for U.S. plants),same,not collected,none,not done,"Company disclosures of 45X credits recorded in cost of sales; keep separate from project 45Y/48E"
+default probability,any,not estimated,n/a,not permitted without a sourced model,n/a

@@ -1,0 +1,86 @@
+{
+ "slope_usd_m_per_usd_mwh": 2.8394,
+ "fixed_base_npv_usd_m": -73.74,
+ "ptc": [
+  {
+   "variant": "Full rate (PWA met), retained by owner",
+   "credit_usd_per_mwh_2025": 30.0,
+   "value_per_credit_dollar": 1.0,
+   "credit_years": 10,
+   "pv_usd_m": 57.8,
+   "node_base_npv_plus_credit_usd_m": -28.17,
+   "fixed_base_npv_plus_credit_usd_m": -15.94,
+   "fixed_route_breakeven_usd_mwh": 45.61
+  },
+  {
+   "variant": "Full rate, transferred at $0.90 per credit dollar",
+   "credit_usd_per_mwh_2025": 30.0,
+   "value_per_credit_dollar": 0.9,
+   "credit_years": 10,
+   "pv_usd_m": 52.02,
+   "node_base_npv_plus_credit_usd_m": -33.95,
+   "fixed_base_npv_plus_credit_usd_m": -21.72,
+   "fixed_route_breakeven_usd_mwh": 47.65
+  },
+  {
+   "variant": "Base rate (PWA not met)",
+   "credit_usd_per_mwh_2025": 6.0,
+   "value_per_credit_dollar": 1.0,
+   "credit_years": 10,
+   "pv_usd_m": 11.56,
+   "node_base_npv_plus_credit_usd_m": -74.41,
+   "fixed_base_npv_plus_credit_usd_m": -62.18,
+   "fixed_route_breakeven_usd_mwh": 61.9
+  }
+ ],
+ "storage_screen": [
+  {
+   "price_series": "TAYGETE2_ALL reference node",
+   "year": 2025,
+   "days": 365,
+   "upper_bound_usd_kw_yr_eta86": 104.4,
+   "upper_bound_usd_kw_yr_eta92": 113.0
+  },
+  {
+   "price_series": "HB_BUSAVG hub",
+   "year": 2023,
+   "days": 365,
+   "upper_bound_usd_kw_yr_eta86": 188.3,
+   "upper_bound_usd_kw_yr_eta92": 202.7
+  },
+  {
+   "price_series": "HB_BUSAVG hub",
+   "year": 2024,
+   "days": 366,
+   "upper_bound_usd_kw_yr_eta86": 68.6,
+   "upper_bound_usd_kw_yr_eta92": 74.4
+  },
+  {
+   "price_series": "HB_BUSAVG hub",
+   "year": 2025,
+   "days": 365,
+   "upper_bound_usd_kw_yr_eta86": 61.6,
+   "upper_bound_usd_kw_yr_eta92": 67.5
+  }
+ ],
+ "storage_cost": [
+  {
+   "real_discount_rate": 0.0427,
+   "capital_recovery_factor": 0.0754,
+   "annual_cost_low_usd_kw_yr": 96.4,
+   "annual_cost_high_usd_kw_yr": 141.0
+  },
+  {
+   "real_discount_rate": 0.06,
+   "capital_recovery_factor": 0.0872,
+   "annual_cost_low_usd_kw_yr": 109.2,
+   "annual_cost_high_usd_kw_yr": 158.3
+  },
+  {
+   "real_discount_rate": 0.08,
+   "capital_recovery_factor": 0.1019,
+   "annual_cost_low_usd_kw_yr": 125.0,
+   "annual_cost_high_usd_kw_yr": 179.7
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "archives": [
+  {
+   "file": "cdr.00012301.0000000000000000.20250131.235959.SPPHLZNP6905_2025-01.zip",
+   "sha256": "075c60597f2b9ddbb0c4eb0184291a6f5dd89f6cd8c376d83de9a1e513efcc33",
+   "bytes": 21384220
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250228.235959.SPPHLZNP6905_2025-02.zip",
+   "sha256": "c9fe6bb45bf9ae27b913876b068e29ac42e3076cd1301a26a86be245ca4db99c",
+   "bytes": 19629797
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250331.235959.SPPHLZNP6905_2025-03.zip",
+   "sha256": "2349857c4571baf4258d32461a360271244730d0af8e6f2d5b7d93eeea633ae2",
+   "bytes": 22169191
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250430.235959.SPPHLZNP6905_2025-04.zip",
+   "sha256": "48dfcba901d13a9edb43a14ac37eada9192e2803adb0b881122f083928b88e59",
+   "bytes": 22289173
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250531.235959.SPPHLZNP6905_2025-05.zip",
+   "sha256": "58c037f6c0974c6c35874cc088fe86092321386926e7f117b49beac4cbf44638",
+   "bytes": 22760233
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250630.235959.SPPHLZNP6905_2025-06.zip",
+   "sha256": "8fce6302c4216c95e9987512d57b2546b8c36721124834f304c8b5e160fe79b9",
+   "bytes": 21709035
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250731.235959.SPPHLZNP6905_2025-07.zip",
+   "sha256": "3b411533e0a47c1c8d9db307ddd38333acef61d42564d15ecce2cfeeba7b1574",
+   "bytes": 23052106
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250831.235959.SPPHLZNP6905_2025-08.zip",
+   "sha256": "c5ab2f8ab1dd8da89dd039063c19a1f0f0e5dc2553daf2b20560e54ad39b7279",
+   "bytes": 22878008
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20250930.235959.SPPHLZNP6905_2025-09.zip",
+   "sha256": "2c2e563860ccbb74a1443b8b259f3e2f273a04dc5d809d3b59958b71f78ced5a",
+   "bytes": 22010240
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20251031.235959.SPPHLZNP6905_2025-10.zip",
+   "sha256": "d7317ed090aaad5bde577cab766bac9e8cd605058232827ca6725332a60ad881",
+   "bytes": 23342707
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20251130.235959.SPPHLZNP6905_2025-11.zip",
+   "sha256": "90d82a75c8f4f16bbbb09e1e776251da35a85510c167f8097d508134f9412e98",
+   "bytes": 23051298
+  },
+  {
+   "file": "cdr.00012301.0000000000000000.20251231.235959.SPPHLZNP6905_2025-12.zip",
+   "sha256": "616d9da061eb47a7ab422ec05cdd82c790b29643365e02d4e620758782ae37e8",
+   "bytes": 23827769
+  }
+ ],
+ "inner_files": 35039,
+ "expected_intervals": 35040,
+ "points": 1102,
+ "duplicate_name_utc_rows_dropped": 0,
+ "duplicate_rows_with_conflicting_price": 0,
+ "duplicate_names": [],
+ "names_split_by_type": [
+  "DC_E",
+  "DC_L",
+  "DC_N",
+  "DC_R",
+  "FLCNS_UNIT1",
+  "FLCNS_UNIT2",
+  "FLCNS_UNIT3",
+  "LZ_AEN",
+  "LZ_CPS",
+  "LZ_HOUSTON",
+  "LZ_LCRA",
+  "LZ_NORTH",
+  "LZ_RAYBN",
+  "LZ_SOUTH",
+  "LZ_WEST",
+  "MASSENGL_G6",
+  "MASSENGL_G7",
+  "MASSENGL_G8"
+ ],
+ "duplicate_note": "names published under two settlement-point types are kept as separate NAME__TYPE series; remaining duplicates (if any) are true repeats"
+}

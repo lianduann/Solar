@@ -1,0 +1,22 @@
+module_price_change,share_basis,module_share,loading_factor_k,total_capex_change,label
+-0.4,benchmark module share,0.26111,1.144,-0.11948,assumption example
+-0.4,assumed lower share (15%),0.15,1.144,-0.068639,assumption example
+-0.4,assumed higher share (35%),0.35,1.144,-0.16016,assumption example
+-0.297,benchmark module share,0.26111,1.144,-0.088715,"ASSUMPTION EXAMPLE: -29.7% is the MIIT 2024 China annual module price change; applied only as an arithmetic input, NOT as a US delivered-price change or an estimate"
+-0.297,assumed lower share (15%),0.15,1.144,-0.050964,"ASSUMPTION EXAMPLE: -29.7% is the MIIT 2024 China annual module price change; applied only as an arithmetic input, NOT as a US delivered-price change or an estimate"
+-0.297,assumed higher share (35%),0.35,1.144,-0.11892,"ASSUMPTION EXAMPLE: -29.7% is the MIIT 2024 China annual module price change; applied only as an arithmetic input, NOT as a US delivered-price change or an estimate"
+-0.2,benchmark module share,0.26111,1.144,-0.059741,assumption example
+-0.2,assumed lower share (15%),0.15,1.144,-0.034319,assumption example
+-0.2,assumed higher share (35%),0.35,1.144,-0.080078,assumption example
+-0.1,benchmark module share,0.26111,1.144,-0.02987,assumption example
+-0.1,assumed lower share (15%),0.15,1.144,-0.01716,assumption example
+-0.1,assumed higher share (35%),0.35,1.144,-0.040039,assumption example
+0.1,benchmark module share,0.26111,1.144,0.02987,assumption example
+0.1,assumed lower share (15%),0.15,1.144,0.01716,assumption example
+0.1,assumed higher share (35%),0.35,1.144,0.040039,assumption example
+0.2,benchmark module share,0.26111,1.144,0.059741,assumption example
+0.2,assumed lower share (15%),0.15,1.144,0.034319,assumption example
+0.2,assumed higher share (35%),0.35,1.144,0.080078,assumption example
+0.3,benchmark module share,0.26111,1.144,0.089611,assumption example
+0.3,assumed lower share (15%),0.15,1.144,0.051479,assumption example
+0.3,assumed higher share (35%),0.35,1.144,0.12012,assumption example

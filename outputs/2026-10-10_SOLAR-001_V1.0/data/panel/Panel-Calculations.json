@@ -1,0 +1,193 @@
+{
+  "capex": 143674666.6739832,
+  "occ": 126041695.3068845,
+  "gcc": 17632971.3670987,
+  "module_effective_share": 0.29870984,
+  "module_sensitivities": [
+    {
+      "module_price_reduction": 0.1,
+      "cost_scope": "PV overnight cost only; grid connection unchanged",
+      "delta_capex": 3764989.463844822,
+      "new_total_capex": 139909677.21013835,
+      "new_capex_kwac": 1399.0967721013835,
+      "new_node_npv": -82200291.71871233,
+      "new_fixed_npv": -69975128.82352905,
+      "delta_npv": 3764989.463844822,
+      "delta_npv_with_nominal_credit": 2708167.6207840564
+    },
+    {
+      "module_price_reduction": 0.2,
+      "cost_scope": "PV overnight cost only; grid connection unchanged",
+      "delta_capex": 7529978.927689644,
+      "new_total_capex": 136144687.74629354,
+      "new_capex_kwac": 1361.4468774629354,
+      "new_node_npv": -78435302.25486751,
+      "new_fixed_npv": -66210139.35968423,
+      "delta_npv": 7529978.927689644,
+      "delta_npv_with_nominal_credit": 5416335.241568113
+    },
+    {
+      "module_price_reduction": 0.297,
+      "cost_scope": "PV overnight cost only; grid connection unchanged",
+      "delta_capex": 11182018.70761912,
+      "new_total_capex": 132492647.96636407,
+      "new_capex_kwac": 1324.9264796636407,
+      "new_node_npv": -74783262.47493804,
+      "new_fixed_npv": -62558099.579754755,
+      "delta_npv": 11182018.70761912,
+      "delta_npv_with_nominal_credit": 8043257.833728646
+    },
+    {
+      "module_price_reduction": 0.3,
+      "cost_scope": "PV overnight cost only; grid connection unchanged",
+      "delta_capex": 11294968.391534464,
+      "new_total_capex": 132379698.28244872,
+      "new_capex_kwac": 1323.7969828244873,
+      "new_node_npv": -74670312.79102269,
+      "new_fixed_npv": -62445149.89583941,
+      "delta_npv": 11294968.391534464,
+      "delta_npv_with_nominal_credit": 8124502.862352168
+    },
+    {
+      "module_price_reduction": 1.0,
+      "cost_scope": "PV overnight cost only; grid connection unchanged",
+      "delta_capex": 37649894.638448216,
+      "new_total_capex": 106024772.03553498,
+      "new_capex_kwac": 1060.2477203553499,
+      "new_node_npv": -48315386.544108935,
+      "new_fixed_npv": -36090223.648925655,
+      "delta_npv": 37649894.638448216,
+      "delta_npv_with_nominal_credit": 27081676.207840562
+    }
+  ],
+  "credit_nominal_2027": 44179960.00224983,
+  "credit_real_2025": 42051121.95336094,
+  "credit_pv": 40329070.637154445,
+  "node_npv_with_credit": -45636210.545402706,
+  "fixed_npv_with_credit": -33411047.650219426,
+  "fixed_breakeven_with_credit": 51.76641233097632,
+  "no_unpaid_breakeven": 55.91431161310392,
+  "negative_price_energy_weighted_mean": -1.7936793446899468,
+  "negative_price_nominal_contract_receipts_2027": 1782574.9418000004,
+  "a": 15.471935077402582,
+  "K": 187321205.57371765,
+  "output_10pct_npv_change": 10135592.43911605,
+  "module_point10usd_npv": 12931990.980365546,
+  "required_high_year_share_median": 0.4490287347274737,
+  "required_high_year_share_reference": 0.4767241664526912,
+  "irr_root_display": [
+    {
+      "scenario": "node_base",
+      "roots": [
+        -0.9652285566130835,
+        -0.02527854974720123
+      ],
+      "near_zero_numerical_root": -0.02527854974720123,
+      "original_irr_status": "multiple_roots [-0.9652285566130835, -0.02527854974720123]"
+    },
+    {
+      "scenario": "node_downside",
+      "roots": [
+        -0.2485139109669553,
+        -0.08602776568143267
+      ],
+      "near_zero_numerical_root": -0.08602776568143267,
+      "original_irr_status": "multiple_roots [-0.2485139109669553, -0.08602776568143267]"
+    },
+    {
+      "scenario": "node_upside",
+      "roots": [
+        -0.004223269495098769
+      ],
+      "near_zero_numerical_root": -0.004223269495098769,
+      "original_irr_status": "unique"
+    },
+    {
+      "scenario": "fixed_base",
+      "roots": [
+        -0.48209155127600123,
+        -0.025963519866031515
+      ],
+      "near_zero_numerical_root": -0.025963519866031515,
+      "original_irr_status": "multiple_roots [-0.48209155127600123, -0.025963519866031515]"
+    },
+    {
+      "scenario": "fixed_downside",
+      "roots": [],
+      "near_zero_numerical_root": null,
+      "original_irr_status": "no_numerical_root_completeness_not_certified"
+    },
+    {
+      "scenario": "fixed_upside",
+      "roots": [
+        -0.8648357084835868,
+        0.014077815484026202
+      ],
+      "near_zero_numerical_root": 0.014077815484026202,
+      "original_irr_status": "multiple_roots [-0.8648357084835868, 0.014077815484026202]"
+    }
+  ],
+  "checks": [
+    {
+      "check": "component sum",
+      "transition": "2023-2024",
+      "keys": [
+        "volume_lmdi",
+        "price_level_lmdi",
+        "match_lmdi",
+        "rule_effect"
+      ],
+      "max_rounding_residual_usd": 0.09600001573562622
+    },
+    {
+      "check": "component sum",
+      "transition": "2023-2024",
+      "keys": [
+        "weather_shapley",
+        "price_shapley"
+      ],
+      "max_rounding_residual_usd": 0.09000000357627869
+    },
+    {
+      "check": "component sum",
+      "transition": "2023-2025",
+      "keys": [
+        "volume_lmdi",
+        "price_level_lmdi",
+        "match_lmdi",
+        "rule_effect"
+      ],
+      "max_rounding_residual_usd": 0.09119999408721924
+    },
+    {
+      "check": "component sum",
+      "transition": "2023-2025",
+      "keys": [
+        "weather_shapley",
+        "price_shapley"
+      ],
+      "max_rounding_residual_usd": 0.09400001168251038
+    },
+    {
+      "check": "component sum",
+      "transition": "2024-2025",
+      "keys": [
+        "volume_lmdi",
+        "price_level_lmdi",
+        "match_lmdi",
+        "rule_effect"
+      ],
+      "max_rounding_residual_usd": 0.0406000018119812
+    },
+    {
+      "check": "component sum",
+      "transition": "2024-2025",
+      "keys": [
+        "weather_shapley",
+        "price_shapley"
+      ],
+      "max_rounding_residual_usd": 0.019999995827674866
+    }
+  ],
+  "scope": "Derived from frozen output tables; hypothetical sensitivities. Historical price numbers unadjusted for CPI. No new fitting, resampling or physical simulation."
+}

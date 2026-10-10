@@ -1,0 +1,153 @@
+{
+ "pdf_sha256": "80cffd046fa9c317d1ac475618c29246bc447f96e527ec07f98b97d06d324993",
+ "pdf_bytes": 339674,
+ "header_checks": {
+  "title": true,
+  "published": true,
+  "department": true
+ },
+ "values": {
+  "polysilicon_output_10k_tonnes_gt": [
+   "182",
+   "23.6"
+  ],
+  "wafer_output_gw": [
+   "753"
+  ],
+  "cell_output_gw": [
+   "654"
+  ],
+  "module_output_gw": [
+   "588"
+  ],
+  "price_change_pct": [
+   "39.5",
+   "29.7"
+  ]
+ },
+ "embedded_miit_links": [
+  "https://beian.miit.gov.cn/",
+  "https://bzxx.miit.gov.cn/qa/znzx/main",
+  "https://mail.miit.gov.cn/",
+  "https://www.miit.gov.cn/",
+  "https://www.miit.gov.cn/RRSdy/index.html",
+  "https://www.miit.gov.cn/gxsj/index.html",
+  "https://www.miit.gov.cn/gxsj/tjfx/dzxx/index.html",
+  "https://www.miit.gov.cn/gxsj/tjfx/index.html",
+  "https://www.miit.gov.cn/hdjl/index.html",
+  "https://www.miit.gov.cn/index.html",
+  "https://www.miit.gov.cn/wzdt/index.html",
+  "https://www.miit.gov.cn/xwfb/index.html",
+  "https://www.miit.gov.cn/ydbwz/art/2020/art_c3d16f610b584f5ab12295fd14af73e2.html",
+  "https://www.miit.gov.cn/zwgk/index.html",
+  "https://www.miit.gov.cn/zzjg/index.html",
+  "https://www.miit.gov.cn/zzjg/index.html#bsdw",
+  "https://www.miit.gov.cn/zzjg/index.html#dfzgbm",
+  "https://www.miit.gov.cn/zzjg/index.html#zsgx",
+  "https://ythzxfw.miit.gov.cn/index",
+  "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm07000001&url=https%3A%2F%2Fwww.miit.gov.cn%2Fgxsj%2Findex.html"
+ ],
+ "article_url_present_in_pdf": false,
+ "fujian_extract_rows": [
+  {
+   "metric_name": "polysilicon_output",
+   "value": 1820000.0,
+   "unit": "metric_tonnes",
+   "comparison": "greater_than",
+   "source_locator": "article paragraph 2",
+   "limitation": "Not capacity or utilization; preserve greater-than comparator",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  },
+  {
+   "metric_name": "wafer_output",
+   "value": 753.0,
+   "unit": "GW",
+   "comparison": "reported",
+   "source_locator": "article paragraph 3",
+   "limitation": "Manufacturing output; successive stages must not be summed",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  },
+  {
+   "metric_name": "cell_output",
+   "value": 654.0,
+   "unit": "GW",
+   "comparison": "reported",
+   "source_locator": "article paragraph 4",
+   "limitation": "Manufacturing output; not generating capacity",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  },
+  {
+   "metric_name": "module_output",
+   "value": 588.0,
+   "unit": "GW",
+   "comparison": "reported",
+   "source_locator": "article paragraph 5",
+   "limitation": "Manufacturing output; not U.S. delivered procurement",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  },
+  {
+   "metric_name": "polysilicon_price_change",
+   "value": -39.5,
+   "unit": "percent_yoy",
+   "comparison": "reported",
+   "source_locator": "article paragraph 6",
+   "limitation": "Source-reported calendar-year price direction; product specifications, transaction terms and U.S. delivered-cost basis absent",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  },
+  {
+   "metric_name": "module_price_change",
+   "value": -29.7,
+   "unit": "percent_yoy",
+   "comparison": "reported",
+   "source_locator": "article paragraph 6",
+   "limitation": "Source-reported calendar-year price direction; product specifications, transaction terms and U.S. delivered-cost basis absent",
+   "period": "2024-01-01_to_2024-12-31",
+   "geography": "China",
+   "source_id": "MIIT-2024-FUJIAN-REPUBLICATION",
+   "original_publication_date": "2025-02-27",
+   "republication_date": "2025-04-18",
+   "raw_sha256": "dab4d4b9509708c6817118e0b2fbeea570aa2b868c8f86d666b7d3367493003d",
+   "source_tier": "official provincial republication attributed to MIIT Electronic Information Department; not original MIIT HTML"
+  }
+ ],
+ "six_values_from_pdf": {
+  "polysilicon": 1820000.0,
+  "wafer": 753.0,
+  "cell": 654.0,
+  "module": 588.0,
+  "poly_price": -39.5,
+  "module_price": -29.7
+ },
+ "six_values_match_fujian_extract": true,
+ "boundary": "Owner-supplied browser print of the MIIT-origin page (Skia/PDF, created 2026-10-07). It is not the original HTML; the article URL itself is not embedded. It corroborates the retained republication values."
+}

@@ -1,0 +1,11 @@
+name,year,SETTLEMENT_LOAD_ZONE,SUBSTATION,point_type,name_inferred_solar,coverage,priced_intervals,tw_price,gw_price_ref,capture_ratio,neg_interval_share,neg_energy_share,selection
+ANDMDSLR_ALL,2025,LZ_WEST,ANDMDSLR,RN,True,0.999943,35038,25.6252,18.8633,0.736126,0.161368,0.192172,"LZ_WEST stratum, name-inferred solar candidates (n=12), rank at P25 of same-curve capture price"
+FWLR_SLR_1,2025,LZ_WEST,CASTMO,RN,True,0.999943,35038,45.2768,21.8923,0.483521,0.0714367,0.17185,"LZ_WEST stratum, name-inferred solar candidates (n=12), rank at P50 of same-curve capture price"
+TI_SOLAR_ALL,2025,LZ_WEST,PINNAC,RN,True,0.999943,35038,46.9444,22.5459,0.480269,0.0538844,0.132085,"LZ_WEST stratum, name-inferred solar candidates (n=12), rank at P75 of same-curve capture price"
+BELM_SLR_RN,2025,LZ_NORTH,BLFSW,RN,True,0.999943,35038,30.6773,20.5322,0.669297,0.0551687,0.132351,"LZ_NORTH stratum, name-inferred solar candidates (n=22), rank at P25 of same-curve capture price"
+MRKM_SLR_RN,2025,LZ_NORTH,BOSQUE,RN,True,0.999943,35038,31.2488,21.4413,0.686147,0.0462641,0.107669,"LZ_NORTH stratum, name-inferred solar candidates (n=22), rank at P50 of same-curve capture price"
+STAM_SLR_ALL,2025,LZ_NORTH,SLTSW,RN,True,0.999943,35038,31.633,23.0593,0.728964,0.0404133,0.0990821,"LZ_NORTH stratum, name-inferred solar candidates (n=22), rank at P75 of same-curve capture price"
+PERE_SLR_RN,2025,LZ_SOUTH,RAPTOR,RN,True,0.999943,35038,28.9393,21.5688,0.745313,0.0442377,0.0945012,"LZ_SOUTH stratum, name-inferred solar candidates (n=14), rank at P25 of same-curve capture price"
+TREB_SOLAR1,2025,LZ_SOUTH,JOSLIN,RN,True,0.999943,35038,30.1823,22.8339,0.756532,0.038444,0.0838352,"LZ_SOUTH stratum, name-inferred solar candidates (n=14), rank at P50 of same-curve capture price"
+STAR_SLR_RN,2025,LZ_SOUTH,ROMA_SW,RN,True,0.999943,35038,28.4035,25.0634,0.882405,0.0674411,0.0814692,"LZ_SOUTH stratum, name-inferred solar candidates (n=14), rank at P75 of same-curve capture price"
+TAYGETE2_ALL,2025,LZ_WEST,PIGCREEK,RN,False,0.999943,35038,46.37,22.1319,0.47729,0.062475,0.152417,reference node used in the 2026-10-07 scenario package (not chosen by this rule; kept for continuity)

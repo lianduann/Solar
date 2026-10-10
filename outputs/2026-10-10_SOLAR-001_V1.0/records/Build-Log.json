@@ -1,0 +1,75 @@
+{
+ "started_utc": "2026-10-10T07:45:48+00:00",
+ "python": "3.13.16",
+ "output_dir": ".",
+ "steps": [
+  {
+   "step": "supplementary calculations: production-credit, storage-screen and market-reference arithmetic",
+   "command": "python3 build/r1_calcs.py",
+   "exit_status": 0,
+   "seconds": 2.5,
+   "output_tail": [
+    "             0.0427                   0.0754                       96.4                       141.0",
+    "             0.0600                   0.0872                      109.2                       158.3",
+    "             0.0800                   0.1019                      125.0                       179.7"
+   ],
+   "ok": true
+  },
+  {
+   "step": "render figures",
+   "command": "python3 build/render_figures.py --out figures",
+   "exit_status": 0,
+   "seconds": 11.0,
+   "output_tail": [
+    "findfont: Failed to find font weight semibold for Liberation Sans, now using 700.",
+    "findfont: Failed to find font weight semibold for Liberation Sans, now using 700.",
+    "findfont: Failed to find font weight semibold for Liberation Sans, now using 700."
+   ],
+   "ok": true
+  },
+  {
+   "step": "compare plotted data with upstream snapshots",
+   "command": "python3 build/check_figures.py --upstream build/upstream/snapshots --figures figures --out records/Figure-Data-Check.json",
+   "exit_status": 0,
+   "seconds": 0.0,
+   "output_tail": [
+    "empirical_F7_node_basis_persistence                     identical plotted data",
+    "empirical_F8_bootstrap_and_mixture_scenario             identical plotted data",
+    "mismatches: 0"
+   ],
+   "ok": true
+  },
+  {
+   "step": "build PDF",
+   "command": "python3 build/build_report.py --figures figures --out SOLAR-001_V1.0_Integrated-Market-Research-Report-EN.pdf",
+   "exit_status": 0,
+   "seconds": 18.1,
+   "output_tail": [
+    "./SOLAR-001_V1.0_Integrated-Market-Research-Report-EN.pdf"
+   ],
+   "ok": true
+  },
+  {
+   "step": "numeric-preservation check",
+   "command": "python3 build/check_numbers.py baseline/SOLAR-001_V0.999_Report-EN.md source/SOLAR-001_V1.0_Report-EN.md records/Number-Preservation-Check.json",
+   "exit_status": 0,
+   "seconds": 0.1,
+   "output_tail": [
+    "PASS new: 47 unexplained: [] cells: {} unused registry: [] dropped: ['0.999', '11.8', '11.9', '12.6']"
+   ],
+   "ok": true
+  },
+  {
+   "step": "structure, reference and link check",
+   "command": "python3 build/check_report.py source/SOLAR-001_V1.0_Report-EN.md SOLAR-001_V1.0_Integrated-Market-Research-Report-EN.pdf records/Report-Structure-Check.json",
+   "exit_status": 0,
+   "seconds": 0.6,
+   "output_tail": [
+    "PASS {\"pages\": 106, \"bookmarks\": 115, \"bookmark_levels\": [1, 2], \"bookmarks_bad_page\": [], \"internal_links\": 698, \"internal_links_unresolved\": [], \"external_links\": 73, \"external_unique\": 51, \"external_non_https\": [], \"file_links\": 12, \"file_links_missing_or_absolute\": [], \"contents_entries\": 112, \"contents_zero_page_numbers\": 0, \"contents_numbers_differ_from_bookmarks\": [], \"bookmarks_title_not_on_target_page\": []}",
+    "numbering {'Table': [], 'Figure': []} refs {'tables': 32, 'figures': 30, 'sections': 93, 'unresolved': []} qual True"
+   ],
+   "ok": true
+  }
+ ],
+ "result": "PASS"
+}

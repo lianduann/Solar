@@ -1,0 +1,48 @@
+{
+  "cashflow_cases": [
+    {
+      "scenario": "node_base",
+      "case": "8.9% CAPEX reduction",
+      "baseline_npv": -85965281.18262918,
+      "new_npv": -73178235.84864467,
+      "delta_npv": 12787045.33398451,
+      "gap_closed_pct": 14.87466237307947
+    },
+    {
+      "scenario": "node_base",
+      "case": "Illustrative 30% of total CAPEX cash credit in year 1",
+      "baseline_npv": -85965281.18262918,
+      "new_npv": -44627983.77954588,
+      "delta_npv": 41337297.4030833,
+      "gap_closed_pct": 48.0860375658682
+    },
+    {
+      "scenario": "fixed_base",
+      "case": "8.9% CAPEX reduction",
+      "baseline_npv": -73740118.28751755,
+      "new_npv": -60953072.953533046,
+      "delta_npv": 12787045.333984502,
+      "gap_closed_pct": 17.340690021850758
+    },
+    {
+      "scenario": "fixed_base",
+      "case": "Illustrative 30% of total CAPEX cash credit in year 1",
+      "baseline_npv": -73740118.28751755,
+      "new_npv": -32402820.88443422,
+      "delta_npv": 41337297.403083324,
+      "gap_closed_pct": 56.05808393459106
+    }
+  ],
+  "credit_assumed_fraction_of_total_capex": 0.3,
+  "credit_assumed_payment_t": 1,
+  "credit_breakeven_flat_nominal_price": 51.41134379271335,
+  "fixed_price_npv_slope": 2839527.182163797,
+  "as_available_receipts": 6471019.119075987,
+  "as_available_npv": -87202017.90560713,
+  "as_available_lcoe": 41.408438293861565,
+  "inflation_pct": 2.5,
+  "fixed_base_nominal_year1": 9912781.154724944,
+  "fixed_base_real_year1_check": 9435127.80937532,
+  "discount_formula_real_pct": 4.274585365853678,
+  "source_scope": "Existing frozen annual cash-flow equation; initial CAPEX-only change and hypothetical first-year cash receipt. No eligibility or financing model."
+}

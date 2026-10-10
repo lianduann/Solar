@@ -1,0 +1,592 @@
+INR,fuel,mw,project_dec25,project_sep26,county_dec25,county_sep26,cod_dec25,cod_sep26,change
+16INR0049,Solar,203.0,Nazareth Solar,Nazareth Solar,Castro,Castro,2027-08-05,2027-08-31,COD later than Dec-2025 projection
+16INR0112,Wind,197.01,Loma Pinta Wind,Loma Pinta Wind,La Salle,La Salle,2026-12-31,2026-12-31,unchanged COD
+18INR0073,Wind,3.0,Sweetwater 1 repower,Sweetwater 1 repower,Nolan,Nolan,2024-11-30,2024-11-30,unchanged COD
+19INR0002,Solar,175.6,Grandfalls Solar,,Upton,,2027-07-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+19INR0022,Wind,141.5,Monte Alto I,,Willacy,,2028-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+19INR0023,Wind,199.2,Monte Alto 2 Wind,Monte Alto 2 Wind,Willacy,Willacy,2027-06-01,2028-12-31,COD later than Dec-2025 projection
+19INR0055,Wind,233.9,Monte Cristo II Wind,Monte Cristo II Wind,Hidalgo,Hidalgo,2028-12-31,2028-12-31,unchanged COD
+19INR0103,Solar,200.0,Rodeo Solar,Rodeo Solar,Andrews,Andrews,2026-11-30,2026-11-30,unchanged COD
+20INR0047,Wind,492.8,Siete,Siete,Webb,Webb,2028-01-03,2029-03-31,COD later than Dec-2025 projection
+20INR0050,Solar,224.67,Castro Solar,Castro Solar,Castro,Castro,2028-09-20,2029-04-18,COD later than Dec-2025 projection
+20INR0086,Solar,100.0,Arroyo Solar,Arroyo Solar,Cameron,Cameron,2028-02-22,2028-02-22,unchanged COD
+20INR0143,Solar,201.5,Tri-X Solar 1 SLF,Tri-X Solar 1 SLF,Crane,Crane,2027-12-01,2028-10-30,COD later than Dec-2025 projection
+20INR0162,Solar,200.5,Diamondback solar,Diamondback solar,Starr,Starr,2027-12-31,2028-04-29,COD later than Dec-2025 projection
+20INR0236,Solar,209.15,New Hickory Solar,,Jackson,,2026-07-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+20INR0241,Solar,218.79,Crowded Star Solar,,Jones,,2026-07-08,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+20INR0246,Battery,51.6,Ryan Energy Storage,Ryan Energy Storage,Coryell,Coryell,2026-12-12,2026-12-12,unchanged COD
+20INR0247,Wind,180.0,Water Valley Wind Energy,Water Valley Wind Energy,Tom Green,Tom Green,2027-12-15,2027-12-15,unchanged COD
+20INR0255,Solar,515.66,Renegade Project,Renegade Project,Deaf Smith,Deaf Smith,2027-04-17,2028-01-15,COD later than Dec-2025 projection
+20INR0286,Gas,21.0,"Wise County Power Repower (CT1, CT2)","Wise County Power Repower (CT1, CT2)",Wise,Wise,2026-05-01,2026-12-19,COD later than Dec-2025 projection
+21INR0022,Solar,260.0,Red Holly Solar,Red Holly Solar,Dawson,Dawson,2027-06-01,2029-09-30,COD later than Dec-2025 projection
+21INR0029,Battery,50.0,Red Holly Storage 1,Red Holly Storage 1,Dawson,Dawson,2028-05-30,2028-05-30,unchanged COD
+21INR0031,Solar,150.0,Indigo Solar,Indigo Solar,Fisher,Fisher,2026-08-17,2027-09-17,COD later than Dec-2025 projection
+21INR0033,Battery,50.0,Red Holly Storage,Red Holly Storage,Dawson,Dawson,2028-05-30,2028-05-30,unchanged COD
+21INR0207,Solar,321.66,Quantum Solar,,Haskell,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+21INR0210,Solar,250.88,Adamstown Solar,Adamstown Solar,Wichita,Wilbarger,2027-08-31,2027-08-31,unchanged COD
+21INR0220,Solar,254.94,Maleza Solar,Maleza Solar,Wharton,Wharton,2027-02-09,2028-12-31,COD later than Dec-2025 projection
+21INR0253,Solar,151.2,Ulysses Solar,Ulysses Solar,Coke,Coke,2027-03-02,2027-03-17,COD later than Dec-2025 projection
+21INR0263,Wind,283.4,Monarch Creek Wind,Monarch Creek Wind,Throckmorton,Throckmorton,2027-09-17,2027-09-17,unchanged COD
+21INR0265,Solar,100.51,Sisters Solar,Sisters Solar,Ector,Ector,2027-05-31,2028-09-23,COD later than Dec-2025 projection
+21INR0268,Solar,335.45,Greyhound Solar,,Ector,,2026-03-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+21INR0326,Solar,120.86,Dove Run Solar,,Duval,,2027-10-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+21INR0334,Solar,180.87,Nightfall Solar,Nightfall Solar,Uvalde,Uvalde,2026-06-30,2026-12-31,COD later than Dec-2025 projection
+21INR0341,Solar,366.0,Space City Solar,Space City Solar,Wharton,Wharton,2027-06-01,2027-06-01,unchanged COD
+21INR0362,Solar,198.43,Oystercatcher Solar,Oystercatcher Solar,Ellis,Ellis,2026-10-29,2027-01-29,COD later than Dec-2025 projection
+21INR0371,Solar,132.98,,Pecan Prairie South,,Leon,,2027-05-01,added since Dec-2025 list
+21INR0391,Solar,121.89,Grandslam Solar,Grandslam Solar,Atascosa,Atascosa,2026-11-28,2027-10-01,COD later than Dec-2025 projection
+21INR0421,Solar,150.48,Armadillo Solar,Armadillo Solar,Navarro,Navarro,2026-12-31,2026-12-31,unchanged COD
+21INR0428,Solar,324.11,Pecan Prairie North,Pecan Prairie North,Leon,Leon,2027-05-01,2027-05-01,unchanged COD
+21INR0444,Battery,100.62,Long Point Storage,Long Point Storage,Brazoria,Brazoria,2026-12-30,2027-12-30,COD later than Dec-2025 projection
+21INR0492,Battery,150.6,Stockyard Grid Batt,Stockyard Grid Batt,Tarrant,Tarrant,2026-12-31,2028-12-14,COD later than Dec-2025 projection
+21INR0505,Battery,500.0,Ramsey Storage,Ramsey Storage,Wharton,Wharton,2027-12-31,2028-06-30,COD later than Dec-2025 projection
+21INR0520,Solar,171.13,Yellow Viking Solar,Yellow Viking Solar,Somervell,Somervell,2027-07-13,2027-07-13,unchanged COD
+22INR0209,Solar,200.98,Felix North Solar,Felix North Solar,Wilbarger,Wilbarger,2028-12-31,2028-12-31,unchanged COD
+22INR0220,Solar,101.5,Lamkin Solar,Lamkin Solar,Comanche,Comanche,2027-08-08,2027-11-08,COD later than Dec-2025 projection
+22INR0239,Battery,206.8,Rockefeller Storage,Rockefeller Storage,Schleicher,Schleicher,2027-06-01,2027-06-01,unchanged COD
+22INR0251,Solar,205.2,Shaula I Solar,Shaula I Solar,DeWitt,DeWitt,2026-03-31,2028-06-15,COD later than Dec-2025 projection
+22INR0257,Solar,203.9,Corazon Solar Phase II,Corazon Solar Phase II,Webb,Webb,2028-06-01,2028-06-01,unchanged COD
+22INR0262,Solar,417.47,Sequoia II Solar,Sequoia II Solar,Callahan,Callahan,2026-11-21,2027-01-28,COD later than Dec-2025 projection
+22INR0267,Solar,205.2,Shaula II Solar,Shaula II Solar,DeWitt,DeWitt,2026-05-30,2028-06-15,COD later than Dec-2025 projection
+22INR0274,Solar,189.5,Crowded Star Solar II,,Jones,,2026-05-29,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+22INR0279,Solar,200.75,Clutch City Solar Phase I,Clutch City Solar Phase I,Brazoria,Brazoria,2028-07-01,2028-07-01,unchanged COD
+22INR0281,Solar,152.41,Pink Solar,Pink Solar SLF,Hunt,Hunt,2027-04-30,2029-07-31,COD later than Dec-2025 projection
+22INR0301,Wind,295.3,Fortuna Wind,Fortuna Wind,Jack,Jack,2026-07-01,2026-07-01,unchanged COD
+22INR0342,Solar,101.0,Matagorda Solar,Matagorda Solar,Matagorda,Matagorda,2027-08-25,2027-08-25,unchanged COD
+22INR0374,Solar,202.39,Inertia Solar,Inertia Solar,Haskell,Haskell,2029-03-31,2029-03-31,unchanged COD
+22INR0387,Battery,209.32,,Val Vista Grid BESS 1,,Hidalgo,,2029-03-30,added since Dec-2025 list
+22INR0401,Battery,251.85,Eval Storage,Eval Storage,Cameron,Cameron,2028-12-31,2029-04-30,COD later than Dec-2025 projection
+22INR0422,Battery,205.5,Ferdinand Grid BESS,,Bexar,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+22INR0426,Solar,54.71,LUBIO SOLAR,LUBIO SOLAR,Kaufman,Kaufman,2028-04-20,2028-04-20,unchanged COD
+22INR0437,Solar,356.6,TORMES SOLAR,TORMES SOLAR,Navarro,Navarro,2027-03-31,2027-03-31,unchanged COD
+22INR0443,Battery,155.0,Bowstring BESS,Bowstring BESS,San Patricio,San Patricio,2028-09-18,2028-09-18,unchanged COD
+22INR0454,Solar,36.0,Delaware Ranch Solar,Wallace Solar,Culberson,Culberson,2026-09-16,2027-05-14,COD later than Dec-2025 projection
+22INR0455,Solar,101.2,Blue Sky Sol,Blue Sky Sol,Crockett,Crockett,2027-04-23,2027-12-31,COD later than Dec-2025 projection
+22INR0457,Battery,153.55,Anson BAT,Anson BAT,Jones,Jones,2027-12-01,2027-12-01,unchanged COD
+22INR0466,Battery,205.5,Pajarita BESS,,Cameron,,2028-07-19,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+22INR0467,Battery,60.4,Bird Dog Energy Storage,,Live Oak,,2026-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+22INR0499,Wind,297.4,Aquilla Lake 3 Wind,,Hill,,2027-03-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+22INR0503,Battery,203.62,Tidwell Prairie II Batt,Tidwell Prairie II Batt,Robertson,Robertson,2026-06-01,2026-12-03,COD later than Dec-2025 projection
+22INR0504,Battery,203.62,Barton Branch IA,Barton Branch IA,Robertson,Robertson,2026-03-01,2026-10-01,COD later than Dec-2025 projection
+22INR0552,Battery,208.89,Sowers Storage,Sowers Storage,Kaufman,Kaufman,2026-12-29,2027-07-01,COD later than Dec-2025 projection
+22INR0558,Battery,203.2,Callisto II Energy Center,Callisto II Energy Center,Harris,Harris,2026-07-01,2026-12-17,COD later than Dec-2025 projection
+22INR0559,Solar,61.4,Honeycomb Solar SLF,Honeycomb Solar SLF,Bee,Bee,2026-07-09,2027-02-27,COD later than Dec-2025 projection
+22INR0596,Battery,0.0,Grizzly Ridge BESS SLF,Grizzly Ridge BESS SLF,Hamilton,Hamilton,2026-07-01,2030-07-01,COD later than Dec-2025 projection
+22INR0605,Solar,196.3,Camino Santiago Solar,Camino Santiago Solar,Milam,Milam,2027-02-18,2027-09-01,COD later than Dec-2025 projection
+23INR0027,Solar,602.02,Cachena Solar SLF,Clear Fork Creek Solar,Wilson,Wilson,2027-04-29,2027-04-29,unchanged COD
+23INR0029,Gas,697.0,Cedar Bayou 5 (TEF - Due Diligence),Cedar Bayou 5 (TEF - Due Diligence),Chambers,Chambers,2027-12-15,2028-03-31,COD later than Dec-2025 projection
+23INR0031,Solar,321.64,Solace Solar,,Haskell,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0035,Solar,144.0,Starling Solar,,Gonzales,,2028-01-28,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0040,Solar,50.42,Dori BQ Solar,Dori BQ Solar,Harris,Harris,2027-08-30,2027-08-30,unchanged COD
+23INR0045,Solar,121.04,Caney Creek Solar,Caney Creek Solar,Van Zandt,Van Zandt,2027-06-21,2027-06-21,unchanged COD
+23INR0047,Solar,397.15,Charger Solar,,Refugio,,2026-08-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0056,Solar,406.6,Caliche Mound Solar,Caliche Mound Solar,Deaf Smith,Deaf Smith,2026-10-10,2027-10-26,COD later than Dec-2025 projection
+23INR0057,Solar,502.46,Duffy Solar,Duffy Solar,Matagorda,Matagorda,2027-12-31,2027-12-31,unchanged COD
+23INR0058,Solar,208.34,Erin Solar,Erin Solar,Wharton,Wharton,2028-12-31,2029-12-31,COD later than Dec-2025 projection
+23INR0059,Solar,323.7,Briggs Solar,Briggs Solar,Haskell,Haskell,2028-04-15,2028-04-15,unchanged COD
+23INR0061,Solar,145.0,,Noria Solar DCC,,Nueces,,2028-04-21,added since Dec-2025 list
+23INR0062,Battery,75.0,,Noria Storage,,Nueces,,2028-04-21,added since Dec-2025 list
+23INR0078,Solar,124.65,Shaw Solar,,Bandera,,2026-04-29,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0080,Solar,201.74,Soda Lake Solar 2 SLF,Soda Lake Solar 2 SLF,Crane,Crane,2027-12-01,2028-10-30,COD later than Dec-2025 projection
+23INR0082,Solar,508.61,Bottom Grass Solar,,Colorado,,2028-03-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0083,Battery,202.21,Bottom Grass BESS,,Colorado,,2028-03-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0084,Solar,243.46,Lavaca Bay Solar,,Matagorda,,2026-12-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0086,Solar,398.83,Hanson Solar,Hanson Solar,Coleman,Coleman,2027-04-17,2027-08-17,COD later than Dec-2025 projection
+23INR0088,Solar,203.17,Nockenut Springs Solar 1,Nockenut Springs Solar 1,Guadalupe,Guadalupe,2029-06-05,2029-06-05,unchanged COD
+23INR0089,Solar,201.57,Donegal Solar,Donegal Solar,Dickens,Dickens,2028-03-01,2028-11-01,COD later than Dec-2025 projection
+23INR0090,Solar,250.0,,Iguala Solar,,Victoria,,2029-02-01,added since Dec-2025 list
+23INR0091,Solar,171.0,,Cascade Solar,,Brazoria,,2028-01-15,added since Dec-2025 list
+23INR0093,Solar,256.5,Alila Solar,,San Patricio,,2028-04-20,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0116,Solar,307.0,Cantaloupe Solar,Cantaloupe Solar,Reeves,Reeves,2028-07-01,2028-07-01,unchanged COD
+23INR0137,Battery,103.0,BRP Diran BESS,Diran BESS,Wharton,Wharton,2028-01-31,2028-01-31,unchanged COD
+23INR0140,Battery,308.88,Seine BESS,Seine BESS,Foard,Foard,2027-12-01,2027-10-01,COD earlier than Dec-2025 projection
+23INR0150,Solar,200.85,Cradle Solar,Cradle Solar,Brazoria,Brazoria,2027-02-22,2027-09-17,COD later than Dec-2025 projection
+23INR0181,Battery,63.6,Starling Storage,,Gonzales,,2027-05-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0200,Battery,102.3,Paradiso BESS,Paradiso BESS,Atascosa,Atascosa,2028-03-15,2028-03-15,unchanged COD
+23INR0202,Solar,207.4,Erath County Solar,Erath County Solar,Erath,Erath,2029-01-31,2029-01-31,unchanged COD
+23INR0207,Solar,152.32,El Patrimonio Solar,El Patrimonio Solar,Bexar,Bexar,2027-04-29,2027-04-29,unchanged COD
+23INR0216,Battery,100.8,,Venus Mill Storage,,Ellis,,2027-12-31,added since Dec-2025 list
+23INR0225,Solar,170.82,MRG GOODY SOLAR,,Lamar,,2026-03-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0231,Solar,95.29,Rocinante Solar,Hoke Solar,Gonzales,Gonzales,2027-03-16,2027-07-05,COD later than Dec-2025 projection
+23INR0232,Battery,33.17,Rocinante BESS,Hoke Storage,Gonzales,Gonzales,2027-03-16,2027-07-05,COD later than Dec-2025 projection
+23INR0235,Solar,206.75,Hoyte Solar,Hoyte Solar,Milam,Milam,2027-04-15,2027-04-15,unchanged COD
+23INR0244,Solar,250.9,Tiger Solar,Tiger Solar,Jones,Jones,2027-06-30,2027-02-26,COD earlier than Dec-2025 projection
+23INR0248,Battery,50.0,Limewood Storage,Limewood Storage,Bell,Bell,2028-12-29,2028-12-29,unchanged COD
+23INR0261,Solar,201.8,Dodd Solar I,,Henderson,,2028-06-05,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0289,Solar,136.98,Skull Creek Solar,Skull Creek Solar,Anderson,Anderson,2027-05-16,2027-06-30,COD later than Dec-2025 projection
+23INR0290,Battery,255.33,Zeya BESS,Zeya BESS,Galveston,Galveston,2026-12-01,2027-12-01,COD later than Dec-2025 projection
+23INR0296,Solar,150.59,Trojan Solar SLF,,Cooke,,2026-05-05,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0300,Solar,17.7,Greater Bryant G Solar,,Midland,,2026-09-16,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0324,Battery,50.94,Lumberjack Storage,Lumberjack Storage,Cherokee,Cherokee,2029-11-01,2029-11-01,unchanged COD
+23INR0331,Battery,61.39,Orange Grove BESS,Orange Grove BESS,Jim Wells,Jim Wells,2027-04-30,2027-04-30,unchanged COD
+23INR0340,Battery,307.46,Larkspur Energy Storage,,Upton,,2027-05-05,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0342,Battery,144.22,Brizo BESS,Brizo BESS,Victoria,Victoria,2027-12-01,2027-09-01,COD earlier than Dec-2025 projection
+23INR0344,Solar,100.36,Hermes Solar,,Bell,,2026-03-26,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0345,Gas,518.83,Elmax Power Station,,Harris,,2028-07-05,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0349,Solar,170.45,Tokio Solar,Tokio Solar,McLennan,McLennan,2027-08-25,2027-08-25,unchanged COD
+23INR0354,Battery,100.0,,Bordertown BESS,,Starr,,2028-12-01,added since Dec-2025 list
+23INR0358,Battery,205.39,Castor BESS,,Brazoria,,2026-05-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0361,Battery,102.82,Third Coast BESS,Third Coast BESS,Jackson,Jackson,2027-06-15,2028-12-15,COD later than Dec-2025 projection
+23INR0367,Solar,203.5,Fewell Solar,Fewell Solar,Limestone,Limestone,2027-03-15,2028-05-15,COD later than Dec-2025 projection
+23INR0385,Solar,110.0,Camp Creek Solar SLF,,Robertson,,2028-09-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0392,Battery,0.0,Honeycomb Storage SLF,Honeycomb Storage SLF,Bee,Bee,2026-11-01,2027-05-11,COD later than Dec-2025 projection
+23INR0419,Battery,204.4,SAHARA BESS (SOHO BESS),,Brazoria,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0421,Battery,203.75,,Bee Branch IA,,Robertson,,2027-06-01,added since Dec-2025 list
+23INR0423,Battery,0.0,Camp Creek Storage SLF,,Robertson,,2028-09-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0425,Battery,170.85,Coneflower Storage Project,Coneflower Storage Project,Chambers,Chambers,2027-02-03,2028-02-28,COD later than Dec-2025 projection
+23INR0441,Wind,396.8,Bug Tussle Wind Project,Bug Tussle Wind Project,Lamar,Lamar,2027-08-23,2028-09-18,COD later than Dec-2025 projection
+23INR0467,Battery,231.9,Lavender Storage Project,Lavender Storage Project,Bexar,Bexar,2029-09-13,2029-09-13,unchanged COD
+23INR0469,Battery,120.0,Big Elm Storage,Big Elm Storage,Bell,Bell,2027-11-10,2028-12-15,COD later than Dec-2025 projection
+23INR0478,Battery,141.23,,Rhoda Storage,,Milam,,2028-08-01,added since Dec-2025 list
+23INR0479,Battery,231.86,Taormina Storage,Taormina Storage,Bexar,Bexar,2029-05-26,2029-05-26,unchanged COD
+23INR0487,Solar,50.0,Brightside Solar Alt POI,Brightside Solar Alt POI,Live Oak,Live Oak,2026-08-14,2026-08-14,unchanged COD
+23INR0502,Battery,231.88,Adelite Storage,Adelite Storage,Milam,Milam,2027-04-15,2028-04-20,COD later than Dec-2025 projection
+23INR0561,Wind,197.75,Cascabel Wind 2,Cascabel Wind 2,Zapata,Zapata,2027-12-01,2027-12-01,unchanged COD
+23INR0603,Battery,9.99,Damon BESS 2,Damon BESS 2,Brazoria,Brazoria,2026-08-21,2027-08-21,COD later than Dec-2025 projection
+23INR0617,Battery,9.9,Hidden Lakes BESS,,Galveston,,2026-05-24,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+23INR0637,Wind,261.1,Goodnight Wind II,Goodnight Wind II,Armstrong,Armstrong,2027-06-14,2027-06-06,COD earlier than Dec-2025 projection
+23INR0790,Battery,9.96,DAMON BESS3,,Brazoria,,2025-12-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0007,Solar,203.26,Nockenut Springs Solar 2,Nockenut Springs Solar 2,Guadalupe,Guadalupe,2029-06-05,2029-06-05,unchanged COD
+24INR0038,Solar,300.87,Jaguar Solar,Jaguar Solar,McLennan,McLennan,2027-12-11,2027-12-11,unchanged COD
+24INR0042,Solar,200.78,Yaupon Solar SLF,,Milam,,2027-07-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0044,Solar,178.0,Millers Branch Solar II,,Haskell,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0058,Battery,336.0,Briggs Storage,Briggs Storage,Haskell,Haskell,2028-04-15,2028-04-15,unchanged COD
+24INR0059,Solar,305.6,Cuchillas Solar,Cuchillas Solar,Webb,Webb,2028-12-15,2028-12-15,unchanged COD
+24INR0065,Solar,200.85,Keys Hollow Solar Phase II SLF,Keys Hollow Solar Phase II SLF,Goliad,Goliad,2028-03-10,2028-03-10,unchanged COD
+24INR0066,Battery,0.0,Keys Hollow Storage Phase II SLF,Keys Hollow Storage Phase II SLF,Goliad,Goliad,2028-03-10,2028-03-10,unchanged COD
+24INR0067,Solar,200.85,KEYS HOLLOW SOLAR SLF,KEYS HOLLOW SOLAR SLF,Goliad,Goliad,2028-03-10,2028-03-10,unchanged COD
+24INR0068,Battery,0.0,KEYS HOLLOW STORAGE SLF,KEYS HOLLOW STORAGE SLF,Goliad,Goliad,2028-03-10,2028-03-10,unchanged COD
+24INR0075,Solar,425.97,Blue Bird Solar,Blue Bird Solar,Johnson,Johnson,2028-06-27,2028-12-15,COD later than Dec-2025 projection
+24INR0102,Battery,210.56,,Val Vista Grid BESS 2,,Hidalgo,,2029-03-30,added since Dec-2025 list
+24INR0106,Solar,84.99,Payne Battlecreek,Payne Battlecreek,Hill,Hill,2027-08-25,2027-08-25,unchanged COD
+24INR0108,Battery,102.77,Louisa Energy Storage,Louisa Energy Storage,Bexar,Bexar,2029-03-12,2029-03-12,unchanged COD
+24INR0109,Battery,60.3,Oriana BESS,,Victoria,,2028-10-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0117,Solar,221.78,,Utley Solar,,Freestone,,2028-05-11,added since Dec-2025 list
+24INR0118,Solar,262.22,,Possum Kingdom Solar,,Jack,,2028-06-21,added since Dec-2025 list
+24INR0124,Solar,182.0,High Noon Solar,High Noon Solar,Hill,Hill,2028-05-09,2028-05-09,unchanged COD
+24INR0126,Battery,94.0,High Noon Storage,High Noon Storage,Hill,Hill,2028-05-09,2028-05-09,unchanged COD
+24INR0128,Battery,205.46,Desna BESS,,Brazoria,,2026-05-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0136,Battery,33.94,Eagle Springs Storage,Eagle Springs Storage,Delta,Delta,2026-12-31,2027-03-29,COD later than Dec-2025 projection
+24INR0137,Solar,77.21,Eagle Springs Solar,Eagle Springs Solar,Delta,Delta,2026-12-31,2027-03-29,COD later than Dec-2025 projection
+24INR0140,Battery,78.81,Gaia Storage,,Navarro,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0141,Solar,144.02,Gaia Solar,,Navarro,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0150,Solar,162.31,Lupinus Solar 1,Lupinus Solar 1,Franklin,Franklin,2027-09-13,2027-09-13,unchanged COD
+24INR0154,Solar,242.31,Lupinus Solar 2,Lupinus Solar 2,Franklin,Franklin,2027-04-03,2027-04-03,unchanged COD
+24INR0155,Battery,124.55,Lupinus Storage 2,Lupinus Storage 2,Franklin,Franklin,2027-04-03,2027-04-03,unchanged COD
+24INR0156,Solar,174.97,Moonstone Solar Project,Moonstone Solar Project,Wilson,Wilson,2029-03-31,2029-03-31,unchanged COD
+24INR0160,Solar,125.59,Huisache Solar,Huisache Solar,Wilson,Wilson,2029-06-30,2029-06-30,unchanged COD
+24INR0161,Solar,261.67,Miranda Solar Project,Miranda Solar Project,McMullen,McMullen,2027-12-06,2027-12-06,unchanged COD
+24INR0167,Solar,265.1,OCI SunRoper,OCI SunRoper,Wharton,Wharton,2027-10-01,2027-10-01,unchanged COD
+24INR0169,Battery,0.0,,Yaupon Storage SLF,,Milam,,2028-07-01,added since Dec-2025 list
+24INR0172,Solar,402.0,,Smith Lake Solar DC,,Grimes,,2028-12-29,added since Dec-2025 list
+24INR0178,Battery,210.74,Cumulus Grid BESS,Cumulus Grid BESS,Ellis,Ellis,2028-01-01,2028-01-01,unchanged COD
+24INR0181,Solar,56.0,Bynum Solar Project,,Coryell,,2026-02-06,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0186,Solar,351.78,Rowdy Creek Solar,Rowdy Creek Solar,Lamar,Lamar,2027-04-01,2027-12-29,COD later than Dec-2025 projection
+24INR0187,Battery,175.89,Rowdy Creek BESS,,Lamar,,2027-04-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0188,Solar,505.43,Tehuacana Creek Solar,Tehuacana Creek Solar,Navarro,Navarro,2027-03-10,2027-05-18,COD later than Dec-2025 projection
+24INR0189,Battery,0.0,Tehuacana Creek BESS SLF,,Navarro,,2027-03-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0196,Battery,154.0,Dori BQ BESS,Dori BQ BESS,Harris,Harris,2027-08-30,2027-08-30,unchanged COD
+24INR0198,Battery,309.8,Two Forks BESS,Two Forks BESS,Cooke,Cooke,2027-06-30,2028-08-01,COD later than Dec-2025 projection
+24INR0201,Solar,627.81,Short Creek Solar,Short Creek Solar,Wichita,Wichita,2027-12-17,2027-12-17,unchanged COD
+24INR0206,Solar,203.5,Glasgow Solar,Glasgow Solar,Navarro,Navarro,2027-03-16,2028-03-16,COD later than Dec-2025 projection
+24INR0207,Battery,101.0,Glasgow Storage,Glasgow Storage,Navarro,Navarro,2027-03-16,2028-03-16,COD later than Dec-2025 projection
+24INR0210,Battery,103.53,Raven Storage,Raven Storage,Wharton,Wharton,2026-07-31,2027-02-01,COD later than Dec-2025 projection
+24INR0258,Solar,451.52,Zeissel Solar,Zeissel Solar,Knox,Knox,2028-06-30,2028-06-30,unchanged COD
+24INR0269,Solar,200.3,Bar Candela Solar SLF,Bar Candela Solar SLF,Freestone,Freestone,2027-12-31,2029-05-16,COD later than Dec-2025 projection
+24INR0271,Battery,0.0,Bar Candela Storage SLF,Bar Candela Storage SLF,Freestone,Freestone,2027-12-31,2029-05-16,COD later than Dec-2025 projection
+24INR0274,Battery,153.77,Bufflehead BESS,Bufflehead BESS,Collin,Collin,2027-02-15,2027-02-15,unchanged COD
+24INR0275,Battery,100.83,Picadillo BESS,Picadillo BESS,Martin,Martin,2028-05-15,2028-05-15,unchanged COD
+24INR0281,Battery,310.58,Red Egret BESS,Red Egret BESS,Galveston,Galveston,2026-08-31,2027-11-17,COD later than Dec-2025 projection
+24INR0282,Battery,310.7,,Royal River BESS,,Brazoria,,2028-06-30,added since Dec-2025 list
+24INR0285,Battery,200.82,APV Plumwood Storage,APV Plumwood Storage,Chambers,Chambers,2027-05-01,2029-10-01,COD later than Dec-2025 projection
+24INR0287,Solar,211.2,Rockridge Solar,Rockridge Solar,Guadalupe,Guadalupe,2027-04-03,2028-06-27,COD later than Dec-2025 projection
+24INR0291,Wind,222.6,Rubicon Alpha Wind,Rubicon Alpha Wind,Haskell,Haskell,2027-07-31,2027-07-31,unchanged COD
+24INR0294,Battery,101.2,Citrus Flatts BESS,,Cameron,,2026-05-16,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0298,Solar,181.0,Leighton Solar SLF,Leighton Solar,Limestone,Limestone,2027-09-01,2027-12-06,COD later than Dec-2025 projection
+24INR0302,Battery,207.25,Pintail Pass BESS,,San Patricio,,2026-02-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0303,Solar,200.5,Erika Solar,,Kaufman,,2027-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0305,Battery,52.29,MRG Goody Storage,,Lamar,,2026-03-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0306,Battery,183.76,Arroyo Storage,,Cameron,,2026-04-14,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0313,Battery,124.1,Backbone Creek BESS,,Burnet,,2026-08-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0326,Solar,81.46,Blarney Solar,Blarney Solar,Hopkins,Hopkins,2027-07-01,2027-10-01,COD later than Dec-2025 projection
+24INR0337,Solar,200.94,Eldora Solar,Eldora Solar,Matagorda,Matagorda,2028-07-02,2028-07-02,unchanged COD
+24INR0338,Battery,201.31,Eldora BESS,Eldora BESS,Matagorda,Matagorda,2028-07-02,2028-07-02,unchanged COD
+24INR0339,Solar,258.83,Mystic Springs Renewable Energy Solar SLF,Mystic Springs Renewable Energy Solar SLF,Kaufman,Kaufman,2028-03-31,2028-03-31,unchanged COD
+24INR0355,Battery,207.82,Anatole Renewable Energy Storage,Anatole Renewable Energy Storage,Henderson,Henderson,2027-03-31,2027-06-30,COD later than Dec-2025 projection
+24INR0356,Solar,252.3,Cibeles Solar,Cibeles Solar,McLennan,McLennan,2027-06-30,2028-08-15,COD later than Dec-2025 projection
+24INR0364,Solar,30.23,Pitts Dudik II,,Hill,,2026-03-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0365,Battery,100.42,Hermes Storage,,Bell,,2026-05-22,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0375,Battery,200.86,,Possum Kingdom BESS,,Jack,,2028-10-29,added since Dec-2025 list
+24INR0376,Battery,100.67,Huisache BESS,Huisache BESS,Wilson,Wilson,2029-06-30,2029-06-30,unchanged COD
+24INR0382,Gas,102.0,Remy Jade III Power Station,,Harris,,2028-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0383,Battery,205.35,,Soda Lake BESS 2 SLF,,Crane,,2028-10-30,added since Dec-2025 list
+24INR0386,Battery,203.8,Black & Gold Energy Storage,Black & Gold Energy Storage,Menard,Menard,2027-07-30,2027-07-30,unchanged COD
+24INR0392,Battery,120.0,,Riverwalk BESS,,Bexar,,2027-10-01,added since Dec-2025 list
+24INR0397,Battery,205.57,Rhapsody Storage,,Harris,,2026-04-17,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0404,Solar,508.0,,Tres Rios Ranch Solar,,Upton,,2027-12-31,added since Dec-2025 list
+24INR0405,Battery,154.2,Crowned Heron BESS,,Fort Bend,,2026-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0407,Solar,203.5,,Mercury Solar III,,Hill,,2029-04-01,added since Dec-2025 list
+24INR0410,Gas,445.0,NRG Greens Bayou 6 (TEF-Due Diligence),NRG Greens Bayou 6 (TEF-Due Diligence),Harris,Harris,2028-05-01,2028-05-01,unchanged COD
+24INR0412,Solar,296.42,,Camino Ranch Solar SLF,,Houston,,2028-12-09,added since Dec-2025 list
+24INR0418,Solar,316.19,Middlebrook Solar Limited Liability Company,,Nacogdoches,,2027-08-13,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0420,Battery,298.06,,Camino Ranch Storage SLF,,Houston,,2028-12-09,added since Dec-2025 list
+24INR0422,Solar,460.0,Hollow Branch Creek Solar,Hollow Branch Creek Solar,Leon,Leon,2027-12-31,2028-06-30,COD later than Dec-2025 projection
+24INR0424,Wind,197.75,Cascabel Wind 1,Cascabel Wind 1,Zapata,Zapata,2027-12-01,2027-12-01,unchanged COD
+24INR0425,Battery,154.65,Two Brothers ESS,Two Brothers ESS,Victoria,Victoria,2027-09-09,2028-02-29,COD later than Dec-2025 projection
+24INR0436,Battery,100.9,Carambola BESS,,Hidalgo,,2026-04-20,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0440,Solar,144.6,,Starling Solar,,Gonzales,,2028-01-28,added since Dec-2025 list
+24INR0442,Battery,523.86,Midnight Sun Energy Storage,Midnight Sun Energy Storage,Crockett,Crockett,2028-06-29,2028-06-29,unchanged COD
+24INR0452,Solar,178.2,Longfellow Solar I,Longfellow Solar I,Pecos,Pecos,2027-06-30,2028-12-31,COD later than Dec-2025 projection
+24INR0453,Battery,54.99,Longfellow BESS I,Longfellow BESS I,Pecos,Pecos,2026-11-30,2028-03-30,COD later than Dec-2025 projection
+24INR0454,Solar,207.36,Longfellow Solar II,Longfellow Solar II,Pecos,Pecos,2027-06-30,2028-12-31,COD later than Dec-2025 projection
+24INR0455,Battery,105.75,Longfellow BESS II,Longfellow BESS II,Pecos,Pecos,2026-11-30,2028-03-30,COD later than Dec-2025 projection
+24INR0471,Battery,151.39,McGee Storage,,Henderson,,2026-05-29,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0472,Battery,102.41,Amador Storage,Amador Storage,Van Zandt,Van Zandt,2026-03-16,2027-04-08,COD later than Dec-2025 projection
+24INR0476,Battery,164.5,DOS RIOS ENERGY STORAGE SLF,,Milam,,2027-03-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0481,Battery,9.96,Little York BESS,,Harris,,2026-04-24,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0482,Gas,456.0,NRG THW GT 345 (TEF),,Harris,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0484,Solar,100.8,Lupinus Solar 3,,Franklin,,2026-09-21,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0485,Battery,100.65,Rutile BESS,Rutile BESS,Runnels,Runnels,2028-03-31,2028-03-31,unchanged COD
+24INR0490,Battery,50.9,Lupinus Storage 3,,Franklin,,2026-09-21,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0491,Battery,154.75,Gunnar BESS,,Hidalgo,,2026-08-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0493,Battery,154.2,Crowned Heron BESS 2,,Fort Bend,,2026-03-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0496,Battery,60.0,,Indigo Storage,,Fisher,,2027-09-17,added since Dec-2025 list
+24INR0501,Battery,9.8,Utopia BESS,,Bandera,,2026-05-04,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0505,Wind,196.1,Corralitos Wind 1,Corralitos Wind 1,Zapata,Zapata,2027-12-01,2027-12-01,unchanged COD
+24INR0506,Wind,195.4,Corralitos Wind 2,Corralitos Wind 2,Zapata,Zapata,2027-12-31,2027-12-31,unchanged COD
+24INR0514,Battery,148.61,Rogers Draw BESS,Rogers Draw BESS,Gillespie,Gillespie,2026-06-30,2030-07-31,COD later than Dec-2025 projection
+24INR0528,Battery,200.78,Blanquilla BESS,Blanquilla BESS,Nueces,Nueces,2027-03-29,2028-05-19,COD later than Dec-2025 projection
+24INR0533,Battery,150.94,Padua Grid BESS Unit 2,,Bexar,,2026-03-16,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0543,Battery,205.5,Thomas Cameron BESS,Thomas Cameron BESS,Lampasas,Lampasas,2027-05-03,2029-04-28,COD later than Dec-2025 projection
+24INR0584,Battery,164.6,Houston IV BESS,,Harris,,2026-06-03,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+24INR0712,Battery,5.5,,Byrd Ranch Repower ,,Brazoria,,2027-01-22,added since Dec-2025 list
+25INR0008,Gas,1350.0,BasRanch (TEF - Due Diligence),BasRanch (TEF - Due Diligence),Ward,Ward,2028-12-01,2028-12-01,unchanged COD
+25INR0018,Wind,262.0,Yellow Cat Wind,Yellow Cat Wind,Navarro,Navarro,2027-04-01,2027-03-05,COD earlier than Dec-2025 projection
+25INR0045,Battery,65.0,,Smith Lake Storage DC,,Grimes,,2028-12-28,added since Dec-2025 list
+25INR0046,Battery,306.26,Blue Skies BESS,Blue Skies BESS,Hill,Hill,2027-12-31,2028-04-01,COD later than Dec-2025 projection
+25INR0052,Solar,256.23,SanPat Solar II,SanPat Solar II,San Patricio,San Patricio,2027-07-22,2027-07-22,unchanged COD
+25INR0055,Solar,110.89,Three W Solar,,Hill,,2026-05-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0060,Solar,310.0,Argenta Solar,Argenta Solar,Bee,Bee,2028-06-30,2028-06-30,unchanged COD
+25INR0061,Battery,192.0,Argenta Storage,Argenta Storage,Bee,Bee,2028-06-30,2028-06-30,unchanged COD
+25INR0071,Battery,50.4,,Albatross BESS,,McLennan,,2028-12-30,added since Dec-2025 list
+25INR0080,Solar,702.64,Meitner Solar,Meitner Solar,Gray,Gray,2027-12-20,2028-06-08,COD later than Dec-2025 projection
+25INR0081,Solar,308.88,SanPat Solar I,SanPat Solar I,San Patricio,San Patricio,2027-07-08,2027-07-08,unchanged COD
+25INR0097,Solar,451.69,Soleil Solar,Soleil Solar,Clay,Clay,2028-12-01,2028-12-28,COD later than Dec-2025 projection
+25INR0100,Battery,201.6,Goldeneye BESS,Goldeneye BESS,Bell,Bell,2028-05-15,2028-05-15,unchanged COD
+25INR0101,Battery,257.3,Drake BESS,Drake BESS,Collin,Collin,2026-07-14,2027-01-29,COD later than Dec-2025 projection
+25INR0102,Solar,502.48,Austin Bayou Solar,Austin Bayou Solar,Brazoria,Brazoria,2027-06-01,2027-06-01,unchanged COD
+25INR0103,Battery,205.28,Elio BESS,Elio BESS,Brazoria,Brazoria,2027-08-05,2028-12-31,COD later than Dec-2025 projection
+25INR0109,Solar,120.63,Sun Cactus Solar,,Duval,,2027-10-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0112,Solar,250.0,August Draw Solar,August Draw Solar,Reeves,Reeves,2028-06-27,2028-06-27,unchanged COD
+25INR0122,Battery,135.18,Vial BESS,Vial BESS,Hill,Hill,2027-09-15,2027-09-15,unchanged COD
+25INR0131,Battery,154.63,SOSA Storage,SOSA Storage,Madison,Madison,2027-07-01,2027-07-20,COD later than Dec-2025 projection
+25INR0133,Battery,101.41,,Rose Quartz BESS,,Dimmit,,2026-12-01,added since Dec-2025 list
+25INR0138,Battery,201.13,Champaign BESS,Champaign BESS,Glasscock,Glasscock,2027-06-28,2028-03-31,COD later than Dec-2025 projection
+25INR0143,Battery,100.32,Ariji BESS,Ariji BESS,Howard,Howard,2027-06-28,2029-03-31,COD later than Dec-2025 projection
+25INR0144,Battery,201.13,,Jasper BESS,,Midland,,2028-10-11,added since Dec-2025 list
+25INR0146,Battery,201.13,,Blue Heron BESS,,Reeves,,2028-10-11,added since Dec-2025 list
+25INR0154,Solar,120.9,,Nymphaea Solar,,Wichita,,2028-07-01,added since Dec-2025 list
+25INR0155,Battery,61.0,,Nymphaea Storage,,Wichita,,2028-07-01,added since Dec-2025 list
+25INR0162,Battery,204.3,SAHARA II BESS (SOHO II BESS),,Brazoria,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0164,Solar,115.61,Star Dairy Solar,Star Dairy Solar,Lamar,Lamar,2027-04-03,2027-07-12,COD later than Dec-2025 projection
+25INR0166,Solar,201.4,Padrino Solar,,Hill,,2026-07-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0168,Solar,281.7,Piedra Solar,,Freestone,,2026-12-22,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0169,Battery,103.65,Piedra BESS,Piedra BESS,Freestone,Freestone,2026-12-22,2027-12-01,COD later than Dec-2025 projection
+25INR0170,Solar,150.68,Pinewood Solar,Pinewood Solar,Brazoria,Brazoria,2027-10-01,2028-02-29,COD later than Dec-2025 projection
+25INR0172,Solar,195.8,Wolf Spring Solar,Wolf Spring Solar,Dickens,Dickens,2028-04-19,2028-08-25,COD later than Dec-2025 projection
+25INR0173,Battery,202.7,Wolf Spring Storage,Wolf Spring Storage,Dickens,Dickens,2028-04-19,2028-08-25,COD later than Dec-2025 projection
+25INR0174,Solar,171.9,Concho Pearl Solar,Concho Pearl Solar,Concho,Concho,2027-10-14,2028-01-09,COD later than Dec-2025 projection
+25INR0175,Battery,162.4,Concho Pearl Storage,Concho Pearl Storage,Concho,Concho,2027-10-14,2028-01-09,COD later than Dec-2025 projection
+25INR0189,Battery,201.8,,Staccato BESS,,Fayette,,2027-05-28,added since Dec-2025 list
+25INR0199,Solar,138.4,Bonham Solar SLF,Bonham Solar SLF,Limestone,Limestone,2027-04-06,2027-04-06,unchanged COD
+25INR0202,Battery,122.6,East West BESS,East West BESS,Kerr,Kerr,2027-03-18,2028-03-17,COD later than Dec-2025 projection
+25INR0204,Solar,150.64,Claxton Solar,Cedar Range Solar,Hopkins,Hopkins,2027-09-17,2027-09-17,unchanged COD
+25INR0208,Battery,401.9,Iron Belt Energy Storage,,Borden,,2027-07-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0215,Battery,158.63,Middlebrook BESS,,Nacogdoches,,2027-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0225,Solar,352.21,Lucy Solar,Lucy Solar,Concho,Concho,2027-06-30,2027-06-30,unchanged COD
+25INR0227,Solar,76.18,,SERENGETI SOLAR,,Delta,,2028-09-18,added since Dec-2025 list
+25INR0229,Solar,203.1,OCI Cobb Creek Solar,OCI Cobb Creek Solar,Hill,Hill,2027-12-31,2027-12-31,unchanged COD
+25INR0230,Battery,300.9,Great Rock BESS,Great Rock BESS,Leon,Leon,2027-12-20,2027-12-20,unchanged COD
+25INR0231,Battery,201.15,Apache Hill BESS,Apache Hill BESS,Hood,Hood,2026-07-31,2026-10-31,COD later than Dec-2025 projection
+25INR0232,Solar,50.73,Isaac Solar,Isaac Solar,Matagorda,Matagorda,2026-12-31,2027-04-15,COD later than Dec-2025 projection
+25INR0233,Battery,201.6,OCI Cobb Creek ESS,OCI Cobb Creek ESS,Hill,Hill,2027-12-31,2028-12-31,COD later than Dec-2025 projection
+25INR0235,Battery,150.68,Austin Bayou Storage I,Austin Bayou Storage I,Brazoria,Brazoria,2027-06-01,2027-06-01,unchanged COD
+25INR0236,Battery,156.6,Austin Bayou Storage II,Austin Bayou Storage II,Brazoria,Brazoria,2027-06-01,2027-06-01,unchanged COD
+25INR0237,Battery,156.6,Austin Bayou Storage III,Austin Bayou Storage III,Brazoria,Brazoria,2027-06-01,2027-06-01,unchanged COD
+25INR0246,Solar,74.9,,VALDIVIAN SOLAR,,Hunt,,2028-09-22,added since Dec-2025 list
+25INR0247,Wind,180.0,Bluebonnet Prairie Wind,Bluebonnet Prairie Wind,Navarro,Navarro,2027-07-15,2028-07-15,COD later than Dec-2025 projection
+25INR0253,Battery,153.72,Whiskey BESS,Whiskey BESS,Van Zandt,Van Zandt,2027-01-30,2027-07-31,COD later than Dec-2025 projection
+25INR0262,Battery,256.79,Shepard Energy Storage,Shepard Energy Storage,Galveston,Galveston,2027-07-01,2028-06-30,COD later than Dec-2025 projection
+25INR0271,Battery,143.1,City Breeze BESS,City Breeze BESS,Matagorda,Matagorda,2027-03-18,2027-03-18,unchanged COD
+25INR0281,Solar,148.16,Cosper Solar,Cosper Solar,Bell,Bell,2027-11-12,2027-11-12,unchanged COD
+25INR0282,Solar,201.49,Hornet Solar II SLF,Hornet Solar II SLF,Swisher,Swisher,2028-03-31,2028-07-31,COD later than Dec-2025 projection
+25INR0283,Battery,0.0,Hornet Storage II SLF,Hornet Storage II SLF,Swisher,Swisher,2028-03-31,2028-07-31,COD later than Dec-2025 projection
+25INR0293,Battery,205.2,TOCE BESS 1,TOCE BESS 1,Wharton,Wharton,2027-06-01,2028-12-31,COD later than Dec-2025 projection
+25INR0301,Battery,256.0,,Van Zandt Energy Storage,,Ector,,2027-05-15,added since Dec-2025 list
+25INR0304,Solar,80.38,Flying Kite Solar,Flying Kite Solar,Zavala,Zavala,2027-12-30,2027-12-30,unchanged COD
+25INR0319,Solar,125.9,Northington Solar,Northington Solar,Wharton,Wharton,2027-07-15,2028-03-14,COD later than Dec-2025 projection
+25INR0329,Battery,125.3,Project Lynx BESS,,Nueces,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0330,Solar,251.27,Clutch City Solar Phase II,Clutch City Solar Phase II,Brazoria,Brazoria,2028-07-01,2028-07-01,unchanged COD
+25INR0334,Battery,205.24,Star Dairy Storage,Star Dairy Storage,Lamar,Lamar,2027-04-03,2027-07-12,COD later than Dec-2025 projection
+25INR0353,Solar,150.0,,Marshall Spring Solar,,Gillespie,,2028-12-20,added since Dec-2025 list
+25INR0354,Battery,150.0,,Marshall Spring Storage,,Gillespie,,2028-12-20,added since Dec-2025 list
+25INR0368,Solar,201.56,"Echols Grove, LLC",Echols Grove Solar,Lamar,Lamar,2027-04-03,2027-06-30,COD later than Dec-2025 projection
+25INR0370,Battery,176.13,Willis Storage,Willis Storage,Rains,Rains,2027-08-13,2028-05-31,COD later than Dec-2025 projection
+25INR0371,Battery,176.13,,McMurtre Storage,,Hunt,,2027-12-31,added since Dec-2025 list
+25INR0375,Battery,303.7,NavBoot BESS,NavBoot BESS,Nueces,Nueces,2026-12-01,2027-11-11,COD later than Dec-2025 projection
+25INR0382,Solar,85.54,HappyDogSolar,HappyDogSolar,Milam,Milam,2027-04-13,2027-08-04,COD later than Dec-2025 projection
+25INR0384,Battery,153.69,Zorro BESS,Zorro BESS,Van Zandt,Van Zandt,2027-05-01,2027-08-31,COD later than Dec-2025 projection
+25INR0391,Battery,156.0,Purple Sage BESS 1,Purple Sage BESS 1,Collin,Collin,2027-05-30,2028-02-12,COD later than Dec-2025 projection
+25INR0392,Battery,156.0,Purple Sage BESS 2,Purple Sage BESS 2,Collin,Collin,2027-05-30,2028-02-12,COD later than Dec-2025 projection
+25INR0400,Solar,181.3,Maldives Solar,Maldives Solar,Scurry,Scurry,2028-07-01,2028-09-25,COD later than Dec-2025 projection
+25INR0402,Battery,150.52,,Driet BESS,,Colorado,,2028-06-20,added since Dec-2025 list
+25INR0417,Battery,254.88,,Mesa View Storage,,Upton,,2027-07-15,added since Dec-2025 list
+25INR0421,Battery,207.0,Aldrin 138 BESS,Aldrin 138 BESS,Brazoria,Brazoria,2027-07-01,2028-03-01,COD later than Dec-2025 projection
+25INR0422,Solar,200.64,Waterloo Solar 1,Waterloo Solar 1,Bastrop,Bastrop,2027-12-01,2027-12-01,unchanged COD
+25INR0425,Battery,362.0,Aldrin 345 BESS,Aldrin 345 BESS,Brazoria,Brazoria,2027-12-01,2028-03-01,COD later than Dec-2025 projection
+25INR0430,Solar,175.51,Hackberry Creek Solar,Hackberry Creek Solar,Mitchell,Mitchell,2028-07-01,2028-01-01,COD earlier than Dec-2025 projection
+25INR0432,Battery,176.13,Brotherton Storage,Brotherton Storage,Anderson,Anderson,2027-05-01,2027-05-01,unchanged COD
+25INR0441,Battery,201.08,Dios BESS,Dios BESS,Jackson,Jackson,2027-12-31,2027-12-31,unchanged COD
+25INR0442,Battery,104.52,Happy Dog Storage,Happy Dog Storage,Milam,Milam,2027-04-13,2027-08-04,COD later than Dec-2025 projection
+25INR0447,Battery,120.0,Waterloo BESS 1,Waterloo BESS 1,Bastrop,Bastrop,2027-12-01,2028-12-15,COD later than Dec-2025 projection
+25INR0451,Battery,290.0,,Tres Rios Ranch BESS,,Upton,,2027-12-31,added since Dec-2025 list
+25INR0460,Battery,301.04,Acker BESS,Acker BESS,Castro,Castro,2028-04-17,2029-04-17,COD later than Dec-2025 projection
+25INR0473,Battery,202.69,Crowded Star I BESS,Crowded Star I BESS,Jones,Jones,2027-07-09,2027-07-09,unchanged COD
+25INR0480,Battery,200.9,Bell Creek BESS,Bell Creek BESS,Brazoria,Brazoria,2027-10-30,2027-10-30,unchanged COD
+25INR0482,Solar,108.5,,Vault Solar,,Palo Pinto,,2027-12-31,added since Dec-2025 list
+25INR0492,Battery,100.0,Blue Summit Energy Storage,,Wilbarger,,2026-03-13,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0494,Wind,202.33,Willow Beach Wind,Willow Beach Wind,Brazoria,Brazoria,2027-10-01,2027-10-01,unchanged COD
+25INR0512,Solar,200.0,,Monument Hill Solar,,Fayette,,2029-06-30,added since Dec-2025 list
+25INR0528,Battery,60.0,,Indigo Storage 2,,Fisher,,2027-09-17,added since Dec-2025 list
+25INR0529,Battery,60.0,,Indigo Storage 3,,Fisher,,2027-09-17,added since Dec-2025 list
+25INR0530,Battery,60.0,,Indigo Storage 4,,Fisher,,2027-09-17,added since Dec-2025 list
+25INR0554,Battery,204.38,Dan Kearney BESS,Dan Kearney BESS,Brazoria,Brazoria,2027-10-01,2029-02-28,COD later than Dec-2025 projection
+25INR0557,Battery,409.6,McCamey's Castle Battery,McCamey's Castle Battery,Upton,Upton,2027-03-31,2028-03-30,COD later than Dec-2025 projection
+25INR0579,Battery,159.6,,Albatross BESS 2,,McLennan,,2028-12-30,added since Dec-2025 list
+25INR0593,Battery,9.99,Escondido BESS,,Maverick,,2026-04-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0601,Battery,9.5,,East Bernard BESS,,Wharton,,2026-11-04,added since Dec-2025 list
+25INR0602,Battery,9.99,,Hockley BESS,,Harris,,2027-03-01,added since Dec-2025 list
+25INR0604,Battery,9.5,,Pledger BESS,,Matagorda,,2026-11-04,added since Dec-2025 list
+25INR0616,Battery,0.0,,Bobcat Bluff Storage SLF,,Archer,,2027-04-15,added since Dec-2025 list
+25INR0650,Battery,9.9,Buda BESS,,Hays,,2026-04-08,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0655,Battery,9.9,Elm Street BESS,,Reeves,,2026-04-02,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0657,Battery,306.4,O'Bannion Energy Storage,O'Bannion Energy Storage,Jack,Jack,2028-04-21,2028-04-21,unchanged COD
+25INR0661,Battery,306.35,McCrae Energy Storage,McCrae Energy Storage,Erath,Erath,2028-09-25,2028-09-25,unchanged COD
+25INR0688,Battery,133.0,Giga Texas Data Center,Giga Texas Data Center,Travis,Travis,2025-12-15,2025-12-15,unchanged COD
+25INR0706,Battery,150.46,Bocanova Power II,,Brazoria,,2026-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0763,Battery,9.99,Alamo Street BESS,,Pecos,,2026-01-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+25INR0768,Battery,9.9,,Stafford Hill BESS,,Colorado,,2026-11-14,added since Dec-2025 list
+25INR0769,Battery,9.9,,Kleimann BESS,,Colorado,,2026-12-08,added since Dec-2025 list
+26INR0021,Wind,277.38,Crossroads Wind,Crossroads Wind,Victoria,Victoria,2027-06-30,2028-02-28,COD later than Dec-2025 projection
+26INR0023,Solar,210.11,Leon Solar Park,,Leon,,2026-07-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0033,Battery,120.3,Fairway Storage,Fairway Storage,Freestone,Freestone,2027-09-24,2027-09-24,unchanged COD
+26INR0034,Battery,238.21,Bracero Pecan Storage,Bracero Pecan Storage,Reeves,Reeves,2027-07-01,2027-07-01,unchanged COD
+26INR0049,Gas,228.0,Pin Peaking Energy Center 1 (TEF- Due Diligence),,Freestone,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0074,Solar,200.8,Anila Solar,Anila Solar,Wilson,Wilson,2028-06-30,2028-09-30,COD later than Dec-2025 projection
+26INR0077,Battery,209.0,Anila BESS,Anila BESS,Wilson,Wilson,2028-06-30,2028-09-30,COD later than Dec-2025 projection
+26INR0088,Solar,512.6,La Salle Solar,La Salle Solar,La Salle,La Salle,2027-07-01,2028-09-13,COD later than Dec-2025 projection
+26INR0098,Solar,221.2,,Douie Solar,,Freestone,,2028-04-18,added since Dec-2025 list
+26INR0109,Gas,228.0,Pin Peaking Energy Center 2 (TEF- Due Diligence),,Freestone,,2026-05-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0111,Gas,43.36,,Graphic Packaging Gas,,McLennan,,2027-02-15,added since Dec-2025 list
+26INR0113,Wind,709.0,Meitner Wind,Meitner Wind,Gray,Gray,2027-12-20,2028-05-24,COD later than Dec-2025 projection
+26INR0116,Battery,200.79,,Falcon Zapata Storage 138,,Zapata,,2028-03-11,added since Dec-2025 list
+26INR0130,Solar,125.84,,Elm Flats Solar SLF,,Navarro,,2027-11-01,added since Dec-2025 list
+26INR0131,Battery,0.0,,Elm Flats Storage SLF,,Navarro,,2027-11-01,added since Dec-2025 list
+26INR0143,Solar,265.0,,Santa Garcias Solar,,Kleberg,,2029-05-30,added since Dec-2025 list
+26INR0147,Solar,145.0,Seven Springs Solar,Seven Springs Solar,Lampasas,Lampasas,2028-05-26,2028-05-26,unchanged COD
+26INR0155,Solar,1025.57,Ross Solar,Ross Solar,Refugio,Refugio,2027-07-31,2027-07-31,unchanged COD
+26INR0156,Battery,510.99,Ross Storage,Ross Storage,Refugio,Refugio,2027-07-31,2027-07-31,unchanged COD
+26INR0176,Solar,153.26,,Dionysus Solar,,Houston,,2028-12-15,added since Dec-2025 list
+26INR0177,Battery,77.28,,Dionysus Storage,,Houston,,2028-12-15,added since Dec-2025 list
+26INR0180,Battery,150.52,Cape Rich BESS,Cape Rich BESS,Navarro,Navarro,2028-04-17,2030-04-18,COD later than Dec-2025 projection
+26INR0189,Battery,150.6,Skipjack Energy Storage,Skipjack Energy Storage,Brazoria,Brazoria,2028-02-28,2028-02-28,unchanged COD
+26INR0201,Battery,208.5,Rock Rose BESS,Rock Rose BESS,Fort Bend,Fort Bend,2026-12-15,2027-03-19,COD later than Dec-2025 projection
+26INR0211,Solar,338.04,,Titus Low Carbon Ventures Solar 1,,San Patricio,,2028-10-16,added since Dec-2025 list
+26INR0226,Battery,257.48,First Capitol BESS,First Capitol BESS,Brazoria,Brazoria,2027-05-01,2027-11-01,COD later than Dec-2025 projection
+26INR0241,Solar,171.09,Sol Marina Energy Center,Sol Marina SLF Energy Center,Ellis,Ellis,2027-10-29,2027-10-29,unchanged COD
+26INR0242,Battery,57.15,Sol Marina Energy Center BESS,,Ellis,,2027-10-29,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0250,Battery,241.05,Duffy BESS,Duffy BESS,Matagorda,Matagorda,2026-12-31,2026-12-31,unchanged COD
+26INR0252,Battery,104.5,Neutron Storage,Neutron Storage,McLennan,McLennan,2028-04-29,2028-04-29,unchanged COD
+26INR0255,Solar,603.2,Operation Sunshine,Operation Sunshine,Concho,Concho,2028-03-12,2029-04-01,COD later than Dec-2025 projection
+26INR0256,Solar,237.21,,Camino Ranch Solar 2 SLF,,Houston,,2028-12-09,added since Dec-2025 list
+26INR0257,Battery,238.45,,Camino Ranch Storage 2 SLF,,Houston,,2028-12-09,added since Dec-2025 list
+26INR0261,Gas,1104.0,Bastrop Peaking Generators (TEF-Due Diligence),Bastrop Peaking Generators (TEF-Due Diligence),Bastrop,Bastrop,2027-03-31,2027-12-07,COD later than Dec-2025 projection
+26INR0269,Solar,603.59,Moccasin Solar,Moccasin Solar,Stonewall,Stonewall,2027-07-06,2027-07-06,unchanged COD
+26INR0285,Battery,245.8,,Hill Valley BESS,,Grimes,,2028-07-15,added since Dec-2025 list
+26INR0290,Solar,431.87,Cold Creek Solar 2,Cold Creek Solar 2,Schleicher,Schleicher,2028-05-28,2028-05-28,unchanged COD
+26INR0291,Battery,171.75,Cold Creek Storage 2,Cold Creek Storage 2,Schleicher,Schleicher,2028-05-28,2028-05-28,unchanged COD
+26INR0296,Battery,77.37,Sherbino II BESS SLF,Sherbino II BESS SLF,Pecos,Pecos,2027-02-09,2027-04-19,COD later than Dec-2025 projection
+26INR0309,Battery,321.79,Solace Storage,,Haskell,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0310,Battery,321.75,Quantum Storage,,Haskell,,2026-06-01,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0311,Solar,258.91,,Senator Aggreko Solar,,Maverick,,2029-03-31,added since Dec-2025 list
+26INR0312,Battery,147.63,,Senator Aggreko Storage,,Maverick,,2029-03-31,added since Dec-2025 list
+26INR0314,Battery,180.36,Brazos River BESS,Brazos River BESS,Brazoria,Brazoria,2027-10-30,2027-10-30,unchanged COD
+26INR0324,Battery,245.8,Misty Hollow BESS,Misty Hollow BESS,Grimes,Grimes,2028-07-15,2028-07-15,unchanged COD
+26INR0330,Battery,128.2,Alamo City BESS,Alamo City BESS,Bexar,Bexar,2027-09-21,2027-09-21,unchanged COD
+26INR0333,Battery,207.3,VERTUS ENERGY STORAGE,,Galveston,,2026-04-28,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0340,Battery,204.85,SOUTHERN SELECT ENERGY STORAGE,SOUTHERN SELECT ENERGY STORAGE,Galveston,Galveston,2027-03-31,2027-05-24,COD later than Dec-2025 projection
+26INR0341,Battery,101.3,Megamouth Energy Storage,Megamouth Energy Storage,Harris,Harris,2028-12-31,2028-12-31,unchanged COD
+26INR0357,Battery,409.8,Operation Sunshine Storage,Operation Sunshine Storage,Concho,Concho,2028-03-12,2029-04-01,COD later than Dec-2025 projection
+26INR0359,Solar,302.16,Uva Creek Solar,Uva Creek Solar,Borden,Borden,2028-08-25,2028-08-25,unchanged COD
+26INR0375,Battery,522.12,Avalon BESS,Avalon BESS,Fort Bend,Fort Bend,2026-12-01,2026-12-01,unchanged COD
+26INR0380,Solar,120.72,Pepper Solar Farm,Pepper Solar Farm,McLennan,McLennan,2027-09-20,2027-09-20,unchanged COD
+26INR0385,Battery,181.54,,Nanulak BESS,,Reeves,,2027-06-30,added since Dec-2025 list
+26INR0405,Battery,251.4,Buffalo Creek BESS,,Fort Bend,,2026-03-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0407,Battery,251.05,Rock Creek BESS,,Kendall,,2028-03-29,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0408,Gas,204.71,Liatris Flexible Gas,Liatris Flexible Gas,Brazoria,Brazoria,2029-02-01,2029-02-01,unchanged COD
+26INR0409,Solar,101.35,Lucky 7 Solar,Lucky 7 Solar,Hopkins,Hopkins,2027-09-20,2027-09-20,unchanged COD
+26INR0411,Battery,201.5,,Tex-Bar ESS,,Madison,,2029-09-08,added since Dec-2025 list
+26INR0417,Battery,418.6,GAMAY ENERGY STORAGE,GAMAY ENERGY STORAGE,Brazoria,Brazoria,2027-03-01,2028-01-01,COD later than Dec-2025 projection
+26INR0425,Solar,358.06,,Twinwood Solar 1,,Waller,,2029-02-01,added since Dec-2025 list
+26INR0426,Battery,153.96,,Maderagemela BESS1,,Waller,,2029-02-01,added since Dec-2025 list
+26INR0428,Battery,103.5,,Diamond Cowboy Storage,,San Patricio,,2028-10-16,added since Dec-2025 list
+26INR0431,Solar,403.2,Big Rooter West Solar,Big Rooter West Solar,Robertson,Robertson,2028-05-31,2028-05-31,unchanged COD
+26INR0440,Solar,205.8,,Hamby Solar,,Jones,,2028-06-27,added since Dec-2025 list
+26INR0447,Wind,173.95,Honey Mesquite Wind Farm,,Glasscock,,2026-12-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0452,Solar,149.5,Cannibal Draw Solar,Cannibal Draw Solar,Glasscock,Glasscock,2028-04-10,2028-04-10,unchanged COD
+26INR0453,Battery,98.6,Cannibal Draw Storage,Cannibal Draw Storage,Glasscock,Glasscock,2028-04-10,2028-04-10,unchanged COD
+26INR0469,Battery,102.0,,Roxton Storage,,Lamar,,2028-07-21,added since Dec-2025 list
+26INR0470,Solar,116.8,,Roxton Solar,,Lamar,,2028-07-21,added since Dec-2025 list
+26INR0474,Battery,208.9,Sorghum BESS,Sorghum BESS,Wharton,Wharton,2027-12-01,2027-12-01,unchanged COD
+26INR0512,Battery,9.9,County Road BESS,,Reeves,,2026-03-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0520,Battery,9.9,Highway 6 BESS,,Brazos,,2026-03-27,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0521,Solar,133.0,Millers Branch Solar III,,Haskell,,2026-08-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0524,Solar,169.59,Fagus Solar Park 3 SLF,Fagus Solar Park 3 SLF,Childress,Childress,2027-05-19,2027-06-28,COD later than Dec-2025 projection
+26INR0530,Wind,352.6,Longview Wind,Longview Wind,Dawson,Dawson,2028-12-01,2028-12-01,unchanged COD
+26INR0531,Wind,351.91,West Munday Wind,West Munday Wind,Knox,Knox,2028-06-30,2029-08-31,COD later than Dec-2025 projection
+26INR0543,Solar,333.0,Three Canes Solar SLF,,Navarro,,2027-07-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0551,Battery,256.34,Hastings Park BESS,Hastings Park BESS,Brazoria,Brazoria,2027-09-15,2028-02-27,COD later than Dec-2025 projection
+26INR0555,Battery,201.3,,Desert Palm BESS,,Dimmit,,2028-09-01,added since Dec-2025 list
+26INR0574,Battery,9.9,Apple BESS,Apple BESS,Ector,Ector,2026-05-05,2026-11-27,COD later than Dec-2025 projection
+26INR0600,Solar,102.0,,Crocus Solar,,Stephens,,2028-07-01,added since Dec-2025 list
+26INR0601,Battery,51.0,,Crocus Storage,,Stephens,,2028-07-01,added since Dec-2025 list
+26INR0621,Solar,500.0,Juno 3 Solar,Juno 3 Solar,Borden,Borden,2027-11-30,2027-11-30,unchanged COD
+26INR0622,Wind,120.23,Buffalo Gap 1 Wind Repower,Buffalo Gap 1 Wind Repower,Nolan,Taylor,2026-12-01,2027-02-01,COD later than Dec-2025 projection
+26INR0625,Wind,231.49,Buffalo Gap 2 Wind Repower,Buffalo Gap 2 Wind Repower,Nolan,Nolan,2026-12-01,2027-02-01,COD later than Dec-2025 projection
+26INR0626,Wind,168.45,Buffalo Gap 3 Wind Repower,Buffalo Gap 3 Wind Repower,Taylor,Taylor,2026-12-01,2027-02-01,COD later than Dec-2025 projection
+26INR0636,Battery,500.0,Lyra Storage,Lyra Storage,Borden,Borden,2026-11-12,2026-11-12,unchanged COD
+26INR0647,Wind,252.5,,Wake Wind Energy Repower,,Crosby,,2027-06-04,added since Dec-2025 list
+26INR0682,Battery,9.99,North Edinburg BESS 1,,Hidalgo,,2026-03-20,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0691,Battery,9.99,Harlingen #1 BESS 1,,Cameron,,2026-03-20,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0699,Battery,9.95,Meadow Park BESS,,Tarrant,,2026-02-10,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+26INR0702,Battery,9.99,,Bexar Martinez BESS,,Bexar,,2027-01-23,added since Dec-2025 list
+26INR0714,Battery,9.99,,Pavlov BESS2,,Matagorda,,2026-12-13,added since Dec-2025 list
+26INR0718,Solar,0.0,PHOTON SOLAR REPOWERING,PHOTON SOLAR REPOWERING,Wharton,Wharton,2027-01-13,2027-08-17,COD later than Dec-2025 projection
+26INR0734,Battery,9.99,,Alamo Street BESS2,,Pecos,,2027-03-30,added since Dec-2025 list
+26INR0773,Battery,9.9,,Seaway BESS,,Waller,,2027-02-22,added since Dec-2025 list
+26INR0774,Battery,9.9,,Wallis BESS2,,Austin,,2027-02-22,added since Dec-2025 list
+27INR0004,Wind,146.49,Dundee West Wind,Dundee West Wind,Wilbarger,Wilbarger,2027-12-31,2027-12-31,unchanged COD
+27INR0005,Wind,524.0,Dundee East A Wind,Dundee East A Wind,Baylor,Baylor,2027-12-31,2027-12-31,unchanged COD
+27INR0007,Solar,200.92,Felix East Solar,Felix East Solar,Wilbarger,Wilbarger,2028-12-31,2028-12-31,unchanged COD
+27INR0011,Wind,261.45,Dundee East B Wind,Dundee East B Wind,Baylor,Baylor,2027-12-31,2027-12-31,unchanged COD
+27INR0012,Solar,200.95,Felix West Solar,Felix West Solar,Wilbarger,Wilbarger,2028-12-31,2028-12-31,unchanged COD
+27INR0022,Solar,439.4,Panhandle Flagship Solar 1,Panhandle Flagship Solar 1,Carson,Carson,2027-12-01,2031-06-30,COD later than Dec-2025 projection
+27INR0023,Solar,304.4,Panhandle Flagship Solar 2,Panhandle Flagship Solar 2,Hutchinson,Hutchinson,2027-12-01,2031-06-30,COD later than Dec-2025 projection
+27INR0024,Solar,260.3,Panhandle Flagship Solar 3,Panhandle Flagship Solar 3,Hutchinson,Hutchinson,2027-12-01,2031-06-30,COD later than Dec-2025 projection
+27INR0025,Battery,371.7,Panhandle Flagship Storage,Panhandle Flagship Storage,Carson,Carson,2027-12-01,2031-06-30,COD later than Dec-2025 projection
+27INR0047,Solar,522.75,Sunscape Renewable Energy Solar SLF,Sunscape Renewable Energy Solar SLF,Nueces,Nueces,2029-01-26,2028-10-31,COD earlier than Dec-2025 projection
+27INR0048,Battery,0.0,Sunscape Renewable Energy Storage SLF,Sunscape Renewable Energy Storage SLF,Nueces,Nueces,2029-01-26,2028-10-31,COD earlier than Dec-2025 projection
+27INR0049,Solar,152.02,,Darkwood Solar,,Comanche,,2027-09-20,added since Dec-2025 list
+27INR0050,Battery,150.5,,Darkwood BESS,,Comanche,,2028-07-01,added since Dec-2025 list
+27INR0056,Wind,306.6,Laurel Wind Energy Center,Laurel Wind Energy Center,Pecos,Pecos,2027-03-28,2027-12-31,COD later than Dec-2025 projection
+27INR0076,Wind,239.47,Bob Creek Wind,Bob Creek Wind,Sterling,Sterling,2028-07-01,2028-07-01,unchanged COD
+27INR0080,Battery,200.8,Pecos Storage Center,,Pecos,,2027-03-28,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+27INR0085,Battery,204.58,Eagle Claw Energy Center,Eagle Claw Energy Center,Grimes,Grimes,2027-03-15,2028-03-31,COD later than Dec-2025 projection
+27INR0091,Battery,310.2,,Oak Tree Energy Storage,,Lavaca,,2030-09-20,added since Dec-2025 list
+27INR0105,Solar,130.72,,Starlight Solar,,Mills,,2030-05-09,added since Dec-2025 list
+27INR0107,Battery,208.96,,Starlight Storage,,Mills,,2030-05-09,added since Dec-2025 list
+27INR0108,Wind,379.18,,Paint Rock Wind,,Concho,,2028-10-01,added since Dec-2025 list
+27INR0109,Battery,217.16,Two Barbaras BESS,Two Barbaras BESS,Montgomery,Montgomery,2029-01-04,2029-01-04,unchanged COD
+27INR0111,Solar,184.55,,Malachite Solar,,Wharton,,2032-04-30,added since Dec-2025 list
+27INR0112,Battery,191.12,,Malachite BESS,,Wharton,,2032-04-30,added since Dec-2025 list
+27INR0118,Solar,291.4,Grapefruit Solar,,Hidalgo,,2028-12-31,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+27INR0124,Solar,82.55,RedSun Solar,RedSun Solar,Burnet,Burnet,2027-06-15,2028-08-28,COD later than Dec-2025 projection
+27INR0126,Solar,201.5,Corvus Solar,Corvus Solar,Webb,Webb,2028-11-12,2028-11-12,unchanged COD
+27INR0127,Solar,195.2,Bigway Solar I,Bigway Solar I,King,King,2028-12-31,2027-12-31,COD earlier than Dec-2025 projection
+27INR0128,Solar,206.0,Bigway Solar II,Bigway Solar II,King,King,2028-12-31,2027-12-31,COD earlier than Dec-2025 projection
+27INR0132,Wind,297.5,,Palo Verde Wind,,San Patricio,,2029-07-22,added since Dec-2025 list
+27INR0140,Wind,606.3,,Kingsmill Wind SLF,,Carson,,2029-09-01,added since Dec-2025 list
+27INR0173,Battery,202.56,Trenno BESS,Trenno BESS,Johnson,Johnson,2027-09-13,2027-09-13,unchanged COD
+27INR0181,Gas,210.0,,Elk Unit 4,,Hale,,2027-02-28,added since Dec-2025 list
+27INR0198,Solar,100.6,,Musgravite Solar,,Henderson,,2027-11-01,added since Dec-2025 list
+27INR0224,Battery,264.24,Leopard BESS,Leopard BESS,Victoria,Victoria,2028-07-09,2029-02-28,COD later than Dec-2025 projection
+27INR0234,Solar,101.3,,Lima Solar Project,,Grayson,,2029-03-01,added since Dec-2025 list
+27INR0243,Battery,203.2,Brookview Road BESS,,Harris,,2028-05-02,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+27INR0245,Battery,217.23,,Pez Rojo BESS,,Harris,,2029-02-01,added since Dec-2025 list
+27INR0285,Battery,105.6,,Rain Lily Storage 1,,Hood,,2028-10-15,added since Dec-2025 list
+27INR0288,Solar,147.76,,Rain Lily Solar 1,,Hood,,2028-10-15,added since Dec-2025 list
+27INR0313,Solar,286.4,Spindletop Solar,Spindletop Solar,Nacogdoches,Nacogdoches,2027-06-30,2027-12-29,COD later than Dec-2025 projection
+27INR0314,Battery,142.57,Spindletop Storage,,Nacogdoches,,2027-06-30,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+27INR0355,Solar,309.5,Gardner Draw Solar,Gardner Draw Solar,Glasscock,Glasscock,2027-12-31,2028-06-01,COD later than Dec-2025 projection
+27INR0365,Battery,614.4,,Comanche BESS,,Comanche,,2029-05-07,added since Dec-2025 list
+27INR0367,Wind,303.2,,Goat Mountain Wind-Repower,,Sterling,,2027-03-01,added since Dec-2025 list
+27INR0372,Solar,200.84,Abeja Solar Farm,Abeja Solar Farm,Bee,Bee,2028-09-08,2029-06-07,COD later than Dec-2025 projection
+27INR0383,Wind,244.06,Windjammer Windpower,Windjammer Windpower,Glasscock,Glasscock,2028-06-01,2028-12-31,COD later than Dec-2025 projection
+27INR0389,Solar,251.4,Sugaree Solar,Sugaree Solar,Maverick,Maverick,2028-09-21,2028-09-21,unchanged COD
+27INR0392,Battery,10.04,,Cernan BESS,,Wharton,,2028-10-02,added since Dec-2025 list
+27INR0399,Battery,200.7,Resaca Oasis Storage,Resaca Oasis Storage,Cameron,Cameron,2027-09-20,2028-09-20,COD later than Dec-2025 projection
+27INR0434,Solar,500.0,Lyra Solar,Lyra Solar,Borden,Borden,2027-09-15,2027-09-15,unchanged COD
+27INR0435,Solar,251.75,Clairemont Solar 1,Clairemont Solar 1,Kent,Kent,2029-02-13,2029-02-13,unchanged COD
+27INR0438,Solar,299.37,,Wisdom Solar SLF,,Pecos,,2027-10-06,added since Dec-2025 list
+27INR0440,Battery,102.88,,Wisdom BESS SLF,,Pecos,,2027-10-06,added since Dec-2025 list
+27INR0465,Battery,251.3,Althea Storage,Althea Storage,Maverick,Maverick,2028-09-21,2028-09-21,unchanged COD
+27INR0485,Battery,102.1,,Blackland Prairie 1 Energy Storage,,Travis,,2027-12-01,added since Dec-2025 list
+27INR0500,Solar,500.0,Antila Solar,Antila Solar,Borden,Borden,2027-11-30,2027-11-30,unchanged COD
+27INR0510,Wind,193.8,,Pecos Wind,,Pecos,,2028-05-30,added since Dec-2025 list
+27INR0581,Gas,1238.25,,Limitless Energy Hub I,,Wilbarger,,2028-12-01,added since Dec-2025 list
+27INR0582,Gas,1238.25,,Limitless Energy Hub II,,Wilbarger,,2028-12-01,added since Dec-2025 list
+28INR0008,Solar,503.91,,Oriole Solar,,Knox,,2028-12-29,added since Dec-2025 list
+28INR0009,Battery,150.39,,Oriole BES,,Knox,,2028-12-29,added since Dec-2025 list
+28INR0013,Solar,206.0,,Varadero Solar,,Limestone,,2029-04-01,added since Dec-2025 list
+28INR0024,Battery,201.35,Padua Grid BESS Unit 3,,Bexar,,2026-05-15,,"in Dec-2025 list only (energized, withdrawn, or removed; reason not stated in the workbook)"
+28INR0037,Wind,303.5,Bullring Wind 1,Bullring Wind 1,Starr,Starr,2028-06-30,2028-06-30,unchanged COD
+28INR0038,Wind,303.8,Bullring Wind 2,Bullring Wind 2,Starr,Starr,2028-06-30,2028-06-30,unchanged COD
+28INR0039,Wind,190.4,Bullring Wind 3,Bullring Wind 3,Starr,Starr,2028-06-30,2028-06-30,unchanged COD
+28INR0072,Wind,478.74,,Mirando Valley Wind,,Jim Hogg,,2028-07-06,added since Dec-2025 list
+28INR0089,Gas,900.0,EmberYork,EmberYork,Austin,Austin,2028-01-01,2028-01-01,unchanged COD
+28INR0090,Gas,1036.0,,EmberGreen,,Wharton,,2028-01-01,added since Dec-2025 list
+28INR0094,Battery,132.98,,Pham BESS,,Anderson,,2028-09-18,added since Dec-2025 list
+28INR0105,Gas,440.0,Vast Sands Power I (TEF -Due Diligence),Vast Sands Power I (TEF -Due Diligence),Ward,Ward,2028-05-01,2028-05-01,unchanged COD
+28INR0108,Gas,570.0,,RAYBURN ENERGY STATION II Gas (TEF-Due Diligence),,Grayson,,2028-02-26,added since Dec-2025 list
+28INR0109,Gas,440.0,Vast Sands Power II (TEF-Due Diligence),Vast Sands Power II (TEF-Due Diligence),Ward,Ward,2028-06-30,2028-06-30,unchanged COD
+28INR0114,Solar,503.0,,Elk Ridge Solar,,Pecos,,2030-07-01,added since Dec-2025 list
+28INR0127,Solar,512.5,Half Moon Solar,Half Moon Solar,Starr,Starr,2029-07-01,2029-07-01,unchanged COD
+28INR0154,Battery,101.65,Pamela Heights I,Pamela Heights I,Harris,Harris,2026-07-01,2026-12-18,COD later than Dec-2025 projection
+28INR0169,Wind,292.6,,Sanders Hollow Energy Center,,Dickens,,2029-06-23,added since Dec-2025 list
+28INR0176,Solar,244.4,,Gail Mountain Solar,,Borden,,2028-08-25,added since Dec-2025 list
+28INR0185,Solar,255.0,,San Gabriel Solar,,Milam,,2028-07-01,added since Dec-2025 list
+28INR0191,Battery,127.5,,San Gabriel Storage,,Milam,,2028-07-01,added since Dec-2025 list
+28INR0223,Solar,256.9,,Bayou Creek Solar,,San Patricio,,2028-09-25,added since Dec-2025 list
+28INR0288,Battery,302.0,,Outrider BESS,,Dickens,,2029-06-26,added since Dec-2025 list
+28INR0295,Battery,101.3,,Margay Energy Storage,,Brazoria,,2029-04-10,added since Dec-2025 list
+28INR0297,Solar,503.09,Magnet Solar,Magnet Solar,Borden,Borden,2028-10-06,2029-09-29,COD later than Dec-2025 projection
+28INR0305,Solar,144.59,,Iron Cowboy Solar,,San Patricio,,2029-07-10,added since Dec-2025 list
+28INR0306,Battery,63.27,,Iron Cowboy Storage,,San Patricio,,2029-07-10,added since Dec-2025 list
+28INR0389,Battery,205.3,,Tri-X BESS 1 SLF,,Crane,,2028-10-30,added since Dec-2025 list
+28INR0434,Wind,366.51,,Viento Bravo Wind,,Jim Hogg,,2028-07-06,added since Dec-2025 list
+28INR0486,Solar,1200.0,,Spectra Solar,,Scurry,,2028-11-16,added since Dec-2025 list
+29INR0003,Solar,1124.24,Aurelius Solar,Aurelius Solar,Deaf Smith,Deaf Smith,2028-06-30,2028-06-30,unchanged COD
+29INR0004,Wind,621.6,Aurelius Wind,Aurelius Wind,Deaf Smith,Deaf Smith,2028-06-30,2028-06-30,unchanged COD
+29INR0009,Solar,445.4,,Aurelius 2 Solar,,Deaf Smith,,2028-09-30,added since Dec-2025 list
+29INR0013,Solar,307.0,,Cattle Drive Solar,,Crane,,2028-12-31,added since Dec-2025 list
+29INR0015,Solar,351.1,Funston Solar,Funston Solar,Jones,Jones,2027-07-01,2027-02-26,COD earlier than Dec-2025 projection
+29INR0017,Solar,554.7,Big Rooter East Solar,Big Rooter East Solar,Robertson,Robertson,2029-05-31,2029-05-31,unchanged COD
+29INR0018,Battery,201.03,Big Rooter East Storage,Big Rooter East Storage,Robertson,Robertson,2029-12-31,2029-12-31,unchanged COD
+29INR0025,Wind,370.0,,Skyrider Wind,,Pecos,,2028-07-01,added since Dec-2025 list
+29INR0040,Wind,248.9,Gusty Windpower,Gusty Windpower,Glasscock,Glasscock,2028-06-01,2028-12-31,COD later than Dec-2025 projection
+29INR0042,Wind,310.2,,Slager Lake Wind,,Reagan,,2029-07-01,added since Dec-2025 list
+29INR0068,Gas,469.9,,Gregory Power Development SLF,,San Patricio,,2028-12-19,added since Dec-2025 list
+29INR0131,Solar,181.6,,Caesar Solar,,Borden,,2029-11-26,added since Dec-2025 list
+29INR0132,Battery,205.5,,Caesar Storage,,Borden,,2029-11-26,added since Dec-2025 list
+29INR0147,Solar,253.0,,Selenite Springs Solar,,Pecos,,2028-08-30,added since Dec-2025 list
+29INR0150,Gas,1274.0,,Jewett Energy Center 1 Gas,,Freestone,,2029-11-01,added since Dec-2025 list
+29INR0192,Solar,302.1,,Spurland Solar I,,Dickens,,2028-12-30,added since Dec-2025 list
+29INR0195,Solar,201.6,,Spurland Solar II,,Dickens,,2028-12-30,added since Dec-2025 list
+29INR0219,Solar,301.39,,Cenizo Solar,,Webb,,2029-12-31,added since Dec-2025 list
+30INR0018,Wind,1500.0,,Big Canyon Wind,,Pecos,,2030-07-01,added since Dec-2025 list
+30INR0051,Gas,880.0,,Sim Gideon Combined Cycle,,Bastrop,,2030-12-15,added since Dec-2025 list
+30INR0052,Gas,880.0,,Lost Pines Power Park,,Bastrop,,2033-06-01,added since Dec-2025 list
+30INR0053,Solar,500.0,,MRR Solar,,Pecos,,2030-07-01,added since Dec-2025 list
+30INR0054,Gas,880.0,,SCHNEIDER COMBINED CYCLE,,Caldwell,,2033-05-10,added since Dec-2025 list
+30INR0058,Solar,400.0,,Springfield Solar,,Pecos,,2028-08-30,added since Dec-2025 list
+30INR0077,Gas,1300.0,,Moon Hammer,,Wheeler,,2030-11-30,added since Dec-2025 list

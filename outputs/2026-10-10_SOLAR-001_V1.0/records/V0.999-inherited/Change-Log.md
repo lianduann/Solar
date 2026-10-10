@@ -1,0 +1,58 @@
+# SOLAR-001 V0.999 change log
+
+Edits from the reviewed input Markdown to the V0.999 source. No estimate, input, sample or result was changed; the numeric-preservation check (Number-Preservation-Check.json) confirms every number in V0.999 occurs in the input. Line-level detail: Source-Diff_Input-to-V0.999.diff.
+
+| ID | Location | Issue | Change | Meaning affected |
+|---|---|---|---|---|
+| C01 | Whole document | Mixed British/U.S. spelling (modelled, labelled, realised, colour, programme, amortisation, itemise, centre) | Standardized to U.S. spelling throughout text, captions, figures and tables | No |
+| C02 | Whole document | Negative values written with a hyphen (-$86.0m, -0.89) | Minus sign (U+2212) used for every negative value in text and tables; URLs and code untouched | No |
+| C03 | Whole document | Money written three ways ($6.55 million, $143.67m, CNY16.85 billion) | Unified to $Xm / $Xbn / CNYXbn (25 occurrences); values unchanged | No |
+| C04 | Whole document | Curly and straight quotes mixed in the source | Source normalized; typographic quotes applied consistently at build time | No |
+| C05 | Whole document | Internal draft wording: 'retained', 'existing', 'present draft', 'manuscript', 'expanded/new/extended analysis', 'author-supplied', 'local method, no official publication URL', script paths | Replaced with reader-facing wording ('report', 'project model; not separately published', 'source') or removed; file references kept where they identify accompanying research files | No |
+| C06 | Whole document | Section references written as bare numbers ('see 10.8', '(10.8)') | Written as 'Section 10.8' and linked | No |
+| C07 | Title block / About This Report | Draft title block with 'Candidate research edition' label and loose scope notes | New cover, contents and 'About This Report' page: edition statement (editorial and production release, estimates unchanged), coverage, readership, Designed for / Not designed for, hypothetical-site note, Table 0-1 reading navigation, conventions | No (scope and limits restated, none removed) |
+| C08 | Table 0-1 | Reading navigation pointed to Section 6.6 | Updated to Section 6.5 after the Chapter 6 merge | No |
+| C09 | 1.1 Key findings | Bold lead paragraph and unheaded numbered findings; item 3 combined module sensitivity and trade rules | Lead set as a key-finding box; each finding has a short bold heading; trade rules split into finding 4 (seven findings); MIP, AD/CVD and USITC spelled out | No |
+| C10 | 1.1 finding 1 | $26.4/MWh qualifier only in Table 1-1 | Qualifier added next to the number: gross energy value before fees, settlement losses and imbalance; not net revenue | No (qualifier moved next to the value) |
+| C11 | 1.1 finding 2 | 'A separate 10–15-year West-hub hedge' | 'A separately calculated 10–15-year West-hub hedge'; distinction from the 30-year node fixed price kept | No |
+| C12 | 1.1 credit paragraph | Credit PV and NPV given as a fragment | Rewritten as one sentence; keeps 'pre-tax NPV plus a credit that is conditional on eligibility, not an after-tax value' and adds the Section 10.8 reference | No |
+| C13 | 1.2 Key numbers | Four headline numbers only in table | Key-number tiles added ($26.4/MWh, $48.9/MWh, −$86.0m, 485/13/2) with their qualifiers; Table 1-1 unchanged | No |
+| C14 | 1.3 | 'third' / 'Positive 2023 results assume persistence' | '3rd percentile; the two measures answer different questions'; 'assume that the year persists' | No |
+| C15 | 2.x | 'manuscript', 'is insufficient to', 'See the technical notes' | 'report', 'cannot', 'Model boundaries are summarized in Box 1 and detailed in Appendix B' | No |
+| C16 | 3.1, Figure 3-1/3-2 notes | Source flag 'u' unexplained; 'saved tables' | '"u" (unofficial)'; China included in world total stated; 'derived tables' | No |
+| C17 | 4.1 | 'This edition does not treat it as a 2026 run-rate measure' | 'It is an annual observation, not a 2026 run rate' | No |
+| C18 | Table 4-2 notes | One long italic note mixing sources, definitions and comparability | Split into three notes (sources and definitions; margin definitions; comparability) | No |
+| C19 | 4.5 / Figure 4-3 | First Solar 45X statement repeated in a bullet and the caption | Kept in the Figure 4-3 note; text cross-refers to Figure 4-3; 'Three observations' becomes 'Two observations' | No |
+| C20 | Tables 4-3A / 4-3B | Net-working-capital note sat after the 4-3B footnotes; cash definition repeated after the table | Note placed under Table 4-3A; duplicate cash sentence removed (kept in the 'Liquidity and obligations' paragraph) | No |
+| C21 | 5.2 | Variables s and m set as code | Set as italic math variables | No |
+| C22 | 5.5–5.6 | 'in Section 5.6' self-reference inside 5.6; 'transmitted' | 'above'; 'passed through' | No |
+| C23 | 5.7 | CBP and USITC not spelled out; 'programme' | Spelled out on first use; 'program' | No |
+| C24 | 5.7 last paragraphs | Benchmark-versus-MIP comparison worded as a run-on sentence | Rewritten into two sentences; adds the 4 December 2026 entry date already stated in 5.7 | No |
+| C25 | Figure 6-1 note | 'the original report from the official DOE document path' | 'Berkeley Lab / DOE, United States Data Center Energy Usage Report: 2025 Update, physical PDF page 11 / printed page 9, Table 2 [S04]' | No |
+| C26 | Chapter 6 | 6.4 and 6.5 overlapped (two sections on regional process evidence) | Merged into '6.4 Regional process evidence separates requested load from operating demand'; old 6.6 is now 6.5; repeated 83% / 11% sentence removed (values remain in the paragraph and Figure 6-3) | No |
+| C27 | 7.2 / 7.4 | Figure 7-1 note mixed units; 'adds', 'permit separation of' | Note states separate panels and scales; plainer verbs | No |
+| C28 | 8.1 | Reference-node status explained twice (8.1 and a separate status block) | Merged; keeps attribute match on name, county, capacity and in-service year, no official crosswalk, current-version mapping files, and undocumented node-selection rationale | No |
+| C29 | 8.2, 8.5, 8.6 | Wordy or fragmentary sentences ('The result demonstrates the importance of', 'third-percentile ... revenue location') | Tightened; '3rd percentile of absolute revenue'; 'nonlinear and interaction models' | No |
+| C30 | Figure 8-4 note | Marker description | Kept: 'thin dotted lines with crosses are medians'; slash lists written out | No |
+| C31 | 9.1–9.5 | 'independently establish', 'in multiple parts of the model', 'finance supplement joins' | Plainer wording; tracking-Y screen described as a separate screen keeping EIA tracking flag Y plants | No |
+| C32 | Chapter 9 limits box | Limits box placed before 9.5 | Moved to the chapter end like every other chapter; item 1 adds 'not calibrated to operating plants' (already stated in 9.5) | No |
+| C33 | 10.1 | 4.27% derivation stated twice; ' - 1' written with a hyphen | One derivation; '− 1' | No |
+| C34 | 10.3 | Hub-settled formula, hedge scope, J. Aron and Nestlé evidence spread across separate paragraphs with repeats; duplicate unpaid-energy break-even sentence | Ordered as Paid-volume stress, Hub-settled contracts, basis, Separately versioned hub-hedge calculation, Public contract evidence; duplicate removed (values remain in Paid-volume stress) | No |
+| C35 | Chapter 10 tables | Table numbers out of reading order (10-6 appeared before 10-3) | Renumbered in reading order: cost crosswalk 10-3, timing 10-4, same-year comparison 10-5, discount-rate sensitivity 10-6; all references updated | No |
+| C36 | 10.4 notes | 'Values retain the original estimates'; undefined IRR note | Removed process wording; scenario-output sources [S08, S10] kept | No |
+| C37 | 10.7 | 'The supplement infers ...'; ERCOT allowance point repeated | 'Its linkage to ATB is inferred ...'; repeat removed (stated once in the GCC paragraph) | No |
+| C38 | 10.8 | Statutory thresholds sentence long; 'PWA' abbreviation | Shortened; 'prevailing-wage and apprenticeship conditions'; 'does not claim the illustration is a complete after-tax NPV' kept | No |
+| C39 | 10.9 | Two 'Comparable returns' paragraphs; 'The original estimates are retained'; 13 positive nodes 'South 13 (10 distinct receipt series)' | Merged into one paragraph; process sentence removed; 'All 13 positive 2024 nodes map to the South load zone, with 10 distinct receipt series' | No |
+| C40 | Chapter 11 notes | Captions began 'Underlying table: the accompanying scenario and source tables' | 'Source: one-way / two-way sensitivity table [S08]' and similar | No |
+| C41 | 11.8 | 'Thus', 'must not be described as pre-reform' | 'The years 2023–2024 therefore predate the change ... should not be described as entirely pre-reform' | No |
+| C42 | Chapter 12 | Each hypothesis restated in full under 12.1–12.5 and in Table 12-1; 'What this means for you' | Restatements removed (full text in 2.5 and in each 'Working hypothesis' line); 'Practical implication'; Table 12-1 uses H1–H5 short names with a note | No |
+| C43 | Chapter 13 | Two unnumbered tables; 'The present draft' | Tables numbered 13-1 to 13-3 with source note; 'This report' | No |
+| C44 | Table 14-1 note | 'already operating monitoring system or an automated-service commitment' | 'operating monitoring system or a service commitment' | No |
+| C45 | Appendix A | 'local method, no official publication URL' (6x); 'Finance-deepening evidence integrated on 9 October 2026'; 'Closure-supplement evidence'; R-T date written twice | 'project model; not separately published'; A.1 'Comparable-project, cost, contract and tax sources (F references)'; A.2 'Supplementary verification sources (CL references)'; R-T 'January 2024 to August 2026' | No |
+| C46 | Appendix B | Table B-2 untitled; B.5 handoff wording; (1.0427)^16 | Table B-2 titled; research-companion wording; exponent typeset | No |
+| C47 | Appendix C | 'possible future work, not unresolved parts of the present analysis' | 'The following topics lie outside the present analysis' | No (scope statement kept) |
+| C48 | Appendix D | Glossary lacked several abbreviations used in the text | Table D-1 title; added MIP/AD/CVD, CBP/USITC, 45X, PWA, ORDC/QSE, REC, SGIA/TSP, NPRR, LMDI | No |
+| C49 | Figures (all 34 exhibits) | Mixed typefaces, raster PNG, headline duplicated inside the image, legends crossing reference lines, a hidden total label, raw scenario IDs in panel titles | Redrawn from the same data tables with the unchanged upstream plotting code: Inter type, vector SVG, in-image headline removed (caption carries it), opaque legends, labeled totals backed, client wording; plotted values compared with the upstream snapshot: identical | No |
+| C50 | Tables (all) | Plain Markdown tables, numbers left-aligned, long tables splitting at random | Designed table style, numeric columns right-aligned with tabular figures, header rows repeat across pages, short tables kept whole | No |
+| C51 | Layout | No contents, bookmarks, running heads or page numbers | Clickable contents with page numbers, 111 PDF bookmarks, running heads, page numbers, cover and back cover, chapter openers, key-finding/data/limits styles, linked cross-references | No |
+| C52 | Layout fixes after page inspection | Contents page numbers missing; values split across lines ('$48.9/ MWh'); Table 10-2 and 4-3B overflowing; chapter number stranded on its own page; orphan glossary row; straight apostrophe on back cover | Fixed; affected pages re-rendered and re-inspected (see Page-Inspection-Log.md) | No |

@@ -1,0 +1,17 @@
+# Access Blockers
+
+**Recorded:** 2026-10-09. For each source the table gives the site, what was blocked, what I tried and the next step. No logins, sign-ups, payments or contacts were made.
+
+| ID | Site / file or field | Attempt and result | Next step |
+|---|---|---|---|
+| AB-01 | Business Wire release 2020-12-09, Taygete I lenders and tax-equity investor | `curl` returned HTTP 403. The error page was not kept, and the receipt row records the 403. I used the CIT/First Citizens newsroom copy instead, which omits the lender names and the tax-equity investor | Open the URL manually in a browser and save it as PDF into `Data/raw/2026-10-09_Finance-Deepening/comparables-added/` |
+| AB-02 | Texas Register archive (sos.texas.gov), adopted 16 TAC §25.195 preamble | HTTP 403; the 21 KB error page is kept for the record. I used the current rule PDF on puc.texas.gov instead, which is the governing text | Optional: PUCT Project 55566 final order on interchange.puc.texas.gov, for the preamble |
+| AB-03 | Texas Statutes site (statutes.capitol.texas.gov), PURA §35.004 and Tax Code ch. 313/403 | The page is a JavaScript application with no statute text in the HTML. Chapter 313's closure to new agreements is therefore cited from secondary sources only | Use the browser and print the statute pages to PDF |
+| AB-04 | LevelTen Q2 2026 North America report, ERCOT P25 | Only a summary is public. Regional tables require a subscription, which was not purchased | Author decision on whether to subscribe; otherwise use the quarterly trade-press regional tables |
+| AB-05 | NREL ATB 2025 Tableau dashboards (Components of CAPEX / O&M) | The `.csv` view export returned a 404 HTML page, which was deleted. The `.twb` workbook holds item names but not values | Open the dashboard in a browser and use Tableau's built-in download |
+| AB-06 | ERCOT NP6-905-CD 2026 monthly archives (post-RTC+B prices) | Not attempted in this round; the brief says to reuse retained archives first | Download the 2026 monthly archives through the ERCOT MIS public product page for NP6-905-CD |
+| AB-07 | PACER docket for Oregon Environmental Council v. IRS (appeal status) | Requires an account, so not used. The CourtListener RECAP copy (via a reader proxy) shows nothing after Doc. 50, and a Clifford Chance note dated 2026-09-04 says no appeal was filed | Author decision on PACER access, or recheck RECAP later |
+| AB-08 | uscode.house.gov | Under maintenance at retrieval. Cornell LII renderings were used and checked against the slip-law amendments | Re-fetch the official U.S. Code text later |
+| AB-09 | EIA-860M December file listed on the EIA page | Returned an HTML error page, which was not kept. The August 2026 EIA-860M was kept, and the EIA-860 2025 final annual file was used for the analysis | None needed |
+| AB-10 | First comparables extraction pass | The pass stopped after downloading the Comptroller and ERCOT files but before writing extraction tables. I extracted the retained files with scripts 04 and 05 | None |
+| AB-11 | Interrupted re-run of `01_node_hub_capture.py` | A re-run with extra columns was stopped before it produced any output. I restored the script to the version that produced the delivered tables. The run's console log file was truncated to empty by the interruption; the delivered CSVs and `node_hub_extraction_receipt.json` (13:39 local) are intact | None; the frozen panel table is the primary source under the updated brief |

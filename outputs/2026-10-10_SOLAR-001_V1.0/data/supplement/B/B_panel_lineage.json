@@ -1,0 +1,17 @@
+{
+ "price_matrix_sha256": "6745944272a9d51e75575d25e57a3ec4612aa6bb9d44b1f99ab1334acefa1985",
+ "ref_energy_sha256": "10ba811e5fcdf08adf844665cbe0617eeecc1a370ed6e6d78f59d2752288df04",
+ "sp_list_sha256": "65e891808b71b07f559f0b88f4db152aeff37dc2b834e684ebfed8a50df78758",
+ "selected": [
+  "ANDMDSLR_ALL",
+  "FWLR_SLR_1",
+  "TI_SOLAR_ALL",
+  "BELM_SLR_RN",
+  "MRKM_SLR_RN",
+  "STAM_SLR_ALL",
+  "PERE_SLR_RN",
+  "TREB_SOLAR1",
+  "STAR_SLR_RN",
+  "TAYGETE2_ALL"
+ ]
+}

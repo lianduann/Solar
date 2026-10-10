@@ -1,0 +1,3 @@
+spec,dep,block,reps,point,boot_se,ci95_lo,ci95_hi,hac168_se
+S1,HB_BUSAVG,168 hours moving (circular),1720,-3.8280131,0.57986353,-4.9067031,-2.6903839,0.56555393
+S3,HB_BUSAVG,7 consecutive dates (circular),2000,-3.2952722,0.3847272,-4.0586795,-2.5697972,0.38865599

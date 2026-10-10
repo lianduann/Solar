@@ -1,0 +1,3 @@
+item,output_gw,utilization,implied_self_owned_capacity_gw,note
+wafer,106.26,0.624,170.29,implied = output / company-stated utilization; the company's utilization definition is self-owned output / self-owned capacity during the period
+module,67.69,0.535,126.52,implied = output / company-stated utilization; the company's utilization definition is self-owned output / self-owned capacity during the period

@@ -1,0 +1,36 @@
+dep,spec,sample,n_obs,n_regressors,status
+HB_BUSAVG,S1,all,26298.0,210.0,estimated
+HB_BUSAVG,S2,all,26298.0,209.0,estimated
+HB_BUSAVG,S3,all,26298.0,26.0,estimated
+HB_BUSAVG,S4,all,26298.0,212.0,estimated
+HB_BUSAVG,S5_2023,2023,8757.0,186.0,estimated
+HB_BUSAVG,S5_2024,2024,8783.0,186.0,estimated
+HB_BUSAVG,S5_2025,2025,8758.0,186.0,estimated
+HB_BUSAVG,S6,local 11:00-16:59,6574.0,84.0,estimated
+HB_WEST,S1,all,26298.0,210.0,estimated
+HB_WEST,S2,all,26298.0,209.0,estimated
+HB_WEST,S3,all,26298.0,26.0,estimated
+HB_WEST,S4,all,26298.0,212.0,estimated
+HB_WEST,S5_2023,2023,8757.0,186.0,estimated
+HB_WEST,S5_2024,2024,8783.0,186.0,estimated
+HB_WEST,S5_2025,2025,8758.0,186.0,estimated
+HB_WEST,S6,local 11:00-16:59,6574.0,84.0,estimated
+TAYGETE2_ALL,S1,all,26298.0,210.0,estimated
+TAYGETE2_ALL,S2,all,26298.0,209.0,estimated
+TAYGETE2_ALL,S3,all,26298.0,26.0,estimated
+TAYGETE2_ALL,S4,all,26298.0,212.0,estimated
+TAYGETE2_ALL,S5_2023,2023,8757.0,186.0,estimated
+TAYGETE2_ALL,S5_2024,2024,8783.0,186.0,estimated
+TAYGETE2_ALL,S5_2025,2025,8758.0,186.0,estimated
+TAYGETE2_ALL,S6,local 11:00-16:59,6574.0,84.0,estimated
+HB_BUSAVG,S1_wins,winsorized 0.5/99.5,26298.0,210.0,estimated
+HB_BUSAVG,S1_ex1000,exclude hours >= 1000 USD/MWh,26225.0,210.0,estimated
+HB_BUSAVG,S1_median_quantile,all,26298.0,,estimated
+HB_BUSAVG,LPM_S1_lt0,all,26298.0,210.0,estimated
+HB_BUSAVG,Logit_S1_lt0,all,,,failed: Singular matrix
+TAYGETE2_ALL,LPM_S1_lt0,all,26298.0,210.0,estimated
+TAYGETE2_ALL,Logit_S1_lt0,all,26298.0,,estimated; converged=True
+HB_BUSAVG,LPM_S1_le-5,all,26298.0,210.0,estimated
+HB_BUSAVG,Logit_S1_le-5,all,,,failed: Singular matrix
+TAYGETE2_ALL,LPM_S1_le-5,all,26298.0,210.0,estimated
+TAYGETE2_ALL,Logit_S1_le-5,all,,,failed: Singular matrix

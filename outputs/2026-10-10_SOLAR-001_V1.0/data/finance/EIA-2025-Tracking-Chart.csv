@@ -1,0 +1,11 @@
+year,plant_id,plant_name,county,proximity,mwac_2025,mwdc_2025,dc_ac_ratio,first_cod,last_cod,tracking,months_reported,full_year_constant_capacity,annual_net_generation_mwh,hours,leap_year,annual_capacity_factor_ac,flags,respondent_frequency
+2025,62804,Greasewood Solar,Pecos,same county,255.0,348.0,1.36471,2021-02,2021-02,Y,12,True,408300.0,8760,False,0.18278,clean full-year standalone PV,M
+2025,61368,Midway Solar - TX,Pecos,same county,182.0,235.7,1.29505,2018-12,2018-12,Y,12,True,332466.0,8760,False,0.20853,clean full-year standalone PV,M
+2025,60436,East Pecos Solar,Pecos,same county,118.5,142.8,1.20506,2017-04,2017-04,Y,12,True,219423.0,8760,False,0.21138,clean full-year standalone PV,M
+2025,60682,Pearl Solar,Pecos,same county,50.0,66.1,1.322,2017-10,2017-10,Y,12,True,97375.0,8760,False,0.22232,clean full-year standalone PV,M
+2025,62483,Taygete Energy Project LLC,Pecos,same county,255.0,344.1,1.34941,2021-03,2021-03,Y,12,True,547505.0,8760,False,0.2451,clean full-year standalone PV,M
+2025,64075,Taygete II Energy Project,Pecos,same county,203.8,258.4,1.26791,2023-07,2023-07,Y,12,True,455787.0,8760,False,0.2553,clean full-year standalone PV,M
+2025,60044,Buckthorn Westex,Pecos,same county,154.0,202.0,1.31169,2018-05,2018-05,Y,12,True,356578.0,8760,False,0.26432,clean full-year standalone PV,M
+2025,59994,RE Roserock,Pecos,same county,160.0,212.1,1.32563,2016-11,2016-11,Y,12,True,377963.0,8760,False,0.26967,clean full-year standalone PV,M
+2025,63233,Emerald Grove,Pecos,same county,108.0,140.8,1.3037,2023-03,2023-03,Y,12,True,256324.0,8760,False,0.27093,clean full-year standalone PV,M
+2025,67006,Greasewood II LLC,Pecos,same county,306.0,398.0,1.30065,2024-10,2024-10,Y,12,True,796894.0,8760,False,0.29729,clean full-year standalone PV,M

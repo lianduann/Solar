@@ -1,0 +1,758 @@
+name,type_2025,identity_2025,strict_all3,acceptable_all3,identity_label_all_years_RN_confirmed
+AEEC,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AGUAYO_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AJAXWIND_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ALGOD_ALL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ALVIN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AMADEUS_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AMISTAD_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AMOCOOIL_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+AMOCOOIL_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+AMOCO_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+AMOCO_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+AMO_AMOCO_1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_G1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_S1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+AMO_AMOCO_S2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+ANACACHO_ANA,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ANCHOR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ANDMDSLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ANSON1_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+APPALOSA_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AQUI_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ARAGORN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ASTRA_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ATK_ATKINSG7,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AUSTPL_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AVIAT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AZURE_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+AZ_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BAC_RN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BAFFIN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BAIRDWND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BARROW_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BASTEN_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BASTEN_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BATCAVE_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BBREEZE_1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BCATWD_WD_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BCH_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BCK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BIGSTAR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BLACKJAK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BLSMT1_5_A_6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BLUEJAY_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BOARDCRK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BOOTLEG_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BORDAS_345,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BOSQUESW_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BOSQUESW_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BOSQ_BSQSU_5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BOSQ_BSQS_12,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BOSQ_BSQS_34,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BRANDON_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRAUNIG_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BRAUNIG_VHB1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRAUNIG_VHB2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRAUNIG_VHB3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRAZ_WND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRA_AVR1_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BRA_AVR_CST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BRHEIGHT_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRISCOE_WIND,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRPANGLE_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRPMAGNO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_BRAZ_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_DIKN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_LOOP_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_LOP1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_PBL1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_PBL2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_RN_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_SWNY_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_ZPT1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRP_ZPT2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BRTSW_BCW1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BR_ARROW_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BR_VHB6CT5_6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BR_VHB6CT7_8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BSS_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BTE_BTE_G1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BTE_BTE_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BTE_BTE_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BTE_BTE_G4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BTE_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BTE_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+BTE_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+BUCHAN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BUCKTHRN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BUFF_GAP_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BULLCRK_1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BVE_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BVE_UNIT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BVE_UNIT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BVE_UNIT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BYRDR_ES_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+BYU_BYU_12,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BYU_BYU_34,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+BYU_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+BYU_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+BYU_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+BYU_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+BYU_PUN4,PUN,settlement point selected by name (type PUN),True,True,False
+B_DAVIS_3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+B_DAVIS_4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+B_DAVIS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+B_D_B_DAVIG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+B_D_B_DAVIG2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CABEZON_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_JKS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_JKS2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_JTD1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_JTD2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_OWS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALAVER_OWS2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALHOUN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CALLAHA_WND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CAL_CALGT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CAL_CALSTG1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CAL_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CAL_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+CAL_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+CAMWIND_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CAPRIDG4_CR4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CAPRIDGE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CARBN_BSP_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CASL_GAP_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CATARINA_B1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CBECII_89,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CBECII_CC3,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CBECII_CT7,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CBEC_ALL,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CBEC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CBEC_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CBY4_ALL,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CBY4_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CBY_CBY_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CBY_CBY_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CCEC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CCEC_GT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CCEC_GT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CCEC_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+CCEC_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+CCEC_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CEDROHI_CHW1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CEDRVALE_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CFLATS_UNIT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CHALUP_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CHAMON_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CHAMON_UN2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CHEDPW_GT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CHE_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CHE_LYD,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CHE_LYD2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CHE_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+CHE_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+CHISMGRD_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CITYVICT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CN_BRKS_UNT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+COL_COLETOG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CONIGLIO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CORAZON_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+COTPLNS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+COTTON_PAP2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+COYOTSPR_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CPSES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CPSES_UNIT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CRANELL_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CROSSETT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CRWN_SLR_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CSC_CSECG1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+CVC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+CVC_CVCG1_5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CVC_CVC_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+CVC_CVC_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DAG_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DANSBY_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DC2SES_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DDPEC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+DDPEC_GT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DDPEC_GT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DDPEC_GT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DDPEC_GT4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DDPEC_GT6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DDPEC_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DECKER_GT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DENISON_G1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DERMOTT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DIB_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+DIB_DIB_G1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DIB_DIB_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DIB_DIB_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DIB_DIB_G4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DIB_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+DIB_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+DOWGEN_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+DOWGEN_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+DOWGEN_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+DOW_61_2_63,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_64,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_81_2_84,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_G37_G35,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_G66_ST65,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_G67,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DOW_G96_ST95,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+DUKE_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+DUKE_GST1CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DUKE_GT2_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+DUP_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+DUP_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+DUP_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+DUP_PUN4,PUN,settlement point selected by name (type PUN),True,True,False
+ECLIPSE_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ELB_ELBCREEK,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ELECTRAW_1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ELSAUZ_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ELS_RN_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EL_RAYO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ENDPARK_ESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ERSL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ESTONIAN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ETCCS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+ETCCS_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+EUNICE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXGNSND_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXGNWTL_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_14,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_1_3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_9_13,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+EXN_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+EXN_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+EXN_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+E_BLACK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FAL_FALCONG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FAL_FALCONG2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FAL_FALCONG3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FAULKNER_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FEGC_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FENCESLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FERGCC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FERGCC_GT1_1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FERGCC_GT2_3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FERGCC_ST1_5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FERMI_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FILESSLR_PV1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FLOWERII_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FLTBES1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FLTCK_SSI,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FLUVANNA_1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FLVABES1_ESR,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FOARDCTY_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FORMOSA_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FORMOSA_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FORMOSA_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+FORMOSA_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+FOXTROT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FO_FORMOSA11,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FO_FORMOSA12,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FO_FORMOSG1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG10,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG13,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG14,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG15,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG7,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FO_FORMOSG8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FO_FORMOSG9,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FPPYD_FPP_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FPPYD_FPP_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FPPYD_FPP_G3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FREC_1_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FREC_2_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FREC_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FREC_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FRNYPP_1_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FRNYPP_2_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FRNYPP_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FRNYPP_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FTR_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+FTR_FTR_G1_4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+FTWIND_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+FWLR_SLR_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GALO_RN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GAMBIT_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GBY_GT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GID_GIDEONG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GID_GIDEONG2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GID_GIDEONG3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GOA_GOATWIND,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GOLINDA_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GPASTURE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GRANDVW1_A_B,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GREASWOD_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GRIF_TRL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GRSES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GRSES_UNIT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GUADG_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+GUADG_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+GUADG_CCU1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+GUADG_CCU2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+GUNMTN_NODE,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+GWEC_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HAYSEN1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HAYSEN3_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HELIOS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HHGT_KENDAL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HHOLLW2_WND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HHOLLW3_WND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HHOLLW4_WND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HICK_G1_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HI_LONEB_RN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HI_LONE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HLSES_UNIT3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HLSES_UNIT4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HLSES_UNIT5,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HOLCOMB_RN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HOLSTEIN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HORSCR_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HORSECRK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HOVEY_GEN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HRBESS_BESS,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HRFDWIND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+HWF_HWFG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+H_HOLLO_WND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+IMP_RN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+INDNENR_1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+INDNENR_2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+INDNNWP_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+IND_INADALE1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+INGLCOSW_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+INGLCOSW_STG,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+INGLCOS_CTG1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+INGLCOS_CTG2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+INGLCO_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+INGLCO_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+INGLCO_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+INKS_INKS_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+INRT_W_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+JACKCNTY_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+JACKCNTY_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JACKCNTY_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JACKCNTY_STG,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JADE_SLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+JAY_RN_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+JCKCNTY2_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+JCKCNTY2_CT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JCKCNTY2_CT4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JCKCNTY2_ST2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+JC_BAT_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+JUNO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KARAKAW1_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KARAKAW2_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KEECHI_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KELAMSL_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KEO_KEO_SM1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KINGE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KINGW_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+KMCHI_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+KMCHI_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+LACY_CRK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LAMESASLR_G,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LAPETUS_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LARDVFTN_G4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LARDVFTN_G5,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LASSO_GEN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LEG_LEG_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LEG_LEG_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LEONLCPCT1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LEONLCPCT3_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LGDRAW_S_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LGD_LANGFORD,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LGE_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+LGE_LGE_GT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LGE_LGE_GT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LGE_LGE_STG,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LGW_UNIT_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LHM_CVC_G4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LHM_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+LHM_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+LHORN_N_U1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LHSES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LHSES_UNIT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LIG_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LILY_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LMAJADAS_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LNCRK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LONESTAR_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LONEWOLF_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LON_RN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LOSTPI_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+LOS_LOSTPGT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LOS_LOSTPGT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LOS_LOSTPST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+LPCCS_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+LPCCS_CT11,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_CT12,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_CT21,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_CT22,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_UNIT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LPCCS_UNIT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+LV1A_LV1B,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LV3_UNIT1,RN,type RN; not in 2026-09-10 official list (retired/renamed/unconfirmed),True,True,False
+LV4_UNIT_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+LV5_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MADERO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MARBFA,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MARIAH_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MAR_MARSFOG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MAR_MARSFOG2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MAR_MARSFOG3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MAVCRK_W_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MCDLD_FCSBW1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MCLNSLR_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MCSES_UNIT6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MCSES_UNIT7,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MCSES_UNIT8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MDANP_CT1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MDANP_CT3_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MDANP_CT5_6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MERCURY_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MESQCRK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MESTENO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MGSES_CT123,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MGSES_CT456,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MIAM1_G1_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MIL_MILG1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MIL_MILG345,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MIRAGE_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MIRASOLE_GEN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MISAE_GEN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MLSES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MLSES_UNIT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MLSES_UNIT3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MOZART_WIND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MUSTNGCK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MWEC_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+MYR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NACPW_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NBOHR_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NCARBIDEG8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NCARBIDE_1_7,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NCARBID_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+NCARBID_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+NCO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NEBULA_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NEDIN_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+NED_NEDIN_G1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NED_NEDIN_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NED_NEDIN_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NF_BRP_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NOBLESLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+NUECES_B_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+NUE_NUECESG7,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NUE_NUECESG8,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NUE_NUECESG9,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+NWF_NWF1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OBERON_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ODESW_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OECCS_1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+OECCS_2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+OECCS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+OECCS_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+OGSES_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OGSES_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OLIN_OLING_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OLIN_OLING_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OLIN_OLING_3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OLIN_OLING_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OWF_OWF,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OXY_OXY_CCG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+OXY_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+OXY_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+PALMWI_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PANDA_S_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+PANDA_S_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_S_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_S_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T1_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+PANDA_T1_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T1_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T1_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T2_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+PANDA_T2_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T2_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PANDA_T2_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PAP1_PAP1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PB2SES_CT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PB2SES_CT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PB2SES_CT3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PB2SES_CT4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PB2SES_CT5,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PC_NORTH_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PC_SOUTH_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PEARSA_1_24,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PENA_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PEY_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PH1_UNIT1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PH2_U1_U2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PHILLWND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PHOEBE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PHOENIX_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PISG_RN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PLN_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PNPI_GT2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+POTSVIL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PRID_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PROSPERO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PRO_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PRSPERO2_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PR_PR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PSA_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+PSA_PSA_G1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PSA_G7,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSA_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+PSA_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+PSA_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+PSA_PUN4,PUN,settlement point selected by name (type PUN),True,True,False
+PSA_PUN5,PUN,settlement point selected by name (type PUN),True,True,False
+PSG_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+PSG_PSG_GT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSG_PSG_GT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PSG_PSG_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+PTLBES_BESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+PYR_PYRON1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+QALSW_ALL,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+QALSW_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+QALSW_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+QUEEN_BA_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+QUEEN_SL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RAB_G1-8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RADN_SLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RAMBLER_UNIT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RANCHERO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RAT_RN_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RAYBURN_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+RAYB_G78910,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RDCAN_RDCNY1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+REDBARN_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+REDFISH_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+REDGATE_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RELOJ_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+REROCK_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RHESS2_ESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RIGGIN_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RIONOG_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+RIONOG_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RIONOG_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RIONOG_CT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RIONOG_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RIPPEY_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_APOGEE,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_BYU_G8,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+RN_DEC_AGR_A,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_DEC_AGR_B,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_DEC_AGR_C,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_DEC_AGR_D,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_ECEC_HOLT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_OCI_ALAMO,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_RTS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_SR_WIND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RN_TOSBATT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ROSELAND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ROUTE66_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+ROW_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RPUBRDS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RSK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RTLSNAKE_BT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+RVRVLYS_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SADLBACK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SALVTION_GEN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SAMSON_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SANDHSYD1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SANDHSYD3_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SANDHSYD6_7,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SANDHSYD_5AC,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+SANDHSYD_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+SANTACRU_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SAN_SANMIGG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SBEAN_BESS,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SBE_RN_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SC2SES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCES_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCLP_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+SCLP_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+SCLP_PUN3,PUN,settlement point selected by name (type PUN),True,True,False
+SCLP_PUN4,PUN,settlement point selected by name (type PUN),True,True,False
+SCLP_SCLPC_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCLP_SCLPC_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCLP_SCLPC_3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCLP_SCLPC_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SCSES_UNIT2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SENATEWD_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SGM_SIGNALMT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SGSA_DGR,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SHAFFER_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SHANNONW_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SILASRAY_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+SIL_SILAS_10,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SIL_SILAS_6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+SIL_SILAS_9,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+SIRIUS_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SJS_SJS_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SJS_SJS_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SKY1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SLCN_ESS_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SLTFRK_UN1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SNY_BESS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SOLARA_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPARTA_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPLAIN1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPLAIN2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPNC_SPNCE_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPNC_SPNCE_5,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SPTX12B_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SRWE1_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SSPURT_WIND1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STAM_SLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STEAM_ENG123,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STEA_STEAM_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STEA_STEAM_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STEA_STEAM_3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STELLA_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STP_STP_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STP_STP_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STRATEGC_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+STWF_T1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SUNVASLR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWEC_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWEETWN2_2_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWEETWN3_3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWEETWND_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWOOSE1_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWOOSEII_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWTWN4_WND45,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+SWT_BESS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+S_HILLS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TAHOKA_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TAV_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TAYGETE2_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TAYGETE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TC_PUN1,PUN,settlement point selected by name (type PUN),True,True,False
+TC_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+TC_TCHP1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TEN_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+TEN_CT1_STG,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TGCCS_ALL,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TGCCS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+TGS_GT01,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TGW_T1_T2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+THW_1_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+THW_2_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+THW_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+THW_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+THW_THWGT5X,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+THW_THWGT_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TI_SOLAR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TKWSW_CHAMP,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TKWSW_ROSCOE,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TNP_TNP_O_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TNP_TNP_O_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TNSKA_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+TNSKA_CCU,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TOPAZ_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TORR_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TOYAH_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRENT_TRENT,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRINITY_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRIPBUT1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRSES_UNIT6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRUENO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TRUSGILL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TTRSW_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TTWEC_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TURQ_BESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+TXCTY_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+TXCTY_CTA,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TXCTY_CTB,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TXCTY_CTC,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TXCTY_ST,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+TYLRWIND_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+T_CK_GT2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+T_CK_GT3_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+UCC_COG_PUN2,PUN,settlement point selected by name (type PUN),True,True,False
+UCC_UCC_C_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VANCOURT_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VENADO_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VERAWIND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VERTIGO_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VICTORIA_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+VICTPORT_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VIC_VICTORG5,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+VIC_VICTORG6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+VISION_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+VLSES_UNIT3,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+VORT_ALL_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAKEWE_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAPGT_1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G3,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G5,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G6,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G7,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAP_WAP_G8,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WAYMARK_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WCPP_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+WCPP_CT1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WCPP_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WCPP_ST1,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WEBBER_WS_T1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WEC_WECG1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WES_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WFCOGEN_13,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WFCOGEN_24,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WFCOGEN_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+WFTANK_ESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WGU_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WHCCS2_4,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WHCCS2_5_6,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WHCCS2_CC2,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+WHCCS_CC1,LCCRN,settlement point selected by name (type LCCRN),True,True,False
+WHCCS_CT1_ST,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WHCCS_CT2,PCCRN,settlement point selected by name (type PCCRN),True,True,False
+WHITE_PT_UN1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WHMESA_U1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WHTTAIL_WR1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WH_WIND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WILDWIND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WIPOPA_1_2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WIPOPA_3_4,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WIR_WIRTZ_G1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WIR_WIRTZ_G2,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WL_RANCH_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WNDTS2_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WND_WHITNEY,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WOODWRD1_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WOODWRD2_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WOV_BESS_RN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+WRSBES_BESS1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+W_PECO_UNIT1,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+X443ESRN,RN,resource node (type RN; in 2026-09-10 official list),True,True,True
+YNG_WND_ALL,RN,resource node (type RN; in 2026-09-10 official list),True,True,True

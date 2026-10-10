@@ -1,0 +1,6 @@
+type_2025,identity_2025,n,strict_all3,acceptable_all3
+LCCRN,settlement point selected by name (type LCCRN),67,67,67
+PCCRN,settlement point selected by name (type PCCRN),155,155,155
+PUN,settlement point selected by name (type PUN),49,49,49
+RN,resource node (type RN; in 2026-09-10 official list),485,485,485
+RN,type RN; not in 2026-09-10 official list (retired/renamed/unconfirmed),1,1,1

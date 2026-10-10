@@ -1,0 +1,56 @@
+{
+ "executed_local": "2026-10-09T20:11:01.673932-04:00",
+ "exit_codes": {
+  "08": 0,
+  "09": 0
+ },
+ "interval_file_identical": true,
+ "table_comparisons": [
+  {
+   "file": "Credit-Base-Scenarios.csv",
+   "rows": 45,
+   "identical": true
+  },
+  {
+   "file": "VPPA-Route-Scenarios.csv",
+   "rows": 240,
+   "identical": true
+  },
+  {
+   "file": "VPPA-Breakeven-Strikes.csv",
+   "rows": 120,
+   "identical": true
+  },
+  {
+   "file": "CPI-Harmonised-Scenario.csv",
+   "rows": 12,
+   "identical": true
+  }
+ ],
+ "reproduction_checks": {
+  "frozen_reproduction": {
+   "K_cost_4p27": 187321205.57307306,
+   "node_rev_yr1": 6550953.32100216,
+   "node_base_npv_4p27": -85965281.18255715,
+   "status": "reproduced within 1 USD"
+  },
+  "credit": {
+   "grid_item_share_pvscm": 0.10864520756747063,
+   "soft_cost_share_pvscm": 0.376633,
+   "original_reproduced": true
+  },
+  "vppa_tenor0_check": {
+   "npv": -85965281.09543282,
+   "frozen": -85965281.18255715
+  },
+  "cpi": {
+   "factors": {
+    "2023": 1.0565831533760854,
+    "2024": 1.0263126854942315
+   },
+   "a": 15.471935077402582,
+   "node_sample_rows": 1455
+  }
+ },
+ "note": "Clean re-run in a scratch directory; no regression, resampling or weather simulation; frozen panel files read-only."
+}

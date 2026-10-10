@@ -1,0 +1,19 @@
+year,step,n
+2023,all settlement points in NP6-905-CD,910
+2023,type RN,592
+2023,type RN and in official list,556
+2023,  ... of which strictly complete (0 missing),486
+2023,  ... of which acceptable coverage (>=99.9%),486
+2023,  ... of which R2 rule (<=4 missing),486
+2024,all settlement points in NP6-905-CD,982
+2024,type RN,665
+2024,type RN and in official list,641
+2024,  ... of which strictly complete (0 missing),555
+2024,  ... of which acceptable coverage (>=99.9%),555
+2024,  ... of which R2 rule (<=4 missing),555
+2025,all settlement points in NP6-905-CD,1102
+2025,type RN,782
+2025,type RN and in official list,769
+2025,  ... of which strictly complete (0 missing),641
+2025,  ... of which acceptable coverage (>=99.9%),641
+2025,  ... of which R2 rule (<=4 missing),641

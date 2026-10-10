@@ -1,0 +1,10 @@
+item,frozen_dollar_or_time_basis,proposed_basis_for_new_scenario,factor_or_rule,source,status
+ERCOT 2023 RT prices reused as a real price path,2023 nominal values reused as 2025-real scenario (no CPI restatement),2025 USD via CPI-U annual average,x 321.943/304.702 = 1.056583,BLS CUUR0000SA0 annual averages (retained Data/raw/2026-10-07_Scenario-and-Sensitivity/BLS),factor ready; new labelled scenario only - do not overwrite frozen outputs
+ERCOT 2024 RT prices reused as a real price path,2024 nominal reused,2025 USD,x 321.943/313.689 = 1.026313,same,factor ready
+ERCOT 2025 RT prices,2025 nominal = 2025 USD base,2025 USD,x 1,same,no change
+ATB OCC / GCC / FOM,2023 USD converted to 2025 USD with CPI-U factor 1.0565831,unchanged,frozen register cpi_2023 and cpi_2025,frozen register,consistent
+Fixed contract price 40 USD/MWh,flat nominal from 2027; deflated with 2.5% from 2025 base,unchanged; for a VPPA scenario state escalator explicitly,real_t = nominal_t / 1.025^(t-2025),frozen register inflation row,consistent
+ATB nominal financing rates,6.5% debt / 8.0% equity nominal,real via Fisher,(1+r_nom)/1.025 - 1 -> 3.90% / 5.37%; WACC_real 4.275%,Finance-Arithmetic-Checks R-*,consistent
+Comptroller investment figures (comparables),nominal as filed (2019 estimates; 2023 self-reports),"leave nominal; if restated, use CPI-U of the spending year (not known) - therefore report nominal only",n/a,C02-C35,nominal only by design
+Credit timing in panel illustration,30% of nominal 2026 capex received end-2027,"for a real model, deflate by 1.025^2 to 2025 USD and discount 1 year beyond investment",per frozen Panel-Calculations credit_nominal_2027 / credit_real_2025 / credit_pv,panel edition,consistent; eligibility unproven
+Interconnection allowance (PUCT),2024 base amounts indexed by Q3-to-Q3 CPI each year,"use the allowance in effect on the generator's notice-to-proceed date",16 TAC 25.195(f)(3)(A)(ii) and (C),PUCT_16TAC_25.195_current.pdf,rule documented; 2026/2027 published values not retained

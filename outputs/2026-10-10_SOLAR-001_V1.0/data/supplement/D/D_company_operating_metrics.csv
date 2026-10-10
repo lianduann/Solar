@@ -1,0 +1,24 @@
+company,period,metric,value,unit,source_file,verification_pattern,pattern_found_in_source,boundary
+JinkoSolar,FY2025,module_shipments,86.8,GW,D10__JinkoSolar_20-F_FY2025.txt,annual module shipments reached approximately 86\.8 GW,True,"module shipments, company definition; 2024 shipment figure not located in the FY2025 20-F text search"
+JinkoSolar,FY2025,direct_US_sales_share_of_revenue,0.144,fraction,D10__JinkoSolar_20-F_FY2025.txt,"8\.5%, 18\.1% and 14\.4% of our total revenues in 2023, 2024 and 2025",True,"direct sales to the U.S. market; FY2024 = 18.1%, FY2023 = 8.5%"
+JinkoSolar,FY2024,direct_US_sales_share_of_revenue,0.181,fraction,D10__JinkoSolar_20-F_FY2025.txt,"8\.5%, 18\.1% and 14\.4% of our total revenues in 2023, 2024 and 2025",True,same sentence
+JinkoSolar,FY2025,long_lived_asset_impairment,881.0,RMB million,D10__JinkoSolar_20-F_FY2025.txt,"RMB640 million, RMB1,242 million and RMB881 million",True,"total impairment losses on shut-down plants/PPE; FY2024 RMB1,242M, FY2023 RMB640M"
+Canadian Solar,FY2025,module_shipments,24.3,GW,D11__CanadianSolar_20-F_FY2025.txt,Total module shipments decreased to 24\.3 GW in 2025 from 31\.1 GW in 2024,True,total module shipments; FY2024 = 31.1 GW
+Canadian Solar,FY2024,module_shipments,31.1,GW,D11__CanadianSolar_20-F_FY2025.txt,Total module shipments decreased to 24\.3 GW in 2025 from 31\.1 GW in 2024,True,same sentence
+Canadian Solar,FY2025,battery_storage_shipments,7.8,GWh,D11__CanadianSolar_20-F_FY2025.txt,reaching 7\.8 GWh in shipped volume in 2025,True,"energy storage, not PV"
+Daqo New Energy,FY2025,polysilicon_production,123652.0,MT,D12__Daqo_20-F_FY2025.txt,"197,831 MT, 205,068 MT and 123,652 MT of polysilicon and sold 200,002 MT, 181,362 MT and 126,707 MT",True,"production; FY2024 205,068 MT; FY2023 197,831 MT"
+Daqo New Energy,FY2025,polysilicon_sales_volume,126707.0,MT,D12__Daqo_20-F_FY2025.txt,"sold 200,002 MT, 181,362 MT and 126,707 MT",True,"sales volume; FY2024 181,362 MT; FY2023 200,002 MT"
+Daqo New Energy,FY2024,polysilicon_production,205068.0,MT,D12__Daqo_20-F_FY2025.txt,"197,831 MT, 205,068 MT and 123,652 MT",True,production
+Daqo New Energy,FY2024,polysilicon_sales_volume,181362.0,MT,D12__Daqo_20-F_FY2025.txt,"sold 200,002 MT, 181,362 MT and 126,707 MT",True,sales volume
+Daqo New Energy,FY2023,polysilicon_sales_volume,200002.0,MT,D12__Daqo_20-F_FY2025.txt,"sold 200,002 MT, 181,362 MT and 126,707 MT",True,sales volume
+Daqo New Energy,2026 filing date,annual_production_capacity,305000.0,MT,D12__Daqo_20-F_FY2025.txt,"currently with an annual production capacity of 305,000 MT",True,nameplate capacity as stated 'currently' in the 20-F filed 2026-04-20; not an average capacity over FY2025
+First Solar,FY2025,modules_produced,16.1,GW,D13__FirstSolar_10-K_FY2025.txt,we produced 16\.1 GW and sold 17\.5 GW of solar modules,True,company definition; GW as stated by the company
+First Solar,FY2025,modules_sold,17.5,GW,D13__FirstSolar_10-K_FY2025.txt,we produced 16\.1 GW and sold 17\.5 GW of solar modules,True,sold includes inventory drawdown
+First Solar,2025-12-31,contracted_backlog,50.1,GW,D13__FirstSolar_10-K_FY2025.txt,future sale of 50\.1 GW of solar modules for an aggregate transaction price of \$15\.0 billion,True,contracts with customers; recognized through 2030 per filing
+First Solar,2025,industry_module_capacity_added_company_estimate,105.0,GW,D13__FirstSolar_10-K_FY2025.txt,"approximately 105 GW of capacity was added by solar module manufacturers, primarily in China",True,"company's own estimate, not an official statistic"
+LONGi,FY2024,operating_revenue,82.582,RMB billion,LONGi_2024_Annual_Report.pdf,operating revenue of RMB 82\.582 billion,True,retained 2024 annual report; −36.23% vs 2023; net loss attributable ~RMB 8.6 billion
+LONGi,FY2024,wafer_output_self_owned,106.26,GW,LONGi_2024_Annual_Report.pdf,106\.26GW\s+62\.40%,True,self-owned output; capacity utilization 62.40% on the company's own capacity denominator
+LONGi,FY2024,module_output_self_owned,67.69,GW,LONGi_2024_Annual_Report.pdf,67\.69GW\s+53\.50%,True,self-owned output; utilization 53.50% on the company's own capacity denominator
+LONGi,FY2024,wafer_shipments_total,108.46,GW,LONGi_2024_Annual_Report.pdf,wafer shipments reached 108\.46GW,True,external wafer sales 46.55 GW
+LONGi,FY2024,cell_and_module_shipments,82.32,GW,LONGi_2024_Annual_Report.pdf,cell and module\s+shipments amounted to 82\.32GW,True,company aggregate of cell and module shipments
+LONGi,FY2024,operating_cash_flow,-4.725,RMB billion,LONGi_2024_Annual_Report.pdf,"Net cash flow from operating activities\s+-4,724,978,931\.84",True,"consolidated cash-flow statement; investing line (-7,231,927,040.11) matches the MD&A table, so the same consolidated basis"

@@ -1,0 +1,4 @@
+year,leap_day_handling,gid,lat,lon,ac_energy_mwh_5min,energy_15min_total_mwh,intervals,weather_steps,steps_outside_set_zero,annual_ghi_kwh_m2,fill_flag_nonzero_share,cf_ac,validation_max_abs_diff_ac5_kw_vs_retained
+2023,none,1142134,30.780001,-102.71,282290.64,282290.64,35040,105120,73,2071.8698,0.028462709,0.32224959,
+2024,Feb 29 simulated with Feb 28 geometry,1142134,30.780001,-102.71,292108.18,292108.18,35136,105408,73,2118.1614,0.024552216,0.33254575,
+2025,none,1142134,30.780001,-102.71,292383.9,292383.9,35040,105120,73,2122.3435,0.041086377,0.33377158,0.00049999061
