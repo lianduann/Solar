@@ -45,6 +45,8 @@ dk = (O / "sources/legal/CourtListener_RECAP_docket_dcd_1-25-cv-04400_retrieved_
 chk("RECAP docket terminated June 8, 2026", "June 8, 2026" in dk)
 bz = (O / "sources/other/bz.txt").read_text()
 chk("Batch Zero 127.9 and 125.4 in deck", "127.9 GW" in bz and "125.4 GW" in bz)
+im = (O / "sources/other/IMM_2025_State-of-the-Market_ERCOT.txt").read_text()
+chk("IMM quotes (57 hours; 17 GW; Roughly 6% of solar)", "ORDC was active for only 57 hours" in im and "exceeded 17 GW" in im and "Roughly 6% of solar generation was curtailed" in re.sub(r"\s+", " ", im))
 pat = re.compile(r"(api[_-]?key\s*[:=]\s*\S{12,}|bearer\s+[a-z0-9\-_\.]{20,}|Ocp-Apim-Subscription-Key\s*[:=]|password\s*[:=]\s*\S+|eyJ[a-zA-Z0-9_\-]{20,}\.)", re.I)
 hits = [str(p) for p in O.rglob("*") if p.is_file() and p.suffix in (".md", ".csv", ".py", ".txt", ".json") and pat.search(p.read_text(errors="ignore"))]
 chk("credential scan", not hits, str(hits))

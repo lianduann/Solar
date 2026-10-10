@@ -8,11 +8,13 @@
 
 - Each section gives the anchor quote from the manuscript, an action (**REPLACE**, **INSERT** or **RETAIN**), complete client-ready English text, source IDs with page or locator, a number-to-source map, and the qualifications that must stay.
 - Source IDs are defined in `Sources.csv`. `PKG:` paths are files in the uploaded handoff package. `LEAD-` IDs are web-search results. They are leads, not evidence: no original page could be opened from this environment.
-- Text marked **CONDITIONAL INSERT** may enter the client report only after Codex (or the author) opens the original and confirms the wording. Otherwise leave it out.
+- The former CONDITIONAL INSERTs (FIN-03, FIN-10) were verified in round 3 against an author-supplied screenshot of the original release, and are now ordinary INSERTs.
 
 ## Access conditions (two rounds)
 
 **Round 1** (2026-10-10 ~02:45 UTC): the container's egress policy refused every official host, so only package originals, prior-round extracts and search leads were used.
+
+**Round 3** (~03:30 UTC): the author allowed potomaceconomics.com, and the IMM 2025 report was downloaded with a hash identical to the prior-round record. The author also supplied a screenshot of the Business Wire release.
 
 **Round 2** (2026-10-10 ~03:15–03:30 UTC), after the author changed the environment's network settings, the following were downloaded and saved under `sources/`:
 
@@ -74,7 +76,7 @@ Search results remain leads only.
 >
 > These indicators show that net operating generation already excludes material curtailed energy. They do not apportion the gap between the simulated 33.38% potential factor and the 24.6%–25.0% screened medians among weather, design, availability and curtailment. The simulated output is therefore not calibrated, and no P50/P90 is available. The 10% export sensitivity, which adds about $10.14m to NPV with costs unchanged, is a sensitivity and not a calibrated forecast.
 
-**Sources:** PKG `data/finance/EIA-Cohort-Reconciliation.csv`; manuscript Table 9-2; Regime-Evidence.csv RG-07 (LBNL USS 2025 slides, curtailment slide); IMM-SOM-2025 p.40 (inherited from the scenario package `Followup-Evidence-No-Login.md` §2; original PDF hash recorded in `Followup-Sources.csv`, not re-opened in this pass).
+**Sources:** PKG `data/finance/EIA-Cohort-Reconciliation.csv`; manuscript Table 9-2; Regime-Evidence.csv RG-07 (LBNL USS 2025 slides, curtailment slide); IMM-SOM-2025 PDF p.40, "Roughly 6% of solar generation was curtailed in 2025, similar to 2024 levels". The original was downloaded in round 3 and its SHA-256 matches the prior-round record. The executive-summary bullet on PDF p.35 is worded differently ("6% of total generation was curtailed"); the body text on p.40 is the one cited.
 
 **Numbers:** 7.1% (LBNL, ERCOT 2024); ~6% (IMM, ERCOT 2025); 33.38%, 24.6%, 25.0%, $10.14m (all unchanged from the manuscript).
 
@@ -101,18 +103,22 @@ Search results remain leads only.
 >
 > These are hypothetical contract settings. No comparable project in the public record discloses a strike, tenor, settlement hub, volume rule, negative-price clause, REC allocation or credit support. The only public structure for Taygete I is a long-term hedge with J. Aron & Company for part of output, plus an unnamed S&P A– rated purchaser. The original six scenarios are unchanged.
 
-**CONDITIONAL INSERT (only after the original Business Wire release of 9 December 2020 is opened and confirmed):**
+**INSERT (verified in round 3 against an author-supplied screenshot of the original Business Wire release, 9 December 2020):**
 
-> A developer release reports that a corporate tax-equity investor also purchases the project's renewable attributes under a 15-year agreement; this is the only publicly reported tenor associated with the Taygete projects and concerns attributes, not energy price.
+> The developer's release for Taygete I (250 MWac) states that the project's sole tax-equity investor, Nestlé, will also purchase 100% of the project's renewable electricity attributes, estimated at 750,000 MWh per year, for 15 years. This is the only publicly reported tenor for the Taygete projects. It concerns renewable attributes, not an energy price, settlement point or negative-price terms, none of which the release discloses. The release also names the energy hedge counterparty as J. Aron & Company (Goldman Sachs) for a portion of output, and the other purchaser as an unnamed S&P A– rated entity.
 
 **Sources:**
 - PKG Finance-Scenario-Versions `Scenario-Notes-EN.md` §2;
 - `data/VPPA-Breakeven-Strikes.csv` (rows: price_year 2025, discount_rate 0.0427 → 81.64, 84.77, 69.06, 81.54, 71.63, 74.41, 60.57, 71.65; rows at 0.06 and 0.08: min 68.38, max 107.12);
 - `data/VPPA-Route-Scenarios.csv` (tail share: pv_revenue_tail_years 50.43m / [67.72m + 50.43m] = 42.7%);
 - Contract-Terms.csv CT-01, CT-02, CT-03.
-- Lead: LEAD-BW-2020 (search summary of the Business Wire release naming Nestlé as sole tax-equity investor and a 15-year renewable-attribute purchase). Not verified.
+- BW-2020-SCREENSHOT (`sources/other/BusinessWire_2020-12-09_7X-Nestle-Taygete-I_author-screenshot.jpg`; paragraphs 2 and 4 of the release). The image is a browser capture supplied by the author, not the HTML original; text was read from the image.
 
-**Round 2:** businesswire.com returned HTTP 403 (site-level). SEC full-text search (2019 to 2026-10-09) returns no filing naming "Taygete" or "West Texas Solar Project II". The conditional insert therefore stays conditional.
+**Round 2:** businesswire.com returned HTTP 403 (site-level), and SEC full-text search (2019 to 2026-10-09) returned no filing naming "Taygete" or "West Texas Solar Project II".
+
+**Round 3:** the author supplied a browser screenshot of the release, and the insert above is verified against it.
+
+**Capacity note:** the release states 250 MWac; the retained EIA-860 2025 record shows 255.0 MWac. Both figures are kept with their sources.
 
 **Remaining fields:** strike, tenor, settlement point, volume basis, negative-price clause, REC ownership, credit support and curtailment allocation for any comparable contract; a dated merchant-tail price.
 
@@ -279,7 +285,7 @@ Search results remain leads only.
 - this supplement `tables/FIN-08_2026-Price-Coverage-Summary.csv`;
 - Finance-Scenario-Versions `data/HB_WEST-2026-JanSep-Post-RTCB-Context.csv` (rows Jan-Sep 2026: 18.2449 / 0.1412; Jan-Sep 2025: 21.3637 / 0.0766);
 - P06 ERCOT RTC+B release (`support/Official-Web-Extracts.json`);
-- IMM-SOM-2025 pp.30, 35.
+- IMM-SOM-2025 PDF pp.30 (ORDC 57 hours) and 35 (storage above 17 GW), verified against the original downloaded in round 3.
 
 **Remaining fields:** row-level price finality or version; plant-level outages, constraints, imports and battery dispatch. The last group is outside the scope of this edition; no mechanism panel is opened.
 
@@ -353,13 +359,15 @@ Not compiled:
 
 > **Financing terms.** For Taygete I, the lead arranger's release reports a $256m financing arranged by CIT with five other lenders. For Taygete II, the Comptroller filing reports a foreclosure purchase initiated by the senior lender after the previous owner failed to repay its loan. Neither public record discloses the debt size relative to project cost, coupon or spread, tenor, amortisation, sizing ratios (DSCR), reserve accounts, fees or a tax-equity allocation. The $256m is a financing amount, not a construction cost or a return. No levered or equity return is estimated.
 
-**CONDITIONAL INSERT (after confirming the original Business Wire release):**
+**INSERT (verified against the author-supplied screenshot of the 9 December 2020 Business Wire release):**
 
-> A developer release names the five co-lenders and a single corporate tax-equity investor for Taygete I; it does not disclose flip date, target yield or allocation terms.
+> The developer's release names the other lenders in the Taygete I financing as Deutsche Bank, National Bank of Canada, CIBC, Rabobank and Amalgamated Bank, with CIT as coordinating lead arranger. It names Nestlé as sole tax-equity investor, with Marathon Capital as Nestlé's financial advisor. It does not disclose the debt-to-cost ratio, pricing, tenor, the tax-equity flip date, target yield or allocation terms.
 
-**Sources:** F05 CIT release (Contract-Terms CT-01/02; Debt-and-Waterfall-Inputs.csv); C06 Form 772 p.1 §2 item 7. Lead: LEAD-BW-2020.
+**Sources:** F05 CIT release (Contract-Terms CT-01/02; Debt-and-Waterfall-Inputs.csv); C06 Form 772 p.1 §2 item 7; BW-2020-SCREENSHOT (paragraph 2).
 
-**Round 2:** Business Wire still returned 403. SEC full-text search found no Taygete filings; "Emerald Grove" appears only in Vistra guarantor exhibits, with no financing terms.
+**Round 2:** Business Wire returned 403. SEC full-text search found no Taygete filings; "Emerald Grove" appears only in Vistra guarantor exhibits, with no financing terms.
+
+**Round 3:** the lender and tax-equity names were verified against the author-supplied screenshot. Terms remain undisclosed.
 
 **Remaining fields:** coupon or spread, tenor, amortisation, DSCR/LLCR, DSRA/MRA, fees, sweep, flip date and target, and lender and auction price for Taygete II.
 

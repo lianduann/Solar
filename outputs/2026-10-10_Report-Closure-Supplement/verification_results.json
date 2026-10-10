@@ -105,6 +105,11 @@
   "detail": ""
  },
  {
+  "check": "IMM quotes (57 hours; 17 GW; Roughly 6% of solar)",
+  "pass": true,
+  "detail": ""
+ },
+ {
   "check": "credential scan",
   "pass": true,
   "detail": "[]"

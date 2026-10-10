@@ -31,3 +31,5 @@ R2-09,B-03,ercot.com Batch Zero deck; Large Load Integration page; news releases
 R2-10,FIN-05,atb.nlr.gov 2025 utility-scale PV page,2026-10-10T03:26Z,200; saved,yes,Tableau component table not exported
 R2-11,FIN-03/10,businesswire.com 20201209005197; 7xenergy.com; firstcitizens/cit newsroom; nestleusa.com,2026-10-10T03:23Z,403 (site) / not in allowlist,no,two-path stop
 R2-12,FIN-01/03/10,"efts.sec.gov full-text search 'Taygete', 'Emerald Grove', 'West Texas Solar Project II' (2019-2026)",2026-10-10T03:24Z,0 / 139 (Vistra guarantor exhibits; unrelated) / 0,no,stop
+R3-01,FIN-02/08,www.potomaceconomics.com 2025 SOM report PDF (after author allowlisted domain),2026-10-10T03:31Z,"200; 9,250,005 bytes; SHA-256 equals prior-round receipt",yes (verification),complete
+R3-02,FIN-03/10,Business Wire release 20201209005197 - screenshot supplied by author,2026-10-10,image received; text read,yes,complete; HTML original still 403 to automated access
