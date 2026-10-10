@@ -1,0 +1,82 @@
+[
+ {
+  "check": "CPI ref 2023 113.89",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "CPI ref 2024 -89.64",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "CPI median 2023 116.02",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "Table 10-4 2024 median -81.59 (common calendar)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "CPI file 2024 frozen median -81.33 (differs)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "VPPA 4.27% range 60.6-84.8",
+  "pass": true,
+  "detail": "(60.571, 84.7681, 8)"
+ },
+ {
+  "check": "credit variants 33.10/31.84/7.08",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "HB_WEST 18.24/21.36",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "HB_WEST neg share 14.1/7.7",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "2026 coverage 281/270/125",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "fill flag shares 1.25/1.24/1.62/4.1",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "16 dispositions",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "no pending disposition",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "check": "no empty required fields",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "every ID has a Findings section",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "check": "credential scan",
+  "pass": true,
+  "detail": "[]"
+ }
+]

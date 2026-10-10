@@ -1,0 +1,13 @@
+item,value,unit,source_file,note
+calendar days 2026-01-01..2026-10-08 with any published price,281,days,2026-10-09_ERCOT-API-2026-Price-Data/data/coverage_by_day_all_points.csv,"range completeness, not interval completeness"
+of which days with >=1 system-wide missing interval,11,days,2026-10-09_ERCOT-API-2026-Price-Data/data/coverage_by_day_all_points.csv,2026-01-08;2026-03-06;2026-05-01;2026-05-02;2026-05-04;2026-05-05;2026-06-04;2026-07-09;2026-08-02;2026-08-21;2026-09-07
+days with every expected interval published (system-wide),270,days,derived,281 minus 11
+system-wide missing intervals through 2026-10-08,125,15-min intervals,2026-10-09_ERCOT-API-2026-Price-Data/data/coverage_by_day_all_points.csv,not interpolated
+"system-wide missing intervals incl. 2026-10-09 tail, all-points pull",141,15-min intervals,2026-10-09_ERCOT-API-2026-Price-Data/data/system_wide_missing_intervals_all.csv,16 of these are the 2026-10-09 unpublished tail
+"system-wide missing intervals incl. tail, priority-point pull",142,15-min intervals,2026-10-09_ERCOT-API-2026-Price-Data/data/system_wide_missing_intervals_priority.csv,one more than all-points pull: 2026-10-09 19:45 CDT was published between the two pulls
+latest day with 96/96 intervals,2026-10-08,date,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,
+latest day presumed past 16:00 second-business-day finality time at QA run,2026-10-07,date,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,"timing inference; Mon-Fri, ERCOT holidays not applied; no row-level version field"
+HB_WEST intervals matched API vs NP6-785-ER (to 2026-10-03),26373,intervals,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,
+HB_WEST price differences > $0.005/MWh,423,intervals,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,max abs diff $4.01/MWh; cause not established
+settlement points in all-points pull,1133,points,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,
+strict 485 nodes present / 7 benchmarks present,485 / 7,points,2026-10-09_ERCOT-API-2026-Price-Data/data/qa_summary.json,no point-specific gaps through 2026-10-08

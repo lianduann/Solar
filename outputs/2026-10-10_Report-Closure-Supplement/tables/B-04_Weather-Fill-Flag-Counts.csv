@@ -1,0 +1,8 @@
+fill_flag_code,count,denominator_5min_steps,share,source
+0,100801,105120,0.958914,2025 weather_qa.json
+1,1310,105120,0.012462,2025 weather_qa.json
+5,1303,105120,0.012395,2025 weather_qa.json
+7,1706,105120,0.016229,2025 weather_qa.json
+nonzero (all codes),,105120,0.028462709,2023 site_energy_qa.csv
+nonzero (all codes),,105408,0.024552216,2024 site_energy_qa.csv
+nonzero (all codes),,105120,0.041086377,2025 site_energy_qa.csv
